@@ -1,2 +1,0 @@
-# webstorm
-my webstorm settings

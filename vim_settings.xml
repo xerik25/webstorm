@@ -29,10 +29,20 @@
       <file name="/a.dummy" timestamp="1467307503705">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/phillips66/repos/led_calculator/client/components/pages/client-type/client-type.component.ts" timestamp="1467322329883">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/html/pages/prepaid-account.hbs" timestamp="1466023251321">
         <mark key="[" line="18" column="62" />
         <mark key="]" line="18" column="63" />
         <mark key="." line="18" column="63" />
+      </file>
+      <file name="$USER_HOME$/Sites/phillips66/repos/led_calculator/client/components/pages/canopy/canopy.component.ts" timestamp="1467322255971">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/scss/components/_account-overview-header.scss" timestamp="1465311754838">
         <mark key="[" line="55" column="0" />
@@ -72,7 +82,7 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/src/JGW.Website/App_Data/Data/serialization/Unicorn/Content/User Content/content/jgwcard/Peachtree/data/Cardholder Agreement.yml" timestamp="1467308067484" />
+      <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/src/JGW.Website/App_Data/Data/serialization/Unicorn/Content/User Content/content/jgwcard/Peachtree/data/Cardholder Agreement.yml" timestamp="1467319260460" />
       <file name="$USER_HOME$/Sites/phillips66/repos/led_calculator/client/components/partials/icon-card-detail/icon-card-detail.component.ts" timestamp="1465479872825">
         <mark key="[" line="14" column="30" />
       </file>
@@ -203,11 +213,11 @@
       <jump line="30" column="31" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/factories/FormSubmissionFactory.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDogYW55Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>amount</text>
@@ -215,8 +225,8 @@
       <register name="0" type="2">
         <text encoding="base64">CQljb25zb2xlLmxvZygnaGVyZScpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>*</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDogYW55Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -228,28 +238,28 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>*</text>
+        <text>data</text>
       </register>
-      <register name="3" type="4">
-        <text>*</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZpeHR1cmVzOiBhbnk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>globals</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG1vZGFsSUQ6IHN0cmluZyA9ICdjYW5vcHlNb2RhbCc7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>.</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGhvdXJzT2ZPcGVyYXRpb246IG51bWJlcjsK</text>
       </register>
       <register name="6" type="4">
-        <text>'</text>
+        <text>*</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>*</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJnLXJlY2FwdGNoYSBqZ3dIZXJvX19sb2dpblJlQ2FwdGNoYSIgZGF0YS1jYWxsYmFjaz0icmVjYXBjaGFGaWxsZWQiIGRhdGEtc2l0ZWtleT0iNkxmNDFna1RBQUFBQUQ3a2pNRzlLR25kUXNoVmgwbUhKR3ZaS2V0NCIgZGF0YS1zaXplPSJjb21wYWN0Ij48L2Rpdj4K</text>
+      <register name="8" type="4">
+        <text>*</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8aW5wdXQgbmFtZT0iY2FwdGNoYVRva2VuIiB0eXBlPSJoaWRkZW4iIGNsYXNzPSJqcy1qZ3dDYXB0Y2hhS2V5IiB2YWx1ZT0iIj4K</text>
+      <register name="9" type="4">
+        <text>globals</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

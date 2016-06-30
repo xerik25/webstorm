@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="cshtml" type="HTML" />
+      <mapping pattern="contact-us-comp.hbs" type="PLAIN_TEXT" />
+      <mapping pattern="_dropdown-multi-select" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="embl" type="Emblem file" />
+    </extensionMap>
+  </component>
+</application>

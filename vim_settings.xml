@@ -92,6 +92,12 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/Sites/ng2-typescript-gulp-seed/gulpfile.js" timestamp="1467750811859">
+        <mark key="[" line="128" column="19" />
+        <mark key="]" line="128" column="28" />
+        <mark key="." line="128" column="28" />
+        <mark key="^" line="128" column="28" />
+      </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/prepaid/controllers/prepaidAccountController.js" timestamp="1466023114301">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="6" />
@@ -213,11 +219,11 @@
       <jump line="30" column="31" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/factories/FormSubmissionFactory.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDogYW55Owo=</text>
+      <register name="&quot;" type="4">
+        <text>Phillips 66 LED Calculator</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>Phillips 66 LED Calculator</text>
       </register>
       <register name="/" type="4">
         <text>amount</text>
@@ -225,8 +231,8 @@
       <register name="0" type="2">
         <text encoding="base64">CQljb25zb2xlLmxvZygnaGVyZScpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDogYW55Owo=</text>
+      <register name="1" type="4">
+        <text>Phillips 66 LED Calculator</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -237,20 +243,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDogYW55Owo=</text>
+      </register>
+      <register name="3" type="4">
         <text>data</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGZpeHR1cmVzOiBhbnk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIG1vZGFsSUQ6IHN0cmluZyA9ICdjYW5vcHlNb2RhbCc7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGhvdXJzT2ZPcGVyYXRpb246IG51bWJlcjsK</text>
-      </register>
-      <register name="6" type="4">
-        <text>*</text>
       </register>
       <register name="7" type="4">
         <text>*</text>
@@ -259,7 +265,7 @@
         <text>*</text>
       </register>
       <register name="9" type="4">
-        <text>globals</text>
+        <text>*</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

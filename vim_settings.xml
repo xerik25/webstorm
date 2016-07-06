@@ -98,8 +98,11 @@
         <mark key="." line="30" column="52" />
         <mark key="^" line="30" column="105" />
       </file>
-      <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/build/components/footer/_footer.jade" timestamp="1467828070101">
-        <mark key="[" line="4" column="49" />
+      <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/build/components/footer/_footer.jade" timestamp="1467832592078">
+        <mark key="[" line="4" column="60" />
+        <mark key="]" line="4" column="59" />
+        <mark key="^" line="4" column="59" />
+        <mark key="." line="4" column="59" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/html/components/wlpc-spa-content.hbs" timestamp="1466023162477">
         <mark key="[" line="2" column="57" />
@@ -230,10 +233,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.component</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>.component</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>amount</text>
@@ -242,7 +245,7 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2V0T2JqZWN0Jyx0aGlzLl9zdG9yYWdlLmdldE9iamVjdCgnbG9jYWxTdG9yYWdlJykpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>.component</text>
+        <text>a</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -254,28 +257,28 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>navbar</text>
+        <text>s</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnX3N0b3JhZ2UnLF9zdG9yYWdlKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmRlYm91bmNlVGltZSg1MDApCg==</text>
+      <register name="4" type="4">
+        <text>h</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vcGVyYXRvci9kZWJvdW5jZVRpbWUnOwo=</text>
+      <register name="5" type="4">
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>storageObj</text>
+        <text>r</text>
       </register>
       <register name="7" type="4">
-        <text>this.updateResults($event)</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>getObject</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>Example</text>
+        <text>y</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

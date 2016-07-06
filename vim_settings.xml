@@ -29,10 +29,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ng2-typescript-gulp-seed/src/components/example-component/example.component.ts" timestamp="1467755911691">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="73" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Sites/ng2-typescript-gulp-seed/src/components/example-component/example.component.ts" timestamp="1467813173694">
+        <mark key="[" line="29" column="21" />
+        <mark key="]" line="29" column="22" />
+        <mark key="." line="29" column="22" />
+        <mark key="^" line="29" column="29" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/grunt/copy.js" timestamp="1467298208935">
         <mark key="[" line="28" column="100" />
@@ -211,10 +212,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Example</text>
+        <text>getObject</text>
       </register>
       <register name="-" type="4">
-        <text>Example</text>
+        <text>getObject</text>
       </register>
       <register name="/" type="4">
         <text>amount</text>
@@ -223,7 +224,7 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2V0T2JqZWN0Jyx0aGlzLl9zdG9yYWdlLmdldE9iamVjdCgnbG9jYWxTdG9yYWdlJykpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>Example</text>
+        <text>getObject</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -234,29 +235,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>Example</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb2xkT2JqZWN0Jyx0aGlzLl9zdG9yYWdlLmdldE9iamVjdCgnbG9jYWxTdG9yYWdlJykpOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>g</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>Get</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text>2</text>
-      </register>
       <register name="7" type="4">
-        <text>;</text>
+        <text>2</text>
       </register>
       <register name="8" type="4">
-        <text>2</text>
+        <text>;</text>
       </register>
       <register name="9" type="4">
-        <text>testKey</text>
+        <text>2</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

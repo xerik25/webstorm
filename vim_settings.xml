@@ -9,11 +9,6 @@
         <mark key="." line="64" column="105" />
         <mark key="^" line="64" column="105" />
       </file>
-      <file name="/a.dummy" timestamp="1467755617833">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/phillips66/repos/led_calculator/client/components/pages/client-type/client-type.component.ts" timestamp="1467753838514">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -29,11 +24,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ng2-typescript-gulp-seed/src/components/example-component/example.component.ts" timestamp="1467813173694">
-        <mark key="[" line="29" column="21" />
-        <mark key="]" line="29" column="22" />
-        <mark key="." line="29" column="22" />
-        <mark key="^" line="29" column="29" />
+      <file name="$USER_HOME$/Sites/ng2-typescript-gulp-seed/src/components/example-component/example.component.ts" timestamp="1467815335930">
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="23" column="40" />
+        <mark key="." line="23" column="40" />
+        <mark key="^" line="23" column="40" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/grunt/copy.js" timestamp="1467298208935">
         <mark key="[" line="28" column="100" />
@@ -52,7 +47,7 @@
         <mark key="^" line="23" column="83" />
         <mark key="." line="23" column="83" />
       </file>
-      <file name="$USER_HOME$/Sites/ng2-typescript-gulp-seed/src/services/object-storage/object-storage.service.ts" timestamp="1467755213019" />
+      <file name="$USER_HOME$/Sites/ng2-typescript-gulp-seed/src/services/object-storage/object-storage.service.ts" timestamp="1467815233785" />
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/prepaid/controllers/cardInfoController.js" timestamp="1467297774516">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -90,6 +85,7 @@
         <mark key="." line="2" column="58" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/src/JGW.Website/App_Data/Data/serialization/Unicorn/Content/User Content/content/jgwcard/Peachtree/data/Cardholder Agreement.yml" timestamp="1467319260460" />
+      <file name="$USER_HOME$/Sites/phillips66/repos/led_calculator/client/components/pages/summary/summary.component.ts" timestamp="1467815014382" />
       <file name="$USER_HOME$/Sites/ng2-typescript-gulp-seed/gulpfile.js" timestamp="1467750811859">
         <mark key="[" line="128" column="19" />
         <mark key="]" line="128" column="28" />
@@ -211,11 +207,11 @@
       <jump line="30" column="31" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/factories/FormSubmissionFactory.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getObject</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnX3N0b3JhZ2UnLF9zdG9yYWdlKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>getObject</text>
+        <text>storageObj</text>
       </register>
       <register name="/" type="4">
         <text>amount</text>
@@ -223,8 +219,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2V0T2JqZWN0Jyx0aGlzLl9zdG9yYWdlLmdldE9iamVjdCgnbG9jYWxTdG9yYWdlJykpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>getObject</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnX3N0b3JhZ2UnLF9zdG9yYWdlKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -235,29 +231,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>Example</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmRlYm91bmNlVGltZSg1MDApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb2xkT2JqZWN0Jyx0aGlzLl9zdG9yYWdlLmdldE9iamVjdCgnbG9jYWxTdG9yYWdlJykpOwo=</text>
+        <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vcGVyYXRvci9kZWJvdW5jZVRpbWUnOwo=</text>
       </register>
       <register name="4" type="4">
-        <text>g</text>
+        <text>storageObj</text>
       </register>
       <register name="5" type="4">
-        <text>Get</text>
+        <text>this.updateResults($event)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text>getObject</text>
       </register>
       <register name="7" type="4">
-        <text>2</text>
+        <text>Example</text>
       </register>
-      <register name="8" type="4">
-        <text>;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb2xkT2JqZWN0Jyx0aGlzLl9zdG9yYWdlLmdldE9iamVjdCgnbG9jYWxTdG9yYWdlJykpOwo=</text>
       </register>
       <register name="9" type="4">
-        <text>2</text>
+        <text>g</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

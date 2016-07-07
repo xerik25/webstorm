@@ -21,6 +21,9 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
+      <file name="/a.dummy" timestamp="1467905831613">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/phillips66/repos/led_calculator/client/components/pages/client-type/client-type.component.ts" timestamp="1467753838514">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -49,6 +52,9 @@
         <mark key="[" line="95" column="87" />
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/phillips66/repos/led_calculator/client/components/partials/icon-card-detail/icon-card-detail.component.ts" timestamp="1465479872825">
+        <mark key="[" line="14" column="30" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/scss/components/_free-quote-form.scss" timestamp="1467904872147">
         <mark key="[" line="81" column="19" />
@@ -113,6 +119,9 @@
         <mark key="^" line="179" column="42" />
         <mark key="." line="179" column="42" />
       </file>
+      <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/scss/components/_mortgage-application.scss" timestamp="1464800154646">
+        <mark key="[" line="20" column="1" />
+      </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/factories/FormSubmissionFactory.js" timestamp="1467230579409">
         <mark key="'" line="30" column="31" />
         <mark key="[" line="127" column="25" />
@@ -151,6 +160,12 @@
         <mark key="]" line="1" column="13" />
         <mark key="." line="1" column="13" />
         <mark key="^" line="1" column="13" />
+      </file>
+      <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/build/components/hero/hero.html" timestamp="1467906066819">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="17" column="91" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/src/JGW.Website/Views/WhiteLabelPrepaid/LoggedOutHero.cshtml" timestamp="1467228819561">
         <mark key="[" line="79" column="89" />
@@ -262,8 +277,8 @@
       <jump line="74" column="1" filename="$USER_HOME$/Sites/volleyball/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>11px</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMiBjbGFzcz0iaGVyb19faGVhZGluZyI+TW92aW5nIGJyYW5kcyBmb3J3YXJkLiBJbnNwaXJpbmcgaHVtYW4gY29ubmVjdGlvbi48L2gyPgo=</text>
       </register>
       <register name="-" type="4">
         <text>11px</text>
@@ -272,10 +287,10 @@
         <text>amount</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2V0T2JqZWN0Jyx0aGlzLl9zdG9yYWdlLmdldE9iamVjdCgnbG9jYWxTdG9yYWdlJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMiBjbGFzcz0iaGVyb19faGVhZGluZyI+TW92aW5nIGJyYW5kcyBmb3J3YXJkLiBJbnNwaXJpbmcgaHVtYW4gY29ubmVjdGlvbi48L2gyPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>11px</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMiBjbGFzcz0iaGVyb19faGVhZGluZyI+TW92aW5nIGJyYW5kcyBmb3J3YXJkLiBJbnNwaXJpbmcgaHVtYW4gY29ubmVjdGlvbi48L2gyPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -286,29 +301,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>11px</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICB3aW5kb3cubG9jYXRpb24ucmVsb2FkKCk7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>YOUR_AUTH0_DOMAIN</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>YOUR_AUTH0_CLIENT_ID</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>AuthService</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IHtBdXRoU2VydmljZX0gZnJvbSAnLi4vc2VydmljZXMvYXV0aC5zZXJ2aWNlJzsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="4">
-        <text>,</text>
-      </register>
       <register name="9" type="4">
-        <text>OnInit</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

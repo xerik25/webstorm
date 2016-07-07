@@ -131,11 +131,10 @@
         <mark key="^" line="74" column="1" />
         <mark key="." line="74" column="1" />
       </file>
-      <file name="$USER_HOME$/Sites/volleyball/src/services/authentication/authentication.service.ts" timestamp="1467900221321">
-        <mark key="[" line="10" column="62" />
-        <mark key="]" line="10" column="78" />
-        <mark key="." line="10" column="78" />
-        <mark key="^" line="10" column="78" />
+      <file name="$USER_HOME$/Sites/volleyball/src/services/authentication/authentication.service.ts" timestamp="1467902857067">
+        <mark key="[" line="30" column="44" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/phillips66/repos/led_calculator/client/components/pages/summary/summary.component.ts" timestamp="1467815014382" />
       <file name="$USER_HOME$/Sites/ng2-typescript-gulp-seed/gulpfile.js" timestamp="1467818267388">
@@ -266,8 +265,8 @@
       <jump line="74" column="1" filename="$USER_HOME$/Sites/volleyball/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>YOUR_AUTH0_DOMAIN</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3aW5kb3cubG9jYXRpb24ucmVsb2FkKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>YOUR_AUTH0_DOMAIN</text>
@@ -278,8 +277,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2V0T2JqZWN0Jyx0aGlzLl9zdG9yYWdlLmdldE9iamVjdCgnbG9jYWxTdG9yYWdlJykpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>YOUR_AUTH0_DOMAIN</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB3aW5kb3cubG9jYXRpb24ucmVsb2FkKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -291,28 +290,28 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>YOUR_AUTH0_CLIENT_ID</text>
+        <text>YOUR_AUTH0_DOMAIN</text>
       </register>
       <register name="3" type="4">
+        <text>YOUR_AUTH0_CLIENT_ID</text>
+      </register>
+      <register name="4" type="4">
         <text>AuthService</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IHtBdXRoU2VydmljZX0gZnJvbSAnLi4vc2VydmljZXMvYXV0aC5zZXJ2aWNlJzsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>,</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>OnInit</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">T25Jbml0IA==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">aW1wbGVtZW50cyA=</text>
+        <text encoding="base64">T25Jbml0IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

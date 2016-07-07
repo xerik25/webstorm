@@ -21,9 +21,6 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
-      <file name="/a.dummy" timestamp="1467896631491">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/phillips66/repos/led_calculator/client/components/pages/client-type/client-type.component.ts" timestamp="1467753838514">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -53,8 +50,11 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/phillips66/repos/led_calculator/client/components/partials/icon-card-detail/icon-card-detail.component.ts" timestamp="1465479872825">
-        <mark key="[" line="14" column="30" />
+      <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/scss/components/_free-quote-form.scss" timestamp="1467904872147">
+        <mark key="[" line="81" column="19" />
+        <mark key="]" line="81" column="20" />
+        <mark key="." line="81" column="20" />
+        <mark key="^" line="80" column="29" />
       </file>
       <file name="$USER_HOME$/Sites/ng2-typescript-gulp-seed/src/services/object-storage/object-storage.service.ts" timestamp="1467815233785" />
       <file name="$USER_HOME$/Sites/JGWentworth/repos/wpengine/wp-content/themes/jgwcorporate/templates/stock-ticker.php" timestamp="1467140340236">
@@ -112,9 +112,6 @@
         <mark key="]" line="179" column="42" />
         <mark key="^" line="179" column="42" />
         <mark key="." line="179" column="42" />
-      </file>
-      <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/scss/components/_mortgage-application.scss" timestamp="1464800154646">
-        <mark key="[" line="20" column="1" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/factories/FormSubmissionFactory.js" timestamp="1467230579409">
         <mark key="'" line="30" column="31" />
@@ -265,11 +262,11 @@
       <jump line="74" column="1" filename="$USER_HOME$/Sites/volleyball/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3cubG9jYXRpb24ucmVsb2FkKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>11px</text>
       </register>
       <register name="-" type="4">
-        <text>YOUR_AUTH0_DOMAIN</text>
+        <text>11px</text>
       </register>
       <register name="/" type="4">
         <text>amount</text>
@@ -277,8 +274,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2V0T2JqZWN0Jyx0aGlzLl9zdG9yYWdlLmdldE9iamVjdCgnbG9jYWxTdG9yYWdlJykpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3cubG9jYXRpb24ucmVsb2FkKCk7Cg==</text>
+      <register name="1" type="4">
+        <text>11px</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -289,29 +286,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>YOUR_AUTH0_DOMAIN</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB3aW5kb3cubG9jYXRpb24ucmVsb2FkKCk7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>YOUR_AUTH0_CLIENT_ID</text>
+        <text>YOUR_AUTH0_DOMAIN</text>
       </register>
       <register name="4" type="4">
+        <text>YOUR_AUTH0_CLIENT_ID</text>
+      </register>
+      <register name="5" type="4">
         <text>AuthService</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IHtBdXRoU2VydmljZX0gZnJvbSAnLi4vc2VydmljZXMvYXV0aC5zZXJ2aWNlJzsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>,</text>
       </register>
-      <register name="8" type="4">
-        <text>OnInit</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">T25Jbml0IA==</text>
+        <text>OnInit</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

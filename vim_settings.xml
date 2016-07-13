@@ -65,7 +65,11 @@
         <mark key="." line="60" column="29" />
         <mark key="^" line="29" column="33" />
       </file>
-      <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/app/carousel/index.js" timestamp="1468258670972" />
+      <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/app/carousel/index.js" timestamp="1468427640346">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/prepaid/controllers/cardInfoController.js" timestamp="1467297774516">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -349,20 +353,20 @@
       <jump line="74" column="1" filename="$USER_HOME$/Sites/volleyball/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>20</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9uZXh0QXJyb3c6ICc8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9InNsaWNrLW5leHQxMjM0Ij5OZXh0PC9idXR0b24+JywK</text>
       </register>
       <register name="-" type="4">
-        <text>20</text>
+        <text>next</text>
       </register>
       <register name="/" type="4">
         <text>amount</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJzdGF0ZSI6ICJQWlUiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV4dEFycm93OiAnPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJzbGljay1uZXh0MTIzNCI+TmV4dDwvYnV0dG9uPicsCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>20</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9uZXh0QXJyb3c6ICc8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9InNsaWNrLW5leHQxMjM0Ij5OZXh0PC9idXR0b24+JywK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -374,28 +378,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luOiByZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9wcmV2QXJyb3c6ICc8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9InNsaWNrLXByZXYxMjM0Ij5wcmV2aW91czwvYnV0dG9uPicsCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luOiByZW0K</text>
+      <register name="3" type="4">
+        <text>next</text>
       </register>
       <register name="4" type="4">
-        <text>orange_native</text>
+        <text>Next</text>
       </register>
       <register name="5" type="4">
-        <text>orange_native</text>
+        <text>next</text>
       </register>
-      <register name="6" type="4">
-        <text>rousel</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2xpZGVzVG9TY3JvbGw6IDEsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXh0QXJyb3c6ICc8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9InNsaWNrLW5leHQxMjM0Ij5OZXh0PC9idXR0b24+JywK</text>
       </register>
       <register name="8" type="4">
-        <text>logos</text>
+        <text encoding="base64">PGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJzbGljay1uZXh0MTIzNCI+TmV4dDwvYnV0dG9uPg==</text>
       </register>
       <register name="9" type="4">
-        <text>&quot;l</text>
+        <text>20</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

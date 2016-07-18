@@ -10,8 +10,10 @@
         <mark key="^" line="64" column="105" />
       </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/case_study/_case-study.jade" timestamp="1468611872477" />
-      <file name="/a.dummy" timestamp="1468615206715">
-        <mark key="[" line="0" column="0" />
+      <file name="/a.dummy" timestamp="1468617508946">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/html/pages/prepaid-account.hbs" timestamp="1466023251321">
         <mark key="[" line="18" column="62" />
@@ -199,14 +201,11 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/templates/node/person/node--person--office-person.tpl.php" timestamp="1468615266270" />
-      <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/personal_profile/personal-profile.jade" timestamp="1468617049086">
-        <mark key="[" line="9" column="29" />
+      <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/personal_profile/personal-profile.jade" timestamp="1468853572175">
+        <mark key="[" line="4" column="43" />
         <mark key="]" line="9" column="30" />
         <mark key="^" line="7" column="75" />
         <mark key="." line="9" column="30" />
-      </file>
-      <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/app/_colors.scss" timestamp="1468420525973">
-        <mark key="[" line="27" column="16" />
       </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/tiles_offices/_tiles_offices.jade" timestamp="1468615703105">
         <mark key="[" line="7" column="56" />
@@ -218,9 +217,6 @@
         <mark key="[" line="95" column="0" />
         <mark key="]" line="95" column="97" />
         <mark key="." line="95" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/phillips66/repos/led_calculator/client/components/partials/icon-card-detail/icon-card-detail.component.ts" timestamp="1465479872825">
-        <mark key="[" line="14" column="30" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/scss/components/_free-quote-form.scss" timestamp="1467904872147">
         <mark key="[" line="81" column="19" />
@@ -272,9 +268,6 @@
         <mark key="]" line="5" column="49" />
         <mark key="^" line="4" column="59" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/scss/components/_mortgage-application.scss" timestamp="1464800154646">
-        <mark key="[" line="20" column="1" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/html/components/wlpc-spa-content.hbs" timestamp="1466023162477">
         <mark key="[" line="2" column="57" />
@@ -414,10 +407,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Washington</text>
+        <text>offices</text>
       </register>
       <register name="-" type="4">
-        <text>Washington</text>
+        <text>offices</text>
       </register>
       <register name="/" type="4">
         <text>amount</text>

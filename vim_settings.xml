@@ -10,8 +10,8 @@
         <mark key="^" line="64" column="105" />
       </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/case_study/_case-study.jade" timestamp="1468611872477" />
-      <file name="/a.dummy" timestamp="1468617508946">
-        <mark key="[" line="0" column="12" />
+      <file name="/a.dummy" timestamp="1468947273457">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
@@ -45,7 +45,7 @@
         <mark key="^" line="32" column="8" />
         <mark key="." line="32" column="6" />
       </file>
-      <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/contact_us_offices/_data.json" timestamp="1468870868022">
+      <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/contact_us_offices/_data.json" timestamp="1468877921413">
         <mark key="[" line="53" column="19" />
         <mark key="]" line="18" column="16" />
         <mark key="^" line="18" column="16" />
@@ -123,7 +123,7 @@
         <mark key="." line="13" column="40" />
         <mark key="^" line="13" column="40" />
       </file>
-      <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/contact_us_offices/contact_us_offices.jade" timestamp="1468870798367">
+      <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/contact_us_offices/contact_us_offices.jade" timestamp="1468877911653">
         <mark key="[" line="3" column="35" />
         <mark key="]" line="3" column="35" />
         <mark key="." line="3" column="35" />
@@ -196,16 +196,17 @@
         <mark key="." line="189" column="0" />
         <mark key="^" line="187" column="36" />
       </file>
-      <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/profile_thumbnail/profile_thumbnail.jade" timestamp="1468876465748">
-        <mark key="[" line="2" column="41" />
-        <mark key="]" line="2" column="57" />
-        <mark key="." line="2" column="57" />
-        <mark key="^" line="2" column="57" />
+      <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/profile_thumbnail/profile_thumbnail.jade" timestamp="1468947648309">
+        <mark key="[" line="3" column="45" />
+        <mark key="]" line="3" column="46" />
+        <mark key="." line="3" column="46" />
+        <mark key="^" line="3" column="53" />
       </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/careers.jade" timestamp="1468613575622">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="19" />
       </file>
+      <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/app/grid.scss" timestamp="1468947503633" />
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/personal-profile/personal-profile.jade" timestamp="1468615618429">
         <mark key="[" line="5" column="61" />
         <mark key="]" line="5" column="60" />
@@ -347,10 +348,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>personal_profile</text>
+        <text>small</text>
       </register>
       <register name="-" type="4">
-        <text>personal_profile</text>
+        <text>small</text>
       </register>
       <register name="/" type="4">
         <text>amount</text>

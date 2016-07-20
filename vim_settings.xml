@@ -9,6 +9,12 @@
         <mark key="." line="64" column="105" />
         <mark key="^" line="64" column="105" />
       </file>
+      <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/html/pages/about.hbs" timestamp="1469034074675">
+        <mark key="[" line="11" column="93" />
+        <mark key="]" line="11" column="93" />
+        <mark key="^" line="11" column="103" />
+        <mark key="." line="11" column="93" />
+      </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/case_study/_case-study.jade" timestamp="1468611872477" />
       <file name="/a.dummy" timestamp="1468947273457">
         <mark key="[" line="0" column="0" />
@@ -349,10 +355,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>vml.com</text>
+        <text>[1].history</text>
       </register>
       <register name="-" type="4">
-        <text>vml.com</text>
+        <text>[1].history</text>
       </register>
       <register name="/" type="4">
         <text>amount</text>

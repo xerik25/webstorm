@@ -21,6 +21,9 @@
         <mark key="^" line="1" column="88" />
         <mark key="." line="1" column="88" />
       </file>
+      <file name="/a.dummy" timestamp="1469207089999">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/html/pages/prepaid-account.hbs" timestamp="1466023251321">
         <mark key="[" line="18" column="62" />
         <mark key="]" line="18" column="63" />
@@ -153,11 +156,11 @@
         <mark key="." line="23" column="65" />
         <mark key="^" line="23" column="65" />
       </file>
-      <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/app.js" timestamp="1469206516224">
-        <mark key="[" line="44" column="15" />
-        <mark key="]" line="44" column="15" />
-        <mark key="." line="44" column="15" />
-        <mark key="^" line="44" column="15" />
+      <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/app.js" timestamp="1469207310528">
+        <mark key="[" line="15" column="68" />
+        <mark key="]" line="15" column="89" />
+        <mark key="." line="15" column="89" />
+        <mark key="^" line="15" column="89" />
       </file>
       <file name="$USER_HOME$/Sites/phillips66/repos/led_calculator/client/components/pages/canopy/canopy.component.ts" timestamp="1467322255971">
         <mark key="[" line="18" column="0" />
@@ -571,10 +574,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIA==</text>
+        <text>$log.debug</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIA==</text>
+        <text>$log.debug</text>
       </register>
       <register name="/" type="4">
         <text>amount</text>
@@ -601,10 +604,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>

@@ -29,6 +29,7 @@
     </local-interpreter>
     <local-interpreter path="/usr/local/bin/node">
       <version-cache version="5.1.0" last-modified="1449091171000" />
+      <npm-package value="$USER_HOME$/.npm-packages/lib/node_modules/npm" />
     </local-interpreter>
     <local-interpreter path="/usr/local/Cellar/node/4.2.1/bin/node">
       <version-cache version="4.2.1" last-modified="1445533520000" />

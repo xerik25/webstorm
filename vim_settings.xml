@@ -21,7 +21,7 @@
         <mark key="^" line="13" column="57" />
         <mark key="." line="13" column="57" />
       </file>
-      <file name="/a.dummy" timestamp="1469647130326">
+      <file name="/a.dummy" timestamp="1469713910217">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" timestamp="1469635237655">
@@ -70,6 +70,12 @@
         <mark key="]" line="13" column="67" />
         <mark key="." line="17" column="67" />
         <mark key="^" line="13" column="67" />
+      </file>
+      <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/FTB.Website/Areas/Common/Assets/css/components/_alert-banner.scss" timestamp="1469714779150">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="1" column="25" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/prepaid/controllers/prepaidAccountController.js" timestamp="1469463705790">
         <mark key="[" line="31" column="36" />
@@ -199,6 +205,12 @@
         <mark key="]" line="28" column="65" />
         <mark key="^" line="28" column="65" />
         <mark key="." line="28" column="65" />
+      </file>
+      <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/FTB.Website/Areas/Common/Assets/css/styles.css" timestamp="1469713979610">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+        <mark key="^" line="1" column="22" />
       </file>
       <file name="$USER_HOME$/Sites/SOSLand/sosland81/Sosland.Web/Design/Shared/CSS/Base_style.css" timestamp="1465320120827">
         <mark key="[" line="613" column="0" />
@@ -356,17 +368,23 @@
         <mark key="." line="153" column="30" />
         <mark key="^" line="153" column="30" />
       </file>
-      <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/templates/pug/partials/alert-banner/alert-banner.pug" timestamp="1469713192890">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="^" line="0" column="24" />
-        <mark key="." line="0" column="24" />
+      <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/templates/pug/partials/alert-banner/alert-banner.pug" timestamp="1469714785785">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="29" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/volleyball/.gitignore" timestamp="1467895662958">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="13" />
         <mark key="." line="1" column="13" />
         <mark key="^" line="1" column="13" />
+      </file>
+      <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/FTB.Website/Areas/Common/Assets/css/components/_components.scss" timestamp="1469714618318">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/attributes/delete-cookie/index.js" timestamp="1469213170745">
         <mark key="[" line="1" column="58" />
@@ -490,20 +508,20 @@
       <jump line="45" column="0" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/prepaid/controllers/prepaidFormController.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>footer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHAgVGhpcyBpcyBteSBhbGVydCBiYW5uZXIK</text>
       </register>
       <register name="-" type="4">
-        <text>footer</text>
+        <text>red</text>
       </register>
       <register name="/" type="4">
         <text>amount</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGUgLi9wYXJ0aWFscy9mb290ZXIvZm9vdGVyLnB1Zwo=</text>
+        <text encoding="base64">ICAgIHAgVGhpcyBpcyBteSBhbGVydCBiYW5uZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHAgVGhpcyBpcyBteSBhbGVydCBiYW5uZXIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -515,28 +533,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8aSBjbGFzcz0idGlsZV9faWNvbi0tbGluayI+PC9pPgo=</text>
+        <text encoding="base64">cCBUaGlzIGlzIG15IGFsZXJ0IGJhbm5lcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">bXBvcnQgImFzc2V0L2Fzc2V0Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwIEltYWdlIHNvdXJjZTogTmF0ZSBWb3NzCg==</text>
+        <text encoding="base64">ICAgICAgICA8aSBjbGFzcz0idGlsZV9faWNvbi0tbGluayI+PC9pPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAudGlsZS5pdGVtX18xLTMtLWxhcmdlLml0ZW1fXzEtMS0tc21hbGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAudGlsZS5pdGVtX18xLTMtLWxhcmdlLml0ZW1fXzEtMS0tc21hbGwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAudGlsZS5pdGVtX18xLTMtLWxhcmdlLml0ZW1fXzEtMS0tc21hbGwK</text>
+        <text encoding="base64">ICAgICAgICBwIEltYWdlIHNvdXJjZTogTmF0ZSBWb3NzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aHIK</text>
+        <text encoding="base64">ICAgICAgICAudGlsZS5pdGVtX18xLTMtLWxhcmdlLml0ZW1fXzEtMS0tc21hbGwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

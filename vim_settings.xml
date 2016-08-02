@@ -21,12 +21,11 @@
         <mark key="^" line="13" column="57" />
         <mark key="." line="13" column="57" />
       </file>
-      <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/js/misc/test-demo/hello.ts" timestamp="1470172754031">
-        <mark key="'" line="38" column="17" />
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="20" column="16" />
-        <mark key="." line="20" column="16" />
-        <mark key="^" line="20" column="16" />
+      <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/js/misc/test-demo/hello.ts" timestamp="1470174328286">
+        <mark key="'" line="30" column="17" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/.editorconfig" timestamp="1469738202977">
         <mark key="[" line="21" column="14" />
@@ -425,10 +424,10 @@
         <mark key="." line="153" column="30" />
         <mark key="^" line="153" column="30" />
       </file>
-      <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/templates/pug/partials/alert-banner/alert-banner.pug" timestamp="1470087779264">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
+      <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/templates/pug/partials/alert-banner/alert-banner.pug" timestamp="1470173446004">
+        <mark key="[" line="4" column="64" />
+        <mark key="]" line="4" column="64" />
+        <mark key="." line="4" column="64" />
         <mark key="^" line="0" column="22" />
       </file>
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/js/misc/test-demo/test.ts" timestamp="1470075673150">
@@ -569,17 +568,17 @@
       <jump line="38" column="17" filename="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/js/misc/test-demo/hello.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHRoaXMgaXMgYSB0ZXN0IGRpdg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRoaXMgaXMgYSB0ZXN0IGRpdg==</text>
+        <text>.parent('.ftb-alertBanner')</text>
       </register>
       <register name="/" type="4">
         <text>amount</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Rm9vdGVyLVNUQVJUCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygndGVzdCcsJCh0aGlzKS5wYXJlbnQoJy5mdGItYWxlcnRCYW5uZXInKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -594,28 +593,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">OyhmdW5jdGlvbigkKSB7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fSkoJCk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygndGVzdDEnLCQodGhpcykpOwogIGNvbnNvbGUubG9nKCd0ZXN0MicsJCh0aGlzKS5wYXJlbnQoJy5mdGItYWxlcnRCYW5uZXInKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fSkoJCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0JywkKHRoaXMpLnBhcmVudCgnZnRiLWFsZXJ0QmFubmVyJykpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">OyhmdW5jdGlvbigkKSB7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gY2xvc2VBbGVydCgpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsb3NlQWxlcnQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+        <text encoding="base64">ICBsZXQgYWxlcnRCYXIgPSAkKCcuZnRiLWFsZXJ0QmFubmVyJyk7CgogIGFsZXJ0QmFyLnJlbW92ZUNsYXNzKCdhY3RpdmUnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/js/misc/utilities/main.ts" timestamp="1470773402827">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+      </file>
       <file name="/a.dummy" timestamp="1470763561982">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -69,11 +75,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/js/misc/alert-banner/alert-banner.ts" timestamp="1470767722097">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="4" />
-        <mark key="." line="12" column="4" />
-        <mark key="^" line="12" column="5" />
+      <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/js/misc/alert-banner/alert-banner.ts" timestamp="1470772352807">
+        <mark key="[" line="9" column="47" />
+        <mark key="]" line="9" column="62" />
+        <mark key="." line="9" column="62" />
+        <mark key="^" line="9" column="62" />
       </file>
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/js/misc/find-location/find-location.ts" timestamp="1470759076845">
         <mark key="'" line="132" column="0" />
@@ -102,16 +108,27 @@
         <mark key="." line="9" column="34" />
         <mark key="^" line="9" column="34" />
       </file>
+      <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/js/misc/utilities/cookies.ts" timestamp="1470773479932">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="25" />
+        <mark key="." line="8" column="25" />
+        <mark key="^" line="8" column="25" />
+      </file>
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/FTB.Website/Areas/Common/Assets/css/styles.scss" timestamp="1470413812998">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/js/misc/utilities/utilities.ts" timestamp="1470771970357">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="10" column="10" />
+      <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/js/misc/utilities/utilities.ts" timestamp="1470773099418">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="9" column="13" />
+      </file>
+      <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/FTB.Website/Areas/Common/Assets/js/utilities/util.js" timestamp="1470773094491">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/templates/pug/partials/alert-banner/alert-banner.pug" timestamp="1470681142522">
         <mark key="[" line="8" column="60" />
@@ -224,20 +241,20 @@
       <jump line="161" column="0" filename="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/js/misc/find-location/find-location.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>setCookie</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>setCookie</text>
       </register>
       <register name="/" type="4">
         <text>amount</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNldENvb2tpZTogc2V0Q29va2llCg==</text>
+        <text encoding="base64">ZnRiLnV0aWxpdGllcy5zZXRDb29raWUgPSBzZXRDb29raWUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -249,28 +266,56 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjaGVja0Nvb2tpZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzZXRDb29raWUsCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtjb29raWVzfSBmcm9tICcuL2Nvb2tpZXMnCg==</text>
+      <register name="5" type="4">
+        <text>&quot;use strict&quot;;
+
+var ftb = {
+    utilities: {
+        setCookie: setCookie,
+        checkCookies: checkCookies
+    }
+};
+function setCookie(cname, cvalue, extime) {
+    var now = new Date();
+    var time = now.getTime();
+    time += 3600 * extime;
+    now.setTime(time);
+    var expires = &quot;expires=&quot; + now.toUTCString();
+    document.cookie = cname + &quot;=&quot; + cvalue + &quot;; &quot; + expires;
+}
+function checkCookies() {
+    $.each(document.cookie.split(/; */), function () {
+        var splitCookie = this.split('=');
+        if (splitCookie[1] === 'alert') {
+            var currentCookieId = '[data-id = ' + splitCookie[0] + ']';
+            $(currentCookieId).toggleClass('ftb-alertBanner__container--hidden');
+        }
+    });
+}
+function testing() {
+    console.log('landon test');
+}
+exports.testing = testing;</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29va2llcy5jaGVja0Nvb2tpZXM7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIGNvb2tpZXMgewo=</text>
+        <text encoding="base64">ZnRiLnV0aWxpdGllc2ogewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgpleHBvcnQgZnVuY3Rpb24gdGVzdGluZyAoKSB7CiAgY29uc29sZS5sb2coJ2xhbmRvbiB0ZXN0Jyk7Cn0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

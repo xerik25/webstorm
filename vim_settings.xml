@@ -142,11 +142,11 @@
         <mark key="." line="9" column="67" />
         <mark key="^" line="9" column="67" />
       </file>
-      <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/attributes/mask-input/index.js" timestamp="1471540773555">
-        <mark key="[" line="41" column="47" />
-        <mark key="]" line="41" column="53" />
-        <mark key="^" line="41" column="53" />
-        <mark key="." line="41" column="53" />
+      <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/attributes/mask-input/index.js" timestamp="1471542822702">
+        <mark key="[" line="27" column="37" />
+        <mark key="]" line="27" column="37" />
+        <mark key="^" line="52" column="31" />
+        <mark key="." line="27" column="37" />
       </file>
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/js/misc/footer/footer.ts" timestamp="1470407304157">
         <mark key="[" line="0" column="0" />
@@ -644,19 +644,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lastChar</text>
+        <text>ev</text>
       </register>
       <register name="-" type="4">
-        <text>lastChar</text>
+        <text>ev</text>
       </register>
       <register name="/" type="4">
         <text>amount</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnbGFzdENoYXInLCBsYXN0Q2hhcik7Cg==</text>
+        <text encoding="base64">CQkJCXJldHVybiAhL1t+YCEjJCVcXiYqKz1cLVxbXF1cXCc7LC97fXxcXCI6PD5cP10vZy50ZXN0KHN0cik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQl0ZXN0LnN1YnN0cih0ZXN0Lmxlbmd0aCAtIDEpCg==</text>
+        <text encoding="base64">CQkJLy8gVE9ETzogbWFrZSBzdXJlIGlucHV0IG9ubHkgYWNjZXB0cyBkaWdpdHMK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -668,28 +668,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkiNCIK</text>
+        <text encoding="base64">CQkJCS8vIHJldHVybiAhL1t+YCEjJCVcXiYqKz1cLVxbXF1cXCc7LC97fXxcXCI6PD5cP10vZy50ZXN0KHN0cik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQl0ZXN0LnN1YnN0cih0ZXN0Lmxlbmd0aCAtIDEpCg==</text>
+        <text encoding="base64">CQkJCQkvLyAkZWxlbS52YWx1ZSA9ICRlbGVtLnZhbHVlLnJlcGxhY2UoLyhbYS16QS1aXSkvZywgJycpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkvLyBSZWdFeCB0byByZW1vdmUgYWxwaGEgY2hhcmFjdGVycwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdvbmtleXByZXNzJywgY2MpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnYmFja3NwYWNlJywgY2MpOwo=</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJsb2ciKS5pbm5lckhUTUwgPSBjYzsK</text>
+        <text encoding="base64">CQkJZnVuY3Rpb24gcmVtb3ZlU3BlY2lhbENoYXJhY3RlciAoKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnYmFja3NwYWNlIGl0IScpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJLy8gY29uc29sZS5sb2coJ2VsZW0nLCBlbGVtWzBdKTsK</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygndHJ1dGh5JywgaXNWYWxpZChsYXN0Q2hhcikpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

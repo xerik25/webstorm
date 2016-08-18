@@ -142,11 +142,11 @@
         <mark key="." line="9" column="67" />
         <mark key="^" line="9" column="67" />
       </file>
-      <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/attributes/mask-input/index.js" timestamp="1471535934076">
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="10" column="14" />
-        <mark key="." line="10" column="14" />
-        <mark key="^" line="10" column="14" />
+      <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/attributes/mask-input/index.js" timestamp="1471537481991">
+        <mark key="[" line="39" column="38" />
+        <mark key="]" line="39" column="39" />
+        <mark key="^" line="36" column="54" />
+        <mark key="." line="39" column="39" />
       </file>
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/js/misc/footer/footer.ts" timestamp="1470407304157">
         <mark key="[" line="0" column="0" />
@@ -644,16 +644,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygndGVzdCAxJywgJGVsZW0udmFsdWUpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>focus</text>
+        <text>.replace(/\d(?=\d{4})/gm, '*')</text>
       </register>
       <register name="/" type="4">
         <text>amount</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJZWxlbS5vbignZm9jdXMnLCAoKSA9PiB7CgkJCQljbGVhclZhbHVlcygpOwoJCQl9KTsKCg==</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygndGVzdCAxJywgJGVsZW0udmFsdWUpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

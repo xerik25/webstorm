@@ -14,11 +14,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/html/elements/wlpc-hero-login.hbs" timestamp="1471536141495">
-        <mark key="[" line="17" column="36" />
-        <mark key="]" line="18" column="32" />
+      <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/html/elements/wlpc-hero-login.hbs" timestamp="1471538825036">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="27" />
         <mark key="^" line="18" column="32" />
-        <mark key="." line="18" column="32" />
+        <mark key="." line="10" column="27" />
       </file>
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/templates/pug/partials/header/ftb/ftb-logo.pug" timestamp="1470417113088">
         <mark key="[" line="1" column="0" />
@@ -142,11 +142,11 @@
         <mark key="." line="9" column="67" />
         <mark key="^" line="9" column="67" />
       </file>
-      <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/attributes/mask-input/index.js" timestamp="1471537481991">
-        <mark key="[" line="39" column="38" />
-        <mark key="]" line="39" column="39" />
-        <mark key="^" line="36" column="54" />
-        <mark key="." line="39" column="39" />
+      <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/attributes/mask-input/index.js" timestamp="1471540773555">
+        <mark key="[" line="41" column="47" />
+        <mark key="]" line="41" column="53" />
+        <mark key="^" line="41" column="53" />
+        <mark key="." line="41" column="53" />
       </file>
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/js/misc/footer/footer.ts" timestamp="1470407304157">
         <mark key="[" line="0" column="0" />
@@ -643,20 +643,20 @@
       <jump line="36" column="13" filename="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/js/misc/find-location/find-location.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygndGVzdCAxJywgJGVsZW0udmFsdWUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>lastChar</text>
       </register>
       <register name="-" type="4">
-        <text>.replace(/\d(?=\d{4})/gm, '*')</text>
+        <text>lastChar</text>
       </register>
       <register name="/" type="4">
         <text>amount</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygndGVzdCAxJywgJGVsZW0udmFsdWUpOwo=</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnbGFzdENoYXInLCBsYXN0Q2hhcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQl0ZXN0LnN1YnN0cih0ZXN0Lmxlbmd0aCAtIDEpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -668,28 +668,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdvbmtleXByZXNzJywgY2MpOwo=</text>
+        <text encoding="base64">CQkJCQkiNCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnYmFja3NwYWNlJywgY2MpOwo=</text>
+        <text encoding="base64">CQkJCQl0ZXN0LnN1YnN0cih0ZXN0Lmxlbmd0aCAtIDEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCWRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJsb2ciKS5pbm5lckhUTUwgPSBjYzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdvbmtleXByZXNzJywgY2MpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJLy8gY29uc29sZS5sb2coJ2VsZW0nLCBlbGVtWzBdKTsK</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnYmFja3NwYWNlJywgY2MpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkvLyBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgibG9nIikuaW5uZXJIVE1MID0gY2M7Cg==</text>
+        <text encoding="base64">CQkJCWRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJsb2ciKS5pbm5lckhUTUwgPSBjYzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCS8vIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJsb2ciKS5pbm5lckhUTUwgPSBjYzsK</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCS8vIGVsZW1bMF0udmFsdWUgPSB0ZXN0Owo=</text>
+        <text encoding="base64">CQkJLy8gY29uc29sZS5sb2coJ2VsZW0nLCBlbGVtWzBdKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

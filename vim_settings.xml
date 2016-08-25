@@ -37,7 +37,7 @@
         <mark key="^" line="55" column="35" />
         <mark key="." line="55" column="35" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.js" timestamp="1472164556380">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.js" timestamp="1472165819808">
         <mark key="[" line="5" column="75" />
         <mark key="]" line="7" column="56" />
         <mark key="^" line="7" column="56" />
@@ -222,11 +222,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="15" column="8" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/promos.js" timestamp="1472164628555">
-        <mark key="[" line="61" column="18" />
-        <mark key="]" line="61" column="34" />
-        <mark key="^" line="61" column="34" />
-        <mark key="." line="61" column="34" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/promos.js" timestamp="1472165866304">
+        <mark key="[" line="60" column="27" />
+        <mark key="]" line="60" column="32" />
+        <mark key="." line="60" column="32" />
+        <mark key="^" line="60" column="32" />
       </file>
       <file name="$USER_HOME$/Sites/ng2-typescript-gulp-seed/src/components/example-component/example.component.ts" timestamp="1467821981959">
         <mark key="[" line="6" column="19" />
@@ -251,7 +251,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/add-to-cart.js" timestamp="1472152502250">
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/add-to-cart.js" timestamp="1472165826469">
         <mark key="[" line="25" column="16" />
         <mark key="]" line="26" column="38" />
         <mark key="." line="26" column="38" />
@@ -678,20 +678,20 @@
       <jump line="36" column="13" filename="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/js/misc/find-location/find-location.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gdmFyIGRhdGFTa3VzID0gJCgiW2RhdGEtc2t1XSIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>carts</text>
       </register>
       <register name="-" type="4">
-        <text>stbo.</text>
+        <text>carts</text>
       </register>
       <register name="/" type="4">
         <text>amount</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAkLmVhY2goIHN0Ym8uZGF0YVNrdXMsIGZ1bmN0aW9uKCBrZXksIHZhbHVlICkgewogICAgY2hlY2tBdGIodmFsdWUpOwogIH0pOwo=</text>
+        <text encoding="base64">ICAgIGdldFByb21vc1N0cmVhbSA9IHNlcnZpY2VMYXllci5nZXRTdHJlYW0oJ2dldFByb21vcycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gdmFyIGRhdGFTa3VzID0gJCgiW2RhdGEtc2t1XSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -703,28 +703,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLnRha2UoMSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCAnZGF0YVNrdXMnLCB2YWx1ZSApOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coICdza3UnLCBza3Uuc2llYmVsSWQgKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coICdhdGInLCB2YWx1ZS5zaWViZWxJZCApOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmFsc2UnKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gdmFyIGRhdGFTa3VzID0gJCgiW2RhdGEtc2t1XSIpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCAnZGF0YVNrdXMnLCB2YWx1ZSApOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAkLmVhY2goIHN0Ym8uYXRiLCBmdW5jdGlvbigga2V5LCB2YWx1ZSApIHsKICAgIGNvbnNvbGUubG9nKCAnYXRiJywgdmFsdWUgKTsKICB9KTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coICdza3UnLCBza3Uuc2llYmVsSWQgKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coICdhdGInLCB2YWx1ZS5zaWViZWxJZCApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

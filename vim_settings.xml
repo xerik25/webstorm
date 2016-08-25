@@ -69,9 +69,6 @@
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js.txt" timestamp="1472082515177">
         <mark key="[" line="10" column="16" />
-        <mark key="]" line="11" column="13" />
-        <mark key="^" line="11" column="13" />
-        <mark key="." line="11" column="13" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/wlpc/controllers/wlpcPrepaidAccountController.js" timestamp="1469209506650">
         <mark key="[" line="32" column="36" />
@@ -242,11 +239,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/add-to-cart.js" timestamp="1472084964566">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="41" column="38" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/add-to-cart.js" timestamp="1472087004177">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="74" column="43" />
       </file>
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/.editorconfig" timestamp="1469739054615">
         <mark key="[" line="25" column="14" />
@@ -660,19 +657,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIHZhciBKU09OYWRkID0gSlNPTi5wYXJzZShhZGRUb0NhcnRPYmplY3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGRpc3BhdGNoUHV0SW50b0NhcnQoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>JSONadd</text>
+        <text>itemToAdd</text>
       </register>
       <register name="/" type="4">
         <text>amount</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBpZD0iYWNjZXNzb3J5LWl0ZW0tb25lIiBjbGFzcz0iYnV0dG9uIGJ1dHRvbi0tc2Vjb25kYXJ5IGJ1dHRvbi0tbWQgYWRkLXRvLWNhcnQiIGRhdGEtYWRkVG9DYXJ0PSd7Iml0ZW1JRCI6ICJaQ0ExNTg4USIsICJxdWFudGl0eSI6IDF9Jz5BZGQgdG8gY2FydDwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjbGljaycsIGFkZFRvQ2FydE9iamVjdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHZhciBKU09OYWRkID0gSlNPTi5wYXJzZShhZGRUb0NhcnRPYmplY3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGRpc3BhdGNoUHV0SW50b0NhcnQoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -684,28 +681,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwhLS08YnV0dG9uIHR5cGU9ImJ1dHRvbiIgaWQ9ImFjY2Vzc29yeS1pdGVtLW9uZSIgY2xhc3M9ImJ1dHRvbiBidXR0b24mIzQ1OyYjNDU7c2Vjb25kYXJ5IGJ1dHRvbiYjNDU7JiM0NTttZCBhZGQtdG8tY2FydCIgZGF0YS1hZGRUb0NhcnQ9J3siaXRlbUlEIjogIlpDQTE1ODhRIiwgInF1YW50aXR5IjogMX0nPkFkZCB0byBjYXJ0PC9idXR0b24+LS0+Cg==</text>
+        <text encoding="base64">ICAgIC8vIGRpc3BhdGNoUHV0SW50b0NhcnQoKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjbGljaycsIGFkZFRvQ2FydE9iamVjdCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjbGljaycsIGV4YW1wbGVBY2Nlc3MpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBBZGQgY2xpY2sgaGFuZGxlciB0byBlYWNoIGFkZC10by1jYXJ0IGJ1dHRvbiBvbiBwYWdlCiAgYWRkVG9DYXJ0LmNsaWNrKCBmdW5jdGlvbiAoKSB7CiAgICB2YXIgYWRkVG9DYXJ0T2JqZWN0ID0gJCh0aGlzKS5kYXRhKCdhZGR0b2NhcnQnKTsKCiAgICBjb25zb2xlLmxvZygnY2xpY2snLCBhZGRUb0NhcnRPYmplY3QpOwogICAgLy8gZGlzcGF0Y2hQdXRJbnRvQ2FydChhZGRUb0NhcnRPYmplY3QpOwogIH0pOwo=</text>
+        <text encoding="base64">ICAvLyBBZGQgY2xpY2sgaGFuZGxlciB0byBlYWNoIGFkZC10by1jYXJ0IGJ1dHRvbiBvbiBwYWdlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBpZD0iYWNjZXNzb3J5LWl0ZW0tb25lIiBjbGFzcz0iYnV0dG9uIGJ1dHRvbi0tc2Vjb25kYXJ5IGJ1dHRvbi0tbWQgYWRkLXRvLWNhcnQiPkFkZCB0byBjYXJ0PC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgIC8vIHZhciBKU09OYWRkID0gSlNPTi5wYXJzZShhZGRUb0NhcnRPYmplY3QpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS08YnV0dG9uIHR5cGU9ImJ1dHRvbiIgaWQ9ImFjY2Vzc29yeS1pdGVtLW9uZSIgY2xhc3M9ImJ1dHRvbiBidXR0b24mIzQ1OyYjNDU7c2Vjb25kYXJ5IGJ1dHRvbiYjNDU7JiM0NTttZCBhZGQtdG8tY2FydCIgZGF0YS1hZGRUb0NhcnQ9J3siaXRlbUlEIjogIlpDQTE1ODhRIiwgInF1YW50aXR5IjogMX0nPkFkZCB0byBjYXJ0PC9idXR0b24+LS0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjbGljaycsIGFkZFRvQ2FydE9iamVjdCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgaWQ9ImFjY2Vzc29yeS1pdGVtLW9uZSIgY2xhc3M9ImJ1dHRvbiBidXR0b24tLXNlY29uZGFyeSBidXR0b24tLW1kIGFkZC10by1jYXJ0IiBkYXRhLWFkZFRvQ2FydD0neyJhY2Nlc3NvcmllcyI6ICJbeyJpdGVtSUQiOiAiWkNBMTU4OFEiLCAicXVhbnRpdHkiOiAxXSJ9fSc+QWRkIHRvIGNhcnQ8L2J1dHRvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

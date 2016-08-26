@@ -227,11 +227,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="15" column="8" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/promos.js" timestamp="1472239363733">
-        <mark key="[" line="51" column="10" />
-        <mark key="]" line="51" column="10" />
-        <mark key="." line="51" column="17" />
-        <mark key="^" line="46" column="40" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/promos.js" timestamp="1472240772493">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ng2-typescript-gulp-seed/src/components/example-component/example.component.ts" timestamp="1467821981959">
         <mark key="[" line="6" column="19" />
@@ -692,20 +692,20 @@
       <jump line="36" column="13" filename="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/js/misc/find-location/find-location.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>value</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZGF0YVR5cGU6ICdqc29ucCcsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>http://localhost:3002/sprint</text>
       </register>
       <register name="/" type="4">
         <text>amount</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICQuZWFjaCggc3Riby5hdGIsIGZ1bmN0aW9uKCBrZXksIHZhbHVlICkgewo=</text>
+        <text encoding="base64">ICAgICAgdXJsOiAiaHR0cDovL2xvY2FsaG9zdDozMDAyL3NwcmludCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgZGF0YVR5cGU6ICdqc29ucCcsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -717,28 +717,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbiBzZXRPdGhlclZhbHVlcyAoKSB7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBwcm9tb1RhcmdldCA9ICQoJy5kZXZpY2UtaW5mb19fcHJvbW8nKTsK</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBzZXRPdGhlclZhbHVlcyAoKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHZhciBwcm9tb1RhcmdldCA9ICQoJy5kZXZpY2UtaW5mb19fcHJvbW8nKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmFsc2UnLCB2YWx1ZU9iaiwgdmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmFsc2UnLCB2YWx1ZU9iaiwgdmFsdWUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

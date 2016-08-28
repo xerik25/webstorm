@@ -561,6 +561,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/addtocarttest/addtocarttest.html" timestamp="1472364524379">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="40" />
+        <mark key="." line="5" column="40" />
+        <mark key="^" line="5" column="40" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.js" timestamp="1472144081282">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="5" column="32" />
@@ -701,17 +707,17 @@
       <jump line="36" column="33" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/promos.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcuYWRkLXRvLWNhcnQnKS5hdHRyKCdkYXRhLWFkZFRvQ2FydCcsICd7ImRldmljZSI6IHsiaXRlbUlEIjogJyArIFwiZW5zZW1ibGVJRHZhbHVlXCIgKyAnLCAiY29udHJhY3RJbmZvIjogeyJjb250cmFjdElkIjogIjAteXItaWIifX0sInBsYW4iOiB7InBsYW5TT0NTS1UiOiAnICsgcGxhblNPQ1NrdSArICd9Jyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>accessory-item-one</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>accessory-item-one</text>
       </register>
       <register name="/" type="4">
         <text>amount</text>
       </register>
-      <register name="0" type="4">
-        <text>value.getDeviceDetails.siebelidlist</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBpZD0iYWNjZXNzb3J5LWl0ZW0tb25lIiBjbGFzcz0iYnV0dG9uIGJ1dHRvbi0tc2Vjb25kYXJ5IGJ1dHRvbi0tbWQgYWRkLXRvLWNhcnQiIGRhdGEtYWRkVG9DYXJ0PSd7InNlcnZpY2VzIjpbeyJzZXJ2aWNlU09DU0tVIjogIlNQT1RGWVJFRyIsInNlcnZpY2VTdGF0dXMiOiAiTkVXIn0seyJzZXJ2aWNlU09DU0tVIjogIlBSSU1FQVRDSCIsInNlcnZpY2VTdGF0dXMiOiAiTkVXIn1dfSc+QWRkIFNlcnZpY2U8L2J1dHRvbj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAkKCcuYWRkLXRvLWNhcnQnKS5hdHRyKCdkYXRhLWFkZFRvQ2FydCcsICd7ImRldmljZSI6IHsiaXRlbUlEIjogJyArIFwiZW5zZW1ibGVJRHZhbHVlXCIgKyAnLCAiY29udHJhY3RJbmZvIjogeyJjb250cmFjdElkIjogIjAteXItaWIifX0sInBsYW4iOiB7InBsYW5TT0NTS1UiOiAnICsgcGxhblNPQ1NrdSArICd9Jyk7Cg==</text>

@@ -291,6 +291,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/deviceDetails.js" timestamp="1472363161188">
+        <mark key="[" line="29" column="35" />
+        <mark key="]" line="30" column="188" />
+        <mark key="." line="30" column="188" />
+        <mark key="^" line="30" column="188" />
+      </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/contact_us_offices/_data.json" timestamp="1468877921413">
         <mark key="[" line="53" column="19" />
         <mark key="]" line="18" column="16" />
@@ -695,11 +701,11 @@
       <jump line="36" column="33" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/promos.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>${properties.urlTarget @ appendPath='.html'}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkKCcuYWRkLXRvLWNhcnQnKS5hdHRyKCdkYXRhLWFkZFRvQ2FydCcsICd7ImRldmljZSI6IHsiaXRlbUlEIjogJyArIFwiZW5zZW1ibGVJRHZhbHVlXCIgKyAnLCAiY29udHJhY3RJbmZvIjogeyJjb250cmFjdElkIjogIjAteXItaWIifX0sInBsYW4iOiB7InBsYW5TT0NTS1UiOiAnICsgcGxhblNPQ1NrdSArICd9Jyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>${properties.urlTarget @ appendPath='.html'}</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>amount</text>
@@ -708,7 +714,7 @@
         <text>value.getDeviceDetails.siebelidlist</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0iL2NvbnRlbnQvc3ByaW50L3NwcmludF9jb20vdXMvZW4vc2hvcC9jaGVja291dC5odG1sIiBpZD0iYWRkVG9DYXJ0QnV0dG9uMSIgY2xhc3M9ImJ1dHRvbiBidXR0b24tLW1kIj5BZGQgdG8gY2FydDwvYT48IS0tRmFtaWx5UGxhbiByZWRpcmVjdCB1cmwgaGVyZS0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAkKCcuYWRkLXRvLWNhcnQnKS5hdHRyKCdkYXRhLWFkZFRvQ2FydCcsICd7ImRldmljZSI6IHsiaXRlbUlEIjogJyArIFwiZW5zZW1ibGVJRHZhbHVlXCIgKyAnLCAiY29udHJhY3RJbmZvIjogeyJjb250cmFjdElkIjogIjAteXItaWIifX0sInBsYW4iOiB7InBsYW5TT0NTS1UiOiAnICsgcGxhblNPQ1NrdSArICd9Jyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -720,19 +726,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzb3J0LmF0dHIoJ3NlbGVjdGVkJykgPyB0cnVlIDogZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0iL2NvbnRlbnQvc3ByaW50L3NwcmludF9jb20vdXMvZW4vc2hvcC9jaGVja291dC5odG1sIiBpZD0iYWRkVG9DYXJ0QnV0dG9uMSIgY2xhc3M9ImJ1dHRvbiBidXR0b24tLW1kIj5BZGQgdG8gY2FydDwvYT48IS0tRmFtaWx5UGxhbiByZWRpcmVjdCB1cmwgaGVyZS0tPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzb3J0LmF0dHIoJ3NlbGVjdGVkJykgPyB0cnVlIDogZmFsc2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZ2V0UHJvbW9zKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgZ2V0UHJvbW9zKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb29raWUnLCBjb29raWUpOwo=</text>
+        <text encoding="base64">ICAgICAgZ2V0UHJvbW9zKCk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb29raWUnLCBjb29raWUpOwo=</text>
@@ -741,7 +747,7 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb29raWUnLCBjb29raWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb29raWUnLCBjb29raWUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

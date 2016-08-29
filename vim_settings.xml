@@ -235,12 +235,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="15" column="8" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/promos.js" timestamp="1472511034725">
-        <mark key="[" line="89" column="33" />
-        <mark key="]" line="89" column="40" />
-        <mark key="." line="89" column="40" />
-        <mark key="^" line="89" column="40" />
-      </file>
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/promos.js" timestamp="1472512897586" />
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/target/classes/apps/sprint-transformation/components/content/deviceprotection/deviceprotection.html" timestamp="1472360496906">
         <mark key="[" line="73" column="137" />
         <mark key="]" line="73" column="170" />
@@ -704,20 +699,20 @@
       <jump line="43" column="0" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/deviceDetails.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhciBkYXRhU2t1cyA9ICQoIltkYXRhLXNrdV0iKTsK</text>
+      <register name="&quot;" type="4">
+        <text>value</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW5kZXggPCBkYXRhU2t1cy5sZW5ndGg=</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text>amount</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3NldCBjdXJyZW50UGxhbicpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2l0ZXJhdGVPdmVyRW5zZW1ibGVJZHMgKDEpJywga2V5LCB2YWx1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBkYXRhU2t1cyA9ICQoIltkYXRhLXNrdV0iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -729,28 +724,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpdGVyYXRlT3ZlclByb21vU2t1cygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBnZXREZXZpY2VPblBhZ2UoKTsK</text>
+        <text encoding="base64">ICAgIHZhciBkYXRhU2t1cyA9ICQoIltkYXRhLXNrdV0iKTsKICAgIHZhciBjdXJyZW50RGV2aWNlID0gJzEyMzQnOyAvLyBGb3IgVGVzdGluZwogICAgLy8gdmFyIGN1cnJlbnREZXZpY2UgPSB3aW5kb3cuc3ByaW50QXBwLmRldmljZU9iai5nZXRDb2xvcigpOyAvLyBGb3IgUHJvZAogICAgdmFyIGN1cnJlbnRQbGFuID0gJzk5OTknOwogICAgLy8gdmFyIGN1cnJlbnRQbGFuID0gd2luZG93LnNwcmludEFwcC5wbGFuT2JqLmdldFBsYW4oKTsgLy8gRm9yIFByb2QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpdGVyYXRlT3ZlclByb21vU2t1cygpOwogICAgICAgIC8vIGdldERldmljZU9uUGFnZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0aW5nJywgZGF0YVNrdXMsIGN1cnJlbnREZXZpY2UpOwo=</text>
+        <text encoding="base64">ICAgIHZhciBkYXRhU2t1cyA9ICQoIltkYXRhLXNrdV0iKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBpdGVyYXRlT3ZlclByb21vU2t1cygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

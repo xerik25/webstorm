@@ -1,4 +1,7 @@
 <application>
+  <component name="RelativeLineNumbersSettings">
+    <option name="showingCurrentLine" value="false" />
+  </component>
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
@@ -66,12 +69,6 @@
         <mark key="^" line="2" column="57" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/plan.js" timestamp="1472347061083">
-        <mark key="[" line="154" column="51" />
-        <mark key="]" line="154" column="51" />
-        <mark key="^" line="154" column="51" />
-        <mark key="." line="154" column="51" />
-      </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/personal-profile/_data.json" timestamp="1468615586448">
         <mark key="[" line="1" column="3" />
         <mark key="]" line="1" column="10" />
@@ -89,12 +86,6 @@
         <mark key="]" line="7" column="61" />
         <mark key="." line="7" column="61" />
         <mark key="^" line="7" column="61" />
-      </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/deviceplan/deviceplan.html" timestamp="1472339082963">
-        <mark key="[" line="14" column="116" />
-        <mark key="]" line="14" column="140" />
-        <mark key="^" line="14" column="140" />
-        <mark key="." line="14" column="140" />
       </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/news.jade" timestamp="1470063358169">
         <mark key="[" line="8" column="21" />
@@ -155,10 +146,11 @@
         <mark key="." line="189" column="0" />
         <mark key="^" line="187" column="36" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/deviceprotection/deviceprotection.html" timestamp="1472503554924">
-        <mark key="[" line="21" column="120" />
-        <mark key="]" line="21" column="120" />
-        <mark key="." line="21" column="125" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/deviceprotection/deviceprotection.html" timestamp="1472573756783">
+        <mark key="[" line="94" column="41" />
+        <mark key="]" line="94" column="45" />
+        <mark key="." line="94" column="45" />
+        <mark key="^" line="94" column="45" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/constants.js" timestamp="1469209225110">
         <mark key="[" line="0" column="0" />
@@ -235,11 +227,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="15" column="8" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/promos.js" timestamp="1472519218897">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="2" />
-        <mark key="^" line="10" column="11" />
-        <mark key="." line="10" column="2" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/promos.js" timestamp="1472582520972">
+        <mark key="[" line="125" column="44" />
+        <mark key="]" line="125" column="46" />
+        <mark key="." line="125" column="46" />
+        <mark key="^" line="125" column="46" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/target/classes/apps/sprint-transformation/components/content/deviceprotection/deviceprotection.html" timestamp="1472360496906">
         <mark key="[" line="73" column="137" />
@@ -705,10 +697,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>localDev</text>
+        <text>value</text>
       </register>
       <register name="-" type="4">
-        <text>localDev</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text>amount</text>

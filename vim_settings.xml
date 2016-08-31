@@ -152,6 +152,11 @@
         <mark key="." line="189" column="0" />
         <mark key="^" line="187" column="36" />
       </file>
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/deviceprotection/deviceprotection.html" timestamp="1472683586828">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/constants.js" timestamp="1469209225110">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -227,7 +232,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="15" column="8" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/promos.js" timestamp="1472674493644">
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/promos.js" timestamp="1472681938633">
         <mark key="[" line="182" column="0" />
         <mark key="]" line="182" column="0" />
         <mark key="^" line="175" column="30" />
@@ -285,11 +290,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/deviceDetails.js" timestamp="1472617635607">
-        <mark key="[" line="47" column="31" />
-        <mark key="]" line="47" column="30" />
-        <mark key="^" line="47" column="30" />
-        <mark key="." line="47" column="30" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/deviceDetails.js" timestamp="1472683652688">
+        <mark key="'" line="60" column="54" />
+        <mark key="[" line="60" column="41" />
+        <mark key="]" line="60" column="155" />
+        <mark key="^" line="60" column="155" />
+        <mark key="." line="60" column="155" />
       </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/contact_us_offices/_data.json" timestamp="1468877921413">
         <mark key="[" line="53" column="19" />
@@ -550,7 +556,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/addtocarttest/addtocarttest.html" timestamp="1472616716906">
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/addtocarttest/addtocarttest.html" timestamp="1472683596077">
         <mark key="[" line="1" column="129" />
         <mark key="]" line="1" column="129" />
         <mark key="." line="1" column="129" />
@@ -593,7 +599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="109" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/personalloans/controllers/personalLendingFormController.js" />
       <jump line="103" column="0" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/app.js" />
       <jump line="104" column="0" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/app.js" />
       <jump line="3" column="25983" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/app/styles/jgwentworth.css" />
@@ -693,22 +698,23 @@
       <jump line="36" column="33" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/promos.js" />
       <jump line="10" column="67" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/deviceDetails.js" />
       <jump line="43" column="0" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/deviceDetails.js" />
+      <jump line="60" column="54" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/deviceDetails.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>{&quot;device&quot;: {&quot;itemID&quot;: &quot;' + ensembleIDvalue + '&quot;, &quot;contractInfo&quot;: {&quot;contractId&quot;: &quot;0-yr-ib&quot;}},&quot;plan&quot;: {&quot;planSOCSKU&quot;: &quot;' + planSOCSku + '&quot;},&quot;services&quot;:[{&quot;serviceSOCSKU&quot;:&quot;' + planServices + '&quot;,&quot;serviceStatus&quot;:&quot;NEW&quot;}]}</text>
       </register>
       <register name="-" type="4">
-        <text>purple</text>
+        <text>{&quot;device&quot;: {&quot;itemID&quot;: &quot;' + ensembleIDvalue + '&quot;, &quot;contractInfo&quot;: {&quot;contractId&quot;: &quot;0-yr-ib&quot;}},&quot;plan&quot;: {&quot;planSOCSKU&quot;: &quot;' + planSOCSku + '&quot;},&quot;services&quot;:[{&quot;serviceSOCSKU&quot;:&quot;' + planServices + '&quot;,&quot;serviceStatus&quot;:&quot;NEW&quot;}]}</text>
       </register>
       <register name="/" type="4">
-        <text>amount</text>
+        <text encoding="base64">XDxpdGVtSURcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnPGEgaHJlZj0iJyArIHByb21vT2JqLmdldERldmljZURldGFpbHMuY3RhTGluayArICciIHN0eWxlPSJwb3NpdGlvbjogcmVsYXRpdmU7Ij4nICsKICAgICAgICAnPGxpIGNsYXNzPSJjb2xvci0tYmx1ZSI+JyArCiAgICAgICAgJzxpIGNsYXNzPSJpY28gaWNvLS1zdGFyLXJvdW5kZWQiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+JyArCiAgICAgICAgcHJvbW9PYmouZ2V0RGV2aWNlRGV0YWlscy5jdGFUZXh0ICsKICAgICAgICAnPC9saT4nICsKICAgICAgICAnPC9hPicK</text>
+        <text encoding="base64">ICAgIHRhcmdldEJ1dHRvbi5hdHRyKCdkYXRhLWFkZFRvQ2FydCcsICd7ImRldmljZSI6IHsiaXRlbUlEIjogIicgKyBlbnNlbWJsZUlEdmFsdWUgKyAnIiwgImNvbnRyYWN0SW5mbyI6IHsiY29udHJhY3RJZCI6ICIwLXlyLWliIn19LCJwbGFuIjogeyJwbGFuU09DU0tVIjogIicgKyBwbGFuU09DU2t1ICsgJyJ9LCJzZXJ2aWNlcyI6W3sic2VydmljZVNPQ1NLVSI6IicgKyBwbGFuU2VydmljZXMgKyAnIiwic2VydmljZVN0YXR1cyI6Ik5FVyJ9XX0nKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0iL2NvbnRlbnQvc3ByaW50L3NwcmludF9jb20vdXMvZW4vc2hvcC9jaGVja291dC5odG1sIiBpZD0iYWRkVG9DYXJ0QnV0dG9uMSIgY2xhc3M9ImJ1dHRvbiBidXR0b24tLW1kIj5BZGQgdG8gY2FydDwvYT48IS0tRmFtaWx5UGxhbiByZWRpcmVjdCB1cmwgaGVyZS0tPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -720,40 +726,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbiBhcHBlbmRQcm9tb1RvQm94IChwcm9tb09iaiwgdGFyZ2V0KSB7CiAgICBjb25zb2xlLmxvZygnYXBwZW5kUHJvbW8nLCBwcm9tb09iaiwgdGFyZ2V0KTsKICAgICAgdGFyZ2V0LmFwcGVuZCgKICAgICAgICAnPGEgaHJlZj0iJyArIHByb21vT2JqLmdldERldmljZURldGFpbHMuY3RhTGluayArICciIHN0eWxlPSJwb3NpdGlvbjogcmVsYXRpdmU7Ij4nICsKICAgICAgICAnPGxpIGNsYXNzPSJjb2xvci0td2hpdGUgYmdjLS1ibHVlIj4nICsKICAgICAgICAnPGkgY2xhc3M9ImljbyBpY28tLXN0YXItcm91bmRlZCIgYXJpYS1oaWRkZW49InRydWUiPjwvaT4nICsKICAgICAgICBwcm9tb09iai5nZXREZXZpY2VEZXRhaWxzLmN0YVRleHQgKwogICAgICAgICc8L2xpPicgKwogICAgICAgICc8L2E+JwogICAgICApCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0iJHtwcm9wZXJ0aWVzLnVybFRhcmdldCBAIGFwcGVuZFBhdGg9Jy5odG1sJ30iIGlkPSJhZGRUb0NhcnRCdXR0b24yIiAgcm9sZT0iYnV0dG9uIiBkYXRhLWFkZC10by1jYXJ0IGRhdGEtcGFnZS1uZXh0IG5hbWU9IiIgY2xhc3M9ImJ1dHRvbiBidXR0b24tLXByaW1hcnkgYnV0dG9uLS1tZCBhZGQtdG8tY2FydCIgZGF0YS1hZGRUb0NhcnQ+QWRkIHRvIGNhcnQ8L2E+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnPC9hPicK</text>
+        <text encoding="base64">ICAgICAgdmFyIHBsYW5TZXJ2aWNlcyA9ICJBUENBUFAxMjkiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnPC9kaXY+JyArCg==</text>
+        <text encoding="base64">ICAgICAgdmFyIHBsYW5TT0NTa3UgPSAiTFNEOTJBUyI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnPGEgaHJlZj0iJyArIHByb21vT2JqLmdldERldmljZURldGFpbHMuY3RhTGluayArICciIHN0eWxlPSJwb3NpdGlvbjogcmVsYXRpdmU7IHRleHQtZGVjb3JhdGlvbjogbm9uZTsiPicgKwogICAgICAgICc8ZGl2IGNsYXNzPSJiZ2MtLWJsdWUgY29sb3ItLXdoaXRlIj4nICsKICAgICAgICAnPGkgY2xhc3M9ImljbyBpY28tLXN0YXItcm91bmRlZCIgYXJpYS1oaWRkZW49InRydWUiPjwvaT4nICsKICAgICAgICBwcm9tb09iai5nZXREZXZpY2VEZXRhaWxzLmN0YVRleHQgKwo=</text>
+        <text encoding="base64">ICAgICAgdmFyIHBsYW5TT0NTa3UgPSAiTFNEOTJBUyI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnPC9hPicK</text>
+        <text encoding="base64">ICAgICQoJy5hZGQtdG8tY2FydCcpLmF0dHIoJ2RhdGEtYWRkVG9DYXJ0JywgJ3siZGV2aWNlIjogeyJpdGVtSUQiOiAiJyArIGVuc2VtYmxlSUR2YWx1ZSArICciLCAiY29udHJhY3RJbmZvIjogeyJjb250cmFjdElkIjogIjAteXItaWIifX0sInBsYW4iOiB7InBsYW5TT0NTS1UiOiAiJyArIHBsYW5TT0NTa3UgKyAnIn19Jyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnPGEgaHJlZj0iJyArIHByb21vT2JqLmdldERldmljZURldGFpbHMuY3RhTGluayArICciIHN0eWxlPSJwb3NpdGlvbjogcmVsYXRpdmU7IHRleHQtZGVjb3JhdGlvbjogbm9uZTsiPicgKwogICAgICAgICc8ZGl2IGNsYXNzPSJiZ2MtLWJsdWUgY29sb3ItLXdoaXRlIj4nICsKICAgICAgICAnPGkgY2xhc3M9ImljbyBpY28tLXN0YXItcm91bmRlZCIgYXJpYS1oaWRkZW49InRydWUiPjwvaT4nICsKICAgICAgICBwcm9tb09iai5nZXREZXZpY2VEZXRhaWxzLmN0YVRleHQgKwogICAgICAgICc8L2Rpdj4nICsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnPC9hPicgKwo=</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBhcHBlbmRQcm9tb1RvQm94IChwcm9tb09iaiwgdGFyZ2V0KSB7CiAgICBjb25zb2xlLmxvZygnYXBwZW5kUHJvbW8nLCBwcm9tb09iaiwgdGFyZ2V0KTsKICAgICAgdGFyZ2V0LmFwcGVuZCgKICAgICAgICAnPGEgaHJlZj0iJyArIHByb21vT2JqLmdldERldmljZURldGFpbHMuY3RhTGluayArICciIHN0eWxlPSJwb3NpdGlvbjogcmVsYXRpdmU7Ij4nICsKICAgICAgICAnPGxpIGNsYXNzPSJjb2xvci0td2hpdGUgYmdjLS1ibHVlIj4nICsKICAgICAgICAnPGkgY2xhc3M9ImljbyBpY28tLXN0YXItcm91bmRlZCIgYXJpYS1oaWRkZW49InRydWUiPjwvaT4nICsKICAgICAgICBwcm9tb09iai5nZXREZXZpY2VEZXRhaWxzLmN0YVRleHQgKwogICAgICAgICc8L2xpPicgKwogICAgICAgICc8L2E+JwogICAgICApCiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnPGEgaHJlZj0iJyArIHByb21vT2JqLmdldERldmljZURldGFpbHMuY3RhTGluayArICciIHN0eWxlPSJwb3NpdGlvbjogcmVsYXRpdmU7Ij4nICsK</text>
+        <text encoding="base64">ICAgICAgICAnPC9hPicK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>amount</last-search>
+      <last-search encoding="base64">XDxpdGVtSURcPg==</last-search>
       <last-offset />
-      <last-pattern>amount</last-pattern>
+      <last-pattern encoding="base64">XDxpdGVtSURcPg==</last-pattern>
       <last-replace>\}</last-replace>
       <last-substitute>anal</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -769,6 +775,7 @@
         <entry>webpackJsonp</entry>
         <entry>anal</entry>
         <entry>amount</entry>
+        <entry encoding="base64">XDxpdGVtSURcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>

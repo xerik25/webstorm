@@ -81,11 +81,11 @@
         <mark key="." line="32" column="57" />
         <mark key="^" line="32" column="57" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/devicetilewall/devicetilewall.html" timestamp="1472688139047">
-        <mark key="[" line="43" column="9" />
-        <mark key="]" line="43" column="34" />
-        <mark key="^" line="43" column="34" />
-        <mark key="." line="43" column="34" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/devicetilewall/devicetilewall.html" timestamp="1472692017462">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/karma.conf.js" timestamp="1470776229748">
         <mark key="[" line="7" column="61" />
@@ -700,11 +700,11 @@
       <jump line="60" column="54" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/deviceDetails.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>${device.pageUrl}.html</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>${device.pageUrl}.html</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpdGVtSURcPg==</text>

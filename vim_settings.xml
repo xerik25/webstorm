@@ -17,7 +17,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1472752977818">
+      <file name="/a.dummy" timestamp="1473191960534">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -152,6 +152,7 @@
         <mark key="^" line="1" column="38" />
         <mark key="." line="1" column="44" />
       </file>
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/protection.js" timestamp="1473192000419" />
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/app/carousel/carousel.scss" timestamp="1468432416344">
         <mark key="[" line="189" column="0" />
         <mark key="]" line="189" column="0" />
@@ -268,7 +269,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/add-to-cart.js" timestamp="1473187961466" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/add-to-cart.js" timestamp="1473190241379" />
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/.editorconfig" timestamp="1469739054615">
         <mark key="[" line="25" column="14" />
         <mark key="]" line="25" column="15" />
@@ -506,11 +507,11 @@
         <mark key="." line="5" column="38" />
         <mark key="^" line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/device-details.js" timestamp="1473188219937">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="63" column="29" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/device-details.js" timestamp="1473198453659">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="54" column="8" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/js/misc/utilities/cookies.ts" timestamp="1470849045122">
         <mark key="[" line="18" column="28" />
@@ -703,10 +704,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIHZhciBwbGFuU2VydmljZXMgPSAiVEVQTUFYIjsK</text>
+        <text encoding="base64">ICAgIHZhciBwbGFuU2VydmljZXMgPSAiQVBDQVBQMTI5IjsK</text>
       </register>
       <register name="-" type="4">
-        <text>PLUS</text>
+        <text>{&quot;serviceSOCSKU&quot;:&quot;' + planServices + '&quot;,&quot;serviceStatus&quot;:&quot;NEW&quot;}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpdGVtSURcPg==</text>
@@ -715,7 +716,7 @@
         <text encoding="base64">ICAgIHZhciBwbGFuU2VydmljZXMgPSAiVEVQUExVUyI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHZhciBwbGFuU2VydmljZXMgPSAiVEVQTUFYIjsK</text>
+        <text encoding="base64">ICAgIHZhciBwbGFuU2VydmljZXMgPSAiQVBDQVBQMTI5IjsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -727,28 +728,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBwbGFuU09DU2t1ID0gIkxTRDkyQVMiOwo=</text>
+        <text encoding="base64">ICAgIC8vIHZhciBwbGFuU09DU2t1ID0gIkxTRDkyQVMiOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CjxzdHlsZT4KICAvKlRPRE86IFRoaXMgaXMgYSB0bXAgc3R5bGUgdG8gZml4IHRoZSBtb2JpbGUgbWVudSBvdmVybGF5aW5nIGJ1dHRvbnMqLwogIEBtZWRpYSAobWF4LXdpZHRoOiAxMDIzcHgpIHsKICAgIC5nbG9iYWwtbmF2X19tZW51IHsKICAgICAgZGlzcGxheTpub25lOwogICAgfQoKICAgIC5nbG9iYWwtbmF2X19tZW51LmlzLW9wZW4gewogICAgICBkaXNwbGF5OmJsb2NrOwogICAgfQogIH0KPC9zdHlsZT4K</text>
+        <text encoding="base64">ICAgIC8vIHZhciBwbGFuU09DU2t1ID0gIkxTRDkyQVMiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYWRkLXRvLWNhcnQuanMnKTsK</text>
+        <text encoding="base64">ICAgIHRhcmdldEJ1dHRvbi5hdHRyKCdkYXRhLWFkZFRvQ2FydCcsICd7ImRldmljZSI6IHsiaXRlbUlEIjogIicgKyBlbnNlbWJsZUlEdmFsdWUgKyAnIiwgImNvbnRyYWN0SW5mbyI6IHsiY29udHJhY3RJZCI6ICIwLXlyLWliIn19LCJwbGFuIjogeyJwbGFuU09DU0tVIjogIicgKyBwbGFuU09DU2t1ICsgJyJ9LCJzZXJ2aWNlcyI6W3sic2VydmljZVNPQ1NLVSI6IicgKyBwbGFuU2VydmljZXMgKyAnIiwic2VydmljZVN0YXR1cyI6Ik5FVyJ9XX0nKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZERldmljZVBheWxvYWRUZXN0KHRhcmdldEJ1dHRvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGluaXRDYXJ0KCk7Cg==</text>
+        <text encoding="base64">ICAgIHRhcmdldEJ1dHRvbi5hdHRyKCdkYXRhLWFkZFRvQ2FydCcsICd7ImRldmljZSI6IHsiaXRlbUlEIjogIicgKyBlbnNlbWJsZUlEdmFsdWUgKyAnIiwgImNvbnRyYWN0SW5mbyI6IHsiY29udHJhY3RJZCI6ICIwLXlyLWliIn19LCJwbGFuIjogeyJwbGFuU09DU0tVIjogIicgKyBwbGFuU09DU2t1ICsgJyJ9LCJzZXJ2aWNlcyI6W3sic2VydmljZVNPQ1NLVSI6IicgKyBwbGFuU2VydmljZXMgKyAnIiwic2VydmljZVN0YXR1cyI6Ik5FVyJ9XX0nKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICh3aW5kb3cuc3ByaW50QXBwLnByb3RlY3Rpb25QbGFuT2JqLmdldFByb3RlY3Rpb25QbGFuKCkucGxhbikgewogICAgICB0YXJnZXRCdXR0b24uYXR0cignZGF0YS1hZGRUb0NhcnQnLCAneyJkZXZpY2UiOiB7Iml0ZW1JRCI6ICInICsgZW5zZW1ibGVJRHZhbHVlICsgJyIsICJjb250cmFjdEluZm8iOiB7ImNvbnRyYWN0SWQiOiAiMC15ci1pYiJ9fSwicGxhbiI6IHsicGxhblNPQ1NLVSI6ICInICsgcGxhblNPQ1NrdSArICcifSwic2VydmljZXMiOltdfScpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -17,7 +17,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1473200058104">
+      <file name="/a.dummy" timestamp="1473265822700">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -80,6 +80,12 @@
         <mark key="]" line="1" column="10" />
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="10" />
+      </file>
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js.txt" timestamp="1473266049505">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/wlpc/controllers/wlpcPrepaidAccountController.js" timestamp="1469209506650">
         <mark key="[" line="32" column="36" />
@@ -274,7 +280,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/add-to-cart.js" timestamp="1473258352381">
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/add-to-cart.js" timestamp="1473258830736">
         <mark key="[" line="47" column="43" />
         <mark key="]" line="47" column="56" />
         <mark key="." line="47" column="56" />
@@ -523,6 +529,12 @@
         <mark key="^" line="11" column="63" />
         <mark key="." line="11" column="63" />
       </file>
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/upgrade-tradein.js" timestamp="1473265370436">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="27" />
+        <mark key="^" line="58" column="34" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/js/misc/utilities/cookies.ts" timestamp="1470849045122">
         <mark key="[" line="18" column="28" />
         <mark key="]" line="18" column="28" />
@@ -597,6 +609,7 @@
         <mark key="." line="8" column="63" />
         <mark key="^" line="8" column="63" />
       </file>
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/devices-carousel-recommendations.js" timestamp="1473265853379" />
       <file name="$USER_HOME$/Sites/volleyball/.gitignore" timestamp="1467895662958">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="13" />
@@ -611,8 +624,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="0" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/app.js" />
-      <jump line="104" column="0" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/app.js" />
       <jump line="3" column="25983" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/app/styles/jgwentworth.css" />
       <jump line="34" column="24" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/html/components/wlpc-left-rail-navigation.hbs" />
       <jump line="89" column="2" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/wlpc/controllers/wlpcPrepaidAccountController.js" />
@@ -711,10 +722,12 @@
       <jump line="10" column="67" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/deviceDetails.js" />
       <jump line="43" column="0" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/deviceDetails.js" />
       <jump line="60" column="54" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/deviceDetails.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js.txt" />
+      <jump line="35" column="0" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dXBncmFkZS10cmFkZWluLmpzCg==</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -723,10 +736,10 @@
         <text encoding="base64">XDxpdGVtSURcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciBwbGFuU2VydmljZXMgPSAiVEVQUExVUyI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Rlc3RpbmcnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dXBncmFkZS10cmFkZWluLmpzCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -738,28 +751,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkUGxhblBheWxvYWQoKTsKICAgIGJ1aWxkVGVwUGF5bG9hZCgpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGh0dHBzOi8vZGV2aWNlLnNwcmludGRkLmNvbS9jb25mbHVlbmNlL2Rpc3BsYXkvVk1MTkFTUFJDT00vU2FsZXMrLStEYWlseStTdGFuZHVwCg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkUGxhblBheWxvYWQoKTsKICAgIGJ1aWxkVGVwUGF5bG9hZCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGJ1aWxkUGxhblBheWxvYWQoKTsKICAgIC8vIGJ1aWxkVGVwUGF5bG9hZCgpOwo=</text>
+        <text encoding="base64">ICAgIGh0dHBzOi8vZGV2aWNlLnNwcmludGRkLmNvbS9jb25mbHVlbmNlL2Rpc3BsYXkvVk1MTkFTUFJDT00vU2FsZXMrLStEYWlseStTdGFuZHVwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGJ1aWxkUGxhblBheWxvYWQoKTsKICAgIC8vIGJ1aWxkVGVwUGF5bG9hZCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFkZFRvQ2FydEJ1dHRvbi5jbGljayggZnVuY3Rpb24gKGUpIHsK</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHRhcmdldEJ1dHRvbiA9ICQoZS50YXJnZXQpOwogICAgICB2YXIgYWRkVG9DYXJ0U3RyaW5nID0gdGFyZ2V0QnV0dG9uLmF0dHIoJ2RhdGEtYWRkdG9jYXJ0Jyk7CgogICAgICBpZiAoYWRkVG9DYXJ0U3RyaW5nLmluZGV4T2YoJ2RldmljZScpID09PSAwKSB7CiAgICAgICAgYnVpbGREZXZpY2VQYXlsb2FkKHRhcmdldEJ1dHRvbik7CiAgICAgICAgLy8gYnVpbGREZXZpY2VQYXlsb2FkVGVzdCh0YXJnZXRCdXR0b24pOwogICAgICB9IGVsc2UgaWYgKGFkZFRvQ2FydFN0cmluZy5pbmRleE9mKCdzZXJ2aWNlJykgPT09IDApIHsKICAgICAgICBidWlsZFNlcnZpY2VQYXlsb2FkKHRhcmdldEJ1dHRvbik7CiAgICAgIH0gZWxzZSBpZiAoYWRkVG9DYXJ0U3RyaW5nLmluZGV4T2YoJ2FjY2Vzc29yeScpID09PSAwKSB7CiAgICAgICAgYnVpbGRBY2Nlc3NvcnlQYXlsb2FkKHRhcmdldEJ1dHRvbik7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgbG9nKCdkYXRhLWFkZC10by1jYXJ0IHR5cGUgaW52YWxpZCBvciBub3Qgc2V0JywgTE9HX1RZUEVTLldBUk5JTkcpOwogICAgICB9CgogICAgICBidWlsZFBsYW5QYXlsb2FkKCk7CiAgICAgIGJ1aWxkVGVwUGF5bG9hZCgpOwo=</text>
+        <text encoding="base64">ICAgIGFkZFRvQ2FydEJ1dHRvbi5jbGljayggZnVuY3Rpb24gKGUpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZihhZGRUb0NhcnRCdXR0b24pewo=</text>
+        <text encoding="base64">ICAgICAgdmFyIHRhcmdldEJ1dHRvbiA9ICQoZS50YXJnZXQpOwogICAgICB2YXIgYWRkVG9DYXJ0U3RyaW5nID0gdGFyZ2V0QnV0dG9uLmF0dHIoJ2RhdGEtYWRkdG9jYXJ0Jyk7CgogICAgICBpZiAoYWRkVG9DYXJ0U3RyaW5nLmluZGV4T2YoJ2RldmljZScpID09PSAwKSB7CiAgICAgICAgYnVpbGREZXZpY2VQYXlsb2FkKHRhcmdldEJ1dHRvbik7CiAgICAgICAgLy8gYnVpbGREZXZpY2VQYXlsb2FkVGVzdCh0YXJnZXRCdXR0b24pOwogICAgICB9IGVsc2UgaWYgKGFkZFRvQ2FydFN0cmluZy5pbmRleE9mKCdzZXJ2aWNlJykgPT09IDApIHsKICAgICAgICBidWlsZFNlcnZpY2VQYXlsb2FkKHRhcmdldEJ1dHRvbik7CiAgICAgIH0gZWxzZSBpZiAoYWRkVG9DYXJ0U3RyaW5nLmluZGV4T2YoJ2FjY2Vzc29yeScpID09PSAwKSB7CiAgICAgICAgYnVpbGRBY2Nlc3NvcnlQYXlsb2FkKHRhcmdldEJ1dHRvbik7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgbG9nKCdkYXRhLWFkZC10by1jYXJ0IHR5cGUgaW52YWxpZCBvciBub3Qgc2V0JywgTE9HX1RZUEVTLldBUk5JTkcpOwogICAgICB9CgogICAgICBidWlsZFBsYW5QYXlsb2FkKCk7CiAgICAgIGJ1aWxkVGVwUGF5bG9hZCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

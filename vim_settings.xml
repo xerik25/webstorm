@@ -17,7 +17,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1473191960534">
+      <file name="/a.dummy" timestamp="1473200058104">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -152,12 +152,17 @@
         <mark key="^" line="1" column="38" />
         <mark key="." line="1" column="44" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/protection.js" timestamp="1473192000419" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/protection.js" timestamp="1473199957371" />
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/app/carousel/carousel.scss" timestamp="1468432416344">
         <mark key="[" line="189" column="0" />
         <mark key="]" line="189" column="0" />
         <mark key="." line="189" column="0" />
         <mark key="^" line="187" column="36" />
+      </file>
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/deviceprotection/deviceprotection.html" timestamp="1473200304192">
+        <mark key="[" line="38" column="72" />
+        <mark key="]" line="38" column="72" />
+        <mark key="." line="38" column="72" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/constants.js" timestamp="1469209225110">
         <mark key="[" line="0" column="0" />
@@ -703,11 +708,11 @@
       <jump line="60" column="54" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/deviceDetails.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhciBwbGFuU2VydmljZXMgPSAiQVBDQVBQMTI5IjsK</text>
+      <register name="&quot;" type="4">
+        <text>.title</text>
       </register>
       <register name="-" type="4">
-        <text>{&quot;serviceSOCSKU&quot;:&quot;' + planServices + '&quot;,&quot;serviceStatus&quot;:&quot;NEW&quot;}</text>
+        <text>.title</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpdGVtSURcPg==</text>

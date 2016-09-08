@@ -57,11 +57,10 @@
         <mark key="^" line="19" column="61" />
         <mark key="." line="19" column="61" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/utils.js" timestamp="1473366079262">
-        <mark key="[" line="50" column="36" />
-        <mark key="]" line="51" column="18" />
-        <mark key="^" line="51" column="18" />
-        <mark key="." line="51" column="18" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/utils.js" timestamp="1473367034834">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/target/classes/apps/sprint-transformation/components/content/addtocarttest/addtocarttest.html" timestamp="1472744113885">
         <mark key="[" line="1" column="132" />
@@ -318,13 +317,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/deviceDetails.js" timestamp="1472747701263">
-        <mark key="'" line="60" column="54" />
-        <mark key="[" line="47" column="23" />
-        <mark key="]" line="47" column="81" />
-        <mark key="^" line="47" column="81" />
-        <mark key="." line="47" column="81" />
-      </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/contact_us_offices/_data.json" timestamp="1468877921413">
         <mark key="[" line="53" column="19" />
         <mark key="]" line="18" column="16" />
@@ -564,6 +556,12 @@
       <file name="/Dummy.txt" timestamp="1472170949940">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/paginator.js" timestamp="1473366855605">
+        <mark key="[" line="80" column="72" />
+        <mark key="]" line="81" column="20" />
+        <mark key="^" line="81" column="20" />
+        <mark key="." line="81" column="20" />
+      </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/attributes/modal-redirect/index.js" timestamp="1469211156771">
         <mark key="[" line="28" column="60" />
         <mark key="]" line="28" column="81" />
@@ -597,6 +595,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/addtocarttest/addtocarttest.html" timestamp="1472683596077">
+        <mark key="[" line="1" column="129" />
+        <mark key="]" line="1" column="129" />
+        <mark key="." line="1" column="129" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.js" timestamp="1472144081282">
         <mark key="[" line="3" column="0" />
@@ -744,7 +747,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBlbmFibGUgYWRkLXRvLWNhcnQgYnV0dG9ucwogICAgICAgICQoJy5hZGQtdG8tY2FydCcpLmF0dHIoImRpc2FibGVkIiwgZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZGVidWdnZXI7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;disabled&quot;</text>
@@ -756,7 +759,7 @@
         <text encoding="base64">ICAgICAgICAvLyBlbmFibGUgYWRkLXRvLWNhcnQgYnV0dG9ucwogICAgICAgICQoJy5hZGQtdG8tY2FydCcpLmF0dHIoImRpc2FibGVkIiwgZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAkKCcuYWRkLXRvLWNhcnQnKS5hdHRyKCJkaXNhYmxlZCIsICJkaXNhYmxlZCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZGVidWdnZXI7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -768,24 +771,27 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gcHJvdGVjdGlvbk9wdG91dC5jaGFuZ2UoIG9wdE91dFByb3RlY3Rpb25QbGFuICkK</text>
+        <text encoding="base64">ICAkKCcuYWRkLXRvLWNhcnQnKS5hdHRyKCJkaXNhYmxlZCIsICJkaXNhYmxlZCIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gcHJvdGVjdGlvbk9wdG91dC5jaGFuZ2UoIG9wdE91dFByb3RlY3Rpb25QbGFuICkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YXIgb3B0T3V0ID0gJCgnI3Byb3RlY3Rpb25fb3B0X291dCcpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB2YXIgb3B0T3V0ID0gJCgnI3Byb3RlY3Rpb25fb3B0X291dCcpOwo=</text>
+      </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIC8vIHZhciBvcHRPCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>ProtectionPlan = function(){
     //     if($('#protection_opt_out').prop('checked') == true) {
     //         $('.device-protection__option').find('input[type=&quot;radio&quot;]').prop('checked', false);
@@ -799,9 +805,6 @@
       // var optOut = $('#protection_opt_out');
       // optOut.prop(&quot;checked&quot;, optOut.prop(&quot;checked&quot;));
       // },250);</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gdG1wID0gZmFsc2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

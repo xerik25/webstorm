@@ -161,7 +161,12 @@
         <mark key="^" line="1" column="38" />
         <mark key="." line="1" column="44" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/protection.js" timestamp="1473199957371" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/protection.js" timestamp="1473293165819">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="63" column="6" />
+      </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/app/carousel/carousel.scss" timestamp="1468432416344">
         <mark key="[" line="189" column="0" />
         <mark key="]" line="189" column="0" />
@@ -283,7 +288,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/add-to-cart.js" timestamp="1473285995910">
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/add-to-cart.js" timestamp="1473289928578">
         <mark key="[" line="319" column="78" />
         <mark key="]" line="319" column="80" />
         <mark key="." line="319" column="80" />
@@ -597,7 +602,7 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="/a.regexp" timestamp="1473284282363">
+      <file name="/a.regexp" timestamp="1473291399916">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/build/components/footer/_footer.jade" timestamp="1467908202406">
@@ -736,20 +741,20 @@
       <jump line="35" column="0" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>plan</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc3R1ZmYnKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>plan</text>
+        <text>debounce(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpdGVtSURcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Rlc3RpbmcnKTsK</text>
+        <text encoding="base64">ICAgIHZhciBvcHRPdXRQcm90ZWN0aW9uUGxhbiA9IGRlYm91bmNlKGZ1bmN0aW9uKCkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXBncmFkZS10cmFkZWluLmpzCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc3R1ZmYnKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -761,28 +766,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICQoJy5zZWxlY3RlZC1wbGFuLXRpY2stYWN0aXZlJykuYWRkQ2xhc3MoJ3NlbGVjdGVkLXBsYW4tdGljay1hY3RpdmUnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkUGxhblBheWxvYWQoKTsKICAgIGJ1aWxkVGVwUGF5bG9hZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICQoJy5wcm90ZWN0aW9uLXBsYW4tcGlja2VyX19yYWRpbycpLnByb3AoJ2NoZWNrZWQnLCB0cnVlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGh0dHBzOi8vZGV2aWNlLnNwcmludGRkLmNvbS9jb25mbHVlbmNlL2Rpc3BsYXkvVk1MTkFTUFJDT00vU2FsZXMrLStEYWlseStTdGFuZHVwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICQoJy5kZXZpY2UtcHJvdGVjdGlvbl9fb3B0aW9uJykuZmluZCgnaW5wdXRbdHlwZT0icmFkaW8iXScpLnByb3AoJ2NoZWNrZWQnLCB0cnVlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGJ1aWxkUGxhblBheWxvYWQoKTsKICAgIC8vIGJ1aWxkVGVwUGF5bG9hZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICQoJyNwcm90ZWN0aW9uX29wdF9vdXQnKS5wcm9wKCdjaGVja2VkJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXBncmFkZS10cmFkZWluLmpzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFkZFRvQ2FydEJ1dHRvbi5jbGljayggZnVuY3Rpb24gKGUpIHsK</text>
+        <text encoding="base64">ICAgIGJ1aWxkUGxhblBheWxvYWQoKTsKICAgIGJ1aWxkVGVwUGF5bG9hZCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHRhcmdldEJ1dHRvbiA9ICQoZS50YXJnZXQpOwogICAgICB2YXIgYWRkVG9DYXJ0U3RyaW5nID0gdGFyZ2V0QnV0dG9uLmF0dHIoJ2RhdGEtYWRkdG9jYXJ0Jyk7CgogICAgICBpZiAoYWRkVG9DYXJ0U3RyaW5nLmluZGV4T2YoJ2RldmljZScpID09PSAwKSB7CiAgICAgICAgYnVpbGREZXZpY2VQYXlsb2FkKHRhcmdldEJ1dHRvbik7CiAgICAgICAgLy8gYnVpbGREZXZpY2VQYXlsb2FkVGVzdCh0YXJnZXRCdXR0b24pOwogICAgICB9IGVsc2UgaWYgKGFkZFRvQ2FydFN0cmluZy5pbmRleE9mKCdzZXJ2aWNlJykgPT09IDApIHsKICAgICAgICBidWlsZFNlcnZpY2VQYXlsb2FkKHRhcmdldEJ1dHRvbik7CiAgICAgIH0gZWxzZSBpZiAoYWRkVG9DYXJ0U3RyaW5nLmluZGV4T2YoJ2FjY2Vzc29yeScpID09PSAwKSB7CiAgICAgICAgYnVpbGRBY2Nlc3NvcnlQYXlsb2FkKHRhcmdldEJ1dHRvbik7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgbG9nKCdkYXRhLWFkZC10by1jYXJ0IHR5cGUgaW52YWxpZCBvciBub3Qgc2V0JywgTE9HX1RZUEVTLldBUk5JTkcpOwogICAgICB9CgogICAgICBidWlsZFBsYW5QYXlsb2FkKCk7CiAgICAgIGJ1aWxkVGVwUGF5bG9hZCgpOwo=</text>
+        <text encoding="base64">ICAgIGh0dHBzOi8vZGV2aWNlLnNwcmludGRkLmNvbS9jb25mbHVlbmNlL2Rpc3BsYXkvVk1MTkFTUFJDT00vU2FsZXMrLStEYWlseStTdGFuZHVwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

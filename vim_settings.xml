@@ -58,10 +58,10 @@
         <mark key="." line="19" column="61" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/utils.js" timestamp="1473347197842">
-        <mark key="[" line="132" column="26" />
-        <mark key="]" line="132" column="26" />
-        <mark key="^" line="132" column="26" />
-        <mark key="." line="132" column="26" />
+        <mark key="[" line="103" column="26" />
+        <mark key="]" line="103" column="26" />
+        <mark key="^" line="103" column="26" />
+        <mark key="." line="103" column="26" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/target/classes/apps/sprint-transformation/components/content/addtocarttest/addtocarttest.html" timestamp="1472744113885">
         <mark key="[" line="1" column="132" />
@@ -103,10 +103,10 @@
         <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/upgradeeligiblemessage/upgradeeligiblemessage.html" timestamp="1473280202160">
-        <mark key="[" line="13" column="78" />
-        <mark key="]" line="13" column="113" />
-        <mark key="^" line="13" column="113" />
-        <mark key="." line="13" column="113" />
+        <mark key="[" line="14" column="78" />
+        <mark key="]" line="14" column="113" />
+        <mark key="^" line="14" column="113" />
+        <mark key="." line="14" column="113" />
       </file>
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/karma.conf.js" timestamp="1470776229748">
         <mark key="[" line="7" column="61" />
@@ -167,11 +167,11 @@
         <mark key="^" line="1" column="38" />
         <mark key="." line="1" column="44" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/protection.js" timestamp="1473356732687">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="51" column="49" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/protection.js" timestamp="1473357723561">
+        <mark key="[" line="42" column="56" />
+        <mark key="]" line="43" column="5" />
+        <mark key="." line="43" column="5" />
+        <mark key="^" line="43" column="5" />
       </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/app/carousel/carousel.scss" timestamp="1468432416344">
         <mark key="[" line="189" column="0" />
@@ -538,11 +538,11 @@
         <mark key="." line="5" column="38" />
         <mark key="^" line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/device-details.js" timestamp="1473257660451">
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="11" column="63" />
-        <mark key="^" line="11" column="63" />
-        <mark key="." line="11" column="63" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/device-details.js" timestamp="1473357600461">
+        <mark key="[" line="11" column="37" />
+        <mark key="]" line="11" column="40" />
+        <mark key="^" line="11" column="40" />
+        <mark key="." line="11" column="40" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/upgrade-tradein.js" timestamp="1473277834151">
         <mark key="[" line="408" column="34" />
@@ -744,19 +744,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gcHJvdGVjdGlvbk9wdG91dC5jaGFuZ2UoIG9wdE91dFByb3RlY3Rpb25QbGFuICkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBlbmFibGUgYWRkLXRvLWNhcnQgYnV0dG9ucwogICAgICAgICQoJy5hZGQtdG8tY2FydCcpLmF0dHIoImRpc2FibGVkIiwgZmFsc2UpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>.prop</text>
+        <text>&quot;disabled&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpdGVtSURcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgb3B0T3V0LnByb3AoJ2NoZWNrZWQnLCB0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBlbmFibGUgYWRkLXRvLWNhcnQgYnV0dG9ucwogICAgICAgICQoJy5hZGQtdG8tY2FydCcpLmF0dHIoImRpc2FibGVkIiwgZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gcHJvdGVjdGlvbk9wdG91dC5jaGFuZ2UoIG9wdE91dFByb3RlY3Rpb25QbGFuICkK</text>
+        <text encoding="base64">ICAkKCcuYWRkLXRvLWNhcnQnKS5hdHRyKCJkaXNhYmxlZCIsICJkaXNhYmxlZCIpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -768,21 +768,24 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gcHJvdGVjdGlvbk9wdG91dC5jaGFuZ2UoIG9wdE91dFByb3RlY3Rpb25QbGFuICkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YXIgb3B0T3V0ID0gJCgnI3Byb3RlY3Rpb25fb3B0X291dCcpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB2YXIgb3B0T3V0ID0gJCgnI3Byb3RlY3Rpb25fb3B0X291dCcpOwo=</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIC8vIHZhciBvcHRPCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>ProtectionPlan = function(){
     //     if($('#protection_opt_out').prop('checked') == true) {
     //         $('.device-protection__option').find('input[type=&quot;radio&quot;]').prop('checked', false);
@@ -797,11 +800,8 @@
       // optOut.prop(&quot;checked&quot;, optOut.prop(&quot;checked&quot;));
       // },250);</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gdG1wID0gZmFsc2U7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gfSBlbHNlIGlmICh0bXApIHsK</text>
+        <text encoding="base64">ICAgICAgLy8gdG1wID0gZmFsc2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

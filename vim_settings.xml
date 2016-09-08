@@ -167,11 +167,11 @@
         <mark key="^" line="1" column="38" />
         <mark key="." line="1" column="44" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/protection.js" timestamp="1473349277575">
-        <mark key="[" line="56" column="5" />
-        <mark key="]" line="56" column="5" />
-        <mark key="." line="56" column="5" />
-        <mark key="^" line="49" column="39" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/protection.js" timestamp="1473356732687">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="51" column="49" />
       </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/app/carousel/carousel.scss" timestamp="1468432416344">
         <mark key="[" line="189" column="0" />
@@ -179,11 +179,11 @@
         <mark key="." line="189" column="0" />
         <mark key="^" line="187" column="36" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/deviceprotection/deviceprotection.html" timestamp="1473349682616">
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/deviceprotection/deviceprotection.html" timestamp="1473356330674">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
-        <mark key="^" line="97" column="0" />
+        <mark key="^" line="97" column="35" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/constants.js" timestamp="1469209225110">
         <mark key="[" line="0" column="0" />
@@ -295,7 +295,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/add-to-cart.js" timestamp="1473296736433">
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/add-to-cart.js" timestamp="1473351782333">
         <mark key="[" line="319" column="78" />
         <mark key="]" line="319" column="80" />
         <mark key="." line="319" column="80" />
@@ -743,20 +743,20 @@
       <jump line="35" column="0" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLy8gcHJvdGVjdGlvbk9wdG91dC5jaGFuZ2UoIG9wdE91dFByb3RlY3Rpb25QbGFuICkK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>.prop</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpdGVtSURcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2YXIgb3B0T3V0UHJvdGVjdGlvblBsYW4gPSB3aW5kb3cuc3ByaW50QXBwLnV0aWxzLmRlYm91bmNlKGZ1bmN0aW9uKCkgewo=</text>
+        <text encoding="base64">ICAgICAgb3B0T3V0LnByb3AoJ2NoZWNrZWQnLCB0cnVlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciB0bXAgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgLy8gcHJvdGVjdGlvbk9wdG91dC5jaGFuZ2UoIG9wdE91dFByb3RlY3Rpb25QbGFuICkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -768,28 +768,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciB0bXAgPSBmYWxzZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YXIgb3B0T3V0ID0gJCgnI3Byb3RlY3Rpb25fb3B0X291dCcpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9KTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBvcHRPdXQuY2xpY2soIGZ1bmN0aW9uIChlKSB7CiAgICBlLnByZXZlbnREZWZhdWx0KCk7CiAgICBpZiAob3B0T3V0LnByb3AoJ2NoZWNrZWQnKSkgewogICAgLy8gJCgnLmRldmljZS1wcm90ZWN0aW9uX19vcHRpb24nKS5maW5kKCdpbnB1dFt0eXBlPSJyYWRpbyJdJykucHJvcCgnY2hlY2tlZCcsIGZhbHNlKTsKICAgIC8vICQoJy5wcm90ZWN0aW9uLXBsYW4tcGlja2VyX19yYWRpbycpLnByb3AoJ2NoZWNrZWQnLCBmYWxzZSk7CiAgICAvLyAkKCcuc2VsZWN0ZWQtcGxhbi10aWNrLWFjdGl2ZScpLnJlbW92ZUNsYXNzKCdzZWxlY3RlZC1wbGFuLXRpY2stYWN0aXZlJyk7CiAgICAvLyB3aW5kb3cuc3ByaW50QXBwLnByb3RlY3Rpb25QbGFuT2JqLnNldFByb3RlY3Rpb25QbGFuKG51bGwsIG51bGwsIG51bGwpOwogIH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIHZhciBvcHRPCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>ProtectionPlan = function(){
+    //     if($('#protection_opt_out').prop('checked') == true) {
+    //         $('.device-protection__option').find('input[type=&quot;radio&quot;]').prop('checked', false);
+    //         $('.protection-plan-picker__radio').prop('checked', false);
+    //         $('.selected-plan-tick-active').removeClass('selected-plan-tick-active');
+    //         window.sprintApp.protectionPlanObj.setProtectionPlan(null, null, null);
+    //     }
+    // };
+
+      // var optOutProtectionPlan = window.sprintApp.utils.debounce(function() {
+      // var optOut = $('#protection_opt_out');
+      // optOut.prop(&quot;checked&quot;, optOut.prop(&quot;checked&quot;));
+      // },250);</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgLy8gdG1wID0gZmFsc2U7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBvcHRPdXQgPSAkKCcjcHJvdGVjdGlvbl9vcHRfb3V0JykucHJvcCgnY2hlY2tlZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gfSBlbHNlIGlmICh0bXApIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

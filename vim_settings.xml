@@ -57,10 +57,10 @@
         <mark key="^" line="19" column="61" />
         <mark key="." line="19" column="61" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/utils.js" timestamp="1473367034834">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/utils.js" timestamp="1473376778394">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/target/classes/apps/sprint-transformation/components/content/addtocarttest/addtocarttest.html" timestamp="1472744113885">
         <mark key="[" line="1" column="132" />
@@ -166,11 +166,11 @@
         <mark key="^" line="1" column="38" />
         <mark key="." line="1" column="44" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/protection.js" timestamp="1473357723561">
-        <mark key="[" line="42" column="56" />
-        <mark key="]" line="43" column="5" />
-        <mark key="." line="43" column="5" />
-        <mark key="^" line="43" column="5" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/protection.js" timestamp="1473376755104">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="51" column="54" />
       </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/app/carousel/carousel.scss" timestamp="1468432416344">
         <mark key="[" line="189" column="0" />
@@ -472,10 +472,10 @@
         <mark key="^" line="5" column="19" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/proxy.js" timestamp="1473347074393">
-        <mark key="[" line="49" column="17" />
-        <mark key="]" line="49" column="18" />
-        <mark key="." line="49" column="18" />
-        <mark key="^" line="49" column="18" />
+        <mark key="[" line="48" column="17" />
+        <mark key="]" line="48" column="18" />
+        <mark key="." line="48" column="18" />
+        <mark key="^" line="48" column="18" />
       </file>
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/js/misc/typings/googlemaps/google.maps.d.ts" timestamp="1471277524745">
         <mark key="[" line="109" column="3" />
@@ -595,11 +595,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/addtocarttest/addtocarttest.html" timestamp="1472683596077">
-        <mark key="[" line="1" column="129" />
-        <mark key="]" line="1" column="129" />
-        <mark key="." line="1" column="129" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.js" timestamp="1472144081282">
         <mark key="[" line="3" column="0" />
@@ -747,19 +742,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;disabled&quot;</text>
+        <text>optOutProtectionPlan</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpdGVtSURcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBlbmFibGUgYWRkLXRvLWNhcnQgYnV0dG9ucwogICAgICAgICQoJy5hZGQtdG8tY2FydCcpLmF0dHIoImRpc2FibGVkIiwgZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcm90ZWN0aW9uT3B0b3V0LmFkZEV2ZW50TGlzdGVuZXIoJ2NsaWNrJywgb3B0T3V0UHJvdGVjdGlvblBsYW4pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -771,40 +766,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAkKCcuYWRkLXRvLWNhcnQnKS5hdHRyKCJkaXNhYmxlZCIsICJkaXNhYmxlZCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gcHJvdGVjdGlvbk9wdG91dC5jaGFuZ2UoIG9wdE91dFByb3RlY3Rpb25QbGFuICkK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQSBnZW5lcm5hbCBkZWJvdW5jZSBmdW5jdGlvbgogICAgICogQHBhcmFtIGZ1bmMKICAgICAqIEBwYXJhbSB3YWl0CiAgICAgKiBAcGFyYW0gaW1tZWRpYXRlCiAgICAgKiBAcmV0dXJucyB7RnVuY3Rpb259CiAgICAgKi8KICAgIHZhciBkZWJvdW5jZSA9IGZ1bmN0aW9uIGRlYm91bmNlKGZ1bmMsIHdhaXQsIGltbWVkaWF0ZSkgewogICAgICAgIHZhciB0aW1lb3V0OwogICAgICAgIHJldHVybiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgdmFyIGNvbnRleHQgPSB0aGlzLCBhcmdzID0gYXJndW1lbnRzOwogICAgICAgICAgICB2YXIgbGF0ZXIgPSBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgIHRpbWVvdXQgPSBudWxsOwogICAgICAgICAgICAgICAgaWYgKCFpbW1lZGlhdGUpIGZ1bmMuYXBwbHkoY29udGV4dCwgYXJncyk7CiAgICAgICAgICAgIH07CiAgICAgICAgICAgIHZhciBjYWxsTm93ID0gaW1tZWRpYXRlICYmICF0aW1lb3V0OwogICAgICAgICAgICBjbGVhclRpbWVvdXQodGltZW91dCk7CiAgICAgICAgICAgIHRpbWVvdXQgPSBzZXRUaW1lb3V0KGxhdGVyLCB3YWl0KTsKICAgICAgICAgICAgaWYgKGNhbGxOb3cpIGZ1bmMuYXBwbHkoY29udGV4dCwgYXJncyk7CiAgICAgICAgfTsKICAgIH07</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJvdW5jZTogZGVib3VuY2UsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdGluZycpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YXIgb3B0T3V0ID0gJCgnI3Byb3RlY3Rpb25fb3B0X291dCcpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHZhciBvcHRPCg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIG9wdE91dFByb3RlY3Rpb25QbGFuICgpIHsK</text>
       </register>
-      <register name="9" type="4">
-        <text>ProtectionPlan = function(){
-    //     if($('#protection_opt_out').prop('checked') == true) {
-    //         $('.device-protection__option').find('input[type=&quot;radio&quot;]').prop('checked', false);
-    //         $('.protection-plan-picker__radio').prop('checked', false);
-    //         $('.selected-plan-tick-active').removeClass('selected-plan-tick-active');
-    //         window.sprintApp.protectionPlanObj.setProtectionPlan(null, null, null);
-    //     }
-    // };
-
-      // var optOutProtectionPlan = window.sprintApp.utils.debounce(function() {
-      // var optOut = $('#protection_opt_out');
-      // optOut.prop(&quot;checked&quot;, optOut.prop(&quot;checked&quot;));
-      // },250);</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdGluZycpOwogICAgICAgIHZhciBwcm90ZWN0aW9uUGxhbiA9IHdpbmRvdy5zcHJpbnRBcHAucHJvdGVjdGlvblBsYW5PYmouZ2V0UHJvdGVjdGlvblBsYW4oKS5zb2M7CiAgICAgICAgdmFyIG9wdE91dCA9ICQoJyNwcm90ZWN0aW9uX29wdF9vdXQnKTsKCiAgICAgICAgaWYgKHByb3RlY3Rpb25QbGFuKSB7CiAgICAgICAgICAkKCcuZGV2aWNlLXByb3RlY3Rpb25fX29wdGlvbicpLmZpbmQoJ2lucHV0W3R5cGU9InJhZGlvIl0nKS5wcm9wKCdjaGVja2VkJywgZmFsc2UpOwogICAgICAgICAgJCgnLnByb3RlY3Rpb24tcGxhbi1waWNrZXJfX3JhZGlvJykucHJvcCgnY2hlY2tlZCcsIGZhbHNlKTsKICAgICAgICAgICQoJy5zZWxlY3RlZC1wbGFuLXRpY2stYWN0aXZlJykucmVtb3ZlQ2xhc3MoJ3NlbGVjdGVkLXBsYW4tdGljay1hY3RpdmUnKTsKICAgICAgICAgIHdpbmRvdy5zcHJpbnRBcHAucHJvdGVjdGlvblBsYW5PYmouc2V0UHJvdGVjdGlvblBsYW4obnVsbCwgbnVsbCwgbnVsbCk7CiAgICAgICAgICBvcHRPdXQucHJvcCgnY2hlY2tlZCcsIHRydWUpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICBvcHRPdXQucHJvcCgnY2hlY2tlZCcsIHRydWUpOwogICAgICAgIH0KCiAgICAgICAgLy8gZW5hYmxlIGFkZC10by1jYXJ0IGJ1dHRvbnMKICAgICAgICAkKCcuYWRkLXRvLWNhcnQnKS5hdHRyKCJkaXNhYmxlZCIsIGZhbHNlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

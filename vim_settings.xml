@@ -75,10 +75,17 @@
         <mark key="^" line="2" column="57" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/update-profile.js" timestamp="1473886624619">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/update-profile.js" timestamp="1473888241916">
+        <mark key="[" line="18" column="48" />
+        <mark key="]" line="18" column="48" />
+        <mark key="." line="18" column="48" />
+        <mark key="^" line="18" column="30" />
+      </file>
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js.txt" timestamp="1473887622434">
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="23" column="16" />
+        <mark key="^" line="23" column="16" />
+        <mark key="." line="23" column="16" />
       </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/personal-profile/_data.json" timestamp="1468615586448">
         <mark key="[" line="1" column="3" />
@@ -220,11 +227,11 @@
         <mark key="." line="153" column="30" />
         <mark key="^" line="153" column="30" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/device.js" timestamp="1473886139071">
-        <mark key="[" line="140" column="37" />
-        <mark key="]" line="140" column="49" />
-        <mark key="^" line="140" column="49" />
-        <mark key="." line="140" column="49" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/device.js" timestamp="1473888775192">
+        <mark key="[" line="154" column="51" />
+        <mark key="]" line="154" column="57" />
+        <mark key="^" line="154" column="57" />
+        <mark key="." line="154" column="57" />
       </file>
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/js/misc/test-demo/test.ts" timestamp="1470075673150">
         <mark key="[" line="3" column="0" />
@@ -596,11 +603,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/addtocarttest/addtocarttest.html" timestamp="1472683596077">
-        <mark key="[" line="1" column="129" />
-        <mark key="]" line="1" column="129" />
-        <mark key="." line="1" column="129" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.js" timestamp="1472144081282">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="5" column="32" />
@@ -747,19 +749,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>sprintApp</text>
+        <text>userAttrObj</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpdGVtSURcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3ByaW50QXBwLnVwZGF0ZVByb2ZpbGUgPSBmdW5jdGlvbihvYmopewo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd1c2VyQXR0ck9iaicsIHVzZXJBdHRyT2JqKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -771,28 +773,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0aW5nJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlRGV2aWNlQXZhaWxhYmlsaXR5U3RhdHVzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA3NTc2MDcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aW5kb3cuc3ByaW50QXBwLnVwZGF0ZVByb2ZpbGUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV2ZXJzZU9yZGVyT2ZHQlNpemVzKCk7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3Rlc3RpbmcnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICByZXZlcnNlT3JkZXJPZkdCU2l6ZXMoKTsKICAgICAgICAgICAgICAgIHNldEFjdGl2ZUNvbG9yUGlja2VyU2V0KGFjdGl2ZVN0b3JhZ2UpOwogICAgICAgICAgICAgICAgdXBkYXRlRGV2aWNlQXZhaWxhYmlsaXR5U3RhdHVzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHJldmVyc2VPcmRlck9mR0JTaXplcygpOwogICAgICAgICAgICBzZXRBY3RpdmVDb2xvclBpY2tlclNldChhY3RpdmVTdG9yYWdlKTsKICAgICAgICAgICAgdXBkYXRlRGV2aWNlQXZhaWxhYmlsaXR5U3RhdHVzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV2ZXJzZU9yZGVyT2ZHQlNpemVzKCk7CiAgICAgICAgc2V0QWN0aXZlQ29sb3JQaWNrZXJTZXQoYWN0aXZlU3RvcmFnZSk7CiAgICAgICAgdXBkYXRlRGV2aWNlQXZhaWxhYmlsaXR5U3RhdHVzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

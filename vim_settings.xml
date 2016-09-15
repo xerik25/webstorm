@@ -75,11 +75,11 @@
         <mark key="^" line="2" column="57" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/update-profile.js" timestamp="1473965278270">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="17" column="37" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/update-profile.js" timestamp="1473967107065">
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="25" column="16" />
+        <mark key="^" line="25" column="16" />
+        <mark key="." line="25" column="16" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js.txt" timestamp="1473887622434">
         <mark key="[" line="22" column="19" />
@@ -355,6 +355,7 @@
         <mark key="." line="60" column="29" />
         <mark key="^" line="29" column="33" />
       </file>
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-web/components/content/devicedata/devicedata.html" timestamp="1473966470600" />
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/attributes/get-tracking-pixel/index.js" timestamp="1469210949387">
         <mark key="[" line="13" column="31" />
         <mark key="]" line="13" column="33" />
@@ -555,9 +556,6 @@
         <mark key="." line="30" column="32" />
         <mark key="^" line="30" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472170949940">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/paginator.js" timestamp="1473368046176">
         <mark key="[" line="70" column="57" />
         <mark key="]" line="71" column="20" />
@@ -598,14 +596,21 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/addtocarttest/addtocarttest.html" timestamp="1472683596077">
+        <mark key="[" line="1" column="129" />
+        <mark key="]" line="1" column="129" />
+        <mark key="." line="1" column="129" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.js" timestamp="1472144081282">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="5" column="32" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="/a.regexp" timestamp="1473964471538">
+      <file name="/a.regexp" timestamp="1473966446708">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/build/components/footer/_footer.jade" timestamp="1467908202406">
         <mark key="[" line="5" column="0" />
@@ -743,17 +748,17 @@
       <jump line="168" column="20" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/device.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnbGFuZG9uIGRhdGEnLCBkYXRhKTsK</text>
+      <register name="&quot;" type="4">
+        <text>original</text>
       </register>
       <register name="-" type="4">
-        <text>response</text>
+        <text>original</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpdGVtSURcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJBdHRyT2JqID0gcmVzcG9uc2UudXNlckF0dHJpYnV0ZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb3JpZ2luYWwnLCBvcmlnaW5hbCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnbGFuZG9uIGRhdGEnLCBkYXRhKTsK</text>

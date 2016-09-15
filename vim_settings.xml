@@ -324,6 +324,13 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/deviceDetails.js" timestamp="1472747701263">
+        <mark key="'" line="60" column="54" />
+        <mark key="[" line="47" column="23" />
+        <mark key="]" line="47" column="81" />
+        <mark key="^" line="47" column="81" />
+        <mark key="." line="47" column="81" />
+      </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/contact_us_offices/_data.json" timestamp="1468877921413">
         <mark key="[" line="53" column="19" />
         <mark key="]" line="18" column="16" />
@@ -354,7 +361,7 @@
         <mark key="." line="60" column="29" />
         <mark key="^" line="29" column="33" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-web/components/content/devicedata/devicedata.html" timestamp="1473966470600" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-web/components/content/devicedata/devicedata.html" timestamp="1473970385967" />
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/attributes/get-tracking-pixel/index.js" timestamp="1469210949387">
         <mark key="[" line="13" column="31" />
         <mark key="]" line="13" column="33" />
@@ -521,10 +528,12 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/devicedetail/devicedetail.html" timestamp="1472693817964">
-        <mark key="[" line="0" column="39" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/devicedetail/devicedetail.html" timestamp="1473970422850">
+        <mark key="'" line="2" column="100" />
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="2" column="100" />
       </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/profile_thumbnail/profile_thumbnail.jade" timestamp="1468955636935">
         <mark key="[" line="5" column="37" />
@@ -645,7 +654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="24" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/html/components/wlpc-left-rail-navigation.hbs" />
       <jump line="89" column="2" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/wlpc/controllers/wlpcPrepaidAccountController.js" />
       <jump line="91" column="0" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/wlpc/controllers/wlpcPrepaidAccountController.js" />
       <jump line="30" column="0" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/scss/globals/_wlpc-page.scss" />
@@ -745,13 +753,14 @@
       <jump line="33" column="0" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js.txt" />
       <jump line="35" column="0" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js.txt" />
       <jump line="168" column="20" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/device.js" />
+      <jump line="2" column="100" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/devicedetail/devicedetail.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGRhdGEtdGVzdGluZy5zb21ldGhpbmc9IiI=</text>
       </register>
       <register name="-" type="4">
-        <text>original</text>
+        <text encoding="base64">IGRhdGEtdGVzdGluZy5zb21ldGhpbmc9IiI=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpdGVtSURcPg==</text>

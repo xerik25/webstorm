@@ -60,11 +60,11 @@
         <mark key="^" line="2" column="57" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/update-profile.js" timestamp="1474316775094">
-        <mark key="[" line="144" column="39" />
-        <mark key="]" line="144" column="39" />
-        <mark key="." line="144" column="39" />
-        <mark key="^" line="40" column="62" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/update-profile.js" timestamp="1474319899309">
+        <mark key="[" line="41" column="52" />
+        <mark key="]" line="41" column="54" />
+        <mark key="." line="41" column="54" />
+        <mark key="^" line="41" column="54" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js.txt" timestamp="1473887622434">
         <mark key="[" line="22" column="19" />
@@ -666,19 +666,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">J3wnICsg</text>
+        <text>UPG</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">J3wnICsg</text>
+        <text>UPG</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpdGVtSURcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBycGwgPSB0ZXN0LnJlcGxhY2UoJ3wnICsgdXBkYXRlZC5jdXJyZW50U2hvcGluZ1BhdGgsICcnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJjdXJyZW50U2hvcGluZ1BhdGgiIDogJ1VQR3xBQVB8QUFMJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHZhciBycGwgPSB0ZXN0LnJlcGxhY2UodXBkYXRlZC5jdXJyZW50U2hvcGluZ1BhdGgsICcnKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -690,25 +690,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHZhciBycGwgPSB0ZXN0LnJlcGxhY2UoJ3wnICsgdXBkYXRlZC5jdXJyZW50U2hvcGluZ1BhdGgsICcnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQuZWFjaCh0ZXN0LCBmdW5jdGlvbiggaW5kZXgsIHZhbHVlICkgewogICAgICAgICAgICAgICAgICAgIGlmICh2YWx1ZSA9PT0gdXBkYXRlZC5jdXJyZW50U2hvcGluZ1BhdGgpCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdyZW1vdmluZycsIGkpOwogICAgICAgICAgICAgICAgICAgIHRlc3Quc3BsaWNlKGksIDEpOwogICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygncmVtb3ZpbmcnLCBpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2ZpcnN0IHBhdGg6JywgdXBkYXRlZC5jdXJyZW50U2hvcGluZ1BhdGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbGVydCggaW5kZXggKyAiOiAiICsgdmFsdWUgKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JpZ2luYWwuY3VycmVudFNob3BpbmdQYXRoID0gdXBkYXRlZC5jdXJyZW50U2hvcGluZ1BhdGg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>

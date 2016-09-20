@@ -207,11 +207,11 @@
         <mark key="." line="153" column="30" />
         <mark key="^" line="153" column="30" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/device.js" timestamp="1474392224710">
-        <mark key="[" line="422" column="33" />
-        <mark key="]" line="422" column="47" />
-        <mark key="." line="422" column="47" />
-        <mark key="^" line="422" column="47" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/device.js" timestamp="1474393303365">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="^" line="420" column="47" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/attributes/delete-cookie/index.js" timestamp="1471446835099">
         <mark key="[" line="1" column="58" />
@@ -225,7 +225,7 @@
         <mark key="^" line="79" column="118" />
         <mark key="." line="79" column="118" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/family-plan.js" timestamp="1474392230207">
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/family-plan.js" timestamp="1474392842560">
         <mark key="[" line="138" column="0" />
         <mark key="]" line="141" column="4" />
         <mark key="." line="141" column="4" />
@@ -355,6 +355,12 @@
         <mark key="]" line="40" column="39" />
         <mark key="^" line="40" column="39" />
         <mark key="." line="40" column="39" />
+      </file>
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/upgrade-wall.js" timestamp="1474392920258">
+        <mark key="[" line="155" column="83" />
+        <mark key="]" line="157" column="31" />
+        <mark key="." line="157" column="31" />
+        <mark key="^" line="157" column="31" />
       </file>
       <file name="$USER_HOME$/Sites/ng2-typescript-gulp-seed/.gitignore" timestamp="1467820406864">
         <mark key="[" line="1" column="13" />
@@ -683,10 +689,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmYW1pbHkgUGxhbicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZVVzZXJQcm9maWxlKHN0b3JhZ2VFbC5nZXRBdHRyaWJ1dGUoJ2RhdGEtZGV2aWNlLWdyb3VwJykpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>AAP|</text>
+        <text>AAL</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpdGVtSURcPg==</text>
@@ -695,7 +701,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJjdXJyZW50U2hvcGluZ1BhdGgiIDogJ0FBTHxBQVB8VVBHJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmYW1pbHkgUGxhbicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZVVzZXJQcm9maWxlKHN0b3JhZ2VFbC5nZXRBdHRyaWJ1dGUoJ2RhdGEtZGV2aWNlLWdyb3VwJykpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -707,28 +713,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY3VycmVudFNlc3Npb25Qcm9kdWN0c1ZpZXdlZDogZGV2aWNlR3JvdXAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIElmIHN0b3JhZ2UgSVMgc2V0IHRoZW4gdXBkYXRlIHVzZXIgcGVyc29uYWxpemF0aW9uIHdpdGggdGhhdCBkZXZpY2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmYW1pbHkgcGxhbiBzZXR1cCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJjdXJyZW50U2Vzc2lvblByb2R1Y3RzVmlld2VkIjogIiIsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmYW1pbHkgUGxhbicpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICJjdXJyZW50U2Vzc2lvblByb2R1Y3RzVmlld2VkIjogImR2Yzk1ODAwMjNwcmQiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgImN1cnJlbnRTZXNzaW9uUHJvZHVjdHNWaWV3ZWQiOiAiIiwK</text>
+        <text encoding="base64">ICAgICAgY3VycmVudFNlc3Npb25Qcm9kdWN0c1ZpZXdlZDogZGV2aWNlR3JvdXAsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IHVwZGF0ZVByb2ZpbGUoKSB3aXRoIHNlbGVjdGVkIGRldmljZQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmYW1pbHkgcGxhbiBzZXR1cCcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzdG9yYWdlRWwnLCBzdG9yYWdlRWwpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZpcnN0RGV2R3JvdXAgPSAkKCdbZGF0YS1kZXZpY2UtZ3JvdXBdJyk7CiAgICAgICAgICAgIHVwZGF0ZVByb2ZpbGUoZmlyc3REZXZHcm91cFswXS5nZXRBdHRyaWJ1dGUoJ2RhdGEtZGV2aWNlLWdyb3VwJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJjdXJyZW50U2Vzc2lvblByb2R1Y3RzVmlld2VkIjogIiIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

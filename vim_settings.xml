@@ -235,10 +235,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="15" column="8" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/promos.js" timestamp="1474302918892">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/promos.js" timestamp="1474483185518">
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="216" column="0" />
+        <mark key="^" line="22" column="48" />
+        <mark key="." line="216" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/target/classes/apps/sprint-transformation/components/content/deviceprotection/deviceprotection.html" timestamp="1472360496906">
         <mark key="[" line="73" column="137" />
@@ -669,19 +670,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZGF0YScsIGRhdGEpZGQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>csa</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpdGVtSURcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3cuc3ByaW50QXBwLnVwZGF0ZVByb2ZpbGUodXBkYXRlZE9iaik7Cg==</text>
+        <text encoding="base64">ICAgIHZhciBjb29raWUgPSBnZXRDb29raWUoJ2FjY2Vzc190b2tlbicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZGF0YScsIGRhdGEpZGQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -693,28 +694,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqICBQcmVwZW5kIHRoZSBmbG93IHRvIHRoZSBhdHRyaWJ1dGUgKHBpcGUgZGVsaW1pdGVkKSwgKipJRioqIHRoYXQgcGFydGljdWxhciBmbG93IGlzIG5vdCBhbHJlYWR5IHBvcHVsYXRlZAo=</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIGdldENvb2tpZShjbmFtZSkgewogICAgICB2YXIgbmFtZSA9IGNuYW1lICsgJz0nOwogICAgICB2YXIgY2EgPSBkb2N1bWVudC5jb29raWUuc3BsaXQoJzsnKTsKICAgICAgZm9yICh2YXIgaSA9IDA7IGkgPCBjYS5sZW5ndGg7IGkrKykgewogICAgICAgIHZhciBjID0gY2FbaV07CiAgICAgICAgd2hpbGUgKGMuY2hhckF0KDApID09ICcgJykgewogICAgICAgICAgYyA9IGMuc3Vic3RyaW5nKDEpOwogICAgICAgIH0KICAgICAgICBpZiAoYy5pbmRleE9mKG5hbWUpID09IDApIHsKICAgICAgICAgIHJldHVybiBjLnN1YnN0cmluZyhuYW1lLmxlbmd0aCwgYy5sZW5ndGgpOwogICAgICAgIH0KICAgICAgfQogICAgICByZXR1cm4gJyc7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqICBDdXJyZW50IFNob3BwaW5nIFBhdGggU2VsZWN0ZWQgKEFBTCwgQUFQLCBVUEcsIENQLCBFU05TV0FQLGV0Yy4pCg==</text>
+        <text encoding="base64">ICAgIHZhciBjb29raWUgPSBnZXRDb29raWUoJ2FjY2Vzc190b2tlbicpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqICBQb3NzaWJsZSBWYWx1ZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZGF0YScsIGRhdGEpZGQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqICBFU05TV0FQQ2hhbmdlU2VydmljZQo=</text>
+        <text encoding="base64">ICAgICAqICBQcmVwZW5kIHRoZSBmbG93IHRvIHRoZSBhdHRyaWJ1dGUgKHBpcGUgZGVsaW1pdGVkKSwgKipJRioqIHRoYXQgcGFydGljdWxhciBmbG93IGlzIG5vdCBhbHJlYWR5IHBvcHVsYXRlZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqICBFU05TV0FQQ2hhbmdlUGxhbgo=</text>
+        <text encoding="base64">ICAgICAqICBDdXJyZW50IFNob3BwaW5nIFBhdGggU2VsZWN0ZWQgKEFBTCwgQUFQLCBVUEcsIENQLCBFU05TV0FQLGV0Yy4pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqICBFU05TV0FQCg==</text>
+        <text encoding="base64">ICAgICAqICBQb3NzaWJsZSBWYWx1ZXM6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqICBDUAo=</text>
+        <text encoding="base64">ICAgICAqICBFU05TV0FQQ2hhbmdlU2VydmljZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqICBVUEcK</text>
+        <text encoding="base64">ICAgICAqICBFU05TV0FQQ2hhbmdlUGxhbgo=</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

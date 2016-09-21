@@ -207,6 +207,11 @@
         <mark key="." line="153" column="30" />
         <mark key="^" line="153" column="30" />
       </file>
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/globalnavigation/navprimary/navprimary.html" timestamp="1474487058763">
+        <mark key="[" line="50" column="69" />
+        <mark key="]" line="50" column="69" />
+        <mark key="." line="50" column="69" />
+      </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/attributes/delete-cookie/index.js" timestamp="1471446835099">
         <mark key="[" line="1" column="58" />
         <mark key="]" line="7" column="44" />
@@ -266,6 +271,12 @@
         <mark key="." line="4" column="25" />
         <mark key="^" line="4" column="25" />
       </file>
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/add-to-cart.js" timestamp="1474487628964">
+        <mark key="[" line="123" column="27" />
+        <mark key="]" line="123" column="42" />
+        <mark key="^" line="123" column="42" />
+        <mark key="." line="123" column="42" />
+      </file>
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/.editorconfig" timestamp="1469739054615">
         <mark key="[" line="25" column="14" />
         <mark key="]" line="25" column="15" />
@@ -308,6 +319,7 @@
         <mark key="." line="60" column="29" />
         <mark key="^" line="29" column="33" />
       </file>
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/header.js" timestamp="1474486545280" />
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/attributes/get-tracking-pixel/index.js" timestamp="1469210949387">
         <mark key="[" line="13" column="31" />
         <mark key="]" line="13" column="33" />
@@ -338,6 +350,7 @@
         <mark key="." line="101" column="37" />
         <mark key="^" line="101" column="37" />
       </file>
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/pre-checkout-confirmation.js" timestamp="1474486320854" />
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/controllers/mobileQuoteFormController.js" timestamp="1469214770235">
         <mark key="[" line="40" column="37" />
         <mark key="]" line="40" column="39" />
@@ -531,7 +544,7 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="/a.regexp" timestamp="1474475144902">
+      <file name="/a.regexp" timestamp="1474486967845">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -670,11 +683,11 @@
       <jump line="144" column="6" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/promos.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>sprint-header-actions__button</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>sprint-header-actions__button</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpdGVtSURcPg==</text>

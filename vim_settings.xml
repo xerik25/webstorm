@@ -60,11 +60,11 @@
         <mark key="^" line="2" column="57" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/update-profile.js" timestamp="1474471231084">
-        <mark key="[" line="40" column="52" />
-        <mark key="]" line="40" column="52" />
-        <mark key="." line="40" column="52" />
-        <mark key="^" line="55" column="47" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/update-profile.js" timestamp="1474475404675">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="67" column="33" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js.txt" timestamp="1473887622434">
         <mark key="[" line="22" column="19" />
@@ -207,11 +207,11 @@
         <mark key="." line="153" column="30" />
         <mark key="^" line="153" column="30" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/device.js" timestamp="1474473215506">
-        <mark key="[" line="426" column="37" />
-        <mark key="]" line="428" column="20" />
-        <mark key="." line="428" column="20" />
-        <mark key="^" line="428" column="20" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/device.js" timestamp="1474475912060">
+        <mark key="[" line="441" column="32" />
+        <mark key="]" line="441" column="34" />
+        <mark key="." line="441" column="34" />
+        <mark key="^" line="441" column="34" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/attributes/delete-cookie/index.js" timestamp="1471446835099">
         <mark key="[" line="1" column="58" />
@@ -548,7 +548,7 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="/a.regexp" timestamp="1474061306250">
+      <file name="/a.regexp" timestamp="1474475144902">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -687,20 +687,20 @@
       <jump line="144" column="6" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/promos.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>csa</text>
       </register>
       <register name="-" type="4">
-        <text>updatedObj</text>
+        <text>csa</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpdGVtSURcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgY3NhWmlwQ29kZSA9IENTQS56aXBDb2RlOwo=</text>
+        <text encoding="base64">ICAgICAgICB3aW5kb3cuc3ByaW50QXBwLnVwZGF0ZVByb2ZpbGUodXBkYXRlZE9iaik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2V0WmlwJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -712,28 +712,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRaaXAoKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZGF0YScsIGRhdGEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1cGRhdGVVc2VyUHJvZmlsZSh1cGRhdGVzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgY3NhWmlwQ29kZSA9IENTQS56aXBDb2RlID8gOiA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgemlwQ29kZSA9IGNzYVppcENvZGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aW5kb3cuc3ByaW50QXBwLnVwZGF0ZVByb2ZpbGUodXBkYXRlZE9iaik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgemlwQ29kZSA9ICc2NjI1MSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU0haOiB0ZXN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoIWNzYVppcENvZGUpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU0hDU0E6IHRlc3QsCg==</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

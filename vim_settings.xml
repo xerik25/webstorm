@@ -60,11 +60,11 @@
         <mark key="^" line="2" column="57" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/update-profile.js" timestamp="1474577131745">
-        <mark key="[" line="52" column="44" />
-        <mark key="]" line="52" column="44" />
-        <mark key="^" line="52" column="23" />
-        <mark key="." line="52" column="44" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/update-profile.js" timestamp="1474579070793">
+        <mark key="[" line="58" column="45" />
+        <mark key="]" line="58" column="59" />
+        <mark key="." line="58" column="59" />
+        <mark key="^" line="58" column="59" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js.txt" timestamp="1473887622434">
         <mark key="[" line="22" column="19" />
@@ -691,11 +691,11 @@
       <jump line="144" column="6" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/promos.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdCAyJywgaGF5c3RhY2spOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpdGVtSURcPg==</text>
@@ -704,7 +704,7 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdCAxJywgdXBkYXRlZFVzZXJPYmopOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdCAyJywgdXBkYXRlZFVzZXJPYmopOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdCAyJywgaGF5c3RhY2spOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -716,28 +716,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBrZXlzVG9VcGRhdGUgPSB7CiAgICAgICAgY3VycmVudFNob3BpbmdQYXRoOiAnY3VycmVudFNob3BwaW5nUGF0aCcKICAgIH07CgogICAgc2FuaXRpemUoa2V5c1RvVXBkYXRlLCB1cGRhdGVkVXNlck9iaik7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvYmonLCBvYmopOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Rlc3QnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb2JqJywgb2JqKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBvYmogPSB7CiAgICAgICAgc2hvcGluZzogJ1RoaXMga2V5IHNob3VsZCBjaGFuZ2UnLAogICAgICAgIHNoaXBwaW5nOiAnVGhpcyBrZXkgc2hvdWxkIG5vdCBjaGFuZ2UnCiAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnMTIzNCcsIHVwZGF0ZWQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdCAyJywgdXBkYXRlZFVzZXJPYmopOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBrZXlzVG9VcGRhdGUgPSB7CiAgICAgICAgY3VycmVudFNob3BpbmdQYXRoOiAnY3VycmVudFNob3BwaW5nUGF0aCcKICAgIH07CgogICAgc2FuaXRpemUoa2V5c1RvVXBkYXRlLCB1cGRhdGVkVXNlck9iaik7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

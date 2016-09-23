@@ -60,10 +60,10 @@
         <mark key="^" line="2" column="57" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/update-profile.js" timestamp="1474580227594">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="54" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/update-profile.js" timestamp="1474581505901">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js.txt" timestamp="1473887622434">
         <mark key="[" line="22" column="19" />
@@ -554,7 +554,7 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="/a.regexp" timestamp="1474579953275">
+      <file name="/a.regexp" timestamp="1474580354323">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -694,7 +694,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndXBkYXRlZFVzZXJPYmonLCB1cGRhdGVkVXNlck9iaik7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
@@ -706,7 +706,7 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdCAxJywgdXBkYXRlZFVzZXJPYmopOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndXBkYXRlZFVzZXJPYmonLCB1cGRhdGVkVXNlck9iaik7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -718,28 +718,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWxldGUgb2JqW2Zyb21LZXldOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZW5hbWVQcm9wZXJ0eSh1cGRhdGVkVXNlck9iai51c2VyQXR0cmlidXRlcywgJ2N1cnJlbnRTaG9waW5nUGF0aCcsICdjdXJyZW50U2hvcHBpbmdQYXRoJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvYmpbdG9LZXldID0gb2JqW2Zyb21LZXldOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdCAyJywgdXBkYXRlZFVzZXJPYmopOwo=</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIHJlbmFtZVByb3BlcnR5KG9iaiwgZnJvbUtleSwgdG9LZXkpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzYW5pdGl6ZShrZXlzVG9VcGRhdGUsIHVwZGF0ZWRVc2VyT2JqLnVzZXJBdHRyaWJ1dGVzKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygndXBkYXRlZFVzZXJPYmonLCB1cGRhdGVkVXNlck9iaik7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAvLyByZW5hbWVQcm9wZXJ0eSh1cGRhdGVkVXNlck9iai51c2VyQXR0cmlidXRlcywgJ2N1cnJlbnRTaG9wcGluZ1BhdGgnLCAnY3VycmVudFNob3BpbmdQYXRoJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudFNob3BpbmdQYXRoOiAnY3VycmVudFNob3BwaW5nUGF0aCcK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndXBkYXRlZFVzZXJPYmonLCB1cGRhdGVkVXNlck9iaik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIga2V5c1RvVXBkYXRlID0gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

@@ -361,12 +361,6 @@
         <option name="FOREGROUND" value="808080" />
       </value>
     </option>
-    <option name="DEFAULT_BRACES">
-      <value />
-    </option>
-    <option name="DEFAULT_BRACKETS">
-      <value />
-    </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
         <option name="FOREGROUND" value="da4939" />
@@ -405,9 +399,6 @@
       <value>
         <option name="FOREGROUND" value="77b767" />
       </value>
-    </option>
-    <option name="DEFAULT_DOT">
-      <value />
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
@@ -456,9 +447,6 @@
       <value>
         <option name="FOREGROUND" value="ec7027" />
       </value>
-    </option>
-    <option name="DEFAULT_PARENTHS">
-      <value />
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
@@ -1226,22 +1214,10 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="RHTML_EXPRESSION_END_ID">
-      <value />
-    </option>
-    <option name="RHTML_EXPRESSION_START_ID">
-      <value />
-    </option>
-    <option name="RHTML_OMIT_NEW_LINE_ID">
-      <value />
-    </option>
     <option name="RHTML_SCRIPTING_BACKGROUND_ID">
       <value>
         <option name="BACKGROUND" value="232323" />
       </value>
-    </option>
-    <option name="RHTML_SCRIPTLET_END_ID">
-      <value />
     </option>
     <option name="RHTML_SCRIPTLET_START_ID">
       <value>
@@ -1274,9 +1250,6 @@
         <option name="EFFECT_COLOR" value="ff0000" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
-    </option>
-    <option name="RUBY_COMMA">
-      <value />
     </option>
     <option name="RUBY_COMMENT">
       <value>
@@ -1349,9 +1322,6 @@
         <option name="FOREGROUND" value="cc7833" />
       </value>
     </option>
-    <option name="RUBY_LOCAL_VAR_ID">
-      <value />
-    </option>
     <option name="RUBY_METHOD_NAME">
       <value>
         <option name="FOREGROUND" value="ffc66d" />
@@ -1408,9 +1378,6 @@
         <option name="FOREGROUND" value="cc7833" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
-    </option>
-    <option name="RUBY_SEMICOLON">
-      <value />
     </option>
     <option name="RUBY_SPECIFIC_CALL">
       <value>
@@ -1496,9 +1463,6 @@
       <value>
         <option name="FOREGROUND" value="cc7833" />
       </value>
-    </option>
-    <option name="SLIM_PARENTHS">
-      <value />
     </option>
     <option name="SLIM_RUBY_CODE">
       <value>

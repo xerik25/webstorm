@@ -419,22 +419,10 @@
         <option name="FOREGROUND" value="aa00" />
       </value>
     </option>
-    <option name="DEFAULT_BRACES">
-      <value />
-    </option>
-    <option name="DEFAULT_BRACKETS">
-      <value />
-    </option>
     <option name="DEFAULT_COMMA">
       <value>
         <option name="FOREGROUND" value="cc7832" />
       </value>
-    </option>
-    <option name="DEFAULT_DOT">
-      <value />
-    </option>
-    <option name="DEFAULT_PARENTHS">
-      <value />
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
@@ -507,9 +495,6 @@
         <option name="FOREGROUND" value="80" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="DJANGO_TAG_START_END">
-      <value />
     </option>
     <option name="DOC_COMMENT_TAG_VALUE">
       <value>
@@ -701,9 +686,6 @@
     <option name="HAML_LINE_CONTINUATION">
       <value />
     </option>
-    <option name="HAML_PARENTHS">
-      <value />
-    </option>
     <option name="HAML_RUBY_CODE">
       <value />
     </option>
@@ -817,15 +799,6 @@
         <option name="FOREGROUND" value="a0a0a0" />
       </value>
     </option>
-    <option name="JAVA_BRACES">
-      <value />
-    </option>
-    <option name="JAVA_BRACKETS">
-      <value />
-    </option>
-    <option name="JAVA_COMMA">
-      <value />
-    </option>
     <option name="JAVA_DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="a0a0a0" />
@@ -842,9 +815,6 @@
         <option name="EFFECT_COLOR" value="808080" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="JAVA_DOT">
-      <value />
     </option>
     <option name="JAVA_INVALID_STRING_ESCAPE">
       <value>
@@ -871,12 +841,6 @@
       <value>
         <option name="FOREGROUND" value="0" />
       </value>
-    </option>
-    <option name="JAVA_PARENTH">
-      <value />
-    </option>
-    <option name="JAVA_SEMICOLON">
-      <value />
     </option>
     <option name="JAVA_STRING">
       <value>
@@ -1071,9 +1035,6 @@
       <value>
         <option name="FOREGROUND" value="cc" />
       </value>
-    </option>
-    <option name="MACRO_PARAMETER">
-      <value />
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value />
@@ -1298,21 +1259,6 @@
         <option name="FOREGROUND" value="a0a0a0" />
       </value>
     </option>
-    <option name="PUPPET_BRACES">
-      <value />
-    </option>
-    <option name="PUPPET_BRACKETS">
-      <value />
-    </option>
-    <option name="PUPPET_CLASS">
-      <value />
-    </option>
-    <option name="PUPPET_COMMA">
-      <value />
-    </option>
-    <option name="PUPPET_DOT">
-      <value />
-    </option>
     <option name="PUPPET_ESCAPE_SEQUENCE">
       <value>
         <option name="FOREGROUND" value="ff00ff" />
@@ -1333,19 +1279,10 @@
         <option name="FOREGROUND" value="0" />
       </value>
     </option>
-    <option name="PUPPET_PARENTH">
-      <value />
-    </option>
     <option name="PUPPET_REGEX">
       <value>
         <option name="FOREGROUND" value="aa00" />
       </value>
-    </option>
-    <option name="PUPPET_RESOURCE_REFERENCE">
-      <value />
-    </option>
-    <option name="PUPPET_SEMICOLON">
-      <value />
     </option>
     <option name="PUPPET_SQ_STRING">
       <value>
@@ -1356,9 +1293,6 @@
       <value>
         <option name="FOREGROUND" value="aa00" />
       </value>
-    </option>
-    <option name="PUPPET_VARIABLE">
-      <value />
     </option>
     <option name="PUPPET_VARIABLE_INTERPOLATION">
       <value>
@@ -1536,38 +1470,11 @@
         <option name="FOREGROUND" value="a0a0a0" />
       </value>
     </option>
-    <option name="RHTML_EXPRESSION_END_ID">
-      <value />
-    </option>
-    <option name="RHTML_EXPRESSION_START_ID">
-      <value />
-    </option>
-    <option name="RHTML_OMIT_NEW_LINE_ID">
-      <value />
-    </option>
-    <option name="RHTML_SCRIPTING_BACKGROUND_ID">
-      <value />
-    </option>
-    <option name="RHTML_SCRIPTLET_END_ID">
-      <value />
-    </option>
-    <option name="RHTML_SCRIPTLET_START_ID">
-      <value />
-    </option>
     <option name="RUBY_BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="ff0000" />
         <option name="BACKGROUND" value="ffffff" />
       </value>
-    </option>
-    <option name="RUBY_BRACKETS">
-      <value />
-    </option>
-    <option name="RUBY_COLON">
-      <value />
-    </option>
-    <option name="RUBY_COMMA">
-      <value />
     </option>
     <option name="RUBY_COMMENT">
       <value>
@@ -1588,9 +1495,6 @@
       <value>
         <option name="FONT_TYPE" value="2" />
       </value>
-    </option>
-    <option name="RUBY_DOT">
-      <value />
     </option>
     <option name="RUBY_ESCAPE_SEQUENCE">
       <value>
@@ -1663,9 +1567,6 @@
         <option name="FOREGROUND" value="cc" />
       </value>
     </option>
-    <option name="RUBY_NTH_REF">
-      <value />
-    </option>
     <option name="RUBY_NUMBER">
       <value>
         <option name="FOREGROUND" value="cc" />
@@ -1691,9 +1592,6 @@
       <value>
         <option name="FOREGROUND" value="aa00" />
       </value>
-    </option>
-    <option name="RUBY_SEMICOLON">
-      <value />
     </option>
     <option name="RUBY_SPECIFIC_CALL">
       <value>
@@ -1804,9 +1702,6 @@
         <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
-    <option name="SLIM_CALL">
-      <value />
-    </option>
     <option name="SLIM_CLASS">
       <value>
         <option name="FOREGROUND" value="bb00ff" />
@@ -1827,9 +1722,6 @@
         <option name="FOREGROUND" value="bb00ff" />
       </value>
     </option>
-    <option name="SLIM_FILTER_CONTENT">
-      <value />
-    </option>
     <option name="SLIM_ID">
       <value>
         <option name="FOREGROUND" value="bb00ff" />
@@ -1839,15 +1731,6 @@
       <value>
         <option name="FOREGROUND" value="aa00" />
       </value>
-    </option>
-    <option name="SLIM_PARENTHS">
-      <value />
-    </option>
-    <option name="SLIM_RUBY_CODE">
-      <value />
-    </option>
-    <option name="SLIM_STATIC_CONTENT">
-      <value />
     </option>
     <option name="SLIM_STRING_INTERPOLATED">
       <value>
@@ -1863,9 +1746,6 @@
       <value>
         <option name="FOREGROUND" value="a0a0a0" />
       </value>
-    </option>
-    <option name="SLIM_TAG_START">
-      <value />
     </option>
     <option name="SMARTY_BACKGROUND">
       <value>

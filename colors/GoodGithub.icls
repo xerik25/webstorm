@@ -4,7 +4,6 @@
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="CARET_ROW_COLOR" value="f5f5f5" />
-    <option name="LINE_NUMBERS_COLOR" value="999999" />
     <option name="SELECTION_BACKGROUND" value="c8c8fa" />
     <option name="SELECTION_FOREGROUND" value="" />
   </colors>
@@ -42,12 +41,6 @@
         <option name="FOREGROUND" value="969896" />
         <option name="FONT_TYPE" value="2" />
       </value>
-    </option>
-    <option name="DEFAULT_BRACES">
-      <value />
-    </option>
-    <option name="DEFAULT_BRACKETS">
-      <value />
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
@@ -131,9 +124,6 @@
       <value>
         <option name="FOREGROUND" value="ed6a43" />
       </value>
-    </option>
-    <option name="DEFAULT_PARENTHS">
-      <value />
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>

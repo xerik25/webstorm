@@ -562,10 +562,11 @@
         <mark key="." line="5" column="38" />
         <mark key="^" line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/loginModal/loginModal.html" timestamp="1475185514980">
-        <mark key="[" line="84" column="108" />
-        <mark key="]" line="84" column="108" />
-        <mark key="." line="84" column="108" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/loginModal/loginModal.html" timestamp="1475186160686">
+        <mark key="[" line="85" column="28" />
+        <mark key="]" line="85" column="51" />
+        <mark key="." line="85" column="51" />
+        <mark key="^" line="85" column="51" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/device-details.js" timestamp="1473357600461">
         <mark key="[" line="11" column="37" />
@@ -782,16 +783,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JnRhcmdldFBhZ2U9aHR0cDovL3R2bWs3NDQxLnRlc3Quc3ByaW50LmNvbTo4MDAxL2FwaS9kaWdpdGFsL2F1dGgvdW5hdXRoZW50aWNhdGlvbg==</text>
+        <text>nav-destination-url</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JnRhcmdldFBhZ2U9aHR0cDovL3R2bWs3NDQxLnRlc3Quc3ByaW50LmNvbTo4MDAxL2FwaS9kaWdpdGFsL2F1dGgvdW5hdXRoZW50aWNhdGlvbg==</text>
+        <text>nav-destination-url</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpdGVtSURcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0iJHsnU0lHTk9VVF9SRURJUkVDVF9VUkwnIEAgaTE4biwgbG9jYWxlPWN1cnJlbnRQYWdlLnByb3BlcnRpZXNbJ2pjcjpsYW5ndWFnZSddfSIgZGF0YS1qcy1oZWFkZXItYXV0aC1zaWdub3V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBkYXRhLW5hdi1kZXN0aW5hdGlvbi11cmwgdmFsdWU9ImRlc3RpbmF0aW9uVVJMPSR7Z2xvYmFsU2hhcmVkTGlua3MubG9naW5SZWRpcmVjdFVybH0iPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBjbGFzcz0ibmF2LWRlc3RpbmF0aW9uLXVybCIgZGF0YS1uYXYtZGVzdGluYXRpb24tdXJsIHZhbHVlPSJkZXN0aW5hdGlvblVSTD0ke2dsb2JhbFNoYXJlZExpbmtzLmxvZ2luUmVkaXJlY3RVcmx9Ij4K</text>

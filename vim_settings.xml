@@ -53,11 +53,11 @@
         <mark key="^" line="19" column="61" />
         <mark key="." line="19" column="61" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/header/header.html" timestamp="1475191500458">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="129" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/header/header.html" timestamp="1475599602630">
+        <mark key="[" line="13" column="125" />
+        <mark key="]" line="13" column="139" />
+        <mark key="^" line="13" column="139" />
+        <mark key="." line="13" column="139" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/target/classes/apps/sprint-transformation/components/content/addtocarttest/addtocarttest.html" timestamp="1472744113885">
         <mark key="[" line="1" column="132" />
@@ -123,7 +123,7 @@
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/login/login.html" timestamp="1475598422594">
         <mark key="[" line="3" column="83" />
         <mark key="]" line="3" column="83" />
-        <mark key="^" line="24" column="101" />
+        <mark key="^" line="3" column="101" />
         <mark key="." line="3" column="83" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/upgradeeligiblemessage/upgradeeligiblemessage.html" timestamp="1473280202160">
@@ -561,7 +561,7 @@
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/loginModal/loginModal.html" timestamp="1475598448852">
         <mark key="[" line="6" column="92" />
         <mark key="]" line="6" column="92" />
-        <mark key="^" line="37" column="103" />
+        <mark key="^" line="6" column="103" />
         <mark key="." line="6" column="92" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/device-details.js" timestamp="1473357600461">
@@ -779,10 +779,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>${globalSharedLinks.loginActionUrl}</text>
+        <text>/login/?INTNAV=TopNav:SignIn</text>
       </register>
       <register name="-" type="4">
-        <text>${globalSharedLinks.loginActionUrl}</text>
+        <text>/login/?INTNAV=TopNav:SignIn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpdGVtSURcPg==</text>

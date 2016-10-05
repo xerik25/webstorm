@@ -122,10 +122,10 @@
         <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/login/login.html" timestamp="1475699327648">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="185" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="185" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/upgradeeligiblemessage/upgradeeligiblemessage.html" timestamp="1473280202160">
         <mark key="[" line="14" column="78" />
@@ -164,11 +164,11 @@
         <mark key="^" line="128" column="28" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/atgruntargeter/atgruntargeter.html" timestamp="1475694361233" />
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/common-init.js" timestamp="1475693303270">
-        <mark key="[" line="114" column="27" />
-        <mark key="]" line="114" column="28" />
-        <mark key="." line="114" column="28" />
-        <mark key="^" line="116" column="20" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/common-init.js" timestamp="1475703070204">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+        <mark key="^" line="119" column="3" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/attributes/mask-credit-card/index.js" timestamp="1471571354497">
         <mark key="[" line="1" column="0" />
@@ -632,7 +632,7 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="/a.regexp" timestamp="1475694377458">
+      <file name="/a.regexp" timestamp="1475701608940">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -783,7 +783,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NoZWNraW5nIGZvcm0nKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>shouldE</text>
@@ -792,10 +792,10 @@
         <text encoding="base64">XDxjbGFzc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9IiR7Z2xvYmFsU2hhcmVkTGlua3MubG9naW5Gb3Jnb3RVc2VybmFtZVVybH0iIGNsYXNzPSJmb250LW1lZGl1bSI+JHsnUEFTU1dPUkQnIEAgaTE4biwgbG9jYWxlPWN1cnJlbnRQYWdlLnByb3BlcnRpZXNbJ2pjcjpsYW5ndWFnZSddfTwvYT4uCg==</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50LmNvb2tpZSA9ICdhc2RmJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NoZWNraW5nIGZvcm0nKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -807,28 +807,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0idGFyZ2V0IiBjbGFzcz0ibmF2LWxvZ2luLXRhcmdldCIgZGF0YS1uYXYtbG9naW4tdGFyZ2V0IHZhbHVlPSIke2dsb2JhbFNoYXJlZExpbmtzLmxvZ2luVGFyZ2V0VXJsfT90YXJnZXRQYWdlPS9hcGkvZGlnaXRhbC9hdXRoL2F1dGhlbnRpY2F0aW9uIj4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NoZWNraW5nIGZvcm0nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICQoJyNsb2dpbkhlYWRlclVzZXJuYW1lLCAjbG9naW5IZWFkZXJQYXNzd29yZCcpLmtleXVwKGZ1bmN0aW9uKGUpewogICAgICBpZihpc0Zvcm1WYWxpZCgpKXsKICAgICAgICAkKCcjbG9naW5IZWFkZXJCdXR0b24nKS5yZW1vdmVBdHRyKCdkaXNhYmxlZCcpOwogICAgICB9CiAgICAgIGVsc2V7CiAgICAgICAgJCgnI2xvZ2luSGVhZGVyQnV0dG9uJykuYXR0cignZGlzYWJsZWQnLCAnZGlzYWJsZWQnKTsKICAgICAgfQogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0idGFyZ2V0IiBjbGFzcz0ibmF2LWxvZ2luLXRhcmdldCIgZGF0YS1uYXYtbG9naW4tdGFyZ2V0IHZhbHVlPSIke2dsb2JhbFNoYXJlZExpbmtzLmxvZ2luVGFyZ2V0VXJsfT90YXJnZXRQYWdlPS9hcGkvZGlnaXRhbC9hdXRoL2F1dGhlbnRpY2F0aW9uIj4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICQoJyNsb2dpbkhlYWRlclVzZXJuYW1lLCAjbG9naW5IZWFkZXJQYXNzd29yZCcpLmtleXVwKGZ1bmN0aW9uKGUpewogICAgICBpZihpc0Zvcm1WYWxpZCgpKXsKICAgICAgICAkKCcjbG9naW5IZWFkZXJCdXR0b24nKS5yZW1vdmVBdHRyKCdkaXNhYmxlZCcpOwogICAgICB9CiAgICAgIGVsc2V7CiAgICAgICAgJCgnI2xvZ2luSGVhZGVyQnV0dG9uJykuYXR0cignZGlzYWJsZWQnLCAnZGlzYWJsZWQnKTsKICAgICAgfQogICAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChsYW5nICE9PSBsYW5nKSB7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

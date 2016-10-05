@@ -90,12 +90,12 @@
         <mark key="^" line="23" column="16" />
         <mark key="." line="23" column="16" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/head/js/init-session.js" timestamp="1475530630855">
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/head/js/init-session.js" timestamp="1475682020281">
         <mark key="'" line="98" column="0" />
-        <mark key="[" line="160" column="6" />
-        <mark key="]" line="160" column="6" />
-        <mark key="." line="160" column="6" />
-        <mark key="^" line="160" column="6" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="21" />
+        <mark key="." line="91" column="0" />
+        <mark key="^" line="95" column="24" />
       </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/personal-profile/_data.json" timestamp="1468615586448">
         <mark key="[" line="1" column="3" />
@@ -163,11 +163,11 @@
         <mark key="." line="128" column="28" />
         <mark key="^" line="128" column="28" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/common-init.js" timestamp="1475617866200">
-        <mark key="[" line="110" column="61" />
-        <mark key="]" line="110" column="61" />
-        <mark key="." line="110" column="61" />
-        <mark key="^" line="110" column="61" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/common-init.js" timestamp="1475633473935">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="30" column="15" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/attributes/mask-credit-card/index.js" timestamp="1471571354497">
         <mark key="[" line="1" column="0" />
@@ -781,7 +781,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1QLnNldENvb2tpZSgnQ1NlbCcsICdCQycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="-" type="4">
         <text>display</text>
@@ -793,7 +793,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY3VtZW50LmNvb2tpZSA9ICdDU2VsPUdDJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1QLnNldENvb2tpZSgnQ1NlbCcsICdCQycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -805,28 +805,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1QLnNldENvb2tpZSgnQ1NlbCcsICdOQycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1QLnNldENvb2tpZSgnQ1NlbCcsICdOQycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1QLnNldENvb2tpZSgnQ1NlbCcsICdCQycpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1QLnNldENvb2tpZSgnQ1NlbCcsICdHQycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1QLnNldENvb2tpZSgnQ1NlbCcsICdOQycpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbGFuZG9uJywgY3JlZGl0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1QLnNldENvb2tpZSgnQ1NlbCcsICdOQycpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBNUC5zZXRDb29raWUoJ0NTZWwnLCBjcmVkaXQuZGlzcGxheSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1QLnNldENvb2tpZSgnQ1NlbCcsICdHQycpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbGFuZG9uJywgY3JlZGl0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNUC5zZXRDb29raWUoJ0NTZWw9QkMnLCBjcmVkaXQuZGlzcGxheSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBNUC5zZXRDb29raWUoJ0NTZWwnLCBjcmVkaXQuZGlzcGxheSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbGFuZG9uJywgY3JlZGl0LmRpc3BsYXkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

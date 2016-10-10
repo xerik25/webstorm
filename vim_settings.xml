@@ -309,11 +309,12 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/header-login.js" timestamp="1476115780375">
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/header-login.js" timestamp="1476129107442">
         <mark key="'" line="103" column="18" />
-        <mark key="[" line="65" column="21" />
-        <mark key="]" line="65" column="21" />
-        <mark key="." line="65" column="21" />
+        <mark key="[" line="65" column="25" />
+        <mark key="]" line="65" column="25" />
+        <mark key="." line="65" column="25" />
+        <mark key="^" line="65" column="25" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/grunt/copy.js" timestamp="1469474356679">
         <mark key="[" line="28" column="22" />
@@ -783,11 +784,11 @@
       <jump line="103" column="18" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/header-login.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRhcmdldFBhdGg6ICdodHRwOi8vdHZtazc0NDEudGVzdC5zcHJpbnQuY29tOjgwMDEnCg==</text>
+      <register name="&quot;" type="4">
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>START</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>

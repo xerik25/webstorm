@@ -120,11 +120,11 @@
         <mark key="^" line="8" column="15" />
         <mark key="." line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/login/login.html" timestamp="1476116458394">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="25" column="131" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/login/login.html" timestamp="1476206348308">
+        <mark key="[" line="27" column="64" />
+        <mark key="]" line="27" column="64" />
+        <mark key="^" line="27" column="55" />
+        <mark key="." line="27" column="64" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/upgradeeligiblemessage/upgradeeligiblemessage.html" timestamp="1473280202160">
         <mark key="[" line="14" column="78" />
@@ -783,17 +783,17 @@
       <jump line="103" column="18" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/header-login.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYodGFyZ2V0LnZhbHVlLmluZGV4T2YoJ3RhcmdldFBhZ2UnKSA+IDApewogICAgICAgICAgLy8gdGFyZ2V0LnZhbHVlID0gdGFyZ2V0LnZhbHVlLnJlcGxhY2UoL3RhcmdldFBhZ2UuKiQvaSwndGFyZ2V0UGFnZScpKyc9JysnYXNkZic7CiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>${globalSharedLinks.loginTargetUrl}?targetPage=</text>
       </register>
       <register name="-" type="4">
-        <text>encodedValue</text>
+        <text>${globalSharedLinks.loginTargetUrl}?targetPage=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZih0YXJnZXQudmFsdWUuaW5kZXhPZignZGVzdGluYXRpb25VUkwnKSA+IDAgJiYgIXJlZGlyZWN0VXJsKXsKICAgICAgICAgIHRhcmdldC52YWx1ZSA9IHRhcmdldC52YWx1ZS5yZXBsYWNlKC9kZXN0aW5hdGlvblVSTC4qJC9pLCdkZXN0aW5hdGlvblVSTCcpKyc9JytlbmNvZGVkVmFsdWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0idGFyZ2V0IiBjbGFzcz0ibmF2LWxvZ2luLXRhcmdldCIgZGF0YS1uYXYtbG9naW4tdGFyZ2V0PSIke2dsb2JhbFNoYXJlZExpbmtzLmxvZ2luUmVkaXJlY3RVcmx9IiB2YWx1ZT0iJHtnbG9iYWxTaGFyZWRMaW5rcy5sb2dpblRhcmdldFVybH0/dGFyZ2V0UGFnZT0ke2dsb2JhbFNoYXJlZExpbmtzLmxvZ2luVGFyZ2V0UGFnZX0iPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAgICAgaWYodGFyZ2V0LnZhbHVlLmluZGV4T2YoJ3RhcmdldFBhZ2UnKSA+IDApewogICAgICAgICAgLy8gdGFyZ2V0LnZhbHVlID0gdGFyZ2V0LnZhbHVlLnJlcGxhY2UoL3RhcmdldFBhZ2UuKiQvaSwndGFyZ2V0UGFnZScpKyc9JysnYXNkZic7CiAgICAgICAgfQo=</text>

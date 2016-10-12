@@ -309,11 +309,11 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/header-login.js" timestamp="1476303055072">
-        <mark key="[" line="123" column="49" />
-        <mark key="]" line="123" column="51" />
-        <mark key="." line="123" column="51" />
-        <mark key="^" line="123" column="51" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/header-login.js" timestamp="1476304687135">
+        <mark key="[" line="184" column="82" />
+        <mark key="]" line="184" column="115" />
+        <mark key="." line="184" column="115" />
+        <mark key="^" line="184" column="115" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/grunt/copy.js" timestamp="1469474356679">
         <mark key="[" line="28" column="22" />
@@ -784,10 +784,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Dev5</text>
+        <text>window.sprintApp.environment</text>
       </register>
       <register name="-" type="4">
-        <text>Dev5</text>
+        <text>window.sprintApp.environment</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>

@@ -561,10 +561,10 @@
         <mark key="." line="5" column="38" />
         <mark key="^" line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/loginModal/loginModal.html" timestamp="1476299452693">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/loginModal/loginModal.html" timestamp="1476300062339">
+        <mark key="[" line="38" column="63" />
+        <mark key="]" line="38" column="63" />
+        <mark key="." line="38" column="63" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/device-details.js" timestamp="1473357600461">
         <mark key="[" line="11" column="37" />
@@ -783,11 +783,11 @@
       <jump line="103" column="18" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/header-login.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>?targetPage=${globalSharedLinks.loginTargetPage}</text>
       </register>
       <register name="-" type="4">
-        <text>encodeURIComponent(url)</text>
+        <text>?targetPage=${globalSharedLinks.loginTargetPage}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>

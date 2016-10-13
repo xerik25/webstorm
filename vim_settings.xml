@@ -314,11 +314,11 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/header-login.js" timestamp="1476309769049">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="50" column="59" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/header-login.js" timestamp="1476362909670">
+        <mark key="[" line="47" column="27" />
+        <mark key="]" line="47" column="35" />
+        <mark key="." line="47" column="35" />
+        <mark key="^" line="47" column="35" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/grunt/copy.js" timestamp="1469474356679">
         <mark key="[" line="28" column="22" />
@@ -571,11 +571,6 @@
         <mark key="." line="5" column="38" />
         <mark key="^" line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/loginModal/loginModal.html" timestamp="1476308729685">
-        <mark key="[" line="37" column="26" />
-        <mark key="]" line="37" column="26" />
-        <mark key="." line="37" column="26" />
-      </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/device-details.js" timestamp="1473357600461">
         <mark key="[" line="11" column="37" />
         <mark key="]" line="11" column="40" />
@@ -793,11 +788,11 @@
       <jump line="103" column="18" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/header-login.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlZGlyZWN0VXJsID0gdHJpcGxlVVJMRW5jb2RlKHdpbmRvdy5sb2NhdGlvbi5ocmVmKTsK</text>
+      <register name="&quot;" type="4">
+        <text>tripleURLEncode</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>tripleURLEncode</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>

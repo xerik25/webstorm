@@ -83,12 +83,7 @@
         <mark key="^" line="23" column="16" />
         <mark key="." line="23" column="16" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/head/js/init-session.js" timestamp="1476470809708">
-        <mark key="[" line="124" column="48" />
-        <mark key="]" line="125" column="16" />
-        <mark key="^" line="125" column="16" />
-        <mark key="." line="125" column="16" />
-      </file>
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/head/js/init-session.js" timestamp="1476471417558" />
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/page/basepage/headlibs.html" timestamp="1476304049024">
         <mark key="[" line="58" column="66" />
         <mark key="]" line="58" column="69" />
@@ -310,11 +305,11 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/header-login.js" timestamp="1476470122061">
-        <mark key="[" line="187" column="8" />
-        <mark key="]" line="187" column="26" />
-        <mark key="." line="187" column="26" />
-        <mark key="^" line="187" column="26" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/header-login.js" timestamp="1476471456609">
+        <mark key="[" line="176" column="16" />
+        <mark key="]" line="176" column="16" />
+        <mark key="." line="176" column="18" />
+        <mark key="^" line="173" column="43" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/grunt/copy.js" timestamp="1469474356679">
         <mark key="[" line="28" column="22" />
@@ -785,10 +780,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>alias</text>
+        <text>window.sprintApp.environment</text>
       </register>
       <register name="-" type="4">
-        <text>alias</text>
+        <text>window.sprintApp.environment</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>

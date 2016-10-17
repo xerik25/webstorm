@@ -306,10 +306,11 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/header-login.js" timestamp="1476727928211">
-        <mark key="[" line="219" column="0" />
-        <mark key="]" line="219" column="0" />
-        <mark key="." line="219" column="0" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/header-login.js" timestamp="1476730144692">
+        <mark key="[" line="220" column="32" />
+        <mark key="]" line="220" column="33" />
+        <mark key="." line="220" column="33" />
+        <mark key="^" line="220" column="33" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/grunt/copy.js" timestamp="1469474356679">
         <mark key="[" line="28" column="22" />
@@ -629,7 +630,7 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="/a.regexp" timestamp="1476720213223">
+      <file name="/a.regexp" timestamp="1476729844157">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -779,11 +780,11 @@
       <jump line="103" column="18" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/header-login.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>33</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>33</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
@@ -792,7 +793,7 @@
         <text encoding="base64">ICAgICAgICAgICAgd2luZG93LnNwcmludEFwcC5nbG9iYWxFcnJvckhhbmRsZXIudHJpZ2dlckdsb2JhbEVycm9yKCdlcnJvciBtc2cgMTEnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -804,28 +805,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PHNjcmlwdD4KICB2YXIgZ2xvYmFsU2hhcmVkTGlua3MgPSAnJHtnbG9iYWxTaGFyZWRMaW5rc30nOwo8L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0Ogo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHNjcmlwdD4KICB2YXIgZ2xvYmFsU2hhcmVkTGlua3MgPSAke2dsb2JhbFNoYXJlZExpbmtzfWsKPC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">PHNjcmlwdD4KICB2YXIgZ2xvYmFsU2hhcmVkTGlua3MgPSAnJHtnbG9iYWxTaGFyZWRMaW5rc30nOwo8L3NjcmlwdD4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">PHNjcmlwdD4KICB2YXIgZ2xvYmFsU2hhcmVkTGlua3MgPSAke2dsb2JhbFNoYXJlZExpbmtzfWsKPC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB1c2UoWycuLi8uLi91dGlscy91dGlscy5qcyddLCBmdW5jdGlvbiAodXRpbHMpIHsKCiAgICB2YXIgcmV0dXJuZWRydW5tb2RlcyA9IHV0aWxzLmdldFJ1bk1vZGVzKCk7CiAgICB2YXIgZ2xvYmFsU2hhcmVkTGlua3MgPSB1dGlscy5nZXRHbG9iYWxTaGFyZWRMaW5rcygpOwogICAgY29uc29sZS5sb2coJ2dsb2JhbFNoYXJlZExpbmtzJywgZ2xvYmFsU2hhcmVkTGlua3MpOwoKICAgIHJldHVybiB7CiAgICAgIHJ1bm1vZGVzOiByZXR1cm5lZHJ1bm1vZGVzLAogICAgICBnbG9iYWxTaGFyZWRMaW5rczogZ2xvYmFsU2hhcmVkTGlua3MKICAgIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciBnbG9iYWxTaGFyZWRMaW5rcyA9IHV0aWxzLmdldEdsb2JhbFNoYXJlZExpbmtzKCk7Cg==</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB1c2UoWycuLi8uLi91dGlscy91dGlscy5qcyddLCBmdW5jdGlvbiAodXRpbHMpIHsKCiAgICB2YXIgcmV0dXJuZWRydW5tb2RlcyA9IHV0aWxzLmdldFJ1bk1vZGVzKCk7CiAgICB2YXIgZ2xvYmFsU2hhcmVkTGlua3MgPSB1dGlscy5nZXRHbG9iYWxTaGFyZWRMaW5rcygpOwogICAgY29uc29sZS5sb2coJ2dsb2JhbFNoYXJlZExpbmtzJywgZ2xvYmFsU2hhcmVkTGlua3MpOwoKICAgIHJldHVybiB7CiAgICAgIHJ1bm1vZGVzOiByZXR1cm5lZHJ1bm1vZGVzLAogICAgICBnbG9iYWxTaGFyZWRMaW5rczogZ2xvYmFsU2hhcmVkTGlua3MKICAgIH07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

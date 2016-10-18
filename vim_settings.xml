@@ -172,11 +172,10 @@
         <mark key="^" line="56" column="61" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/device-tiles-filter.js" timestamp="1476806422723">
-        <mark key="[" line="112" column="34" />
-        <mark key="]" line="112" column="34" />
-        <mark key="^" line="118" column="25" />
-        <mark key="." line="112" column="34" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/device-tiles-filter.js" timestamp="1476808086259">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-web/components/content/login/login.html" timestamp="1475033472221">
         <mark key="[" line="14" column="261" />
@@ -792,11 +791,11 @@
       <jump line="103" column="18" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/header-login.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c3ByaW50QXBwLmRldmljZVRpbGVXYWxsLmdldE51bURldmljZXNUb0Rpc3BsYXkoKSB8fCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3ByaW50QXBwLmRldmljZVRpbGVXYWxsLmdldE51bURldmljZXNUb0Rpc3BsYXkoKSB8fCA=</text>
+        <text>height</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
@@ -805,7 +804,7 @@
         <text encoding="base64">ICAgICAgdmFyIG51bURldmljZXNUb0Rpc3BsYXkgPSBzcHJpbnRBcHAuZGV2aWNlVGlsZVdhbGwuZ2V0TnVtRGV2aWNlc1RvRGlzcGxheSgpIHx8IDM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -817,28 +816,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgbnVtRGV2aWNlc1RvRGlzcGxheSA9IG51bURldmljZXNUb0Rpc3BsYXkgKyAzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmICh3aW5kb3dXaWR0aCA+IDEwMDApIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgIHZhciB3aW5kb3dXaWR0aCA9ICQod2luZG93KS53aWR0aCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiSU5WQUxJRF9TRVNTSU9OIjogIk9vcHMhIEl0IGxvb2tzIGxpa2Ugc29tZXRoaW5nIHdlbnQgd3JvbmcuIgo=</text>
+        <text encoding="base64">ICAgIHZhciBudW1EZXZpY2VzVG9EaXNwbGF5ID0gMzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiVU5LTk9XTl9VU0VSIjogIk9vcHMhIEl0IGxvb2tzIGxpa2Ugc29tZXRoaW5nIHdlbnQgd3JvbmcuIiwK</text>
+        <text encoding="base64">ICAgICAgLy8gdmFyIG51bURldmljZXNUb0Rpc3BsYXkgPSBzcHJpbnRBcHAuZGV2aWNlVGlsZVdhbGwuZ2V0TnVtRGV2aWNlc1RvRGlzcGxheSgpIHx8IDM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiSU1QRVJTT05BVEVEX1VTRVJfTk9UX0lOX0RJUiI6ICJPb3BzISBJdCBsb29rcyBsaWtlIHNvbWV0aGluZyB3ZW50IHdyb25nLiIsCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiRVhDRVNTSVZFX0ZBSUxFRF9MT0dJTl9BVFRFTVBUUyI6ICJPb3BzISBJdCBsb29rcyBsaWtlIHNvbWV0aGluZyB3ZW50IHdyb25nLiIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiSU5WQUxJRF9DUkVERU5USUFMUyI6ICJPb3BzISBJdCBsb29rcyBsaWtlIHNvbWV0aGluZyB3ZW50IHdyb25nLiIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

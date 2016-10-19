@@ -71,11 +71,11 @@
         <mark key="^" line="2" column="57" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/update-profile.js" timestamp="1476890018604">
-        <mark key="[" line="86" column="48" />
-        <mark key="]" line="86" column="54" />
-        <mark key="." line="86" column="54" />
-        <mark key="^" line="86" column="54" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/update-profile.js" timestamp="1476892673112">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="13" column="3" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js.txt" timestamp="1473887622434">
         <mark key="[" line="22" column="19" />
@@ -136,6 +136,7 @@
         <mark key="^" line="6" column="200" />
         <mark key="." line="6" column="200" />
       </file>
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/target/classes/apps/sprint-transformation/components/page/basepage/headlibs.html" timestamp="1476891918410" />
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/karma.conf.js" timestamp="1470776229748">
         <mark key="[" line="7" column="61" />
         <mark key="]" line="7" column="61" />
@@ -312,7 +313,7 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/header-login.js" timestamp="1476825214817">
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/header-login.js" timestamp="1476892561757">
         <mark key="[" line="65" column="89" />
         <mark key="]" line="65" column="89" />
         <mark key="." line="65" column="89" />
@@ -792,20 +793,20 @@
       <jump line="103" column="18" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/header-login.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>User</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>User</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAucGx1Y2soJ2RhdGEnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -817,28 +818,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChpc1BhdGhBYnNvbHV0ZShyZWRpcmVjdFVybCkpIHsKICAgICAgICAgICAgcmVkaXJlY3RVcmwgPSBlbmNvZGVVcmwocmVkaXJlY3RVcmwpOwogICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcmVkaXJlY3RVcmwgPSBlbmNvZGVVcmwod2luZG93LnNwcmludEFwcC5lbnZpcm9ubWVudC5jdXN0b21Eb21haW4gKyByZWRpcmVjdFVybCk7CiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICBnZXRVc2VyRGF0YSgpOyAvLyBJbml0IGZ1bmN0aW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICB2YXIgc2VydmljZUxheWVyUHJvbWlzZSA9IHdpbmRvdy5zcHJpbnRBcHAKICAgIC5nZXRDb21wb25lbnRGYWN0b3J5KCdTcHJpbnRTdHJlYW1zJykKICAgIC50aGVuKGZ1bmN0aW9uKHNlcnZpY2VMYXllckZhY3RvcnkpIHsKICAgICAgcmV0dXJuIHNlcnZpY2VMYXllckZhY3RvcnkoKTsKICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgIGluaXQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYgcmVkaXJlY3RVcmwgaXMgYSByZWxhdGl2ZSBwYXRoCg==</text>
+        <text encoding="base64">ICAgICAgICAucGx1Y2soJ2RhdGEnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYgcmVkaXJlY3RVcmwgaXMgYW4gYWJzb2x1dGUgcGF0aAo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IHVwZGF0ZVVzZXIgc3RyZWFtIGlzIG5vdCB3b3JraW5nIHByb3Blcmx5IHJpZ2h0IG5vdy4uLm5vdCBzZW5kaW5nIHRoZSBDb250ZW50VHlwZSBvZiBhcHBsaWNhdGlvbi9qc29uLCBzbyB1c2luZyBqcXVlcnkgZm9yIG5vdy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBhYnNvbHV0ZVBhdGhSZWdleCA9IG5ldyBSZWdFeHAoJ14oPzpbYS16XSs6KT8vLycsICdpJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBnZXRVc2VyRGF0YVN1Y2Nlc3MoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTZXQgRGVzdGluYXRpb24gVVJMIGZyb20gQUVNIEdsb2JhbCBMaW5rcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB1c2VyQXR0ck9iaiA9IGRhdGEudXNlckF0dHJpYnV0ZXM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

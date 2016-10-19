@@ -71,10 +71,11 @@
         <mark key="^" line="2" column="57" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/update-profile.js" timestamp="1476720136054">
-        <mark key="[" line="45" column="66" />
-        <mark key="]" line="45" column="66" />
-        <mark key="." line="45" column="66" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/update-profile.js" timestamp="1476890018604">
+        <mark key="[" line="86" column="48" />
+        <mark key="]" line="86" column="54" />
+        <mark key="." line="86" column="54" />
+        <mark key="^" line="86" column="54" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js.txt" timestamp="1473887622434">
         <mark key="[" line="22" column="19" />
@@ -135,7 +136,6 @@
         <mark key="^" line="6" column="200" />
         <mark key="." line="6" column="200" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/target/classes/apps/sprint-transformation/components/page/basepage/headlibs.html" timestamp="1476816916820" />
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/karma.conf.js" timestamp="1470776229748">
         <mark key="[" line="7" column="61" />
         <mark key="]" line="7" column="61" />
@@ -793,10 +793,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>window.sprintApp.</text>
+        <text>User</text>
       </register>
       <register name="-" type="4">
-        <text>window.sprintApp.</text>
+        <text>User</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>

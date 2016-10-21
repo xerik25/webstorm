@@ -82,11 +82,11 @@
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/page/basepage/headlibs.html" timestamp="1476304049024">
-        <mark key="[" line="58" column="66" />
-        <mark key="]" line="58" column="69" />
-        <mark key="." line="58" column="69" />
-        <mark key="^" line="58" column="69" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/page/basepage/headlibs.html" timestamp="1477061573427">
+        <mark key="[" line="91" column="9" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="92" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/personal-profile/_data.json" timestamp="1468615586448">
         <mark key="[" line="1" column="3" />
@@ -129,7 +129,12 @@
         <mark key="^" line="6" column="200" />
         <mark key="." line="6" column="200" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/target/classes/apps/sprint-transformation/components/page/basepage/headlibs.html" timestamp="1476910303112" />
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/target/classes/apps/sprint-transformation/components/page/basepage/headlibs.html" timestamp="1477061546215">
+        <mark key="[" line="95" column="17" />
+        <mark key="]" line="95" column="21" />
+        <mark key="." line="95" column="21" />
+        <mark key="^" line="95" column="21" />
+      </file>
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/karma.conf.js" timestamp="1470776229748">
         <mark key="[" line="7" column="61" />
         <mark key="]" line="7" column="61" />
@@ -311,7 +316,7 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/header-login.js" timestamp="1476999740991">
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/header-login.js" timestamp="1477059872068">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
@@ -593,9 +598,6 @@
         <mark key="^" line="71" column="20" />
         <mark key="." line="71" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475790694480">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/attributes/modal-redirect/index.js" timestamp="1469211156771">
         <mark key="[" line="28" column="60" />
         <mark key="]" line="28" column="81" />
@@ -620,6 +622,7 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="9" column="13" />
       </file>
+      <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/package.json" timestamp="1477054927496" />
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/factories/GetWidthFactory.js" timestamp="1469208125823">
         <mark key="[" line="54" column="46" />
         <mark key="]" line="54" column="48" />
@@ -792,17 +795,17 @@
       <jump line="103" column="18" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/header-login.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRhcmdldC52YWx1ZSA9IHNldFJlZmZlcmFsVXJsKHRhcmdldC52YWx1ZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>qa</text>
       </register>
       <register name="-" type="4">
-        <text>El</text>
+        <text>qa</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">PHNjcmlwdCBkYXRhLXNseS10ZXN0PSIke2hlYWRsaWJzLnJ1bm1vZGVzLnFhfSI+CiAgd2luZG93LnNwcmludEFwcC5lbnZpcm9ubWVudCA9IHsKICAgIHN5c3RlbU5hbWU6ICdxYScsCiAgICBjdXN0b21Eb21haW46ICcke2hlYWRsaWJzLmdsb2JhbFNoYXJlZExpbmtzLmN1c3RvbURvbWFpblN0NSBAY29udGV4dD0ic2NyaXB0U3RyaW5nIn0nLAogICAgdGFyZ2V0VXJsRG9tYWluOiAnJHtoZWFkbGlicy5nbG9iYWxTaGFyZWRMaW5rcy50YXJnZXRVcmxEb21haW5TdDUgQGNvbnRleHQ9InNjcmlwdFN0cmluZyJ9JwogIH07Cjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIHRhcmdldC52YWx1ZSA9IHNldFJlZmZlcmFsVXJsKHRhcmdldC52YWx1ZSk7Cg==</text>

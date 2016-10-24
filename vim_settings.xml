@@ -474,6 +474,13 @@
         <mark key="^" line="54" column="48" />
         <mark key="." line="54" column="48" />
       </file>
+      <file name="$USER_HOME$/Projects/nodeAndExpress/.bowerrc" timestamp="1477344342367">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+      </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/target/classes/apps/sprint-transformation/components/content/deviceprotection/deviceprotection.html" timestamp="1472360496906">
         <mark key="[" line="73" column="137" />
         <mark key="]" line="73" column="170" />
@@ -621,6 +628,12 @@
         <mark key="." line="7" column="9" />
         <mark key="^" line="7" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/nodeAndExpress/src/views/index.html" timestamp="1477344580841">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="9" column="31" />
+        <mark key="." line="9" column="31" />
+        <mark key="^" line="9" column="31" />
+      </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/page/basepage/head.html" timestamp="1475178664833">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -686,7 +699,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/scss/wlpc.scss" />
       <jump line="47" column="18" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/scss/wlpc.scss" />
       <jump line="44" column="0" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/scss/app.scss" />
       <jump line="15" column="71" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/html/pages/wlpc-styleguide.hbs" />
@@ -786,13 +798,14 @@
       <jump line="98" column="0" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/head/js/init-session.js" />
       <jump line="13" column="23" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/header/header.html" />
       <jump line="103" column="18" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/header-login.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/nodeAndExpress/.bowerrc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CjxzY3JpcHQgZGF0YS1zbHktdGVzdD0iJHtoZWFkbGlicy5ydW5tb2Rlcy5wcm9kfSI+CiAgd2luZG93LnNwcmludEFwcC5lbnZpcm9ubWVudCA9IHsKICAgIHN5c3RlbU5hbWU6ICdwcm9kJywKICAgIGN1c3RvbURvbWFpbjogJyR7aGVhZGxpYnMuZ2xvYmFsU2hhcmVkTGlua3MuY3VzdG9tRG9tYWluUHJvZCBAY29udGV4dD0ic2NyaXB0U3RyaW5nIn0nLAogICAgdGFyZ2V0VXJsRG9tYWluOiAnJHtoZWFkbGlicy5nbG9iYWxTaGFyZWRMaW5rcy50YXJnZXRVcmxEb21haW5Qcm9kIEBjb250ZXh0PSJzY3JpcHRTdHJpbmcifScKICB9Owo8L3NjcmlwdD4K</text>
+      <register name="&quot;" type="4">
+        <text>//netdna.bootstrapcdn.com</text>
       </register>
       <register name="-" type="4">
-        <text>.html</text>
+        <text>//netdna.bootstrapcdn.com</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>

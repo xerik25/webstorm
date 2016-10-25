@@ -60,6 +60,12 @@
         <mark key="^" line="122" column="36" />
         <mark key="." line="119" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/nodeAndExpress/src/views/index.jade" timestamp="1477426506787">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="25" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+      </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/personal_profile/personal-profile.jade" timestamp="1468867479775">
         <mark key="[" line="1" column="63" />
         <mark key="]" line="1" column="71" />
@@ -452,11 +458,11 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/nodeAndExpress/app.js" timestamp="1477422944832">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="4" column="30" />
-        <mark key="^" line="4" column="30" />
+      <file name="$USER_HOME$/Projects/nodeAndExpress/app.js" timestamp="1477426461630">
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="11" column="18" />
+        <mark key="." line="11" column="18" />
+        <mark key="^" line="11" column="18" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/controllers/fixedQuoteFormController.js" timestamp="1469464291400">
         <mark key="[" line="96" column="74" />
@@ -605,11 +611,11 @@
         <mark key="." line="26" column="63" />
         <mark key="^" line="26" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/nodeAndExpress/.editorconfig" timestamp="1477406510001">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="15" />
-        <mark key="^" line="24" column="14" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Projects/nodeAndExpress/.editorconfig" timestamp="1477426561474">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="15" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="27" column="6" />
       </file>
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/.editorconfig" timestamp="1469738202977">
         <mark key="[" line="21" column="14" />
@@ -840,19 +846,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW5kZW50X3NpemUgPSAyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>{js,py}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyIGpzY3MgPSByZXF1aXJlKCdndWxwLWpzY3MnKTsK</text>
+        <text encoding="base64">aW5kZW50X3NpemUgPSAyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -867,25 +873,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICA8bGluayBocmVmPSJjc3Mvc3R5bGVzLmNzcyIgcmVsPSJzdHlsZXNoZWV0Ij4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC5waXBlKGd1bHAuZGVzdCgnLi9zcmMvdmlld3MnKSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICA8bGluayBocmVmPSJsaWIvYm9vdHN0cmFwL2Rpc3QvY3NzL2Jvb3RzdHJhcC5taW4uY3NzIiByZWw9InN0eWxlc2hlZXQiPgogIDxsaW5rIGhyZWY9ImxpYi9mb250LWF3ZXNvbWUvY3NzL2ZvbnQtYXdlc29tZS5taW4uY3NzIiByZWw9InN0eWxlc2hlZXQiPgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICA8bGluayBocmVmPSJjc3Mvc3R5bGVzLmNzcyIgcmVsPSJzdHlsZXNoZWV0Ij4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC5waXBlKGd1bHAuZGVzdCgnLi9zcmMvdmlld3MnKSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICA8bGluayBocmVmPSJsaWIvYm9vdHN0cmFwL2Rpc3QvY3NzL2Jvb3RzdHJhcC5taW4uY3NzIiByZWw9InN0eWxlc2hlZXQiPgogIDxsaW5rIGhyZWY9ImxpYi9mb250LWF3ZXNvbWUvY3NzL2ZvbnQtYXdlc29tZS5taW4uY3NzIiByZWw9InN0eWxlc2hlZXQiPgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiZm9udC1hd2Vzb21lIjogewogICAgIm1haW4iOiBbCiAgICAgICJsZXNzL2ZvbnQtYXdlc29tZS5sZXNzIiwKICAgICAgImNzcy9mb250LWF3ZXNvbWUubWluLmNzcyIsCiAgICAgICJzY3NzL2ZvbnQtYXdlc29tZS5zY3NzIgogICAgXQogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

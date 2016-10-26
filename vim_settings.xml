@@ -60,12 +60,12 @@
         <mark key="^" line="122" column="36" />
         <mark key="." line="119" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/nodeAndExpress/src/views/index.jade" timestamp="1477428492036">
-        <mark key="'" line="9" column="19" />
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="21" />
-        <mark key="^" line="9" column="21" />
-        <mark key="." line="9" column="21" />
+      <file name="$USER_HOME$/Projects/nodeAndExpress/src/views/index.jade" timestamp="1477431523428">
+        <mark key="'" line="21" column="19" />
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="16" />
+        <mark key="." line="11" column="16" />
+        <mark key="^" line="11" column="16" />
       </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/personal_profile/personal-profile.jade" timestamp="1468867479775">
         <mark key="[" line="1" column="63" />
@@ -138,11 +138,11 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/nodeAndExpress/gulpfile.js" timestamp="1477422982535">
-        <mark key="[" line="44" column="14" />
-        <mark key="]" line="44" column="15" />
-        <mark key="^" line="47" column="3" />
-        <mark key="." line="44" column="15" />
+      <file name="$USER_HOME$/Projects/nodeAndExpress/gulpfile.js" timestamp="1477431454632">
+        <mark key="[" line="33" column="33" />
+        <mark key="]" line="33" column="36" />
+        <mark key="^" line="33" column="36" />
+        <mark key="." line="33" column="36" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/upgradecurrentdevice/upgradecurrentdevice.html" timestamp="1474932334571">
         <mark key="[" line="13" column="68" />
@@ -447,6 +447,12 @@
         <mark key="." line="5" column="38" />
         <mark key="^" line="5" column="44" />
       </file>
+      <file name="$USER_HOME$/Projects/nodeAndExpress/src/views/index.hbs" timestamp="1477432472351">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="6" column="18" />
+      </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/attributes/get-tracking-pixel/index.js" timestamp="1469210949387">
         <mark key="[" line="13" column="31" />
         <mark key="]" line="13" column="33" />
@@ -459,11 +465,11 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/nodeAndExpress/app.js" timestamp="1477426461630">
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="11" column="18" />
-        <mark key="." line="11" column="18" />
-        <mark key="^" line="11" column="18" />
+      <file name="$USER_HOME$/Projects/nodeAndExpress/app.js" timestamp="1477432761648">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="25" />
+        <mark key="^" line="9" column="25" />
+        <mark key="." line="9" column="25" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/controllers/fixedQuoteFormController.js" timestamp="1469464291400">
         <mark key="[" line="96" column="74" />
@@ -606,17 +612,23 @@
         <mark key="." line="40" column="55" />
         <mark key="^" line="40" column="55" />
       </file>
+      <file name="$USER_HOME$/Projects/nodeAndExpress/src/views/index.ejs" timestamp="1477433655530">
+        <mark key="'" line="8" column="19" />
+        <mark key="[" line="41" column="15" />
+        <mark key="]" line="41" column="15" />
+        <mark key="." line="41" column="15" />
+        <mark key="^" line="41" column="34" />
+      </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/contact-us_office-page.jade" timestamp="1468866777339">
         <mark key="[" line="26" column="46" />
         <mark key="]" line="26" column="63" />
         <mark key="." line="26" column="63" />
         <mark key="^" line="26" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/nodeAndExpress/.editorconfig" timestamp="1477426561474">
+      <file name="$USER_HOME$/Projects/nodeAndExpress/.editorconfig" timestamp="1477432048901">
         <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="15" />
+        <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
-        <mark key="^" line="27" column="6" />
       </file>
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/.editorconfig" timestamp="1469738202977">
         <mark key="[" line="21" column="14" />
@@ -744,7 +756,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="44" filename="$USER_HOME$/Sites/raft/client/app/hours/controller.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Sites/raft/client/app/components/work-table/row/component.js" />
       <jump line="51" column="51" filename="$USER_HOME$/Sites/raft/client/app/components/work-table/row/component.js" />
       <jump line="11" column="10" filename="$USER_HOME$/Sites/raft/client/app/components/work-table/row/component.js" />
@@ -844,22 +855,23 @@
       <jump line="31" column="9" filename="$USER_HOME$/Projects/nodeAndExpress/.jscsrc" />
       <jump line="65" column="0" filename="$USER_HOME$/Projects/nodeAndExpress/.jscsrc" />
       <jump line="7" column="19" filename="$USER_HOME$/Projects/nodeAndExpress/src/views/index.jade" />
+      <jump line="8" column="19" filename="$USER_HOME$/Projects/nodeAndExpress/src/views/index.ejs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>['1','2','3']</text>
+        <text encoding="base64">PC9hPg==</text>
       </register>
       <register name="-" type="4">
-        <text>['1','2','3']</text>
+        <text encoding="base64">PC9hPg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGFzc1w+</text>
+        <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW5kZW50X3NpemUgPSAyCg==</text>
+        <text encoding="base64">WyouamFkZV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgICAgICA8dWw+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -871,40 +883,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L3VsPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9IiMiPkNhdGVnb3J5PC9hPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bGk+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8bGluayBocmVmPSJjc3Mvc3R5bGVzLmNzcyIgcmVsPSJzdHlsZXNoZWV0Ij4K</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9IiMiPkNhdGVnb3J5PC9hPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC5waXBlKGd1bHAuZGVzdCgnLi9zcmMvdmlld3MnKSkK</text>
+        <text encoding="base64">ICAgICAgICA8bGk+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8bGluayBocmVmPSJsaWIvYm9vdHN0cmFwL2Rpc3QvY3NzL2Jvb3RzdHJhcC5taW4uY3NzIiByZWw9InN0eWxlc2hlZXQiPgogIDxsaW5rIGhyZWY9ImxpYi9mb250LWF3ZXNvbWUvY3NzL2ZvbnQtYXdlc29tZS5taW4uY3NzIiByZWw9InN0eWxlc2hlZXQiPgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name=":" type="4">
         <text>56</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGFzc1w+</last-search>
+      <last-search>nav</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGFzc1w+</last-pattern>
+      <last-pattern>nav</last-pattern>
       <last-replace>\}</last-replace>
       <last-substitute>anal</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -922,6 +934,7 @@
         <entry>amount</entry>
         <entry encoding="base64">XDxpdGVtSURcPg==</entry>
         <entry encoding="base64">XDxjbGFzc1w+</entry>
+        <entry>nav</entry>
       </history-search>
       <history-cmd>
         <entry>297</entry>

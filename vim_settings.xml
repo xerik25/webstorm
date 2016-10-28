@@ -163,11 +163,11 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/nodeAndExpress/src/routes/bookRoutes.js" timestamp="1477519153338">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="5" />
-        <mark key="^" line="28" column="37" />
-        <mark key="." line="4" column="5" />
+      <file name="$USER_HOME$/Projects/nodeAndExpress/src/routes/bookRoutes.js" timestamp="1477608654220">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="1" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/frontend-cart/src/forms/save-retrieve-form/save-retrieve-form.component.html" timestamp="1474916071443">
         <mark key="[" line="1" column="122" />
@@ -483,11 +483,11 @@
         <mark key="^" line="13" column="33" />
         <mark key="." line="13" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/nodeAndExpress/src/config/strategies/local.strategy.js" timestamp="1477605630338">
-        <mark key="[" line="21" column="15" />
-        <mark key="]" line="21" column="51" />
-        <mark key="." line="21" column="51" />
-        <mark key="^" line="21" column="51" />
+      <file name="$USER_HOME$/Projects/nodeAndExpress/src/config/strategies/local.strategy.js" timestamp="1477608052805">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="20" column="28" />
+        <mark key="^" line="20" column="28" />
+        <mark key="." line="20" column="28" />
       </file>
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/FTB.Website/Areas/Common/Assets/css/variables/_variables.scss" timestamp="1469739702155">
         <mark key="[" line="1" column="21" />
@@ -555,17 +555,17 @@
         <mark key="." line="73" column="170" />
         <mark key="^" line="73" column="170" />
       </file>
-      <file name="$USER_HOME$/Projects/nodeAndExpress/src/routes/authRoutes.js" timestamp="1477605425206">
-        <mark key="[" line="30" column="20" />
-        <mark key="]" line="30" column="20" />
-        <mark key="." line="30" column="20" />
-        <mark key="^" line="30" column="20" />
+      <file name="$USER_HOME$/Projects/nodeAndExpress/src/routes/authRoutes.js" timestamp="1477608556041">
+        <mark key="[" line="35" column="8" />
+        <mark key="]" line="35" column="8" />
+        <mark key="." line="35" column="8" />
+        <mark key="^" line="35" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/nodeAndExpress/src/config/passport.js" timestamp="1477597590818">
-        <mark key="[" line="14" column="10" />
-        <mark key="]" line="14" column="37" />
-        <mark key="." line="14" column="37" />
-        <mark key="^" line="14" column="37" />
+      <file name="$USER_HOME$/Projects/nodeAndExpress/src/config/passport.js" timestamp="1477607028209">
+        <mark key="[" line="14" column="40" />
+        <mark key="]" line="14" column="41" />
+        <mark key="." line="14" column="41" />
+        <mark key="^" line="14" column="41" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/login/login.html" timestamp="1477061713313">
         <mark key="[" line="63" column="0" />
@@ -913,19 +913,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'Bad Password', null</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>'Bad Password', null</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8Zm9ybSBuYW1lPSJzaWduVXBGb3JtIgogICAgICAgICAgICAgICAgICAgIGFjdGlvbj0iL2F1dGgvc2lnblVwIgogICAgICAgICAgICAgICAgICAgIG1ldGhvZD0icG9zdCI+CiAgICAgICAgICAgICAgICBVc2VyIE5hbWU6IDxpbnB1dCB0eXBlPSJ0ZXh0IiBuYW1lPSJ1c2VyTmFtZSIgaWQ9InVzZXJOYW1lIj4KICAgICAgICAgICAgICAgIFBhc3N3b3JkOiA8aW5wdXQgdHlwZT0idGV4dCIgbmFtZT0icGFzc3dvcmQiIGlkPSJwYXNzd29yZCI+CiAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0ic3VibWl0IiBpZD0iU2lnbiB1cCI+CiAgICAgICAgICAgICAgPC9mb3JtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHZhciB1c2VyID0gcmVzdWx0czsKICAgICAgICAgIGRvbmUobnVsbCwgdXNlcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncGFzc3dvcmQnLCByZXN1bHRzLnBhc3N3b3JkLCBwYXNzd29yZCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -937,28 +937,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgdXNlciA9IHJlc3VsdHM7CiAgICAgICAgZG9uZShudWxsLCB1c2VyKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncGFzc3dvcmQnLCByZXN1bHRzLnBhc3N3b3JkLCBwYXNzd29yZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRvbmUobnVsbCwgdXNlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciB1c2VyID0gewogICAgICB1c2VybmFtZTogdXNlcm5hbWUsCiAgICAgIHBhc3N3b3JkOiBwYXNzd29yZAogICAgfTsK</text>
+        <text encoding="base64">ICAgIHZhciB1cmwgPSAnbW9uZ29kYjovL2xvY2FsaG9zdDoyNzAxNy9saWJyYXJ5QXBwJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVxLmxvZ2luKHJlcS5ib2R5LCBmdW5jdGlvbiAoKSB7CiAgICAgICAgcmVzLnJlZGlyZWN0KCcvYXV0aC9wcm9maWxlJyk7CiAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlcS5sb2dpbgo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgdXNlciA9IHJlc3VsdHM7CiAgICAgICAgZG9uZShudWxsLCB1c2VyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRvbmUobnVsbCwgdXNlcik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciB1c2VyID0gewogICAgICB1c2VybmFtZTogdXNlcm5hbWUsCiAgICAgIHBhc3N3b3JkOiBwYXNzd29yZAogICAgfTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBwLnVzZXIocGFzc3BvcnQuaW5pdGlhbGl6ZSgpKTsKYXBwLnVzZXIoc2Vzc2lvbigpKTsK</text>
+        <text encoding="base64">ICAgICAgcmVxLmxvZ2luKHJlcS5ib2R5LCBmdW5jdGlvbiAoKSB7CiAgICAgICAgcmVzLnJlZGlyZWN0KCcvYXV0aC9wcm9maWxlJyk7CiAgICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

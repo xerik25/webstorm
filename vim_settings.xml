@@ -36,6 +36,13 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/nodeAndExpress/src/controllers/bookController.js" timestamp="1477627798251">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="35" column="21" />
+      </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/protection.js" timestamp="1473376755104">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -163,11 +170,11 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/nodeAndExpress/src/routes/bookRoutes.js" timestamp="1477625019972">
-        <mark key="[" line="6" column="64" />
-        <mark key="]" line="6" column="73" />
-        <mark key="." line="6" column="73" />
-        <mark key="^" line="6" column="73" />
+      <file name="$USER_HOME$/Projects/nodeAndExpress/src/routes/bookRoutes.js" timestamp="1477627250328">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="73" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="6" column="74" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/frontend-cart/src/forms/save-retrieve-form/save-retrieve-form.component.html" timestamp="1474916071443">
         <mark key="[" line="1" column="122" />
@@ -816,8 +823,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="51" filename="$USER_HOME$/Sites/raft/client/app/components/work-table/row/component.js" />
-      <jump line="11" column="10" filename="$USER_HOME$/Sites/raft/client/app/components/work-table/row/component.js" />
       <jump line="52" column="6" filename="$USER_HOME$/Sites/raft/client/app/components/work-table/row/component.js" />
       <jump line="24" column="2" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/scss/components/_wlpc-footer.scss" />
       <jump line="3" column="23" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/scss/components/_wlpc-footer.scss" />
@@ -916,13 +921,15 @@
       <jump line="7" column="19" filename="$USER_HOME$/Projects/nodeAndExpress/src/views/index.jade" />
       <jump line="8" column="19" filename="$USER_HOME$/Projects/nodeAndExpress/src/views/index.ejs" />
       <jump line="40" column="29" filename="$USER_HOME$/Projects/nodeAndExpress/src/views/books.ejs" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/nodeAndExpress/src/controllers/bookController.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/nodeAndExpress/src/controllers/bookController.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dmFyIGNib29rQ29udHJvbGxlciA9IHJlcXVpcmUoJy4uL2NvbnRyb2xsZXJzL2Jvb2tDb250cm9sbGVyJyk7Cg==</text>
+        <text encoding="base64">Ly8gbW9kdWxlLmV4cG9ydHMgPSBib29rQ29udHJvbGxlcjsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -931,7 +938,7 @@
         <text encoding="base64">ICAgIGdldEluZGV4OiBnZXRJbmRleDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyIGNib29rQ29udHJvbGxlciA9IHJlcXVpcmUoJy4uL2NvbnRyb2xsZXJzL2Jvb2tDb250cm9sbGVyJyk7Cg==</text>
+        <text encoding="base64">Ly8gbW9kdWxlLmV4cG9ydHMgPSBib29rQ29udHJvbGxlcjsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -946,25 +953,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBtb2R1bGUuZXhwb3J0cyA9IGJvb2tDb250cm9sbGVyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncGFzc3dvcmQnLCByZXN1bHRzLnBhc3N3b3JkLCBwYXNzd29yZCk7Cg==</text>
+        <text encoding="base64">ICB2YXIgYm9va0NvbnRyb2xsZXIgPSByZXF1aXJlKCcuLi9jb250cm9sbGVycy9ib29rQ29udHJvbGxlcicpKG51bGwsIG5hdik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncGFzc3dvcmQnLCByZXN1bHRzLnBhc3N3b3JkLCBwYXNzd29yZCk7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciB1cmwgPSAnbW9uZ29kYjovL2xvY2FsaG9zdDoyNzAxNy9saWJyYXJ5QXBwJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgdXNlciA9IHJlc3VsdHM7CiAgICAgICAgZG9uZShudWxsLCB1c2VyKTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

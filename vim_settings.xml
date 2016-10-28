@@ -55,11 +55,11 @@
         <mark key="^" line="71" column="20" />
         <mark key="." line="71" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/BuildAppReactAndFlux/src/index.html" timestamp="1477686108983">
-        <mark key="[" line="6" column="7" />
-        <mark key="]" line="6" column="29" />
-        <mark key="^" line="6" column="29" />
-        <mark key="." line="6" column="29" />
+      <file name="$USER_HOME$/Projects/BuildAppReactAndFlux/src/index.html" timestamp="1477688056103">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="7" column="31" />
+        <mark key="^" line="7" column="31" />
+        <mark key="." line="7" column="31" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js.txt" timestamp="1473887622434">
         <mark key="[" line="22" column="19" />
@@ -217,11 +217,10 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/BuildAppReactAndFlux/src/main.js" timestamp="1477685760204">
-        <mark key="[" line="0" column="53" />
-        <mark key="]" line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-        <mark key="." line="2" column="20" />
+      <file name="$USER_HOME$/Projects/BuildAppReactAndFlux/src/main.js" timestamp="1477688388455">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/karma.conf.js" timestamp="1470776229748">
         <mark key="[" line="7" column="61" />
@@ -532,12 +531,6 @@
         <mark key="^" line="4" column="37" />
         <mark key="." line="29" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/BuildAppReactAndFlux/gulpfile.js" timestamp="1477686458629">
-        <mark key="[" line="46" column="27" />
-        <mark key="]" line="46" column="27" />
-        <mark key="^" line="46" column="27" />
-        <mark key="." line="46" column="27" />
-      </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/controllers/fixedQuoteFormController.js" timestamp="1469464291400">
         <mark key="[" line="96" column="74" />
         <mark key="]" line="96" column="74" />
@@ -672,6 +665,13 @@
         <mark key="]" line="120" column="0" />
         <mark key="^" line="120" column="7" />
         <mark key="." line="120" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/BuildAppReactAndFlux/eslint.config.json" timestamp="1477689055733">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/attributes/mask-credit-card/index.js" timestamp="1471571354497">
         <mark key="[" line="1" column="0" />
@@ -853,10 +853,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="6" filename="$USER_HOME$/Sites/raft/client/app/components/work-table/row/component.js" />
-      <jump line="24" column="2" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/scss/components/_wlpc-footer.scss" />
-      <jump line="3" column="23" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/scss/components/_wlpc-footer.scss" />
-      <jump line="50" column="0" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/scss/components/_wlpc-footer.scss" />
       <jump line="40" column="0" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/scss/components/_wlpc-footer.scss" />
       <jump line="51" column="0" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/scss/components/_wlpc-footer.scss" />
       <jump line="37" column="16" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/scss/components/_wlpc-footer.scss" />
@@ -953,22 +949,26 @@
       <jump line="40" column="29" filename="$USER_HOME$/Projects/nodeAndExpress/src/views/books.ejs" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/nodeAndExpress/src/controllers/bookController.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/nodeAndExpress/src/controllers/bookController.js" />
+      <jump line="27" column="17" filename="$USER_HOME$/Projects/BuildAppReactAndFlux/gulpfile.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/Projects/BuildAppReactAndFlux/eslint.config.json" />
+      <jump line="66" column="10" filename="$USER_HOME$/Projects/BuildAppReactAndFlux/gulpfile.js" />
+      <jump line="9" column="4" filename="$USER_HOME$/Projects/BuildAppReactAndFlux/gulpfile.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>pthas</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAicm9vdCI6IHRydWUsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>pthas</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBndWxwLndhdGNoKGNvbmZpZy5wYXRocy5odG1sLCBbJ2h0bWwnXSkK</text>
+        <text encoding="base64">ICAgICAgJ25vZGVfbW9kdWxlcy9ib290c3RyYXAvZGlzdC9jc3MvYm9vdHN0cmFwLm1pbi5jc3MnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAicm9vdCI6IHRydWUsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -980,28 +980,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">fSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC5waXBlKGxpbnQuZm9ybWF0KCkpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC5waXBlKGxpbnQoe2NvbmZpZzogJ2VzbGludC5jb25maWcuanNvbid9KSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbm5lY3Quc2VydmVyKHsK</text>
+        <text encoding="base64">ICByZXR1cm4gZ3VscC5zcmMoY29uZmlnLnBhdGhzLmpzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Z3VscC50YXNrKCdsaW50JywgZnVuY3Rpb24gKCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KiBucG0gc3RhcnQK</text>
+        <text encoding="base64">dGVzdCA9IDEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KiBucG0gaW5zdGFsbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

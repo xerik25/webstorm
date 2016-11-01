@@ -3,7 +3,7 @@
     <option name="showingCurrentLine" value="false" />
   </component>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/src/JGW.Website/Views/WhiteLabelPrepaid/LoggedOutHero.cshtml" timestamp="1467228819561">
@@ -139,11 +139,11 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/BuildAppReactAndFlux/src/components/authors/authorForm.js" timestamp="1478018332422">
-        <mark key="[" line="26" column="21" />
-        <mark key="]" line="26" column="22" />
-        <mark key="." line="26" column="22" />
-        <mark key="^" line="16" column="21" />
+      <file name="$USER_HOME$/Projects/BuildAppReactAndFlux/src/components/authors/authorForm.js" timestamp="1478019426969">
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="25" column="61" />
+        <mark key="." line="25" column="61" />
+        <mark key="^" line="25" column="61" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/controllers/freeQuoteFormController.js" timestamp="1469458105340">
         <mark key="[" line="72" column="50" />
@@ -212,10 +212,10 @@
         <mark key="." line="1" column="13" />
         <mark key="^" line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/BuildAppReactAndFlux/src/components/authors/manageAuthorPage.js" timestamp="1478018385167">
-        <mark key="[" line="16" column="73" />
-        <mark key="]" line="16" column="73" />
-        <mark key="." line="16" column="73" />
+      <file name="$USER_HOME$/Projects/BuildAppReactAndFlux/src/components/authors/manageAuthorPage.js" timestamp="1478019501991">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="73" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/gulp/proxy.js" timestamp="1475004103123">
@@ -1039,8 +1039,8 @@
       <jump line="9" column="4" filename="$USER_HOME$/Projects/BuildAppReactAndFlux/gulpfile.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzZXRBdXRob3JTdGF0ZScsIGZpZWxkLCB2YWx1ZSwgdGhpcy5zdGF0ZS5hdXRob3JbZmllbGRdKTsK</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -1052,7 +1052,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgb25DaGFuZ2U9e3RoaXMucHJvcHMub25DaGFuZ2V9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzZXRBdXRob3JTdGF0ZScsIGZpZWxkLCB2YWx1ZSwgdGhpcy5zdGF0ZS5hdXRob3JbZmllbGRdKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1067,25 +1067,25 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGgxPk1hbmFnZSBBdXRob3I8L2gxPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPEF1dGhvckZvcm0gLz4K</text>
+        <text encoding="base64">ICAgICAgPGgxPk1hbmFnZSBBdXRob3I8L2gxPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPEF1dGhvckZvcm0+ZGQ8L0F1dGhvckZvcm0+Cg==</text>
+        <text encoding="base64">ICAgICAgPEF1dGhvckZvcm0gLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPEF1dGhvckZvcm0+ZGQ8L0F1dGhvckZvcm0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8cD48TGluayB0bz0iYXBwIiBjbGFzc05hbWU9ImJ0biBidG4tcHJpbWFyeSBidG4tbGciPkJhY2sgdG8gSG9tZTwvTGluaz48L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8aDE+UGFnZSBOb3QgRm91bmQ8L2gxPgo=</text>
+        <text encoding="base64">ICAgICAgICA8cD48TGluayB0bz0iYXBwIiBjbGFzc05hbWU9ImJ0biBidG4tcHJpbWFyeSBidG4tbGciPkJhY2sgdG8gSG9tZTwvTGluaz48L3A+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

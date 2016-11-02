@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="rC" value="var $NAME$ = React.createClass({&#10;    render: function () {&#10;        return (&#10;            &lt;div&gt;$END$&lt;/div&gt;&#10;        )&#10;    }&#10;});" description="Create React Component" toReformat="true" toShortenFQNames="true">
+  <template name="rC" value="&quot;use strict&quot;;&#10;&#10;var React = require('react');&#10;&#10;var $NAME$ = React.createClass({&#10;    render: function () {&#10;        return (&#10;            &lt;div&gt;$END$&lt;/div&gt;&#10;        )&#10;    }&#10;});&#10;&#10;module.exports = $NAME$;" description="Create React Component" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JSX_HTML" value="true" />

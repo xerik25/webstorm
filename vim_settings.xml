@@ -42,6 +42,11 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="51" column="54" />
       </file>
+      <file name="$USER_HOME$/Projects/BuildAppReactAndFlux/src/components/common/textInput.js" timestamp="1478093487893">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/paginator.js" timestamp="1473368046176">
         <mark key="[" line="70" column="57" />
         <mark key="]" line="71" column="20" />
@@ -159,7 +164,6 @@
         <mark key="^" line="13" column="76" />
         <mark key="." line="13" column="76" />
       </file>
-      <file name="$USER_HOME$/Projects/react-redux-boilerplate/package.json" timestamp="1477767197291" />
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/constants.js" timestamp="1469209225110">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -184,6 +188,12 @@
         <mark key="^" line="19" column="35" />
         <mark key="." line="19" column="35" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1478093453875">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/volleyball/.gitignore" timestamp="1467895662958">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="13" />
@@ -202,7 +212,7 @@
         <mark key="." line="63" column="39" />
         <mark key="^" line="63" column="41" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.html" timestamp="1475078579813">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.html" timestamp="1478093435879">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -983,19 +993,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY2xhc3MgY2xhc3NfX2FzZGYiPjwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgb25DaGFuZ2U9e3RoaXMucHJvcHMub25DaGFuZ2V9Cg==</text>
+        <text encoding="base64">ICAgbmFtZTogUmVhY3QuUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkLCAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY2xhc3MgY2xhc3NfX2FzZGYiPjwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1007,28 +1017,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UmVhY3QucmVuZGVyKCkK</text>
+        <text encoding="base64">InVzZSBzdHJpY3QiOwoKdmFyIFJlYWN0ID0gcmVxdWlyZSgncmVhY3QnKTsKCnZhciBMYW5kb24gPSBSZWFjdC5jcmVhdGVDbGFzcyh7CiAgcmVuZGVyOiBmdW5jdGlvbiAoKSB7CiAgICByZXR1cm4gKAogICAgICA8ZGl2PjwvZGl2PgogICAgKQogIH0KfSk7Cgptb2R1bGUuZXhwb3J0cyA9IExhbmRvbjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UmVhY3QuY3JlYXRlQ2xhc3MK</text>
+        <text encoding="base64">ZGl2LmJ0bi5idG4tLXN1Y2Nlc3MgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVDb21ib01hcmtkZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PHJjPmRkZGQ8L3JjPgo=</text>
+        <text encoding="base64">PGRpdiBjbGFzc05hbWU9ImJ0biBidG4tLXN1Y2Nlc3MiPjwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzZXRBdXRob3JTdGF0ZScsIGZpZWxkLCB2YWx1ZSwgdGhpcy5zdGF0ZS5hdXRob3JbZmllbGRdKTsK</text>
+        <text encoding="base64">InVzZSBzdHJpY3QiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iY2xhc3MgY2xhc3NfX2FzZGYiPjwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">UmVhY3QucmVuZGVyKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGgxPk1hbmFnZSBBdXRob3I8L2gxPgo=</text>
+        <text encoding="base64">UmVhY3QuY3JlYXRlQ2xhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

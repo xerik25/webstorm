@@ -137,11 +137,11 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/BuildAppReactAndFlux/src/actions/authorActions.js" timestamp="1478186645669">
-        <mark key="[" line="14" column="6" />
-        <mark key="]" line="14" column="6" />
-        <mark key="^" line="14" column="6" />
-        <mark key="." line="14" column="6" />
+      <file name="$USER_HOME$/Projects/BuildAppReactAndFlux/src/actions/authorActions.js" timestamp="1478194300723">
+        <mark key="[" line="20" column="52" />
+        <mark key="]" line="20" column="58" />
+        <mark key="^" line="20" column="58" />
+        <mark key="." line="20" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/BuildAppReactAndFlux/src/components/authors/authorForm.js" timestamp="1478120602130">
         <mark key="[" line="10" column="34" />
@@ -215,11 +215,11 @@
         <mark key="." line="1" column="13" />
         <mark key="^" line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/BuildAppReactAndFlux/src/components/authors/manageAuthorPage.js" timestamp="1478189213566">
-        <mark key="[" line="72" column="18" />
-        <mark key="]" line="72" column="30" />
-        <mark key="." line="72" column="30" />
-        <mark key="^" line="72" column="30" />
+      <file name="$USER_HOME$/Projects/BuildAppReactAndFlux/src/components/authors/manageAuthorPage.js" timestamp="1478194412585">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="77" column="3" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/gulp/proxy.js" timestamp="1475004103123">
         <mark key="[" line="63" column="37" />
@@ -369,11 +369,11 @@
         <mark key="^" line="6" column="200" />
         <mark key="." line="6" column="200" />
       </file>
-      <file name="$USER_HOME$/Projects/BuildAppReactAndFlux/src/constants/actionTypes.js" timestamp="1478191065029">
+      <file name="$USER_HOME$/Projects/BuildAppReactAndFlux/src/constants/actionTypes.js" timestamp="1478194257097">
         <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="21" />
-        <mark key="^" line="5" column="18" />
-        <mark key="." line="6" column="21" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="20" />
       </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/contact_us_offices/_data.json" timestamp="1468877921413">
         <mark key="[" line="53" column="19" />
@@ -693,11 +693,11 @@
         <mark key="." line="27" column="28" />
         <mark key="^" line="27" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/BuildAppReactAndFlux/src/stores/authorStore.js" timestamp="1478191388501">
-        <mark key="[" line="42" column="12" />
-        <mark key="]" line="44" column="20" />
-        <mark key="." line="44" column="20" />
-        <mark key="^" line="44" column="20" />
+      <file name="$USER_HOME$/Projects/BuildAppReactAndFlux/src/stores/authorStore.js" timestamp="1478194553821">
+        <mark key="[" line="44" column="68" />
+        <mark key="]" line="46" column="60" />
+        <mark key="." line="46" column="60" />
+        <mark key="^" line="46" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/BuildAppReactAndFlux/readme.md" timestamp="1477682217430">
         <mark key="[" line="7" column="0" />
@@ -1038,19 +1038,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgX2F1dGhvcnMucHVzaChhY3Rpb24uYXV0aG9yKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>CREATE_AUTHOR</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgIGNhc2UgQWN0aW9uVHlwZXMuQ1JFQVRFX0FVVEhPUjoKICAgICAgX2F1dGhvcnMucHVzaChhY3Rpb24uYXV0aG9yKTsKICAgICAgQXV0aG9yU3RvcmUuZW1pdENoYW5nZSgpOwogICAgICBicmVhazsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBJTklUSUFMSVpFOiBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgX2F1dGhvcnMucHVzaChhY3Rpb24uYXV0aG9yKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1062,28 +1062,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIERpc3BhdGNoZXIgPSByZXF1aXJlKCcvRGlzcGF0Y2hlcicpOwo=</text>
+        <text encoding="base64">ICAgIEF1dGhvckFjdGlvbnMuY3JlYXRlQXV0aG9yKHRoaXMuc3RhdGUuYXV0aG9yKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBJTklUSUFMSVpFOiBudWxsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">InVzZSBzdHJpY3QiOwo=</text>
+        <text encoding="base64">dmFyIERpc3BhdGNoZXIgPSByZXF1aXJlKCcvRGlzcGF0Y2hlcicpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyIHRlc3RpbmcgPSByZXF1aXJlKCcuL2FzZGYvdGVzdGluZycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TVVTVF9VU0VfQVRUUklCVVRFCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">InVzZSBzdHJpY3QiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

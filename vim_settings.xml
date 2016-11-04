@@ -873,6 +873,12 @@
         <mark key="^" line="16" column="22" />
         <mark key="." line="17" column="5" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.html" timestamp="1478278579819">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="4" />
+        <mark key="^" line="8" column="4" />
+        <mark key="." line="8" column="4" />
+      </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/page/basepage/head.html" timestamp="1475178664833">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -1064,11 +1070,11 @@
       <jump line="572" column="0" filename="$USER_HOME$/Projects/marketing-emails/Residents/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGl2LmdldEVsZW1lbnRzQnlUYWdOYW1lCg==</text>
+      <register name="&quot;" type="4">
+        <text>range</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>range</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>

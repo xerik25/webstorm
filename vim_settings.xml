@@ -143,11 +143,11 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="72" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/reducers/AgentEntryFormReducer.js" timestamp="1478640911949">
-        <mark key="[" line="17" column="54" />
-        <mark key="]" line="17" column="96" />
-        <mark key="." line="17" column="96" />
-        <mark key="^" line="17" column="96" />
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/reducers/AgentEntryFormReducer.js" timestamp="1478644084981">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="13" column="70" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.html" timestamp="1478093435879">
         <mark key="[" line="0" column="0" />
@@ -544,7 +544,7 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="19" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/actions/AgentEntryFormTypes.js" timestamp="1478535917963">
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/actions/AgentEntryFormTypes.js" timestamp="1478644069989">
         <mark key="[" line="1" column="44" />
         <mark key="]" line="2" column="51" />
         <mark key="." line="2" column="51" />
@@ -733,11 +733,11 @@
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/agentEntryForm/AgentEntryForm.js" timestamp="1478637745598">
-        <mark key="[" line="129" column="49" />
-        <mark key="]" line="129" column="53" />
-        <mark key="." line="129" column="53" />
-        <mark key="^" line="129" column="53" />
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/agentEntryForm/AgentEntryForm.js" timestamp="1478643757354">
+        <mark key="[" line="22" column="40" />
+        <mark key="]" line="22" column="43" />
+        <mark key="." line="22" column="43" />
+        <mark key="^" line="22" column="43" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/gulp/proxy.js" timestamp="1475004103123">
         <mark key="[" line="63" column="37" />
@@ -847,11 +847,11 @@
         <mark key="^" line="28" column="22" />
         <mark key="." line="28" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/actions/SubmitAgentEntryForm.js" timestamp="1478638560814">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="16" />
-        <mark key="^" line="4" column="16" />
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/actions/SubmitAgentEntryForm.js" timestamp="1478644191220">
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="8" column="40" />
+        <mark key="." line="8" column="40" />
+        <mark key="^" line="8" column="40" />
       </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/tiles_offices/_tiles_offices.jade" timestamp="1468615703105">
         <mark key="[" line="7" column="56" />
@@ -941,10 +941,10 @@
         <mark key="." line="96" column="77" />
         <mark key="^" line="95" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/reducers/initialAgentEntryFormState.js" timestamp="1478639934878">
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="12" column="5" />
-        <mark key="." line="12" column="5" />
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/reducers/initialAgentEntryFormState.js" timestamp="1478642965824">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
         <mark key="^" line="12" column="5" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/attributes/modal-redirect/index.js" timestamp="1469211156771">
@@ -1242,20 +1242,20 @@
       <jump line="39" column="48" filename="$USER_HOME$/Projects/selectah-agent-referral-page/src/configureStore.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{entry:initialState.currentEntry}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2N1cnJlbnRFbnRyeScsIHN0YXRlLmN1cnJlbnRFbnRyeSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{entry:initialState.currentEntry}</text>
+        <text>emptyAgentEntry</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE9iamVjdC5hc3NpZ24oe30sIHN0YXRlLCB7YWdlbnRzfSwge2VudHJ5OmluaXRpYWxTdGF0ZS5jdXJyZW50RW50cnl9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudEVudHJ5OiB7CiAgICAgICAgICAgICAgICBmaXJzdE5hbWU6ICcnLAogICAgICAgICAgICAgICAgbGFzdE5hbWU6ICcnLAogICAgICAgICAgICAgICAgcGhvdG86ICcnLAogICAgICAgICAgICAgICAgdHJ1c3RQaWxvdFJhdGluZzogNSwKICAgICAgICAgICAgICAgIHRydXN0UGlsb3RUaXRsZTogJycsCiAgICAgICAgICAgICAgICB0cnVzdFBpbG90RGVzY3JpcHRpb246ICcnLAogICAgICAgICAgICAgICAgdHJ1c3RQaWxvdFJldmlld2VyTmFtZTogJycsCiAgICAgICAgICAgICAgICBwaG9uZTogJycsCiAgICAgICAgICAgICAgICBlbWFpbDogJycsCiAgICAgICAgICAgICAgICBhZ2VudEpvYlRpdGxlOiAnJwogICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYWN0aW9uJywgYWN0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2N1cnJlbnRFbnRyeScsIHN0YXRlLmN1cnJlbnRFbnRyeSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1267,28 +1267,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2luaXRTdGF0ZScsIGluaXRpYWxTdGF0ZS5jdXJyZW50RW50cnkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT2JqZWN0LmFzc2lnbih7fSwgc3RhdGUsIHthZ2VudHN9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2FjdGlvbicsIGFjdGlvbik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE9iamVjdC5hc3NpZ24oe30sIHN0YXRlLCB7YWdlbnRzfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWdlbnRzLnB1c2goYWN0aW9uLm5ld0FnZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFnZW50Sm9iVGl0bGU6ICcnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGFnZW50cyA9IHN0YXRlLmFnZW50cy5zbGljZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtYWlsOiAnJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2FnZW50cycsIGFnZW50cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBob25lOiAnJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc3RhdGUnLCB0aGlzLnN0YXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRydXN0UGlsb3RSZXZpZXdlck5hbWU6ICcnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsvKkZpcnN0TmFtZSovfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRydXN0UGlsb3REZXNjcmlwdGlvbjogJycsCg==</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

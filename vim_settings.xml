@@ -143,11 +143,11 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="72" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/reducers/AgentEntryFormReducer.js" timestamp="1478640266555">
-        <mark key="[" line="16" column="55" />
-        <mark key="]" line="16" column="55" />
-        <mark key="." line="16" column="59" />
-        <mark key="^" line="14" column="20" />
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/reducers/AgentEntryFormReducer.js" timestamp="1478640911949">
+        <mark key="[" line="17" column="54" />
+        <mark key="]" line="17" column="96" />
+        <mark key="." line="17" column="96" />
+        <mark key="^" line="17" column="96" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.html" timestamp="1478093435879">
         <mark key="[" line="0" column="0" />
@@ -1243,16 +1243,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text>{entry:initialState.currentEntry}</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>{entry:initialState.currentEntry}</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE9iamVjdC5hc3NpZ24oe30sIHN0YXRlLCB7YWdlbnRzfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE9iamVjdC5hc3NpZ24oe30sIHN0YXRlLCB7YWdlbnRzfSwge2VudHJ5OmluaXRpYWxTdGF0ZS5jdXJyZW50RW50cnl9KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYWN0aW9uJywgYWN0aW9uKTsK</text>

@@ -554,11 +554,11 @@
         <mark key="^" line="52" column="29" />
         <mark key="." line="52" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/ReactReduxEs6/src/store/configureStore.js" timestamp="1478557879038">
-        <mark key="[" line="2" column="75" />
-        <mark key="]" line="3" column="14" />
-        <mark key="." line="3" column="14" />
-        <mark key="^" line="3" column="14" />
+      <file name="$USER_HOME$/Projects/ReactReduxEs6/src/store/configureStore.js" timestamp="1478571501934">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="79" />
+        <mark key="." line="9" column="79" />
+        <mark key="^" line="9" column="79" />
       </file>
       <file name="$USER_HOME$/Projects/ReactReduxEs6/src/App.js" timestamp="1478445168623">
         <mark key="[" line="2" column="47" />
@@ -1216,11 +1216,11 @@
       <jump line="572" column="0" filename="$USER_HOME$/Projects/marketing-emails/Residents/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkaXNwYXRjaDogUHJvcFR5cGVzLmZ1bmMuaXNSZXF1aXJlZCwK</text>
+      <register name="&quot;" type="4">
+        <text>applyMiddleware(reduxImmutableStateInvariant())</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>applyMiddleware(reduxImmutableStateInvariant())</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>

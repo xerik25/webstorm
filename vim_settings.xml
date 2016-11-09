@@ -733,7 +733,7 @@
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/agentEntryForm/AgentEntryForm.js" timestamp="1478646781701">
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/agentEntryForm/AgentEntryForm.js" timestamp="1478646896012">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -941,10 +941,10 @@
         <mark key="." line="96" column="77" />
         <mark key="^" line="95" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/reducers/initialAgentEntryFormState.js" timestamp="1478646379802">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/reducers/initialAgentEntryFormState.js" timestamp="1478666803405">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
         <mark key="^" line="12" column="5" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/attributes/modal-redirect/index.js" timestamp="1469211156771">
@@ -1248,8 +1248,8 @@
       <jump line="39" column="48" filename="$USER_HOME$/Projects/selectah-agent-referral-page/src/configureStore.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>initialState</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="-" type="4">
         <text>initialState</text>
@@ -1261,7 +1261,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY3VycmVudEVudHJ5OiB7CiAgICAgICAgICAgICAgICBmaXJzdE5hbWU6ICcnLAogICAgICAgICAgICAgICAgbGFzdE5hbWU6ICcnLAogICAgICAgICAgICAgICAgcGhvdG86ICcnLAogICAgICAgICAgICAgICAgdHJ1c3RQaWxvdFJhdGluZzogNSwKICAgICAgICAgICAgICAgIHRydXN0UGlsb3RUaXRsZTogJycsCiAgICAgICAgICAgICAgICB0cnVzdFBpbG90RGVzY3JpcHRpb246ICcnLAogICAgICAgICAgICAgICAgdHJ1c3RQaWxvdFJldmlld2VyTmFtZTogJycsCiAgICAgICAgICAgICAgICBwaG9uZTogJycsCiAgICAgICAgICAgICAgICBlbWFpbDogJycsCiAgICAgICAgICAgICAgICBhZ2VudEpvYlRpdGxlOiAnJwogICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1273,28 +1273,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGV0IGVtcHR5QWdlbnRFbnRyeSA9IHsKICAgIGZpcnN0TmFtZTogJycsCiAgICBsYXN0TmFtZTogJycsCiAgICBwaG90bzogJycsCiAgICB0cnVzdFBpbG90UmF0aW5nOiA1LAogICAgdHJ1c3RQaWxvdFRpdGxlOiAnJywKICAgIHRydXN0UGlsb3REZXNjcmlwdGlvbjogJycsCiAgICB0cnVzdFBpbG90UmV2aWV3ZXJOYW1lOiAnJywKICAgIHBob25lOiAnJywKICAgIGVtYWlsOiAnJywKICAgIGFnZW50Sm9iVGl0bGU6ICcnCn07Cg==</text>
+        <text encoding="base64">ICAgIGN1cnJlbnRFbnRyeTogewogICAgICAgIGxhc3ROYW1lOiAnJywKICAgICAgICBwaG90bzogJycsCiAgICAgICAgdHJ1c3RQaWxvdFJhdGluZzogNSwKICAgICAgICB0cnVzdFBpbG90VGl0bGU6ICcnLAogICAgICAgIHRydXN0UGlsb3REZXNjcmlwdGlvbjogJycsCiAgICAgICAgdHJ1c3RQaWxvdFJldmlld2VyTmFtZTogJycsCiAgICAgICAgcGhvbmU6ICcnLAogICAgICAgIGVtYWlsOiAnJywKICAgICAgICBhZ2VudEpvYlRpdGxlOiAnJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2RpZCB3ZSBtYWtlIGl0PycpOwo=</text>
+        <text encoding="base64">bGV0IGVtcHR5QWdlbnRFbnRyeSA9IHsKICAgIGZpcnN0TmFtZTogJycsCiAgICBsYXN0TmFtZTogJycsCiAgICBwaG90bzogJycsCiAgICB0cnVzdFBpbG90UmF0aW5nOiA1LAogICAgdHJ1c3RQaWxvdFRpdGxlOiAnJywKICAgIHRydXN0UGlsb3REZXNjcmlwdGlvbjogJycsCiAgICB0cnVzdFBpbG90UmV2aWV3ZXJOYW1lOiAnJywKICAgIHBob25lOiAnJywKICAgIGVtYWlsOiAnJywKICAgIGFnZW50Sm9iVGl0bGU6ICcnCn07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2N1cnJlbnRFbnRyeScsIHN0YXRlLmN1cnJlbnRFbnRyeSk7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2luaXRTdGF0ZScsIGluaXRpYWxTdGF0ZS5jdXJyZW50RW50cnkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2RpZCB3ZSBtYWtlIGl0PycpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2FjdGlvbicsIGFjdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2N1cnJlbnRFbnRyeScsIHN0YXRlLmN1cnJlbnRFbnRyeSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2luaXRTdGF0ZScsIGluaXRpYWxTdGF0ZS5jdXJyZW50RW50cnkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFnZW50Sm9iVGl0bGU6ICcnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2FjdGlvbicsIGFjdGlvbik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

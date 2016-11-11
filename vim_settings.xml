@@ -18,11 +18,11 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/trustPilot/TrustPilot.js" timestamp="1478894801755">
-        <mark key="[" line="5" column="62" />
-        <mark key="]" line="6" column="53" />
-        <mark key="." line="6" column="53" />
-        <mark key="^" line="6" column="53" />
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/trustPilot/TrustPilot.js" timestamp="1478896284944">
+        <mark key="[" line="31" column="34" />
+        <mark key="]" line="32" column="38" />
+        <mark key="." line="32" column="38" />
+        <mark key="^" line="32" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/BuildAppReactAndFlux/src/components/common/textInput.js" timestamp="1478100417055">
         <mark key="[" line="34" column="5" />
@@ -89,6 +89,13 @@
         <mark key="]" line="4" column="22" />
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/trustPilot/readMore.js" timestamp="1478896475671">
+        <mark key="'" line="11" column="13" />
+        <mark key="[" line="17" column="9" />
+        <mark key="]" line="17" column="9" />
+        <mark key="^" line="17" column="9" />
+        <mark key="." line="17" column="9" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/upgradelines/upgradelines.html" timestamp="1474932407680">
         <mark key="[" line="94" column="39" />
@@ -167,11 +174,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/referralPage/ReferralPage.js" timestamp="1478894706906">
-        <mark key="[" line="35" column="68" />
-        <mark key="]" line="36" column="51" />
-        <mark key="^" line="36" column="51" />
-        <mark key="." line="36" column="51" />
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/referralPage/ReferralPage.js" timestamp="1478895641706">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="10" column="23" />
+        <mark key="^" line="10" column="23" />
+        <mark key="." line="10" column="23" />
       </file>
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/js/misc/typings/tsd.d.ts" timestamp="1470838787708">
         <mark key="[" line="2" column="21" />
@@ -846,7 +853,7 @@
         <mark key="^" line="1" column="42" />
         <mark key="." line="1" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/App.js" timestamp="1478894535408">
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/App.js" timestamp="1478895630607">
         <mark key="[" line="40" column="27" />
         <mark key="]" line="40" column="27" />
         <mark key="." line="40" column="27" />
@@ -1223,7 +1230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="16" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/scss/components/_wlpc-footer.scss" />
       <jump line="67" column="0" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/scss/components/_wlpc-footer.scss" />
       <jump line="23" column="20" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/html/components/wlpc-footer.hbs" />
       <jump line="17" column="5" filename="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/attributes/popup-onhover/index.js" />
@@ -1323,13 +1329,14 @@
       <jump line="9" column="4" filename="$USER_HOME$/Projects/BuildAppReactAndFlux/gulpfile.js" />
       <jump line="572" column="0" filename="$USER_HOME$/Projects/marketing-emails/Residents/index.html" />
       <jump line="39" column="48" filename="$USER_HOME$/Projects/selectah-agent-referral-page/src/configureStore.js" />
+      <jump line="3" column="13" filename="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/trustPilot/readMore.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>20px</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>20px</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -1338,7 +1345,7 @@
         <text encoding="base64">ICAgIGJvcmRlci13aWR0aDogMCAyMHB4IDIwcHggMjBweDsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7dGhpcy5wcm9wcy5kZXRhaWxzfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1353,25 +1360,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAudHJ1c3RQaWxvdF9fZGVzY3JpcHRpb246YmVmb3JlIHsKICAgIGNvbnRlbnQ6ICcnOwogICAgd2lkdGg6IDA7CiAgICBoZWlnaHQ6IDA7CiAgICBib3JkZXItbGVmdDogNXB4IHNvbGlkIHRyYW5zcGFyZW50OwogICAgYm9yZGVyLXJpZ2h0OiA1cHggc29saWQgdHJhbnNwYXJlbnQ7CiAgICBib3JkZXItYm90dG9tOiA1cHggc29saWQgb3JhbmdlOwogICAgcG9zaXRpb246IGFic29sdXRlOwogICAgdG9wOiAtNHB4OwogICAgbGVmdDogNDklOwogICAgYm9yZGVyLXdpZHRoOiAwIDIwcHggMjBweCAyMHB4OwogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci13aWR0aDogMCAxNXB4IDE1cHggMTVweDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ1c3RQaWxvdFZhbHVlczogewogICAgICAgICAgICAgICAgc3RhclJhdGluZ1ZhbHVlOiA1LAogICAgICAgICAgICAgICAgdGl0bGU6ICdUZXJlc2EgY2FtZSB0aHJvdWdoIGFuZCBzYXZlZCBteSBjbG9zaW5nIGRhdGUuJywKICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiAnVGhpcyBndXkgaXMgY29vbCcsCiAgICAgICAgICAgICAgICByZXZpZXdlcjogJ0JvYiBTYWdhdCcKICAgICAgICAgICAgfSwKICAgICAgICAgICAgcmVmZXJyYWxDb250YWN0Rm9ybTogewogICAgICAgICAgICAgICAgcmVmZXJyYWxOYW1lOiAnVGVyZXNhJwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci13aWR0aDogMCAxNXB4IDE1cHggMTVweDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsvKi9Db250YWN0IGZvcm0qL30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAudHJ1c3RQaWxvdF9fYXJyb3dVcCB7CiAgICB3aWR0aDogMDsKICAgIGhlaWdodDogMDsKICAgIGJvcmRlci1sZWZ0OiA1cHggc29saWQgdHJhbnNwYXJlbnQ7CiAgICBib3JkZXItcmlnaHQ6IDVweCBzb2xpZCB0cmFuc3BhcmVudDsKICAgIGJvcmRlci1ib3R0b206IDVweCBzb2xpZCAjRTZFN0U5OwogICAgbWFyZ2luOiAwIGF1dG87CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAudHJ1c3RQaWxvdF9fYXJyb3dVcCB7CiAgICB3aWR0aDogMDsKICAgIGhlaWdodDogMDsKICAgIGJvcmRlci1sZWZ0OiA1cHggc29saWQgdHJhbnNwYXJlbnQ7CiAgICBib3JkZXItcmlnaHQ6IDVweCBzb2xpZCB0cmFuc3BhcmVudDsKICAgIGJvcmRlci1ib3R0b206IDVweCBzb2xpZCAjRTZFN0U5OwogICAgbWFyZ2luOiAwIGF1dG87CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250YWN0Rm9ybVZhbHVlcyA9IHt0aGlzLnN0YXRlLnJlZmVycmFsQ29udGFjdEZvcm19Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbjogMCBhdXRvOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxSZWZlcnJhbENvbnRhY3RGb3JtCg==</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

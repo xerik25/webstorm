@@ -18,11 +18,11 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/trustPilot/TrustPilot.js" timestamp="1478903149243">
-        <mark key="[" line="7" column="31" />
-        <mark key="]" line="17" column="48" />
-        <mark key="." line="17" column="48" />
-        <mark key="^" line="17" column="48" />
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/trustPilot/TrustPilot.js" timestamp="1478907612490">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="32" column="100" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="34" column="92" />
       </file>
       <file name="$USER_HOME$/Projects/BuildAppReactAndFlux/src/components/common/textInput.js" timestamp="1478100417055">
         <mark key="[" line="34" column="5" />
@@ -163,22 +163,22 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="72" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/reducers/AgentEntryFormReducer.js" timestamp="1478900345387">
-        <mark key="[" line="16" column="49" />
-        <mark key="]" line="17" column="17" />
-        <mark key="^" line="17" column="17" />
-        <mark key="." line="17" column="17" />
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/reducers/AgentEntryFormReducer.js" timestamp="1478907790758">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="17" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.html" timestamp="1478093435879">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/referralPage/ReferralPage.js" timestamp="1478902352626">
-        <mark key="[" line="32" column="44" />
-        <mark key="]" line="32" column="43" />
-        <mark key="." line="32" column="43" />
-        <mark key="^" line="32" column="43" />
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/referralPage/ReferralPage.js" timestamp="1478907740769">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="31" column="43" />
       </file>
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/js/misc/typings/tsd.d.ts" timestamp="1470838787708">
         <mark key="[" line="2" column="21" />
@@ -622,7 +622,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1478882982221">
+      <file name="/a.regexp" timestamp="1478907026875">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -785,11 +785,11 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/reducers/initialReferralPageState.js" timestamp="1478902038597">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
-        <mark key="^" line="1" column="15" />
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/reducers/initialReferralPageState.js" timestamp="1478906389268">
+        <mark key="[" line="8" column="126" />
+        <mark key="]" line="8" column="126" />
+        <mark key="." line="8" column="126" />
+        <mark key="^" line="8" column="126" />
       </file>
       <file name="$USER_HOME$/Projects/nodeAndExpress/src/routes/bookRoutes.js" timestamp="1478721562901">
         <mark key="[" line="8" column="64" />
@@ -921,6 +921,12 @@
         <mark key="]" line="7" column="44" />
         <mark key="." line="1" column="79" />
         <mark key="^" line="7" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/common/readMore.js" timestamp="1478907667619">
+        <mark key="[" line="45" column="47" />
+        <mark key="]" line="45" column="47" />
+        <mark key="." line="45" column="47" />
+        <mark key="^" line="45" column="47" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/landing/directives/landingCarousel.js" timestamp="1469471099161">
         <mark key="[" line="14" column="29" />
@@ -1359,20 +1365,20 @@
       <jump line="3" column="13" filename="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/trustPilot/readMore.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>TrustPilotStyles</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2Vycm9yJywgYWN0aW9uLm1lc3NhZ2UpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>TrustPilotStyles</text>
+        <text>readMoreDescription</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci13aWR0aDogMCAyMHB4IDIwcHggMjBweDsKICB9Cg==</text>
+        <text encoding="base64">ICAgIHJlYWRNb3JlRGVzY3JpcHRpb246IFJlYWN0LlByb3BUeXBlcy5zdHJpbmcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzb21ldGhpbmdFbHNlID0ge30gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2Vycm9yJywgYWN0aW9uLm1lc3NhZ2UpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1384,25 +1390,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXRlID0gewogICAgICAgICAgICB0cnVzdFBpbG90VmFsdWVzOiB7CiAgICAgICAgICAgICAgICBzdGFyUmF0aW5nVmFsdWU6IDUsCiAgICAgICAgICAgICAgICB0aXRsZTogJ1RlcmVzYSBjYW1lIHRocm91Z2ggYW5kIHNhdmVkIG15IGNsb3NpbmcgZGF0ZS4nLAogICAgICAgICAgICAgICAgZGVzY3JpcHRpb246ICdUaGlzIGd1eSBpcyBjb29sJywKICAgICAgICAgICAgICAgIHJldmlld2VyOiAnQm9iIFNhZ2F0JwogICAgICAgICAgICB9LAogICAgICAgICAgICByZWZlcnJhbENvbnRhY3RGb3JtOiB7CiAgICAgICAgICAgICAgICByZWZlcnJhbE5hbWU6ICdUZXJlc2EnCiAgICAgICAgICAgIH0KICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzdGF0ZScsIHN0YXRlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvcHMnLCBwcm9wcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxSZWFkTW9yZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlYWRNb3JlRGVzY3JpcHRpb24gPSB7dHJ1c3RQaWxvdFZhbHVlcy50cnVzdFBpbG90RGVzY3JpcHRpb259Lz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25NZXNzYWdlOiBzdGF0ZS5BZ2VudEVudHJ5Rm9ybS5ub3RpZmljYXRpb25NZXNzYWdlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7dHJ1c3RQaWxvdFZhbHVlcy50cnVzdFBpbG90RGVzY3JpcHRpb259Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZnk6IHN0YXRlLkFnZW50RW50cnlGb3JtLm5vdGlmeSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdW1tYXJ5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Lyp7dHJ1c3RQaWxvdERlc2NyaXB0aW9uLnJlYWRNb3JlRGVzY3JpcHRpb259Ki99Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndHJ1c3RQaWxvdERlc2NyaXB0aW9uJywgdGhpcy5wcm9wcyk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

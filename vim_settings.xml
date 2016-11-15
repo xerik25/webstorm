@@ -416,12 +416,12 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/styles/app.css" timestamp="1479170952310">
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/styles/app.css" timestamp="1479220900791">
         <mark key="'" line="8" column="62" />
-        <mark key="[" line="80" column="16" />
-        <mark key="]" line="81" column="22" />
-        <mark key="." line="81" column="22" />
-        <mark key="^" line="81" column="22" />
+        <mark key="[" line="115" column="11" />
+        <mark key="]" line="115" column="13" />
+        <mark key="." line="115" column="13" />
+        <mark key="^" line="115" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/BuildAppReactAndFlux/src/components/app.js" timestamp="1477971539826">
         <mark key="[" line="11" column="0" />
@@ -961,7 +961,7 @@
       <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/common/readMore.js" timestamp="1479182049677">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
-        <mark key="^" line="27" column="64" />
+        <mark key="^" line="2" column="64" />
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/landing/directives/landingCarousel.js" timestamp="1469471099161">
@@ -1383,11 +1383,11 @@
       <jump line="8" column="62" filename="$USER_HOME$/Projects/selectah-agent-referral-page/src/styles/app.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>bottom</text>
       </register>
       <register name="-" type="4">
-        <text>Less</text>
+        <text>bottom</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -1396,7 +1396,7 @@
         <text encoding="base64">ICAgICckc2NoZW1hJzogJycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyYW5zZm9ybTogcm90YXRlKDE4MGRlZyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1408,28 +1408,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiAnbm9uZScK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGluYWN0aXZlOiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiAnbm9uZScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGluYWN0aXZlOiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiAnaW5oZXJpdCcK</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFjdGl2ZTogewo=</text>
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiAnaW5oZXJpdCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3Qgc3R5bGVzID0gewo=</text>
+        <text encoding="base64">ICAgIGFjdGl2ZTogewo=</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

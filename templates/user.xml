@@ -1,10 +1,4 @@
 <templateSet group="user">
-  <template name="rC" value="import React from 'react';&#10;&#10;class $NAME$ extends React.Component {&#10;    render () {&#10;        return (&#10;            &lt;div&gt;$END$&lt;/div&gt;&#10;        );&#10;     }&#10;} &#10;&#10;export default $NAME$;" description="Create React Component" toReformat="true" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JSX_HTML" value="true" />
-    </context>
-  </template>
   <template name="_us" value="&quot;use strict&quot;;&#10;" description="Use Strict" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />

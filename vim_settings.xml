@@ -411,11 +411,11 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/styles/app.css" timestamp="1479307699629">
-        <mark key="[" line="99" column="15" />
-        <mark key="]" line="99" column="17" />
-        <mark key="." line="99" column="17" />
-        <mark key="^" line="99" column="17" />
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/styles/app.css" timestamp="1479308768254">
+        <mark key="[" line="107" column="18" />
+        <mark key="]" line="107" column="20" />
+        <mark key="." line="107" column="20" />
+        <mark key="^" line="107" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/nodeAndExpress/src/services/goodreadsService.js" timestamp="1477681006162">
         <mark key="[" line="6" column="0" />
@@ -917,11 +917,11 @@
         <mark key="." line="1" column="79" />
         <mark key="^" line="7" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/common/readMore.js" timestamp="1479249124300">
-        <mark key="[" line="26" column="43" />
-        <mark key="]" line="26" column="43" />
-        <mark key="." line="26" column="43" />
-        <mark key="^" line="26" column="122" />
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/common/readMore.js" timestamp="1479309330985">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="10" />
+        <mark key="." line="20" column="10" />
+        <mark key="^" line="20" column="10" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/landing/directives/landingCarousel.js" timestamp="1469471099161">
         <mark key="[" line="14" column="29" />
@@ -1307,10 +1307,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bold</text>
+        <text>const</text>
       </register>
       <register name="-" type="4">
-        <text>bold</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -1319,7 +1319,7 @@
         <text encoding="base64">ICAgIHBhZGRpbmc6IDAgMC41ZW0gMWVtIDAuNWVtOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW46ICcxLjVlbSAxZW0nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmVhZE1vcmVEZXNjcmlwdGlvblNob3J0ZW5lZCA9IHJlYWRNb3JlRGVzY3JpcHRpb24uc3Vic3RyaW5nKDAsMTUwKSArICcuLi4nOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1331,28 +1331,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8Q291cnNlTGlzdCBjb3Vyc2VzPSIiLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmVhZE1vcmVEZXNjcmlwdGlvblNob3J0ZW5lZCA9IHJlYWRNb3JlRGVzY3JpcHRpb24uc3Vic3RyaW5nKDAsMTUwKSArICcuLi4nOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7dGhpcy5wcm9wcy5jb3Vyc2VzLm1hcCh0aGlzLmNvdXJzZVJvdyl9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByZWFkTW9yZURlc2NyaXB0aW9uU2hvcnRlbmVkID0gcmVhZE1vcmVEZXNjcmlwdGlvbi5zdWJzdHJpbmcoMCwxNTApICsgJy4uLic7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdldERlY2xhcmF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG1hcmdpbjogMCBhdXRvOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgXTsK</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW46ICcxLjVlbSAxZW0nLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3QuYXNzaWduKHt9LCBhY3Rpb24uY291cnNlKQo=</text>
+        <text encoding="base64">ICAgICAgICA8Q291cnNlTGlzdCBjb3Vyc2VzPSIiLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIFsuLi5zdGRkZGRhdGUsCg==</text>
+        <text encoding="base64">ICAgICAgICB7dGhpcy5wcm9wcy5jb3Vyc2VzLm1hcCh0aGlzLmNvdXJzZVJvdyl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGdldERlY2xhcmF0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

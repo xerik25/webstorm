@@ -2,10 +2,11 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern="test" type="HTML" />
       <mapping ext="cshtml" type="HTML" />
       <mapping ext="php" type="PHP" />
-      <mapping pattern="contact-us-comp.hbs" type="PLAIN_TEXT" />
       <mapping pattern="_dropdown-multi-select" type="PLAIN_TEXT" />
+      <mapping pattern="contact-us-comp.hbs" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="29e744208072b47ad30b21627a706388" type="PLAIN_TEXT" />

@@ -12,6 +12,9 @@
         <mark key="." line="101" column="37" />
         <mark key="^" line="101" column="37" />
       </file>
+      <file name="/a.dummy" timestamp="1479241337772">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/ng2-typescript-gulp-seed/src/components/example-component/example.component.ts" timestamp="1467821981959">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="19" />
@@ -504,11 +507,11 @@
         <mark key="." line="73" column="170" />
         <mark key="^" line="73" column="170" />
       </file>
-      <file name="$USER_HOME$/Projects/ReactReduxEs6/src/actions/courseActions.js" timestamp="1479269204292">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="3" column="33" />
-        <mark key="." line="3" column="33" />
-        <mark key="^" line="3" column="33" />
+      <file name="$USER_HOME$/Projects/ReactReduxEs6/src/actions/courseActions.js" timestamp="1479354823490">
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/actions/AppTypes.js" timestamp="1478531414331">
         <mark key="[" line="0" column="20" />
@@ -635,7 +638,7 @@
         <mark key="." line="31" column="57" />
         <mark key="^" line="31" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479338711341">
+      <file name="/Dummy.txt" timestamp="1479340819775">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1282,6 +1285,9 @@
         <mark key="." line="114" column="21" />
         <mark key="^" line="104" column="84" />
       </file>
+      <file name="$USER_HOME$/Projects/ReactReduxEs6/src/components/common/SelectInput.js" timestamp="1479354784482">
+        <mark key="[" line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/ReactReduxEs6/src/components/course/ManageCoursePage.js" timestamp="1479340114813">
         <mark key="[" line="11" column="16" />
         <mark key="]" line="12" column="26" />
@@ -1334,6 +1340,9 @@
         <mark key="]" line="60" column="29" />
         <mark key="." line="60" column="29" />
         <mark key="^" line="29" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/logos/test.html" timestamp="1479256091207">
+        <mark key="[" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/nodeAndExpress/src/routes/adminRoutes.js" timestamp="1478723169702">
         <mark key="[" line="16" column="15" />
@@ -1451,11 +1460,11 @@
       <jump line="145" column="22" filename="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/referralPage/ReferralPage.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxSb3V0ZSBwYXRoPSJjb3Vyc2UiIGNvbXBvbmVudD17TWFuYWdlQ291cnNlUGFnZX0vPgo=</text>
+      <register name="&quot;" type="4">
+        <text>loadCourses</text>
       </register>
       <register name="-" type="4">
-        <text>CoursesPage</text>
+        <text>loadCourses</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>

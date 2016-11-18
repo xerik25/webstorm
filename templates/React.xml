@@ -25,4 +25,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="Testing" value="&lt;testing&gt;" description="Testing" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>

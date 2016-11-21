@@ -276,12 +276,12 @@
         <mark key="." line="13" column="85" />
         <mark key="^" line="13" column="85" />
       </file>
-      <file name="$USER_HOME$/Projects/codeand_blog_forked/codeand_blog/app.js" timestamp="1479699368304">
+      <file name="$USER_HOME$/Projects/codeand_blog_forked/codeand_blog/app.js" timestamp="1479702149242">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="67" column="22" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="66" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/header-login.js" timestamp="1477067253642">
         <mark key="[" line="0" column="13" />
@@ -359,7 +359,7 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/codeand_blog_forked/codeand_blog/environmentVars.js" timestamp="1479698613709">
+      <file name="$USER_HOME$/Projects/codeand_blog_forked/codeand_blog/environmentVars.js" timestamp="1479701704910">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="8" />
         <mark key="^" line="2" column="7" />
@@ -388,11 +388,8 @@
         <mark key="." line="76" column="23" />
         <mark key="^" line="76" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/codeand_blog_forked/codeand_blog/src/assets/js/main.js" timestamp="1479690261077">
-        <mark key="[" line="24" column="9" />
-        <mark key="]" line="24" column="29" />
+      <file name="$USER_HOME$/Projects/codeand_blog_forked/codeand_blog/src/assets/js/main.js" timestamp="1479702325488">
         <mark key="^" line="24" column="29" />
-        <mark key="." line="24" column="29" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/devicetilewall/devicetilewall.html" timestamp="1472693860177">
         <mark key="[" line="43" column="35" />
@@ -418,11 +415,8 @@
         <mark key="." line="153" column="30" />
         <mark key="^" line="153" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/codeand_blog_forked/codeand_blog/.gitignore" timestamp="1479695781534">
+      <file name="$USER_HOME$/Projects/codeand_blog_forked/codeand_blog/.gitignore" timestamp="1479700440540">
         <mark key="[" line="36" column="18" />
-        <mark key="]" line="39" column="14" />
-        <mark key="^" line="39" column="14" />
-        <mark key="." line="39" column="14" />
       </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/directives/mainmenumobile/index.js" timestamp="1469470077193">
         <mark key="[" line="138" column="28" />
@@ -831,11 +825,10 @@
         <mark key="." line="320" column="272" />
         <mark key="^" line="320" column="310" />
       </file>
-      <file name="$USER_HOME$/Projects/codeand_blog_forked/codeand_blog/package.json" timestamp="1479689955046">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="8" column="49" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Projects/codeand_blog_forked/codeand_blog/package.json" timestamp="1479702627018">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="/app.js" timestamp="1479699361884" />
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/protection.js" timestamp="1473376755104">
@@ -1364,12 +1357,6 @@
         <mark key="." line="26" column="63" />
         <mark key="^" line="26" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/codeand_blog_forked/codeand_blog/README.md" timestamp="1479695835493">
-        <mark key="[" line="39" column="67" />
-        <mark key="]" line="39" column="67" />
-        <mark key="." line="39" column="67" />
-        <mark key="^" line="39" column="67" />
-      </file>
       <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/reducers/emptyAgentEntry.js" timestamp="1478646670710">
         <mark key="[" line="11" column="2" />
         <mark key="]" line="13" column="30" />
@@ -1589,19 +1576,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygndGVzdDEnKTsK</text>
+        <text encoding="base64">ICAgICJhd3Mtc2RrIjogIl4yLjcuNSIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>AWS.config.airTableDatabase</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QVdTLmNvbmZpZy5haXJUYWJsZUtleSA9IHByb2Nlc3MuZW52LkFJUlRBQkxFX0FQSV9LRVk7Cg==</text>
+      <register name="0" type="4">
+        <text>process.env.AIRTABLE_DATABASE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygndGVzdDEnKTsK</text>
+        <text encoding="base64">ICAgICJhd3Mtc2RrIjogIl4yLjcuNSIsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1613,28 +1600,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygndGVzdDEnKTsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3Rlc3RpbmcnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3Rlc3QxJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhaXJUYWJsZUFwaUtleSA9IEFXUy5jb25maWcuYWlyVGFibGVLZXk7CiAgYWlyVGFibGVEYXRhYmFzZSA9IEFXUy5jb25maWcuYWlyVGFibGVEYXRhYmFzZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhaXJUYWJsZUFwaUtleSA9IGVudmlyb25tZW50VmFycy5hcGlLZXk7CiAgYWlyVGFibGVEYXRhYmFzZSA9IGVudmlyb25tZW50VmFycy5kYXRhYmFzZTsK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2FpclRhYmxlREInLCBhaXJUYWJsZURhdGFiYXNlKTsK</text>
+        <text encoding="base64">ICogZGV2IHZzIHByb2QgY29uZmlnIHZhcnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2FpclRhYmxlREInLCBhaXJUYWJsZURhdGFiYXNlKTsK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3Rlc3QnLCBlbnZpcm9ubWVudFZhcnMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">YnJvd3Nlci1zeW5jIGFuZCBhdXRvcmVsb2FkIGJyb3dzZXIgd2l0aCBjaGFuZ2VzIHdpdGhvdXQgaGF2aW5nIHRvIHJlYnVpbGQK</text>
+      <register name="9" type="2">
+        <text encoding="base64">dmFyIHMzID0gbmV3IEFXUy5TMygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

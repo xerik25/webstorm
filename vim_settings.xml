@@ -276,11 +276,12 @@
         <mark key="." line="13" column="85" />
         <mark key="^" line="13" column="85" />
       </file>
-      <file name="$USER_HOME$/Projects/codeand_blog_forked/codeand_blog/app.js" timestamp="1479690593544">
-        <mark key="[" line="53" column="10" />
-        <mark key="]" line="53" column="31" />
-        <mark key="." line="53" column="31" />
-        <mark key="^" line="53" column="31" />
+      <file name="$USER_HOME$/Projects/codeand_blog_forked/codeand_blog/app.js" timestamp="1479692524691">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="53" column="67" />
+        <mark key="." line="53" column="67" />
+        <mark key="^" line="53" column="67" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/header-login.js" timestamp="1477067253642">
         <mark key="[" line="0" column="13" />
@@ -824,7 +825,7 @@
         <mark key="^" line="8" column="49" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/app.js" timestamp="1479604672750" />
+      <file name="/app.js" timestamp="1479692189167" />
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/protection.js" timestamp="1473376755104">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -1473,8 +1474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/Sites/ng2-toh/app/hero.service.ts" />
-      <jump line="9" column="0" filename="$USER_HOME$/Sites/ng2-toh/app/hero.service.ts" />
       <jump line="70" column="17" filename="$USER_HOME$/Sites/ng2-toh/app/app.component.ts" />
       <jump line="91" column="0" filename="$USER_HOME$/Sites/ng2-toh/app/app.component.ts" />
       <jump line="0" column="3" filename="/a.dummy" />
@@ -1573,22 +1572,24 @@
       <jump line="18" column="56" filename="$USER_HOME$/Projects/selectah-agent-referral-page/src/images/index.js" />
       <jump line="94" column="5" filename="$USER_HOME$/Projects/selectah-agent-referral-page/src/images/index.js" />
       <jump line="26" column="0" filename="$USER_HOME$/Projects/codeand_blog/app/app.js" />
+      <jump line="12" column="4" filename="$USER_HOME$/Projects/codeand_blog_forked/codeand_blog/app.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/codeand_blog_forked/codeand_blog/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gQVdTLmNvbmZpZy5zZWNyZXRBY2Nlc3NLZXkgPSBwcm9jZXNzLmVudlsnUzNfU0VDUkVUJ10K</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>accessKeyId</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3Rlc3RpbmcnKTsK</text>
+        <text encoding="base64">dmFyIGFpclRhYmxlQXBpS2V5ID0gJ2tleURySzltbVByeGhWYVVXJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gQVdTLmNvbmZpZy5zZWNyZXRBY2Nlc3NLZXkgPSBwcm9jZXNzLmVudlsnUzNfU0VDUkVUJ10K</text>
+        <text encoding="base64">dmFyIGFpclRhYmxlQXBpS2V5ID0gJyc7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1600,28 +1601,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gVGhpcyB3aWxsIGFsc28gd29yazoK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2VudicsIGVudik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QVdTLmNvbmZpZy5zZWNyZXRBY2Nlc3NLZXkgPSBwcm9jZXNzLmVudi5TM19TRUNSRVQ7Cg==</text>
+        <text encoding="base64">Ly8gbG9hZENvbmZpZ0ZpbGUoZW52ICsgJy5qc29uJywgZG9TdHVmZik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJndWxwLWxpdmVyZWxvYWQiOiAiXjMuOC4xIiwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC5waXBlKGxpdmVyZWxvYWQoKSk7Cg==</text>
+        <text encoding="base64">Ly8gQVdTLmNvbmZpZy5zZWNyZXRBY2Nlc3NLZXkgPSBwcm9jZXNzLmVudlsnUzNfU0VDUkVUJ10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3Rlc3RpbmcnKTsK</text>
+        <text encoding="base64">Ly8gVGhpcyB3aWxsIGFsc28gd29yazoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3Rlc3RpbmcnKTsK</text>
+        <text encoding="base64">QVdTLmNvbmZpZy5zZWNyZXRBY2Nlc3NLZXkgPSBwcm9jZXNzLmVudi5TM19TRUNSRVQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC5waXBlKGJyb3dzZXJTeW5jLnJlbG9hZCh7c3RyZWFtOiB0cnVlfSkpOwo=</text>
+        <text encoding="base64">ICAgICJndWxwLWxpdmVyZWxvYWQiOiAiXjMuOC4xIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3Rlc3RpbmcnKTsK</text>
+        <text encoding="base64">ICAgIC5waXBlKGxpdmVyZWxvYWQoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

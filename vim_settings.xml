@@ -415,9 +415,6 @@
         <mark key="." line="153" column="30" />
         <mark key="^" line="153" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/codeand_blog_forked/codeand_blog/.gitignore" timestamp="1479700440540">
-        <mark key="[" line="36" column="18" />
-      </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/directives/mainmenumobile/index.js" timestamp="1469470077193">
         <mark key="[" line="138" column="28" />
         <mark key="]" line="138" column="28" />
@@ -501,7 +498,7 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/styles/app.css" timestamp="1479784194357">
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/styles/app.css" timestamp="1479822897051">
         <mark key="[" line="352" column="9" />
         <mark key="]" line="352" column="15" />
         <mark key="." line="352" column="15" />
@@ -589,6 +586,12 @@
         <mark key="." line="17" column="26" />
         <mark key="^" line="17" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/hero/hero.scss" timestamp="1479823094523">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/social/SocialBar.js" timestamp="1479772313419">
         <mark key="[" line="1" column="32" />
         <mark key="]" line="1" column="32" />
@@ -660,11 +663,11 @@
         <mark key="^" line="114" column="69" />
         <mark key="." line="114" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/hero/Hero.js" timestamp="1479771564329">
-        <mark key="[" line="31" column="41" />
-        <mark key="]" line="31" column="40" />
-        <mark key="." line="31" column="40" />
-        <mark key="^" line="31" column="40" />
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/hero/Hero.js" timestamp="1479823256695">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="3" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/nodeAndExpress/.editorconfig" timestamp="1477432048901">
         <mark key="[" line="28" column="0" />
@@ -1572,8 +1575,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/codeand_blog_forked/codeand_blog/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>gray</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cmVxdWlyZSgnLi9oZXJvLnNjc3MnKTsK</text>
       </register>
       <register name="-" type="4">
         <text>gray</text>
@@ -1585,7 +1588,7 @@
         <text encoding="base64">Lmhlcm9fX2FnZW50UGhvbmUgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWlyZSgnLi9oZXJvLnNjc3MnKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1597,28 +1600,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGhlcm9Gb3JtVmFsdWVzOiBSZWFjdC5Qcm9wVHlwZXMub2JqZWN0Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">fTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAudHJ1c3RQaWxvdF9fcmVhZE1vcmUgewo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGhlcm9Gb3JtVmFsdWVzOiBSZWFjdC5Qcm9wVHlwZXMub2JqZWN0Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">fTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAudHJ1c3RQaWxvdF9fcmVhZE1vcmUgewo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHt9ID0gc3R5bGVzOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

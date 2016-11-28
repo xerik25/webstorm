@@ -214,11 +214,11 @@
         <mark key="." line="15" column="58" />
         <mark key="^" line="15" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/staticQuote/staticQuote.js" timestamp="1479927988079">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="11" column="46" />
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/staticQuote/staticQuote.js" timestamp="1480348796803">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="10" column="46" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/volleyball/.gitignore" timestamp="1467895662958">
         <mark key="[" line="1" column="13" />
@@ -549,10 +549,6 @@
       </file>
       <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/styles/app.css" timestamp="1480347264596">
         <mark key="'" line="1" column="12" />
-        <mark key="[" line="541" column="0" />
-        <mark key="]" line="541" column="15" />
-        <mark key="^" line="550" column="1" />
-        <mark key="." line="541" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/BuildAppReactAndFlux/src/components/app.js" timestamp="1477971539826">
         <mark key="[" line="11" column="0" />
@@ -712,13 +708,6 @@
         <mark key="]" line="114" column="69" />
         <mark key="^" line="114" column="69" />
         <mark key="." line="114" column="69" />
-      </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/hero/Hero.js" timestamp="1479858200819">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="2" column="22" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/nodeAndExpress/.editorconfig" timestamp="1477432048901">
         <mark key="[" line="28" column="0" />
@@ -1107,13 +1096,6 @@
         <mark key="." line="12" column="73" />
         <mark key="^" line="12" column="72" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/images/index.js" timestamp="1479770374848">
-        <mark key="'" line="96" column="5" />
-        <mark key="[" line="86" column="6" />
-        <mark key="]" line="87" column="36" />
-        <mark key="^" line="87" column="36" />
-        <mark key="." line="87" column="36" />
-      </file>
       <file name="$USER_HOME$/Projects/selectah-agent-referral-page/webpack.config.prod.js" timestamp="1480297680636">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="45" column="0" />
@@ -1203,13 +1185,6 @@
         <mark key="]" line="28" column="22" />
         <mark key="^" line="28" column="22" />
         <mark key="." line="28" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/styles/globals/colors.scss" timestamp="1479825341982">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/tiles_offices/_tiles_offices.jade" timestamp="1468615703105">
         <mark key="[" line="7" column="56" />
@@ -1674,10 +1649,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb250ZW50OiAiICI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>props</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -1686,7 +1661,7 @@
         <text encoding="base64">ICAuc3RhdGljUXVvdGUgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb250ZW50OiAiICI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1698,28 +1673,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBib3JkZXItdG9wLWNvbG9yOiAjZmZmZmZmOwo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb250ZW50OiAiICI7Cg==</text>
+        <text encoding="base64">c3RhdGljUXVvdGUucHJvcFR5cGVzID0gewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHt9ID0gcHJvcHM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LnN0YXRpY1F1b3RlOmJlZm9yZSB7CiAgbGVmdDogNTAlOwogIGJvcmRlcjogc29saWQgdHJhbnNwYXJlbnQ7CiAgY29udGVudDogIiAiOwogIGhlaWdodDogMDsKICB3aWR0aDogMDsKICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgcG9pbnRlci1ldmVudHM6IG5vbmU7CiAgYm9yZGVyLXRvcC1jb2xvcjogI2ZmZmZmZjsKICBib3JkZXItd2lkdGg6IDE1cHg7CiAgbWFyZ2luLWxlZnQ6IC0xNXB4Owp9Cg==</text>
+        <text encoding="base64">ICBjb250ZW50OiAiICI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0b3A6IDEwMCU7Cg==</text>
+        <text encoding="base64">ICBib3JkZXItdG9wLWNvbG9yOiAjZmZmZmZmOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LnRydXN0UGlsb3Q6YWZ0ZXIgewo=</text>
+        <text encoding="base64">ICBjb250ZW50OiAiICI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICMwMDhiYTE7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDMwNXB4Owo=</text>
+        <text encoding="base64">LnN0YXRpY1F1b3RlOmJlZm9yZSB7CiAgbGVmdDogNTAlOwogIGJvcmRlcjogc29saWQgdHJhbnNwYXJlbnQ7CiAgY29udGVudDogIiAiOwogIGhlaWdodDogMDsKICB3aWR0aDogMDsKICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgcG9pbnRlci1ldmVudHM6IG5vbmU7CiAgYm9yZGVyLXRvcC1jb2xvcjogI2ZmZmZmZjsKICBib3JkZXItd2lkdGg6IDE1cHg7CiAgbWFyZ2luLWxlZnQ6IC0xNXB4Owp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

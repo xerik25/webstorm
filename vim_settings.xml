@@ -630,7 +630,7 @@
         <mark key="." line="17" column="26" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/hero/hero.scss" timestamp="1480289326820">
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/hero/hero.scss" timestamp="1480292738291">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="0" column="30" />
         <mark key="]" line="0" column="34" />
@@ -707,13 +707,6 @@
         <mark key="]" line="114" column="69" />
         <mark key="^" line="114" column="69" />
         <mark key="." line="114" column="69" />
-      </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/hero/Hero.js" timestamp="1479858200819">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="2" column="22" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/nodeAndExpress/.editorconfig" timestamp="1477432048901">
         <mark key="[" line="28" column="0" />
@@ -1020,11 +1013,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/webpack.config.dev.js" timestamp="1480291635570">
-        <mark key="[" line="38" column="92" />
-        <mark key="]" line="38" column="106" />
-        <mark key="^" line="38" column="106" />
-        <mark key="." line="38" column="106" />
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/webpack.config.dev.js" timestamp="1480292837381">
+        <mark key="[" line="38" column="63" />
+        <mark key="]" line="38" column="75" />
+        <mark key="^" line="38" column="75" />
+        <mark key="." line="38" column="75" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.html" timestamp="1478093435879">
         <mark key="[" line="0" column="0" />
@@ -1100,13 +1093,6 @@
         <mark key="]" line="12" column="73" />
         <mark key="." line="12" column="73" />
         <mark key="^" line="12" column="72" />
-      </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/images/index.js" timestamp="1479770374848">
-        <mark key="'" line="96" column="5" />
-        <mark key="[" line="86" column="6" />
-        <mark key="]" line="87" column="36" />
-        <mark key="^" line="87" column="36" />
-        <mark key="." line="87" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/selectah-agent-referral-page/webpack.config.prod.js" timestamp="1480276464864">
         <mark key="'" line="3" column="0" />
@@ -1197,13 +1183,6 @@
         <mark key="]" line="28" column="22" />
         <mark key="^" line="28" column="22" />
         <mark key="." line="28" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/styles/globals/colors.scss" timestamp="1479825341982">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/tiles_offices/_tiles_offices.jade" timestamp="1468615703105">
         <mark key="[" line="7" column="56" />
@@ -1668,10 +1647,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-loader</text>
+        <text>!sass</text>
       </register>
       <register name="-" type="4">
-        <text>-loader</text>
+        <text>!sass</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>

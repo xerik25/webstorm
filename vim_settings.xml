@@ -237,7 +237,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="72" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/referralPage/ReferralPage.js" timestamp="1480432353443">
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/referralPage/ReferralPage.js" timestamp="1480436140573">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="102" column="78" />
         <mark key="]" line="102" column="104" />
@@ -1063,11 +1063,11 @@
         <mark key="." line="23" column="97" />
         <mark key="^" line="23" column="97" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/agentEntryForm/AgentEntryForm.js" timestamp="1480433635603">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="47" column="69" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/agentEntryForm/AgentEntryForm.js" timestamp="1480437675146">
+        <mark key="[" line="111" column="66" />
+        <mark key="]" line="111" column="75" />
+        <mark key="." line="111" column="75" />
+        <mark key="^" line="111" column="75" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/gulp/proxy.js" timestamp="1475004103123">
         <mark key="[" line="63" column="37" />
@@ -1688,20 +1688,20 @@
       <jump line="1" column="12" filename="$USER_HOME$/Projects/selectah-agent-referral-page/src/styles/app.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndmEnLCB2YWx1ZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>firstNameErrorText</text>
       </register>
       <register name="-" type="4">
-        <text>formEntry</text>
+        <text>firstNameErrorText</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2lmJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZm9ybUVycm9yTWVzc2FnZTogZm9ybUVycm9yTWVzc2FnZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndmEnLCB2YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2Vsc2UnKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1713,28 +1713,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVmZXJyYWxGb3JtVXNlck5hbWU6ICcnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2lmJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZXZlbnQnLCBbZXZlbnQudGFyZ2V0Lm5hbWVdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndmEnLCB2YWx1ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2V2ZW50JywgZXZlbnQudGFyZ2V0Lm5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVmZXJyYWxGb3JtVXNlck5hbWU6ICcnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZXZlbnQnLCBldmVudC50YXJnZXQubmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZXZlbnQnLCBbZXZlbnQudGFyZ2V0Lm5hbWVdKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">MS4gYGdpdCBjbG9uZWAgcmVwbwoyLiBgY2RgIGludG8gcHJvamVjdCBmb2xkZXIK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2V2ZW50JywgZXZlbnQudGFyZ2V0Lm5hbWUpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9UT0RPOiBJZiB3ZSBhcmUgZ29pbmcgdG8gdXNlIFJFTQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZXZlbnQnLCBldmVudC50YXJnZXQubmFtZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

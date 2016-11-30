@@ -1072,11 +1072,11 @@
         <mark key="." line="23" column="97" />
         <mark key="^" line="23" column="97" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/agentEntryForm/AgentEntryForm.js" timestamp="1480462061583">
-        <mark key="'" line="270" column="55" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/agentEntryForm/AgentEntryForm.js" timestamp="1480520003131">
+        <mark key="'" line="275" column="55" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/gulp/proxy.js" timestamp="1475004103123">
         <mark key="[" line="63" column="37" />
@@ -1687,10 +1687,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Rlc3RpbmcnLCB1cGxvYWQudGFyZ2V0LnJlc3VsdCwgZmlsZSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjc3NTdHlsZXMgZnJvbSAnLi9BZ2VudEVudHJ5Rm9ybS5zY3NzJzsK</text>
       </register>
       <register name="-" type="4">
-        <text>handleFile</text>
+        <text>reader</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -1699,7 +1699,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmRDb2xvcj17c2Nzc1N0eWxlcy5jZXJ1bGVhbn0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhvdmVyQ29sb3I9e3Njc3NTdHlsZXMuY2VydWxlYW5Ib3Zlcn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Rlc3RpbmcnLCB1cGxvYWQudGFyZ2V0LnJlc3VsdCwgZmlsZSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjc3NTdHlsZXMgZnJvbSAnLi9BZ2VudEVudHJ5Rm9ybS5zY3NzJzsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1711,28 +1711,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGV0eXBlOiBmaWxlLnR5cGUK</text>
+        <text encoding="base64">ICAgICAgICByZWFkZXIucmVhZEFzRGF0YVVSTChmaWxlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVuYW1lOiBmaWxlLm5hbWUsCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmlsZScsIHRlc3QsIGZpbGUsIHVwbG9hZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgdGVzdCA9IHJlYWRlci5yZWFkQXNEYXRhVVJMKGZpbGUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHNjc3NTdHlsZXMgZnJvbSAnLi9hZ2VudEVudHJ5Rm9ybS5zY3NzJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2ZpbGUnLCB1cGxvYWQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcjogYmxhY2sgMXB4IHNvbGlkOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmlsZScsIHVwbG9hZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Rlc3RpbmcnLCB1cGxvYWQudGFyZ2V0LnJlc3VsdCwgZmlsZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JHB1bXBraW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGV0eXBlOiBmaWxlLnR5cGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVuYW1lOiBmaWxlLm5hbWUsCg==</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

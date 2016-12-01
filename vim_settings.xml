@@ -1379,6 +1379,12 @@
         <mark key="]" line="1" column="129" />
         <mark key="." line="1" column="129" />
       </file>
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/services/trustPilotRatingConverter.js" timestamp="1480630054931">
+        <mark key="[" line="7" column="40" />
+        <mark key="]" line="7" column="40" />
+        <mark key="^" line="3" column="31" />
+        <mark key="." line="7" column="40" />
+      </file>
       <file name="$USER_HOME$/Projects/ReactReduxEs6/src/index.html" timestamp="1478444854657">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1443,11 +1449,11 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/trustPilot/starRating.js" timestamp="1480448254279">
-        <mark key="[" line="8" column="55" />
-        <mark key="]" line="8" column="59" />
-        <mark key="^" line="8" column="59" />
-        <mark key="." line="8" column="59" />
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/trustPilot/starRating.js" timestamp="1480630076851">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="3" column="32" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/BuildAppReactAndFlux/readme.md" timestamp="1477682217430">
         <mark key="[" line="7" column="0" />
@@ -1729,11 +1735,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/agentEntryForm/AgentEntryForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0cnVzdFBpbG90UmF0aW5nJywgdHJ1c3RQaWxvdFJhdGluZyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>trustPilotRatingConverter</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -1742,7 +1748,7 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnMScsIHZhbHVlLmxlbmd0aCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnMicsIHZhbHVlLmxlbmd0aC50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0cnVzdFBpbG90UmF0aW5nJywgdHJ1c3RQaWxvdFJhdGluZyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1754,28 +1760,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnMScsIHZhbHVlLmxlbmd0aCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0JywgcHJvcHMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYXZhdGFyJywgYXZhdGFyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgYXZhdGFyID0gZ2V0U3RhdGUoKS5BZ2VudEVudHJ5Rm9ybTsK</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">dHJ1c3RQaWxvdFJhdGluZ0NvbnZlcnRlclNlcnZpY2UucHJvcFR5cGVzID0gewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogYW5kIHRvIGRpc3BsYXkgdGhlIHRhYmxlIG9mIGFnZW50cyB0aGF0IGFyZSBjdXJyZW50bHkgc2F2ZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogU3RhdGVmdWwgY29tcG9uZW50IHRvIGJ1aWxkIHRoZSBmb3JtIGlucHV0cyBmb3IgYWdlbnQgZW50cnkK</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQGRlc2NyaXB0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQGNsYXNzIEFnZW50RW50cnlGb3JtQ29tcG9uZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

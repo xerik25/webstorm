@@ -549,6 +549,9 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/styles/app.css" timestamp="1480574739104">
+        <mark key="'" line="1" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/nodeAndExpress/src/services/goodreadsService.js" timestamp="1477681006162">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -781,7 +784,7 @@
         <mark key="." line="11" column="98" />
         <mark key="^" line="11" column="98" />
       </file>
-      <file name="/a.regexp" timestamp="1480951013228">
+      <file name="/a.regexp" timestamp="1480976837876">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/templates/views/contact-us/views-view-table--contact-us--contactus-regional-page.tpl.php" timestamp="1468592579459">
@@ -1022,9 +1025,6 @@
       </file>
       <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/agentEntryForm/AgentEntryForm.js" timestamp="1480964806185">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/gulp/proxy.js" timestamp="1475004103123">
         <mark key="[" line="63" column="37" />
@@ -1157,12 +1157,12 @@
         <mark key="^" line="28" column="22" />
         <mark key="." line="28" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/actions/SubmitAgentEntryForm.js" timestamp="1480968425556">
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/actions/SubmitAgentEntryForm.js" timestamp="1480977334572">
         <mark key="'" line="8" column="23" />
-        <mark key="[" line="4" column="36" />
-        <mark key="]" line="5" column="35" />
-        <mark key="." line="5" column="35" />
-        <mark key="^" line="5" column="35" />
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="5" column="53" />
       </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/tiles_offices/_tiles_offices.jade" timestamp="1468615703105">
         <mark key="[" line="7" column="56" />
@@ -1389,10 +1389,7 @@
         <mark key="^" line="26" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/reducers/emptyAgentEntry.js" timestamp="1480964339122">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="3" column="11" />
-        <mark key="." line="1" column="0" />
+        <mark key="^" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/actions/SubmitAgentAvatar.js" timestamp="1480563703927">
         <mark key="[" line="5" column="8" />
@@ -1612,20 +1609,20 @@
       <jump line="8" column="23" filename="$USER_HOME$/Projects/selectah-agent-referral-page/src/actions/SubmitAgentEntryForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9keTogZW50cnkK</text>
+      <register name="&quot;" type="4">
+        <text>getState().AgentEntryForm.</text>
       </register>
       <register name="-" type="4">
-        <text>same-origin</text>
+        <text>getState().AgentEntryForm.</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBURVNUSU5HIFBPU1QK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZW50cnknLCBnZXRTdGF0ZSgpLkFnZW50RW50cnlGb3JtKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9keTogZW50cnkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2V0U3RhdGUnLCBnZXRTdGF0ZSgpLkFnZW50RW50cnlGb3JtKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1637,28 +1634,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3dlYi1wcmVmZXJlbmNlcyc6IHsKICAgICAgICAgICAgICAgICd3ZWItc2VjdXJpdHknOiBmYWxzZQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZW50cnknLCBlbnRyeSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9keTogZW50cnkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3dlYi1wcmVmZXJlbmNlcyc6IHsKICAgICAgICAgICAgICAgICd3ZWItc2VjdXJpdHknOiBmYWxzZQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiBjaGFuZ2UgdGhpcyBiYWNrIHRvIFBVVCBhbmQgZmlndXJlIG91dCBDT1JTLiBGZXRjaCBkb2Vzbid0IHN1cHBvcnQgbm8tY29ycyBvbiBQVVQK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY3VycmVudEVudHJ5JywgdGhpcy5zdGF0ZS5jdXJyZW50RW50cnkpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdCcpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiBjaGFuZ2UgdGhpcyBiYWNrIHRvIFBVVCBhbmQgZmlndXJlIG91dCBDT1JTLiBGZXRjaCBkb2Vzbid0IHN1cHBvcnQgbm8tY29ycyBvbiBQVVQK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY3VycmVudEVudHJ5JywgdGhpcy5zdGF0ZS5jdXJyZW50RW50cnkpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

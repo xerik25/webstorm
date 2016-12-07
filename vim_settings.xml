@@ -84,6 +84,7 @@
         <mark key="^" line="122" column="36" />
         <mark key="." line="119" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileQuoteBar.styles.js" timestamp="1481149122287" />
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/personal_profile/personal-profile.jade" timestamp="1468867479775">
         <mark key="[" line="1" column="63" />
         <mark key="]" line="1" column="71" />
@@ -457,6 +458,12 @@
         <mark key="^" line="112" column="119" />
         <mark key="." line="112" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileQuoteBar.scss" timestamp="1481149407820">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="35" />
+        <mark key="^" line="1" column="35" />
+        <mark key="." line="1" column="35" />
+      </file>
       <file name="$USER_HOME$/Sites/JGWentworth/repos/sitecore/htdocs/src/javascript/app/attributes/accordion/index.js" timestamp="1469459152147">
         <mark key="[" line="19" column="40" />
         <mark key="]" line="19" column="61" />
@@ -522,6 +529,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="2" column="57" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/webpack.config.dev.js" timestamp="1481148909681">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="2" column="39" />
+        <mark key="^" line="2" column="39" />
+        <mark key="." line="2" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/agentEntryForm/AgentEntryForm.styles.js" timestamp="1480607610053">
         <mark key="[" line="11" column="2" />
@@ -928,6 +941,7 @@
         <mark key="^" line="23" column="16" />
         <mark key="." line="23" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileBackgroundBanner.js" timestamp="1481145508014" />
       <file name="$USER_HOME$/Projects/ReactReduxEs6/src/components/course/CoursesPage.js" timestamp="1479912485145">
         <mark key="[" line="10" column="73" />
         <mark key="]" line="10" column="73" />
@@ -1023,7 +1037,7 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/webpack.config.dev.js" timestamp="1481138292955">
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/webpack.config.dev.js" timestamp="1481148977611">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
@@ -1267,6 +1281,7 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileTermLengthInput.js" timestamp="1481145191954" />
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/profile_thumbnail/profile_thumbnail.jade" timestamp="1468955636935">
         <mark key="[" line="5" column="37" />
         <mark key="]" line="5" column="38" />
@@ -1489,6 +1504,12 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileQuoteBar.js" timestamp="1481149382000">
+        <mark key="[" line="37" column="84" />
+        <mark key="]" line="37" column="107" />
+        <mark key="." line="37" column="107" />
+        <mark key="^" line="37" column="107" />
+      </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/upgrade-wall.js" timestamp="1474579975072">
         <mark key="[" line="403" column="22" />
         <mark key="]" line="406" column="5" />
@@ -1641,11 +1662,11 @@
       <jump line="10" column="14" filename="$USER_HOME$/Projects/selectah-agent-referral-page/src/actions/GetCurrentAgent.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QGltcG9ydCAnLi4vLi4vc3R5bGVzL3Njc3MvYXBwJzsK</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>.scss</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>

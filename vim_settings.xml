@@ -241,12 +241,12 @@
         <mark key="^" line="72" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/reducers/AgentEntryFormReducer.js" timestamp="1480705046234" />
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/referralPage/ReferralPage.js" timestamp="1481060137281">
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/referralPage/ReferralPage.js" timestamp="1481123635527">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="168" column="47" />
-        <mark key="]" line="169" column="15" />
-        <mark key="." line="169" column="15" />
-        <mark key="^" line="169" column="15" />
+        <mark key="[" line="64" column="43" />
+        <mark key="]" line="64" column="43" />
+        <mark key="." line="64" column="43" />
+        <mark key="^" line="64" column="43" />
       </file>
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/js/misc/typings/tsd.d.ts" timestamp="1470838787708">
         <mark key="[" line="2" column="21" />
@@ -1038,7 +1038,7 @@
         <mark key="." line="23" column="97" />
         <mark key="^" line="23" column="97" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/agentEntryForm/AgentEntryForm.js" timestamp="1480982050038">
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/agentEntryForm/AgentEntryForm.js" timestamp="1481123074813">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="108" column="78" />
         <mark key="]" line="108" column="79" />
@@ -1421,11 +1421,11 @@
         <mark key="." line="26" column="63" />
         <mark key="^" line="26" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/reducers/emptyAgentEntry.js" timestamp="1480981939663">
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="13" />
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/reducers/emptyAgentEntry.js" timestamp="1481123736716">
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="16" />
         <mark key="^" line="4" column="12" />
-        <mark key="." line="4" column="13" />
+        <mark key="." line="24" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/actions/SubmitAgentAvatar.js" timestamp="1480563703927">
         <mark key="[" line="5" column="8" />
@@ -1646,19 +1646,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQg</text>
+        <text encoding="base64">cm91dGUg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQg</text>
+        <text encoding="base64">cm91dGUg</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltYWdlcy5zb2NpYWxGYWNlYm9va0ltZy5zcmMgPSAnJzsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBhZ2VudElkID0gdGhpcy5wcm9wcy5sb2NhdGlvbi5wYXRobmFtZS5zdWJzdHJpbmcoMSwgdGhpcy5wcm9wcy5sb2NhdGlvbi5wYXRobmFtZS5sZW5ndGgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL0FkZCBBdmF0YXIgb2JqZWN0IHRvIGVudHJ5IAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYWdlbnRJZCcsYWdlbnRJZCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1670,28 +1670,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQGNvbnN0cnVjdG9yCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBhZ2VudElkID0gdGhpcy5wcm9wcy5sb2NhdGlvbi5wYXRobmFtZS5zdWJzdHJpbmcoMSwgdGhpcy5wcm9wcy5sb2NhdGlvbi5wYXRobmFtZS5sZW5ndGgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQHJldHVybnMge1hNTH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBhZ2VudElkID0gdGhpcy5wcm9wcy5sb2NhdGlvbi5wYXRobmFtZS5zdWJzdHJpbmcoMSwgdGhpcy5wcm9wcy5sb2NhdGlvbi5wYXRobmFtZS5sZW5ndGgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBocmVmOiAnaHR0cDovL3R3aXR0ZXIuY29tJwo=</text>
+        <text encoding="base64">ICAgICAgICAvL0FkZCBBdmF0YXIgb2JqZWN0IHRvIGVudHJ5IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBocmVmOiAnaHR0cDovL2xpbmtlZGluLmNvbScK</text>
+        <text encoding="base64">ICogQGNvbnN0cnVjdG9yCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBocmVmOiAnaHR0cDovL2ZhY2Vib29rLmNvbScK</text>
+        <text encoding="base64">ICogQHJldHVybnMge1hNTH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBocmVmOiAnaHR0cDovL2dvb2dsZS5jb20nCg==</text>
+        <text encoding="base64">ICAgICAgICBocmVmOiAnaHR0cDovL3R3aXR0ZXIuY29tJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBocmVmOiAnaHR0cDovL2xpbmtlZGluLmNvbScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmaXJzdE5hbWUnLCBmaXJzdE5hbWUsIGxhc3ROYW1lLCBwaG9uZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBocmVmOiAnaHR0cDovL2ZhY2Vib29rLmNvbScK</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

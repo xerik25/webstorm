@@ -569,12 +569,6 @@
         <mark key="^" line="2" column="57" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/webpack.config.dev.js" timestamp="1481233993537">
-        <mark key="[" line="34" column="31" />
-        <mark key="]" line="34" column="31" />
-        <mark key="^" line="34" column="84" />
-        <mark key="." line="34" column="31" />
-      </file>
       <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/agentEntryForm/AgentEntryForm.styles.js" timestamp="1480607610053">
         <mark key="[" line="11" column="2" />
         <mark key="]" line="13" column="21" />
@@ -1015,11 +1009,10 @@
         <mark key="^" line="23" column="16" />
         <mark key="." line="23" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileBackgroundBanner.js" timestamp="1481233689947">
-        <mark key="[" line="2" column="54" />
-        <mark key="]" line="2" column="54" />
-        <mark key="^" line="2" column="53" />
-        <mark key="." line="2" column="54" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileBackgroundBanner.js" timestamp="1481235980442">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ReactReduxEs6/src/components/course/CoursesPage.js" timestamp="1479912485145">
         <mark key="[" line="10" column="73" />
@@ -1187,13 +1180,7 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="18" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileQuoteDisplay.js" timestamp="1481233760129">
-        <mark key="[" line="6" column="50" />
-        <mark key="]" line="6" column="50" />
-        <mark key="." line="6" column="50" />
-        <mark key="^" line="6" column="49" />
-      </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/package.json" timestamp="1481226746204">
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/package.json" timestamp="1481235907295">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
@@ -1809,8 +1796,8 @@
       <jump line="10" column="14" filename="$USER_HOME$/Projects/selectah-agent-referral-page/src/actions/GetCurrentAgent.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ki99Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1822,7 +1809,7 @@
         <text encoding="base64">ICAgICAgICAgICAgeyB0ZXN0OiAvXC5zY3NzJC8sIGxvYWRlcnM6IFsnc3R5bGUnLCAnY3NzLWxvYWRlcj9zb3VyY2VNYXAnLCAnc2Fzcy1sb2FkZXInLCAncG9zdGNzcy1sb2FkZXInXX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ki99Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1833,29 +1820,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUuZXh0ZW5zaW9uc1snLnNjc3MnXSA9ICgpID0+IHsgcmV0dXJuOyB9OyByZXF1aXJlLmV4dGVuc2lvbnNbJy5jc3MnXSA9ICgpID0+IHsgcmV0dXJuOyB9Owo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsvKjxpbWcqL30KICAgICAgICAgICAgICAgICAgICB7LypzdHlsZT17e2hlaWdodDogJ2F1dG8nLCB3aWR0aDogJzEwMCUnfX0qL30KICAgICAgICAgICAgICAgICAgICB7LypzcmM9e2JhY2tncm91bmRJbWFnZX0qL30KICAgICAgICAgICAgICAgIHsvKi8+</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVxdWlyZS5leHRlbnNpb25zWycuc2NzcyddID0gKCkgPT4geyByZXR1cm47IH07IHJlcXVpcmUuZXh0ZW5zaW9uc1snLmNzcyddID0gKCkgPT4geyByZXR1cm47IH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyB0ZXN0OiAvXC5zY3NzJC8sIGxvYWRlcnM6IFsnc3R5bGUtbG9hZGVyJywgJ2Nzcy1sb2FkZXIhc2Fzcy1sb2FkZXInXX0K</text>
+        <text encoding="base64">ICAgIHJlcXVpcmUuZXh0ZW5zaW9uc1snLnNjc3MnXSA9ICgpID0+IHsgcmV0dXJuOyB9OyByZXF1aXJlLmV4dGVuc2lvbnNbJy5jc3MnXSA9ICgpID0+IHsgcmV0dXJuOyB9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNhc3NMb2FkZXI6IHsKICAgICAgICBpbmNsdWRlUGF0aHM6IFtwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAiLi4vc3R5bGUiKV0KICAgIH0sCg==</text>
+        <text encoding="base64">cmVxdWlyZS5leHRlbnNpb25zWycuc2NzcyddID0gKCkgPT4geyByZXR1cm47IH07IHJlcXVpcmUuZXh0ZW5zaW9uc1snLmNzcyddID0gKCkgPT4geyByZXR1cm47IH07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGVQYXRoczogW3BhdGgucmVzb2x2ZShfX2Rpcm5hbWUsICJzY3NzIildCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyB0ZXN0OiAvXC5zY3NzJC8sIGxvYWRlcnM6IFsnc3R5bGUtbG9hZGVyJywgJ2Nzcy1sb2FkZXIhc2Fzcy1sb2FkZXInXX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIHNhc3NMb2FkZXI6IHsKICAgICAgICBpbmNsdWRlUGF0aHM6IFtwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAiLi4vc3R5bGUiKV0KICAgIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNhc3NMb2FkZXI6IHsK</text>
+        <text encoding="base64">ICAgIGluY2x1ZGVQYXRoczogW3BhdGgucmVzb2x2ZShfX2Rpcm5hbWUsICJzY3NzIildCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>56</text>

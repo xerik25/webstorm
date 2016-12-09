@@ -486,11 +486,6 @@
         <mark key="^" line="138" column="28" />
         <mark key="." line="138" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/scss.js" timestamp="1481248914111">
-        <mark key="]" line="0" column="64" />
-        <mark key="^" line="0" column="64" />
-        <mark key="." line="0" column="64" />
-      </file>
       <file name="$USER_HOME$/Projects/nodeAndExpress/src/views/bookListView.ejs" timestamp="1477519331448">
         <mark key="[" line="112" column="0" />
         <mark key="]" line="112" column="0" />
@@ -1178,6 +1173,12 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="18" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileQuoteDisplay.js" timestamp="1481305679495">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="50" column="64" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/selectah-agent-referral-page/package.json" timestamp="1481236269731">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -1201,7 +1202,7 @@
         <mark key="." line="94" column="23" />
         <mark key="^" line="102" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/webpack.config.prod.js" timestamp="1481298662606" />
+      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/webpack.config.prod.js" timestamp="1481305211593" />
       <file name="$USER_HOME$/Projects/nodeAndExpress/src/controllers/bookRoutes.js" timestamp="1477624848507">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="42" />
@@ -1214,11 +1215,8 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/_mobileBackgroundBanner.scss" timestamp="1481304131060">
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/_mobileBackgroundBanner.scss" timestamp="1481304223090">
         <mark key="[" line="19" column="27" />
-        <mark key="]" line="22" column="16" />
-        <mark key="^" line="22" column="16" />
-        <mark key="." line="22" column="16" />
       </file>
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/js/misc/utilities/utilities.ts" timestamp="1470773099418">
         <mark key="[" line="31" column="0" />
@@ -1231,6 +1229,12 @@
         <mark key="]" line="3" column="35" />
         <mark key="." line="3" column="35" />
         <mark key="^" line="3" column="54" />
+      </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/_mobileQuoteDisplay.scss" timestamp="1481305918886">
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="19" column="32" />
+        <mark key="^" line="19" column="32" />
+        <mark key="." line="19" column="32" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/page/basepage/headlibs.html" timestamp="1477068454860">
         <mark key="[" line="92" column="0" />
@@ -1822,7 +1826,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly9UT0RPOiBGaWd1cmUgb3V0IHdoeSBhdXRvcHJlZml4ZXIgaXMgbm90IHByZWZpeGluZyBmbGV4Ym94IGdyaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7bWFyZ2luTGVmdDogJy01cHgnfX0K</text>
       </register>
       <register name="-" type="4">
         <text>MobileBackgroundBanner</text>
@@ -1834,7 +1838,7 @@
         <text encoding="base64">QGltcG9ydCAnLi4vLi4vLi4vc3JjL2NvbXBvbmVudHMvYmlnUXVvdGVCYXIvbW9iaWxlL01vYmlsZUJhY2tncm91bmRCYW5uZXInOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly9UT0RPOiBGaWd1cmUgb3V0IHdoeSBhdXRvcHJlZml4ZXIgaXMgbm90IHByZWZpeGluZyBmbGV4Ym94IGdyaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7bWFyZ2luTGVmdDogJy01cHgnfX0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1846,7 +1850,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9UT0RPOiBGaWd1cmUgb3V0IHdoeSBhdXRvcHJlZml4ZXIgaXMgbm90IHByZWZpeGluZyBmbGV4Ym94IGdyaWQK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1855,19 +1859,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gQ29tcG9uZW50cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2NvbXBvbmVudHMvYmlnUXVvdGVCYXIvbW9iaWxlL01vYmlsZVF1b3RlRGlzcGxheS5zY3NzJzsK</text>
+        <text encoding="base64">Ly8gQ29tcG9uZW50cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2NvbXBvbmVudHMvYmlnUXVvdGVCYXIvbW9iaWxlL01vYmlsZUJhY2tncm91bmRCYW5uZXIuc2Nzcyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICcuL2NvbXBvbmVudHMvYmlnUXVvdGVCYXIvbW9iaWxlL01vYmlsZVF1b3RlRGlzcGxheS5zY3NzJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGltcG9ydCAnLi4vLi4vLi4vc3R5bGVzL3Njc3MvaW5kZXgnOwo=</text>
+        <text encoding="base64">aW1wb3J0ICcuL2NvbXBvbmVudHMvYmlnUXVvdGVCYXIvbW9iaWxlL01vYmlsZUJhY2tncm91bmRCYW5uZXIuc2Nzcyc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyB0ZXN0OiAvXC5zY3NzJC8sIGxvYWRlcnM6IFsnc3R5bGUnLCAnY3NzLWxvYWRlcj9zb3VyY2VNYXAnLCAnc2Fzcy1sb2FkZXInLCAncG9zdGNzcy1sb2FkZXInXX0sCg==</text>
+        <text encoding="base64">QGltcG9ydCAnLi4vLi4vLi4vc3R5bGVzL3Njc3MvaW5kZXgnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>64</text>

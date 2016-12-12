@@ -30,10 +30,11 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/variables/variables.json" timestamp="1481569620102">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/variables/variables.json" timestamp="1481570802079">
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="24" column="26" />
+        <mark key="." line="24" column="26" />
+        <mark key="^" line="24" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/trustPilot/TrustPilot.js" timestamp="1480574915407">
         <mark key="[" line="4" column="42" />
@@ -107,7 +108,6 @@
         <mark key="." line="18" column="41" />
         <mark key="^" line="17" column="38" />
       </file>
-      <file name="/_colors.scss" timestamp="1481557596222" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/_imports.scss" timestamp="1481158101101">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -202,6 +202,9 @@
         <mark key="." line="2" column="27" />
         <mark key="^" line="2" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/constructors/_colors-classes.scss" timestamp="1481570905266">
+        <mark key="^" line="19" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/configureStore.js" timestamp="1480990384825">
         <mark key="[" line="0" column="36" />
         <mark key="]" line="0" column="44" />
@@ -274,6 +277,11 @@
         <mark key="^" line="10" column="46" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/BigQuoteBar.styles.js" timestamp="1481571771114">
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="0" />
+        <mark key="." line="196" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/volleyball/.gitignore" timestamp="1467895662958">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="13" />
@@ -308,6 +316,12 @@
         <mark key="]" line="7" column="61" />
         <mark key="." line="7" column="61" />
         <mark key="^" line="7" column="61" />
+      </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/Header.js" timestamp="1481571637439">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="30" />
+        <mark key="^" line="12" column="59" />
+        <mark key="." line="20" column="30" />
       </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/personal-profile/_data.json" timestamp="1468615586448">
         <mark key="[" line="1" column="3" />
@@ -452,7 +466,6 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/dist/styles.css" timestamp="1481311253921" />
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/device-details.js" timestamp="1473357600461">
         <mark key="[" line="11" column="37" />
         <mark key="]" line="11" column="40" />
@@ -482,11 +495,11 @@
         <mark key="." line="26" column="20" />
         <mark key="^" line="26" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/variables/_colors.scss" timestamp="1481566994029">
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="23" column="22" />
-        <mark key="." line="23" column="22" />
-        <mark key="^" line="27" column="14" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/variables/_colors.scss" timestamp="1481570759554">
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="28" column="12" />
+        <mark key="." line="28" column="12" />
+        <mark key="^" line="28" column="8" />
       </file>
       <file name="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/app/js/misc/header/utility-navigation/utility-navigation.ts" timestamp="1470408675546">
         <mark key="[" line="9" column="34" />
@@ -583,13 +596,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="2" column="57" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/webpack.config.dev.js" timestamp="1481566582360">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="31" column="64" />
-        <mark key="]" line="31" column="100" />
-        <mark key="^" line="31" column="100" />
-        <mark key="." line="31" column="100" />
       </file>
       <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/agentEntryForm/AgentEntryForm.styles.js" timestamp="1480607610053">
         <mark key="[" line="11" column="2" />
@@ -889,7 +895,7 @@
         <mark key="." line="11" column="98" />
         <mark key="^" line="11" column="98" />
       </file>
-      <file name="/a.regexp" timestamp="1481569555911">
+      <file name="/a.regexp" timestamp="1481571309850">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -898,7 +904,7 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
-        <mark key="^" line="77" column="23" />
+        <mark key="^" line="75" column="23" />
       </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/templates/views/contact-us/views-view-table--contact-us--contactus-regional-page.tpl.php" timestamp="1468592579459">
         <mark key="[" line="28" column="59" />
@@ -1244,7 +1250,6 @@
         <mark key="." line="94" column="23" />
         <mark key="^" line="102" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/selectah-agent-referral-page/webpack.config.prod.js" timestamp="1481305211593" />
       <file name="$USER_HOME$/Projects/nodeAndExpress/src/controllers/bookRoutes.js" timestamp="1477624848507">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="42" />
@@ -1396,6 +1401,11 @@
         <mark key="]" line="9" column="102" />
         <mark key="^" line="9" column="102" />
         <mark key="." line="9" column="102" />
+      </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/BigQuoteBar.js" timestamp="1481571570153">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/social/Social.js" timestamp="1479492892792">
         <mark key="[" line="34" column="15" />
@@ -1861,19 +1871,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJwdW1wa2luIjogICAgIiNGMTdDMjEiLAo=</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="-" type="4">
-        <text>darkOrange</text>
+        <text>, searchTooltip</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb25JbXBvcnRlciBmcm9tICdub2RlLXNhc3MtanNvbi1pbXBvcnRlcic7Cg==</text>
+        <text encoding="base64">ICAgICAgICAiY2xvdWR5IiAgICAgICAgICAgICAgICAkY2xvdWR5Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJwdW1wa2luIjogICAgIiNGMTdDMjEiLAo=</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1885,28 +1895,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJwdW1wa2luIjogICAgIiNDQzhGMEIiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9yZGVyUmFkaXVzOiAnMzBweCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZENvbG9yOiAnd2hpdGUnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWFyY2hCdXR0b246IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luTGVmdDonMjUlJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3Njc3NWYXJzJywgc2Nzc1ZhcnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZ1RvcDogJzhweCcsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHNjc3NWYXJzIGZyb20gJy4uLy4uLy4uL3N0eWxlcy9zY3NzL3ZhcmlhYmxlcy5qc29uJzsK</text>
+        <text encoding="base64">ICAgICAgICBzZWFyY2hCdXR0b25Db250YWluZXI6IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGltcG9ydCAiLi4vdmFyaWFibGVzLmpzIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWFyY2hUb29sdGlwPSJDbGljayB0byBmaW5kIHRoZSB0aGluZ3MhIgo=</text>
       </register>
       <register name=":" type="4">
         <text>64</text>

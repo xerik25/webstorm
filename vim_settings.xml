@@ -317,11 +317,11 @@
         <mark key="." line="7" column="61" />
         <mark key="^" line="7" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/Header.js" timestamp="1481586246622">
-        <mark key="[" line="17" column="36" />
-        <mark key="]" line="12" column="46" />
-        <mark key="." line="17" column="41" />
-        <mark key="^" line="12" column="46" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/Header.js" timestamp="1481589447935">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="17" column="46" />
+        <mark key="." line="12" column="46" />
+        <mark key="^" line="17" column="46" />
       </file>
       <file name="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/public/components/personal-profile/_data.json" timestamp="1468615586448">
         <mark key="[" line="1" column="3" />
@@ -597,6 +597,12 @@
         <mark key="^" line="2" column="57" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/webpack.config.dev.js" timestamp="1481589002328">
+        <mark key="[" line="34" column="104" />
+        <mark key="]" line="34" column="108" />
+        <mark key="^" line="34" column="108" />
+        <mark key="." line="34" column="108" />
+      </file>
       <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/components/agentEntryForm/AgentEntryForm.styles.js" timestamp="1480607610053">
         <mark key="[" line="11" column="2" />
         <mark key="]" line="13" column="21" />
@@ -633,10 +639,10 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_quoteBarHeader.scss" timestamp="1481584085009">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_quoteBarHeader.scss" timestamp="1481589150736">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/nodeAndExpress/src/services/goodreadsService.js" timestamp="1477681006162">
         <mark key="[" line="6" column="0" />
@@ -1060,6 +1066,11 @@
         <mark key="^" line="23" column="16" />
         <mark key="." line="23" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileBackgroundBanner.js" timestamp="1481318012395">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/ReactReduxEs6/src/components/course/CoursesPage.js" timestamp="1479912485145">
         <mark key="[" line="10" column="73" />
         <mark key="]" line="10" column="73" />
@@ -1407,7 +1418,7 @@
         <mark key="^" line="9" column="102" />
         <mark key="." line="9" column="102" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/BigQuoteBar.js" timestamp="1481571570153">
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/BigQuoteBar.js" timestamp="1481589525463">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
@@ -1875,7 +1886,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGZsZXg7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>20</text>
@@ -1887,7 +1898,7 @@
         <text encoding="base64">ICAgICAgbWFyZ2luLXRvcDogMjBweDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGZsZXg7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1899,28 +1910,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZm9udC1zaXplOiAxZW07Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBpbmNsdWRlIGJwLW1pbigxMDAwcHgpIHsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbWFyZ2luLXRvcDogMThweDsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgZm9udC1zaXplOiAxZW07Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBpbmNsdWRlIGJwLW1pbigxMDAwcHgpIHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgbWFyZ2luLXRvcDogMThweDsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb250LXNpemU6IDEuOWVtOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>64</text>

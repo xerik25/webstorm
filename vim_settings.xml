@@ -894,11 +894,11 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/basicInfo/BasicInfo.js" timestamp="1481904035353">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="23" column="28" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/basicInfo/BasicInfo.js" timestamp="1481905696280">
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="20" column="22" />
+        <mark key="." line="20" column="22" />
+        <mark key="^" line="20" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/selectah-agent-referral-page/src/actions/AgentEntryFormTypes.js" timestamp="1480988733478">
         <mark key="[" line="3" column="46" />
@@ -974,6 +974,12 @@
         <mark key="]" line="95" column="21" />
         <mark key="." line="95" column="21" />
         <mark key="^" line="95" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/_utilites.scss" timestamp="1481905226605">
+        <mark key="[" line="34" column="17" />
+        <mark key="]" line="34" column="17" />
+        <mark key="^" line="33" column="19" />
+        <mark key="." line="34" column="20" />
       </file>
       <file name="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/target/classes/apps/sprint-transformation/components/content/addtocarttest/addtocarttest.html" timestamp="1472744113885">
         <mark key="[" line="1" column="132" />
@@ -1928,11 +1934,11 @@
       <jump line="31" column="15" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileStepDisplay.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL0Jhc2ljSW5mby5zdHlsZXMnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>sm</text>
       </register>
       <register name="-" type="4">
-        <text>300</text>
+        <text>sm</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>

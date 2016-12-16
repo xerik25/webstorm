@@ -94,7 +94,7 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1481901589304">
+      <file name="/a.regexp" timestamp="1481918495923">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -141,7 +141,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/_mobileBackgroundBanner.scss" timestamp="1481835139235" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/_mobileBackgroundBanner.scss" timestamp="1481920216622">
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="20" column="24" />
+        <mark key="." line="20" column="24" />
+        <mark key="^" line="20" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/_mobileQuoteDisplay.scss" timestamp="1481910243750">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="10" column="14" />
@@ -314,11 +319,11 @@
       <jump line="31" column="15" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileStepDisplay.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBAaW5jbHVkZSBweFRvUmVtKDEzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>cover</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>cover</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>

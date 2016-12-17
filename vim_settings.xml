@@ -101,11 +101,10 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/_mobileTermLengthInput.scss" timestamp="1481933636529">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="14" />
-        <mark key="." line="3" column="14" />
-        <mark key="^" line="2" column="16" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/_mobileTermLengthInput.scss" timestamp="1481937613071">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1481933210664">
         <mark key="[" line="0" column="0" />
@@ -197,11 +196,11 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileTermLengthInput.js" timestamp="1481933573920">
-        <mark key="[" line="25" column="25" />
-        <mark key="]" line="25" column="42" />
-        <mark key="^" line="25" column="42" />
-        <mark key="." line="25" column="42" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileTermLengthInput.js" timestamp="1481937641505">
+        <mark key="[" line="25" column="68" />
+        <mark key="]" line="25" column="68" />
+        <mark key="." line="25" column="68" />
+        <mark key="^" line="25" column="117" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/footer/FooterInfo.js" timestamp="1481297555278">
         <mark key="[" line="72" column="85" />
@@ -341,19 +340,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2NvbXBvbmVudHMvYmFzaWNJbmZvL19iYXNpY0luZm8uc2Nzcyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJvdyBmcm9tICcuLi8uLi9jb21tb24vUm93JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbkJvdHRvbTonLTI1cHgnLCBtYXJnaW5Ub3A6Jy0yNXB4JywgYm9yZGVyVG9wOicxcHggc29saWQgI0MxNkIxNCd9KX0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -365,28 +364,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">bWFyZ2luQm90dG9tOictMjVweCcsIG1hcmdpblRvcDonLTI1cHgnLCBib3JkZXJUb3A6JzFweCBzb2xpZCAjQzE2QjE0J30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLm1vYmlsZUJhY2tncm91bmRCYW5uZXJfX3N2Z0ltZyB7Cg==</text>
+        <text encoding="base64">ICBtYXJnaW4tdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QG1lZGlhIGFsbCBhbmQgKC1tcy1oaWdoLWNvbnRyYXN0OiBub25lKSwgKC1tcy1oaWdoLWNvbnRyYXN0OiBhY3RpdmUpIHsKICAgLm1vYmlsZUJhY2tncm91bmRCYW5uZXJfX3N2Z0ltZyB7CiAgICBiYWNrZ3JvdW5kLXNpemU6IDMzMCU7CiAgfQp9Cg==</text>
+        <text encoding="base64">ICBtYXJnaW46IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2RvYycsIGRvYyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtDb2wsIFJvd30gZnJvbSAncmVhY3QtZ3JpZC1zeXN0ZW0nOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZG9jLnNldEF0dHJpYnV0ZSgnZGF0YS11c2VyYWdlbnQnLCBuYXZpZ2F0b3IudXNlckFnZW50KTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyIGRvYyA9IGRvY3VtZW50LmRvY3VtZW50RWxlbWVudDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>64</text>

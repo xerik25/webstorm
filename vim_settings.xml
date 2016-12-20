@@ -30,11 +30,11 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/contactInfo/ContactInfo.js" timestamp="1482197392527">
-        <mark key="[" line="25" column="16" />
-        <mark key="]" line="25" column="46" />
-        <mark key="." line="25" column="46" />
-        <mark key="^" line="25" column="46" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/contactInfo/ContactInfo.js" timestamp="1482246815702">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="24" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/healthInfo/_healthRatingInput.scss" timestamp="1482184250573">
         <mark key="[" line="7" column="0" />
@@ -140,6 +140,12 @@
         <mark key="[" line="6" column="26" />
         <mark key="]" line="6" column="26" />
         <mark key="." line="6" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/basicInfo/BirthdateInput.js" timestamp="1482247078336">
+        <mark key="[" line="51" column="22" />
+        <mark key="]" line="51" column="23" />
+        <mark key="." line="51" column="23" />
+        <mark key="^" line="2" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/healthInfo/HealthInfo.js" timestamp="1482185194730">
         <mark key="[" line="21" column="36" />
@@ -431,20 +437,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/variables/variables.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>Row</text>
       </register>
       <register name="-" type="4">
-        <text>_healthRatingInput.scss</text>
+        <text>Row</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2NvbXBvbmVudHMvaGVhbHRoSW5mby9faGVhbHRoUmF0aW5nSW5wdXQuc2Nzcyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJvdyBmcm9tICcuLi9jb21tb24vUm93JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">aW1wb3J0IHtSb3csIENvbH0gZnJvbSAncmVhY3QtZ3JpZC1zeXN0ZW0nOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -456,28 +462,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0QWxpZ246ICdjZW50ZXInCg==</text>
+        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL0NvbnRhY3RJbmZvLnN0eWxlcyc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb250U2l6ZTogJzEuNmVtJywK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHN1YmhlYWRlciA6IHsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIH0sCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB0ZXh0QWxpZ246ICdjZW50ZXInCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmb250U2l6ZTogJzEuNmVtJywK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHN1YmhlYWRlciA6IHsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb250U2l6ZTogJzIuN2VtJywK</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW5Ub3A6ICc4MHB4JywK</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0QWxpZ246ICdjZW50ZXInCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcjogewo=</text>
+        <text encoding="base64">ICAgICAgICBmb250U2l6ZTogJzIuN2VtJywK</text>
       </register>
       <register name=":" type="4">
         <text>64</text>

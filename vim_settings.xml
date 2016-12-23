@@ -118,10 +118,10 @@
         <mark key="]" line="221" column="0" />
         <mark key="." line="221" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/BigQuoteBar.styles.js" timestamp="1482513047366">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/BigQuoteBar.styles.js" timestamp="1482514879570">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/basicInfo/BirthdateInput.js" timestamp="1482252752616">
         <mark key="[" line="52" column="62" />
@@ -310,11 +310,11 @@
         <mark key="^" line="37" column="30" />
         <mark key="." line="37" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_termLengthInput.scss" timestamp="1482513804695">
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="28" />
-        <mark key="." line="5" column="28" />
-        <mark key="^" line="5" column="28" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_termLengthInput.scss" timestamp="1482514611680">
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="19" column="35" />
+        <mark key="." line="19" column="35" />
+        <mark key="^" line="19" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/_utilites.scss" timestamp="1482424352077">
         <mark key="'" line="0" column="0" />
@@ -444,20 +444,20 @@
       <jump line="125" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_quoteBarHeader.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>orange</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luVG9wOicxN3B4JywK</text>
       </register>
       <register name="-" type="4">
-        <text>orange</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2NvbXBvbmVudHMvJzsK</text>
+        <text encoding="base64">CQkJYm9yZGVyLXdpZHRoOiAxMDBweCAwIDEwMHB4IDM1cHg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQliYWNrZ3JvdW5kLWNvbG9yOiA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luVG9wOicxN3B4JywK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -469,28 +469,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">CQlib3JkZXItd2lkdGg6IDEwMHB4IDAgMTAwcHggMzVweDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9udFNpemU6ICcxLjJlbScsCg==</text>
+        <text encoding="base64">CQliYWNrZ3JvdW5kLWNvbG9yOiA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luVG9wOiAnMjBweCcsCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXI6IHsK</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQltYXJnaW4tdG9wOiBweFRvUmVtKDIwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9udFNpemU6ICcxLjJlbScsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtDb2wsIFJvd30gZnJvbSAncmVhY3QtZ3JpZC1zeXN0ZW0nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luVG9wOiAnMjBweCcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtDb2wsIFJvd30gZnJvbSAncmVhY3QtZ3JpZC1zeXN0ZW0nOwo=</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXI6IHsK</text>
       </register>
       <register name=":" type="4">
         <text>64</text>

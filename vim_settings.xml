@@ -95,17 +95,22 @@
         <mark key="." line="19" column="35" />
         <mark key="^" line="19" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_quoteBarHeader.scss" timestamp="1482507741775">
+        <mark key="'" line="124" column="0" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/submitSection/SubmitSection.js" timestamp="1482351685906">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="38" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/styles.css" timestamp="1482363264294">
-        <mark key="[" line="210" column="0" />
-        <mark key="]" line="211" column="20" />
-        <mark key="." line="211" column="20" />
-        <mark key="^" line="211" column="20" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/styles.css" timestamp="1482507580433">
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="221" column="0" />
+        <mark key="." line="221" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/BigQuoteBar.styles.js" timestamp="1482368444287">
         <mark key="[" line="123" column="0" />
@@ -310,8 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="452" column="20" filename="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/app/global/global.scss" />
-      <jump line="986" column="0" filename="$USER_HOME$/Sites/devdesktop/vmldotcom-dev/docroot/sites/all/themes/vml/app/global/global.scss" />
       <jump line="117" column="0" filename="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/gulpfile.js" />
       <jump line="130" column="0" filename="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/gulpfile.js" />
       <jump line="11" column="0" filename="$USER_HOME$/Sites/firstTennesseeBank/ftb/src/build/gulpfile.js" />
@@ -410,10 +413,12 @@
       <jump line="43" column="28" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/StepDisplay.js" />
       <jump line="30" column="60" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/basicInfo/BasicInfo.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/_utilites.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_quoteBarHeader.scss" />
+      <jump line="125" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_quoteBarHeader.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c3R5bGU9e3N0eWxlcy5sYWJlbENvbnRhaW5lcn0g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwYWRkaW5nUmlnaHQ6IDBweDsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">c3R5bGU9e3N0eWxlcy5sYWJlbENvbnRhaW5lcn0g</text>
@@ -425,7 +430,7 @@
         <text encoding="base64">aW1wb3J0IFJvdyBmcm9tICcuLi9jb21tb24vUm93JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtSb3csIENvbH0gZnJvbSAncmVhY3QtZ3JpZC1zeXN0ZW0nOwo=</text>
+        <text encoding="base64">ICBwYWRkaW5nUmlnaHQ6IDBweDsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -437,28 +442,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSRvYmplY3Q6ICgpCg==</text>
+        <text encoding="base64">CQl6LWluZGV4OiAxOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IC8vVE9ETzogdXBkYXRlIGNsYXNzIGV4YW1wbGVzCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vVE9ETzogbW92ZSBkZWZhdWx0IG91dAo=</text>
+        <text encoding="base64">aW1wb3J0IHtSb3csIENvbH0gZnJvbSAncmVhY3QtZ3JpZC1zeXN0ZW0nOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JG9iamVjdDogKCkK</text>
+        <text encoding="base64">CSRvYmplY3Q6ICgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSRkZWZhdWx0LXNwYWNlLWFtb3VudHMtd2l0aC1kaXJlY3Rpb246ICgxIGxlZnQgbCwgMiBsZWZ0IGwsIDMgbGVmdCBsLCA0IGxlZnQgbCwgNSBsZWZ0IGwsIDYgbGVmdCBsKQo=</text>
+        <text encoding="base64">IC8vVE9ETzogdXBkYXRlIGNsYXNzIGV4YW1wbGVzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxDb2wgeHM9IjEyIiBtZD0iNiIgY2xhc3NOYW1lPSJiYXNpYy1pbmZvX19yaWdodC1jb2x1bW4tLWxlZnQiPgo=</text>
+        <text encoding="base64">CS8vVE9ETzogbW92ZSBkZWZhdWx0IG91dAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJPGRpdiBjbGFzc05hbWU9InNvbWVDbGFzcyI+PC9kaXY+Cg==</text>
+        <text encoding="base64">JG9iamVjdDogKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWJhY2tncm91bmQtY29sb3I6IGJsdWU7Cg==</text>
+        <text encoding="base64">CSRkZWZhdWx0LXNwYWNlLWFtb3VudHMtd2l0aC1kaXJlY3Rpb246ICgxIGxlZnQgbCwgMiBsZWZ0IGwsIDMgbGVmdCBsLCA0IGxlZnQgbCwgNSBsZWZ0IGwsIDYgbGVmdCBsKQo=</text>
       </register>
       <register name=":" type="4">
         <text>64</text>

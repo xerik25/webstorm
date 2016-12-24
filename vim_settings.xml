@@ -119,10 +119,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="38" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/QuoteDisplay.js" timestamp="1482535942978">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="26" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/QuoteDisplay.js" timestamp="1482536986681">
+        <mark key="[" line="22" column="49" />
+        <mark key="]" line="22" column="82" />
+        <mark key="." line="22" column="82" />
+        <mark key="^" line="22" column="82" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/styles.css" timestamp="1482528046186">
         <mark key="[" line="68" column="0" />
@@ -159,11 +160,10 @@
         <mark key="." line="25" column="34" />
         <mark key="^" line="25" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_quoteDisplay.scss" timestamp="1482534616849">
-        <mark key="[" line="20" column="33" />
-        <mark key="]" line="20" column="34" />
-        <mark key="." line="20" column="34" />
-        <mark key="^" line="20" column="29" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_quoteDisplay.scss" timestamp="1482537134627">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileQuoteDisplay.js" timestamp="1482120321966">
         <mark key="[" line="22" column="24" />
@@ -460,7 +460,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQk8L2Rpdj4K</text>
+        <text encoding="base64">CWp1c3RpZnktY29udGVudDogY2VudGVyOwo=</text>
       </register>
       <register name="-" type="4">
         <text>style={styles.popoverContainer}</text>
@@ -472,7 +472,7 @@
         <text encoding="base64">CUBpbmNsdWRlIHJlc3BvbnNpdmUtZm9udCgxdncsIDEwcHgsIGZhbHNlLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQk8L2Rpdj4K</text>
+        <text encoding="base64">CWp1c3RpZnktY29udGVudDogY2VudGVyOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -484,28 +484,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCg==</text>
+        <text encoding="base64">CW1heC13aWR0aDogNTAlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">CQkJCQk8L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CX0sCg==</text>
+        <text encoding="base64">CQkJCQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlwYWRkaW5nOiAnMTBweCA0MHB4IDEwcHggNDBweCcK</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQliYWNrZ3JvdW5kQ29sb3I6ICd3aGl0ZScsCg==</text>
+        <text encoding="base64">CX0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQljb2xvcjogJ2JsYWNrJywK</text>
+        <text encoding="base64">CQlwYWRkaW5nOiAnMTBweCA0MHB4IDEwcHggNDBweCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlib3JkZXJSYWRpdXM6IGRlZmF1bHRzLnNwYWNpbmcsCg==</text>
+        <text encoding="base64">CQliYWNrZ3JvdW5kQ29sb3I6ICd3aGl0ZScsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXBvcG92ZXJDb250YWluZXI6IHsK</text>
+        <text encoding="base64">CQljb2xvcjogJ2JsYWNrJywK</text>
       </register>
       <register name=":" type="4">
         <text>64</text>

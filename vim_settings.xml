@@ -149,11 +149,11 @@
         <mark key="." line="25" column="34" />
         <mark key="^" line="25" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_quoteDisplay.scss" timestamp="1482814972394">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="39" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_quoteDisplay.scss" timestamp="1483375267521">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="5" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileQuoteDisplay.js" timestamp="1482120321966">
         <mark key="[" line="22" column="24" />
@@ -333,11 +333,17 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="65" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/BigQuoteBar.js" timestamp="1483371932524">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="50" />
-        <mark key="^" line="80" column="49" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/_utilites.scss" timestamp="1483375196910">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="73" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/BigQuoteBar.js" timestamp="1483375213928">
+        <mark key="[" line="91" column="55" />
+        <mark key="]" line="71" column="75" />
+        <mark key="^" line="71" column="75" />
+        <mark key="." line="91" column="69" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/AppTypes.js" timestamp="1482364118129">
         <mark key="[" line="6" column="70" />
@@ -455,8 +461,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/_mobileTermLengthInput.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Col</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
         <text>Col</text>
@@ -468,7 +474,7 @@
         <text encoding="base64">CQkJCQkJCQkJCQk8L0NvbD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQGNvbnN0cnVjdG9yCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -480,28 +486,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQHJldHVybnMge1hNTH0K</text>
+        <text encoding="base64">ICogQGNvbnN0cnVjdG9yCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQGNvbnN0cnVjdG9yCg==</text>
+        <text encoding="base64">ICogQHJldHVybnMge1hNTH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQHJldHVybnMge1hNTH0K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICogQGNvbnN0cnVjdG9yCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICogQHJldHVybnMge1hNTH0K</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICogQGNvbnN0cnVjdG9yCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQHJldHVybnMge1hNTH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZvbnQtc2l6ZTogJHJlc3BvbnNpdmU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUBpZiAkZmFsbGJhY2sgewoJCWZvbnQtc2l6ZTogJGZhbGxiYWNrOwoJfQo=</text>
+        <text encoding="base64">CWZvbnQtc2l6ZTogJHJlc3BvbnNpdmU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>64</text>

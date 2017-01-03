@@ -271,11 +271,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_policyValueInput.scss" timestamp="1483409884646">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="^" line="49" column="11" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_policyValueInput.scss" timestamp="1483410894753">
+        <mark key="[" line="58" column="19" />
+        <mark key="]" line="58" column="34" />
+        <mark key="^" line="58" column="34" />
+        <mark key="." line="58" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/TermLengthInput.js" timestamp="1483376026747">
         <mark key="[" line="12" column="0" />
@@ -544,11 +544,11 @@
       <jump line="9" column="34" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/AppTypes.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LnRyYW5zaXRpb24gewoJdHJhbnNpdGlvbjphbGwgMS4wcyBlYXNlLWluLW91dDsKCXBvc2l0aW9uOiByZWxhdGl2ZTsKCXdpZHRoOiAxMDAlOwoKCSYtLWN1cnJlbnQgewoJCWxlZnQ6IDA7Cgl9CgoJJi0tcHJldmlvdXMgewoJCWxlZnQ6IDMwMDBweDsKCQloZWlnaHQ6IDA7Cgl9Cn0K</text>
+      <register name="&quot;" type="4">
+        <text>3000px</text>
       </register>
       <register name="-" type="4">
-        <text>absolute</text>
+        <text>3000px</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>

@@ -84,6 +84,11 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/globals/_typography.scss" timestamp="1482347301591">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/common/NextAndPreviousButtons.js" timestamp="1483380846161">
         <mark key="[" line="13" column="46" />
         <mark key="]" line="13" column="46" />
@@ -218,6 +223,11 @@
         <mark key="^" line="21" column="68" />
         <mark key="." line="22" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/QuoteBarHeader.js" timestamp="1482816005903">
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="18" column="30" />
+        <mark key="." line="18" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/healthInfo/HealthRatingInput.js" timestamp="1482185038129">
         <mark key="[" line="12" column="53" />
         <mark key="]" line="12" column="53" />
@@ -235,6 +245,16 @@
         <mark key="]" line="16" column="35" />
         <mark key="." line="16" column="35" />
         <mark key="^" line="16" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/basicInfo/HasInsuranceInput.js" timestamp="1482187178025">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/submitSection/_carrierDisclaimer.scss" timestamp="1482352478267">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.js" timestamp="1482425849776">
         <mark key="[" line="3" column="21" />
@@ -261,11 +281,15 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/scriptTags/googleAnalytics.js" timestamp="1483558307701">
-        <mark key="[" line="15" column="18" />
-        <mark key="]" line="16" column="17" />
-        <mark key="^" line="16" column="17" />
-        <mark key="." line="16" column="17" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/basicInfo/_basicInfo.scss" timestamp="1482512680020">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/scriptTags/googleAnalytics.js" timestamp="1483561223999">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="42" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/TermLengthInput.js" timestamp="1483459280527">
         <mark key="[" line="75" column="0" />
@@ -290,11 +314,11 @@
         <mark key="." line="61" column="87" />
         <mark key="^" line="61" column="87" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/tools/buildHtml.js" timestamp="1483558121283">
-        <mark key="[" line="14" column="64" />
-        <mark key="]" line="14" column="67" />
-        <mark key="." line="14" column="67" />
-        <mark key="^" line="14" column="67" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/tools/buildHtml.js" timestamp="1483560881661">
+        <mark key="[" line="14" column="58" />
+        <mark key="]" line="14" column="59" />
+        <mark key="." line="14" column="59" />
+        <mark key="^" line="14" column="59" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/CustomSelectField.styles.js" timestamp="1482369437213">
         <mark key="[" line="25" column="0" />
@@ -335,6 +359,11 @@
       </file>
       <file name="/a.regexp" timestamp="1483554785087">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/ContactInfoContainer.js" timestamp="1483486309428">
+        <mark key="[" line="30" column="33" />
+        <mark key="]" line="30" column="33" />
+        <mark key="." line="30" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/variables/_breakpoints.scss" timestamp="1483484560076">
         <mark key="[" line="3" column="26" />
@@ -531,10 +560,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2xvYWRlZCBnb29nbGVBbmFseXRpY3MnKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>props</text>
+        <text encoding="base64">IHNyYz0iJyArIEdBICsgJyI=</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -543,7 +572,7 @@
         <text encoding="base64">ICAgICQoJ2hlYWQnKS5wcmVwZW5kKCc8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9InN0eWxlcy5jc3MiPicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2xvYWRlZCBnb29nbGVBbmFseXRpY3MnKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -555,28 +584,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KGZ1bmN0aW9uIChpLCBzLCBvLCBnLCByLCBhLCBtKSB7CglpWydHb29nbGVBbmFseXRpY3NPYmplY3QnXSA9IHI7IGlbcl0gPSBpW3JdIHx8IGZ1bmN0aW9uICgpIHsKCQkJKGlbcl0ucSA9IGlbcl0ucSB8fCBbXSkucHVzaChhcmd1bWVudHMpCgkJfSwgaVtyXS5sID0gMSAqIG5ldyBEYXRlKCk7IGEgPSBzLmNyZWF0ZUVsZW1lbnQobyksCgkJbSA9IHMuZ2V0RWxlbWVudHNCeVRhZ05hbWUobylbMF07IGEuYXN5bmMgPSAxOyBhLnNyYyA9IGc7IG0ucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoYSwgbSkKfSkod2luZG93LCBkb2N1bWVudCwgJ3NjcmlwdCcsICcvL3d3dy5nb29nbGUtYW5hbHl0aWNzLmNvbS9hbmFseXRpY3MuanMnLCAnZ2EnKTsKCmdhKCdjcmVhdGUnLCAnVUEtMjA4MTczNC0xNycsICdhdXRvJyk7CmdhKCdyZXF1aXJlJywgJ2Rpc3BsYXlmZWF0dXJlcycpOwpnYSgncmVxdWlyZScsICdhZGZlYXR1cmVzJyk7CmdhKCdzZW5kJywgJ3BhZ2V2aWV3Jyk7Cg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">CWV4cG9ydCBkZWZhdWx0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8tLT4K</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PHNjcmlwdCBsYW5ndWFnZT0iSmF2YVNjcmlwdCIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48IS0tCg==</text>
+        <text encoding="base64">KGZ1bmN0aW9uIChpLCBzLCBvLCBnLCByLCBhLCBtKSB7CglpWydHb29nbGVBbmFseXRpY3NPYmplY3QnXSA9IHI7IGlbcl0gPSBpW3JdIHx8IGZ1bmN0aW9uICgpIHsKCQkJKGlbcl0ucSA9IGlbcl0ucSB8fCBbXSkucHVzaChhcmd1bWVudHMpCgkJfSwgaVtyXS5sID0gMSAqIG5ldyBEYXRlKCk7IGEgPSBzLmNyZWF0ZUVsZW1lbnQobyksCgkJbSA9IHMuZ2V0RWxlbWVudHNCeVRhZ05hbWUobylbMF07IGEuYXN5bmMgPSAxOyBhLnNyYyA9IGc7IG0ucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoYSwgbSkKfSkod2luZG93LCBkb2N1bWVudCwgJ3NjcmlwdCcsICcvL3d3dy5nb29nbGUtYW5hbHl0aWNzLmNvbS9hbmFseXRpY3MuanMnLCAnZ2EnKTsKCmdhKCdjcmVhdGUnLCAnVUEtMjA4MTczNC0xNycsICdhdXRvJyk7CmdhKCdyZXF1aXJlJywgJ2Rpc3BsYXlmZWF0dXJlcycpOwpnYSgncmVxdWlyZScsICdhZGZlYXR1cmVzJyk7CmdhKCdzZW5kJywgJ3BhZ2V2aWV3Jyk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHNjcmlwdCBsYW5ndWFnZT0iSmF2YVNjcmlwdCIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48IS0tCg==</text>
+        <text encoding="base64">Ly8tLT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCEtLSBFbmQgU2l0ZUNhdGFseXN0IGNvZGUgdmVyc2lvbjogSC4yMC4zLiAtLT4K</text>
+        <text encoding="base64">PHNjcmlwdCBsYW5ndWFnZT0iSmF2YVNjcmlwdCIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48IS0tCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PCEtLS9ETyBOT1QgUkVNT1ZFLy0tPgo=</text>
+        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>64</text>

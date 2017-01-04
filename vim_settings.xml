@@ -107,12 +107,12 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="14" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/scriptTags/s_code.js" timestamp="1483567129287">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="947" column="2" />
-        <mark key="]" line="948" column="27" />
-        <mark key="." line="948" column="27" />
-        <mark key="^" line="948" column="27" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/scriptTags/s_code.js" timestamp="1483569564192">
+        <mark key="'" line="1" column="10" />
+        <mark key="[" line="948" column="15" />
+        <mark key="]" line="948" column="15" />
+        <mark key="." line="948" column="19" />
+        <mark key="^" line="1" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileTermLengthInput.js" timestamp="1483035594276">
         <mark key="[" line="59" column="32" />
@@ -205,6 +205,7 @@
         <mark key="." line="21" column="1" />
         <mark key="^" line="21" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/scriptTags/googleAnalyticsOnSteroids.js" timestamp="1483569150156" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/QuoteDisplay.js" timestamp="1483374472839">
         <mark key="[" line="41" column="10" />
         <mark key="]" line="41" column="12" />
@@ -317,6 +318,7 @@
         <mark key="^" line="44" column="24" />
         <mark key="." line="44" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-agent-referral-page/src/google.analytics.js" timestamp="1483550464736" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/_mobileQuoteDisplay.scss" timestamp="1482106278409">
         <mark key="[" line="6" column="12" />
         <mark key="]" line="6" column="12" />
@@ -370,11 +372,11 @@
         <mark key="." line="61" column="87" />
         <mark key="^" line="61" column="87" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/tools/buildHtml.js" timestamp="1483567812220">
-        <mark key="[" line="32" column="23" />
-        <mark key="]" line="32" column="129" />
-        <mark key="." line="32" column="129" />
-        <mark key="^" line="32" column="129" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/tools/buildHtml.js" timestamp="1483571094312">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="31" column="14" />
+        <mark key="." line="31" column="14" />
+        <mark key="^" line="31" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/CustomSelectField.styles.js" timestamp="1482369437213">
         <mark key="[" line="25" column="0" />
@@ -525,11 +527,14 @@
         <mark key="." line="12" column="41" />
         <mark key="^" line="12" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/scriptTags/scode.js" timestamp="1483570160134">
+        <mark key="'" line="940" column="39" />
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="25" />
+        <mark key="." line="2" column="25" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/deviceDetails.js" />
-      <jump line="60" column="54" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/common/js/deviceDetails.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js.txt" />
       <jump line="35" column="0" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js.txt" />
       <jump line="168" column="20" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/etc/clientlibs/sprint-transformation/shop/js/device.js" />
       <jump line="2" column="100" filename="$USER_HOME$/Sites/Sprint/repos/sprint-aem/apps/src/main/content/jcr_root/apps/sprint-transformation/components/content/devicedetail/devicedetail.html" />
@@ -627,13 +632,16 @@
       <jump line="0" column="13" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/scriptTags/quantcast.js" />
       <jump line="0" column="18" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/scriptTags/siteCatalyst.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/scriptTags/s_code.js" />
+      <jump line="724" column="49" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/scriptTags/s_code.js" />
+      <jump line="1" column="10" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/scriptTags/s_code.js" />
+      <jump line="940" column="39" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/scriptTags/scode.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>ags</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PHNjcmlwdCByZWw9InRleHQvamF2YXNjcmlwdCI+JysgcmVtYXJrZXRpbmcgKycgcmVtYXJrZXRpbmcoKTs8L3NjcmlwdD4=</text>
+        <text>ags</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -642,7 +650,7 @@
         <text encoding="base64">CSQoJ2JvZHknKS5wcmVwZW5kKCc8c2NyaXB0IHJlbD0idGV4dC9qYXZhc2NyaXB0Ij4nKyByZW1hcmtldGluZyArJyByZW1hcmtldGluZygpOzwvc2NyaXB0PicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CSQoJ2JvZHknKS5wcmVwZW5kKAoJCSc8bm9zY3JpcHQ+ICcgKwoJCSc8aW1nIHNyYz0iLy9waXhlbC5xdWFudHNlcnZlLmNvbS9waXhlbC9wLWI0TE1pUnBybF9SNE0uZ2lmP2xhYmVscz1fZnAuZXZlbnQuRGVmYXVsdCIgc3R5bGU9ImRpc3BsYXk6IG5vbmU7IiBib3JkZXI9IjAiIGhlaWdodD0iMSIgd2lkdGg9IjEiIGFsdD0iUXVhbnRjYXN0Ii8+ICcgKwoJCSc8L25vc2NyaXB0PicKCSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -654,28 +662,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CSQoJ2JvZHknKS5wcmVwZW5kKAoJCSc8bm9zY3JpcHQ+ICcgKwoJCSc8YSBocmVmPSIvL3d3dy5vbW5pdHVyZS5jb20iIHRpdGxlPSJXZWIgQW5hbHl0aWNzIj4gJyArCgkJJzxpbWcgc3JjPSIvL3NxZGV2aG9tZTEwLjEyMi4yTzcubmV0L2Ivc3Mvc3FkZXZob21lMTAvMS9ILjIwLjMtLU5TLzAiIGhlaWdodD0iMSIgd2lkdGg9IjEiIGJvcmRlcj0iMCIgYWx0PSIiIC8+PC9hPiAnICsKCQknPC9ub3NjcmlwdD4nCgkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHNpdGVDYXRhbHlzdCBmcm9tICcuLi9zcmMvc2NyaXB0VGFncy9zaXRlQ2F0YWx5c3QnOwo=</text>
+        <text encoding="base64">CSQoJ2JvZHknKS5wcmVwZW5kKAoJCSc8bm9zY3JpcHQ+ICcgKwoJCSc8ZGl2IHN0eWxlPSJkaXNwbGF5OiBpbmxpbmU7Ij4gJyArCgkJJzxpbWcgaGVpZ2h0PSIxIiB3aWR0aD0iMSIgc3R5bGU9ImJvcmRlci1zdHlsZTogbm9uZTsiIGFsdD0iIiBzcmM9Ii8vZ29vZ2xlYWRzLmcuZG91YmxlY2xpY2submV0L3BhZ2VhZC92aWV3dGhyb3VnaGNvbnZlcnNpb24vMTA3MTYyODMyNy8/dmFsdWU9MCZhbXA7Z3VpZD1PTiZhbXA7c2NyaXB0PTAiIC8+ICcgKwoJCSc8L2Rpdj4gJyArCgkJJzwvbm9zY3JpcHQ+JwoJKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHJlbWFya2V0aW5nIGZyb20gJy4uL3NyYy9zY3JpcHRUYWdzL3JlbWFya2V0aW5nJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHViZXIgZnJvbSAnLi4vc3JjL3NjcmlwdFRhZ3MvdWJlcic7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHNjb2RlIGZyb20gJy4uL3NyYy9zY3JpcHRUYWdzL3NfY29kZSc7Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IG1heHltaXNlciBmcm9tICcuLi9zcmMvc2NyaXB0VGFncy9tYXh5bWlzZXInOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG1heHltaXNlciBmcm9tICcuLi9zcmMvc2NyaXB0VGFncy9tYXh5bWlzZXInOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IEdBUyBmcm9tICcuLi9zcmMvc2NyaXB0VGFncy9nb29nbGVBbmFseXRpY3NPblN0ZXJvaWRzJzsK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0IHNpdGVDYXRhbHlzdCBmcm9tICcuLi9zcmMvc2NyaXB0VGFncy9zaXRlQ2F0YWx5c3QnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>64</text>

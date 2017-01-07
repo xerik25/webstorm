@@ -108,6 +108,9 @@
         <mark key="^" line="77" column="25" />
         <mark key="." line="77" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_orangeInputsContainer.scss" timestamp="1483756164404">
+        <mark key="[" line="51" column="9" />
+      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/_base.scss" timestamp="1482252420207">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -174,6 +177,7 @@
         <mark key="." line="9" column="6" />
         <mark key="^" line="9" column="6" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/base/functions/_pxToRem.scss" timestamp="1483756028004" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/SliderDragStopAction.js" timestamp="1483736908073">
         <mark key="[" line="7" column="32" />
         <mark key="]" line="9" column="2" />
@@ -298,7 +302,7 @@
         <mark key="." line="16" column="35" />
         <mark key="^" line="16" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/BigQuoteBarContainer.js" timestamp="1483740809370">
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/BigQuoteBarContainer.js" timestamp="1483823145240">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="26" column="13" />
         <mark key="." line="25" column="45" />
@@ -392,7 +396,7 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1483740877888">
+      <file name="/a.regexp" timestamp="1483755979902">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="0" />
@@ -421,11 +425,11 @@
         <mark key="." line="7" column="19" />
         <mark key="^" line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileQuoteBar.js" timestamp="1483741515291">
-        <mark key="[" line="79" column="38" />
-        <mark key="]" line="80" column="46" />
-        <mark key="." line="80" column="46" />
-        <mark key="^" line="80" column="46" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileQuoteBar.js" timestamp="1483823216008">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="70" />
+        <mark key="^" line="55" column="69" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/common/NextAndPreviousButton.js" timestamp="1483379719896">
         <mark key="[" line="0" column="26" />
@@ -468,11 +472,6 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/MobileQuoteBarContainer.js" timestamp="1483739572109">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/scriptTags/uber.js" timestamp="1483563530233">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="8" column="19" />
@@ -491,7 +490,7 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="22" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/BigQuoteBar.js" timestamp="1483747411784">
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/BigQuoteBar.js" timestamp="1483823200760">
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
@@ -619,7 +618,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJCQkvL1RPRE86IGZpeCB0aGlzIHNpbmNlIGFjdGlvbiBpcyBub3QgYmVpbmcgcGFzc2VkIGRvd24K</text>
+        <text encoding="base64">CQkJCQkJCQlvbkRyYWdTdG9wPXthY3Rpb25zLnNsaWRlckRyYWdTdG9wcGVkfQo=</text>
       </register>
       <register name="-" type="4">
         <text>actions.sliderStopped</text>
@@ -628,7 +627,7 @@
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCW9uRHJhZ1N0b3A9e2FjdGlvbnMuc2xpZGVyRHJhZ1N0b3BwZWR9Cg==</text>
+        <text encoding="base64">CQkJCQkJCQlvbkRyYWdTdG9wPXthY3Rpb25zLnNsaWRlckRyYWdTdG9wcGVkfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQkJCQkvL1RPRE86IGZpeCB0aGlzIHNpbmNlIGFjdGlvbiBpcyBub3QgYmVpbmcgcGFzc2VkIGRvd24K</text>

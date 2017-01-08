@@ -177,7 +177,6 @@
         <mark key="." line="9" column="6" />
         <mark key="^" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/base/functions/_pxToRem.scss" timestamp="1483756028004" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/SliderDragStopAction.js" timestamp="1483736908073">
         <mark key="[" line="7" column="32" />
         <mark key="]" line="9" column="2" />
@@ -507,10 +506,10 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="22" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/BigQuoteBar.js" timestamp="1483823200760">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/BigQuoteBar.js" timestamp="1483891491177">
+        <mark key="[" line="112" column="47" />
+        <mark key="]" line="112" column="47" />
+        <mark key="." line="112" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/AppTypes.js" timestamp="1483737128261">
         <mark key="[" line="13" column="33" />
@@ -634,11 +633,11 @@
       <jump line="40" column="23" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_policyValueInput.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHF1b3RlRGlzcGF0Y2hlciBmcm9tICcuLi9zZXJ2aWNlcy9xdW90ZURpc3BhdGNoZXInOwo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>actions.sliderStopped</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>

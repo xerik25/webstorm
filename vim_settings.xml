@@ -239,7 +239,13 @@
         <mark key="^" line="44" column="24" />
         <mark key="." line="44" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/QuoteForm.js" timestamp="1484003516421" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/QuoteForm.js" timestamp="1484005261316">
+        <mark key="[" line="19" column="55" />
+        <mark key="]" line="19" column="55" />
+        <mark key="^" line="19" column="66" />
+        <mark key="." line="19" column="55" />
+      </file>
+      <file name="$USER_HOME$/Projects/sq-agent-referral-page/src/components/referralPage/ReferralPage.js" timestamp="1484004008217" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/_mobileQuoteDisplay.scss" timestamp="1483983626974">
         <mark key="[" line="14" column="17" />
         <mark key="]" line="16" column="27" />
@@ -280,7 +286,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/App.js" timestamp="1484003531425">
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/App.js" timestamp="1484004096115">
         <mark key="[" line="43" column="41" />
         <mark key="]" line="43" column="42" />
         <mark key="^" line="43" column="42" />
@@ -404,7 +410,7 @@
         <mark key="." line="9" column="6" />
         <mark key="^" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-agent-referral-page/src/components/referralContactForm/ReferralContactForm.js" timestamp="1483993917070" />
+      <file name="$USER_HOME$/Projects/sq-agent-referral-page/src/components/referralContactForm/ReferralContactForm.js" timestamp="1484004077875" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/BigQuoteBar.lifecyle.js" timestamp="1483983065173">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -464,7 +470,7 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1483994036478">
+      <file name="/a.regexp" timestamp="1484003818830">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="0" />
@@ -628,10 +634,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>offsetTop</text>
+        <text>.scrollTop</text>
       </register>
       <register name="-" type="4">
-        <text>offsetTop</text>
+        <text>.scrollTop</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>

@@ -373,6 +373,12 @@
         <mark key="^" line="37" column="4" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/footer/_infoLink.scss" timestamp="1484149070385">
+        <mark key="[" line="22" column="20" />
+        <mark key="]" line="22" column="30" />
+        <mark key="." line="22" column="30" />
+        <mark key="^" line="22" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileTermLengthInput.js" timestamp="1484088054391">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
@@ -450,7 +456,7 @@
         <mark key="." line="15" column="17" />
         <mark key="^" line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/basicInfo/_basicInfo.scss" timestamp="1484065129228">
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/basicInfo/_basicInfo.scss" timestamp="1484089012294">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -490,7 +496,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1484088044063">
+      <file name="/a.regexp" timestamp="1484090326851">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="0" />
@@ -515,9 +521,9 @@
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_stepDisplay.scss" timestamp="1483456984617">
         <mark key="[" line="6" column="16" />
-        <mark key="]" line="7" column="19" />
-        <mark key="." line="7" column="19" />
-        <mark key="^" line="7" column="19" />
+        <mark key="]" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+        <mark key="^" line="8" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/common/NextAndPreviousButton.js" timestamp="1483379719896">
         <mark key="[" line="0" column="26" />
@@ -653,11 +659,11 @@
       <jump line="40" column="23" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_policyValueInput.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWNoaWxkcmVuOiBSZWFjdC5Qcm9wVHlwZXMub2JqZWN0LAo=</text>
+      <register name="&quot;" type="4">
+        <text>initial</text>
       </register>
       <register name="-" type="4">
-        <text>animateScroll</text>
+        <text>initial</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>

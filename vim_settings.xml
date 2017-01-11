@@ -412,17 +412,17 @@
         <mark key="." line="9" column="6" />
         <mark key="^" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/footer/_footerInfo.scss" timestamp="1484158725892">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/footer/_footerInfo.scss" timestamp="1484160042214">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
         <mark key="^" line="15" column="23" />
-        <mark key="." line="25" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/footer/FooterInfo.js" timestamp="1484158686483">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="17" column="15" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/footer/FooterInfo.js" timestamp="1484161980283">
+        <mark key="[" line="16" column="23" />
+        <mark key="]" line="16" column="56" />
+        <mark key="^" line="53" column="68" />
+        <mark key="." line="16" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/BigQuoteBar.lifecyle.js" timestamp="1483983065173">
         <mark key="[" line="27" column="0" />
@@ -665,11 +665,11 @@
       <jump line="40" column="23" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_policyValueInput.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXdpZHRoOiA3MCU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGNsYXNzTmFtZT0iaGVhbHRoQ29uY2VybnNDb2x1bW4i</text>
       </register>
       <register name="-" type="4">
-        <text>div</text>
+        <text encoding="base64">IGNsYXNzTmFtZT0iaGVhbHRoQ29uY2VybnNDb2x1bW4i</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -678,7 +678,7 @@
         <text encoding="base64">CQkJCQkJPGRpdj50ZXN0PC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXdpZHRoOiA3MCU7Cg==</text>
+        <text encoding="base64">CQkJCTwvZGl2Pgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -690,28 +690,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCTxkaXYgY2xhc3NOYW1lPSIiPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJPC9Db2w+Cg==</text>
+        <text encoding="base64">CQl3aWR0aDogOTUlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQliYWNrZ3JvdW5kOiByZWQ7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkvL2JhY2tncm91bmQ6ICRjbG91ZHk7CgkJYmFja2dyb3VuZDogcmVkOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCTwvQ29sPgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCTxDb2wgbGc9IjYiPgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CXdpZHRoOiA3MCU7Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJPC9Db2w+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQliYWNrZ3JvdW5kOiByZWQ7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkvL2JhY2tncm91bmQ6ICRjbG91ZHk7CgkJYmFja2dyb3VuZDogcmVkOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCTwvUm93Pgo=</text>
+        <text encoding="base64">CQkJCTwvQ29sPgo=</text>
       </register>
       <register name=":" type="4">
         <text>27</text>

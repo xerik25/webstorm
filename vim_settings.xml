@@ -304,11 +304,11 @@
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/index.html" timestamp="1482539674813">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="43" />
-        <mark key="^" line="0" column="43" />
-        <mark key="." line="0" column="43" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/index.html" timestamp="1484271096156">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="33" />
+        <mark key="^" line="12" column="33" />
+        <mark key="." line="12" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/scriptTags/maxymiser.js" timestamp="1483553332252">
         <mark key="[" line="1" column="27" />
@@ -480,10 +480,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484266335576">
-        <mark key="[" line="0" column="30" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="/Dummy.txt" timestamp="1484267240450">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="2" column="2" />
+        <mark key="." line="2" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/basicInfo/BasicInfo.js" timestamp="1484084972335">
         <mark key="[" line="21" column="69" />
@@ -515,7 +515,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1484255099806">
+      <file name="/a.regexp" timestamp="1484268733429">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="0" />
@@ -679,7 +679,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGhlaWdodD17MTZ9IHdpZHRoPXsxNDN9</text>
+        <text>missing space
+- adding class to style images instead of inline styles
+- fixing height for Safari on checkList class
+- removing styles that aren't being used</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGhlaWdodD17MTZ9IHdpZHRoPXsxNDN9</text>
@@ -691,8 +694,10 @@
         <text encoding="base64">CQkJCQkJPGRpdj50ZXN0PC9kaXY+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>How: Added some flex properties specifically for IE
-Why: The text was not wrapping and staying on one line so it was running into other infoLink text</text>
+        <text>missing space
+- adding class to style images instead of inline styles
+- fixing height for Safari on checkList class
+- removing styles that aren't being used</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -703,29 +708,30 @@ Why: The text was not wrapping and staying on one line so it was running into ot
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>How: Added some flex properties specifically for IE
+Why: The text was not wrapping and staying on one line so it was running into other infoLink text</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlwYWRkaW5nLXJpZ2h0OiBweFRvUmVtKDEwKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CW1hcmdpbi1yaWdodDogcHhUb1JlbSgxMCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlwYWRkaW5nLXJpZ2h0OiBweFRvUmVtKDEwKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CW1hcmdpbi1yaWdodDogcHhUb1JlbSgxMCk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlkaXNwbGF5OiBub25lOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQlkaXNwbGF5OiBub25lOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSZfX3JvdyB7Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CSZfX3JvdyB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>27</text>

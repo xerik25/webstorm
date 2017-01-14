@@ -67,7 +67,7 @@
         <mark key="^" line="23" column="71" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/ZipcodeChanged.js" timestamp="1484348099594" />
-      <file name="$USER_HOME$/Projects/reactreduxes6/src/reducers/initialState.js" timestamp="1484423352158">
+      <file name="$USER_HOME$/Projects/reactreduxes6/src/reducers/initialState.js" timestamp="1484423500127">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="3" column="2" />
         <mark key="^" line="3" column="2" />
@@ -408,6 +408,12 @@
         <mark key="." line="27" column="30" />
         <mark key="^" line="27" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/reactreduxes6/src/store/configureStore.js" timestamp="1484424580419">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="39" />
+        <mark key="^" line="8" column="39" />
+        <mark key="." line="8" column="39" />
+      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/module/_selects.scss" timestamp="1483984976463" />
       <file name="$USER_HOME$/Projects/reactreduxes6/src/reducers/index.js" timestamp="1484421175386">
         <mark key="[" line="7" column="9" />
@@ -503,10 +509,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/reactreduxes6/src/components/common/LoadingDots.js" timestamp="1484421816511">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Projects/reactreduxes6/src/components/common/LoadingDots.js" timestamp="1484424485221">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/HealthInfoContainer.js" timestamp="1484061408716">
         <mark key="[" line="12" column="0" />
@@ -537,11 +544,11 @@
         <mark key="." line="3" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/SliderDragStopped.js" timestamp="1484330819683" />
-      <file name="$USER_HOME$/Projects/reactreduxes6/src/reducers/ajaxStatusReducer.js" timestamp="1484421064577">
-        <mark key="[" line="4" column="50" />
-        <mark key="]" line="4" column="50" />
-        <mark key="." line="4" column="50" />
-        <mark key="^" line="4" column="50" />
+      <file name="$USER_HOME$/Projects/reactreduxes6/src/reducers/ajaxStatusReducer.js" timestamp="1484424140150">
+        <mark key="[" line="7" column="63" />
+        <mark key="]" line="7" column="63" />
+        <mark key="." line="7" column="63" />
+        <mark key="^" line="7" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/BasicInfoContainer.js" timestamp="1484347947490">
         <mark key="[" line="13" column="52" />
@@ -601,7 +608,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1484349697196">
+      <file name="/a.regexp" timestamp="1484424496321">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -763,11 +770,11 @@
       <jump line="40" column="23" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_policyValueInput.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>numA</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>numA</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -788,28 +795,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7dGhpcy5wcm9wcy5jaGlsZHJlbn0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjaGlsZHJlbicsIHRoaXMucHJvcHMuY2hpbGRyZW4pOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnY2hpbGRyZW4nLCB0aGlzLnByb3BzLmNoaWxkcmVuKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCgpIHsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5pbnRlcnZhbCA9IHNldEludGVydmFsKCgpID0+IHsKICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgIGZyYW1lOiB0aGlzLnN0YXRlLmZyYW1lICsgMQogICAgICAgIH0pOwogICAgICB9LCB0aGlzLnByb3BzLmludGVydmFsKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGlmKHRoaXMuaXNNb3VudGVkKCkpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgfSwgMTAwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vRE8gU3R1ZmYK</text>
+        <text encoding="base64">ICAgIHRoaXMuaW50ZXJ2YWwgPSBzZXRJbnRlcnZhbCgoKSA9PiB7CiAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgIGZyYW1lOiB0aGlzLnN0YXRlLmZyYW1lICsgMQogICAgICB9KTsKICAgIH0sIHRoaXMucHJvcHMuaW50ZXJ2YWwpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>27</text>

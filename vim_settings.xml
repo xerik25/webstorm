@@ -222,11 +222,11 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/healthInfo/HealthInfo.js" timestamp="1484671901446">
-        <mark key="[" line="74" column="68" />
-        <mark key="]" line="74" column="69" />
-        <mark key="^" line="21" column="51" />
-        <mark key="." line="74" column="69" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/healthInfo/HealthInfo.js" timestamp="1484674276197">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="76" column="25" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/module/_colors-classes.scss" timestamp="1483985052601">
         <mark key="[" line="32" column="37" />
@@ -586,11 +586,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484607578259">
+      <file name="/Dummy.txt" timestamp="1484672025451">
         <mark key="'" line="4" column="5" />
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="4" column="2" />
-        <mark key="." line="4" column="2" />
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/reactreduxes6/src/actions/actionTypes.js" timestamp="1484419829078">
         <mark key="[" line="0" column="0" />
@@ -790,10 +790,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="-" type="4">
-        <text>y: Jake thought this might fix our issue. Getting a new error from gas.min.js now.</text>
+        <text>Object.keys(currentProgress.userProgress).length</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -802,7 +802,7 @@
         <text encoding="base64">CQkJY29uc29sZS5sb2coJ2N1cnJlbnRGb3JtRW50cnknLCB2YWx1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -814,28 +814,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCd1c2VyUHJvZ3Jlc3NTZXJ2aWNlJywgcHJvZ3Jlc3NUeXBlcywgaW5jb21wbGV0ZUZpZWxkcywgY3VycmVudEZvcm1FbnRyeSk7Cg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCdjdXJyZW50UHJvZ3Jlc3MnLCBjdXJyZW50UHJvZ3Jlc3MpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJPGRpdj57IWlzRW50cnlSZWFkeVRvU3VibWl0ICYmICdQbGVhc2UgZmlsbCBvdXQgdGhlIGZvcm0gaW4gaXRzIGVudGlyZXR5Lid9PC9kaXY+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtjb21wb3NlV2l0aERldlRvb2xzfSBmcm9tICdyZWR1eC1kZXZ0b29scy1leHRlbnNpb24vZGV2ZWxvcG1lbnRPbmx5JzsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWNvbnN0IGNvbXBvc2VFbmhhbmNlcnMgPSB3aW5kb3cuX19SRURVWF9ERVZUT09MU19FWFRFTlNJT05fQ09NUE9TRV9fIHx8IGNvbXBvc2U7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CWNvbnNvbGUubG9nKCd1c2VyUHJvZ3Jlc3NTZXJ2aWNlJywgcHJvZ3Jlc3NUeXBlcywgaW5jb21wbGV0ZUZpZWxkcywgY3VycmVudEZvcm1FbnRyeSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQkJPGRpdj57IWlzRW50cnlSZWFkeVRvU3VibWl0ICYmICdQbGVhc2UgZmlsbCBvdXQgdGhlIGZvcm0gaW4gaXRzIGVudGlyZXR5Lid9PC9kaXY+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHtjb21wb3NlV2l0aERldlRvb2xzfSBmcm9tICdyZWR1eC1kZXZ0b29scy1leHRlbnNpb24vZGV2ZWxvcG1lbnRPbmx5JzsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CWNvbnN0IG1pZGRsZXdhcmUgPSBbdGh1bmssIGxvZ2dlck1pZGRsZXdhcmVdOwo=</text>
+        <text encoding="base64">CWNvbnN0IGNvbXBvc2VFbmhhbmNlcnMgPSB3aW5kb3cuX19SRURVWF9ERVZUT09MU19FWFRFTlNJT05fQ09NUE9TRV9fIHx8IGNvbXBvc2U7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWNvbnN0IG1pZGRsZXdhcmUgPSBbdGh1bmssIGxvZ2dlck1pZGRsZXdhcmVdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIFRPRE86IFVuY29tbWVudCB0aGlzIHRhZyBvbmNlIHRoZSBHQVMgY29kZSBpcyBmaXhlZAo=</text>
+        <text encoding="base64">CWNvbnN0IG1pZGRsZXdhcmUgPSBbdGh1bmssIGxvZ2dlck1pZGRsZXdhcmVdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>27</text>

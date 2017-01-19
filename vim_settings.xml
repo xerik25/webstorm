@@ -641,8 +641,11 @@
         <mark key="^" line="52" column="4" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/module/_margin-and-padding.scss" timestamp="1484864914488">
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/module/_margin-and-padding.scss" timestamp="1484867051295">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="4" />
         <mark key="^" line="38" column="37" />
+        <mark key="." line="10" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/healthInfo/_healthInfo.scss" timestamp="1484065164527">
         <mark key="[" line="4" column="0" />
@@ -810,11 +813,11 @@
       <jump line="30" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/services/userProgressService.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CUBpbmNsdWRlIGdlbmVyYXRlLXNwYWNpbmctY2xhc3NlcygkdG9wLXNwYWNlLXZhcnMpOwoJQGluY2x1ZGUgZ2VuZXJhdGUtc3BhY2luZy1jbGFzc2VzKCRyaWdodC1zcGFjZS12YXJzKTsKCUBpbmNsdWRlIGdlbmVyYXRlLXNwYWNpbmctY2xhc3NlcygkYm90dG9tLXNwYWNlLXZhcnMpOwoJQGluY2x1ZGUgZ2VuZXJhdGUtc3BhY2luZy1jbGFzc2VzKCRsZWZ0LXNwYWNlLXZhcnMpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">QGVhY2gg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">QGVhY2gg</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -823,7 +826,7 @@
         <text encoding="base64">ICAgICJ3aGl0ZUdyYXkiOiAgIiNFREVERUQiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUBpbmNsdWRlIGdlbmVyYXRlLXNwYWNpbmctY2xhc3NlcygkdG9wLXNwYWNlLXZhcnMpOwoJQGluY2x1ZGUgZ2VuZXJhdGUtc3BhY2luZy1jbGFzc2VzKCRyaWdodC1zcGFjZS12YXJzKTsKCUBpbmNsdWRlIGdlbmVyYXRlLXNwYWNpbmctY2xhc3NlcygkYm90dG9tLXNwYWNlLXZhcnMpOwoJQGluY2x1ZGUgZ2VuZXJhdGUtc3BhY2luZy1jbGFzc2VzKCRsZWZ0LXNwYWNlLXZhcnMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -835,28 +838,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JHN0ZXA6IDE7CiR0b3RhbDogMTU7Cg==</text>
+        <text encoding="base64">CUBlYWNoICRpdGVtIGluICRzcGFjaW5nLXByb3BlcnRpZXMgewoJCS5tI3tudGgoJGl0ZW0sIDMpfS0je250aCgkaXRlbSwgMSkgKiA1fXB4IHsKCQkJbWFyZ2luLSN7bnRoKCRpdGVtLCAyKX06ICN7bnRoKCRpdGVtLCAxKSAqIDV9cHg7CgkJfQoJfQoKCUBlYWNoICRpdGVtIGluICRzcGFjaW5nLXByb3BlcnRpZXMgewoJCS5wI3tudGgoJGl0ZW0sIDMpfS0je250aCgkaXRlbSwgMSkgKiA1fXB4IHsKCQkJcGFkZGluZy0je250aCgkaXRlbSwgMil9OiAje250aCgkaXRlbSwgMSkgKiA1fXB4OwoJCX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBpbmNsdWRlIGdlbmVyYXRlLXNwYWNpbmctY2xhc3NlcygkdG9wLXNwYWNlLXZhcnMpOwoJQGluY2x1ZGUgZ2VuZXJhdGUtc3BhY2luZy1jbGFzc2VzKCRyaWdodC1zcGFjZS12YXJzKTsKCUBpbmNsdWRlIGdlbmVyYXRlLXNwYWNpbmctY2xhc3NlcygkYm90dG9tLXNwYWNlLXZhcnMpOwoJQGluY2x1ZGUgZ2VuZXJhdGUtc3BhY2luZy1jbGFzc2VzKCRsZWZ0LXNwYWNlLXZhcnMpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JHN0ZXA6IDE7CiR0b3RhbDogMTU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGluY2x1ZGUgZ2VuZXJhdGUtc3BhY2luZy1jbGFzc2VzKCR0b3Atc3BhY2UtdmFycyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGluY2x1ZGUgZ2VuZXJhdGUtc3BhY2luZy1jbGFzc2VzKCRib3R0b20tc3BhY2UtdmFycyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGluY2x1ZGUgZ2VuZXJhdGUtc3BhY2luZy1jbGFzc2VzKCRyaWdodC1zcGFjZS12YXJzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>27</text>

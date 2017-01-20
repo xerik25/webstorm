@@ -445,6 +445,11 @@
         <mark key="^" line="8" column="39" />
         <mark key="." line="8" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/module/_selects.scss" timestamp="1484945984046">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/reactreduxes6/src/reducers/index.js" timestamp="1484421175386">
         <mark key="[" line="7" column="9" />
         <mark key="]" line="8" column="20" />
@@ -611,9 +616,9 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484933562910">
+      <file name="/Dummy.txt" timestamp="1484944863447">
         <mark key="'" line="0" column="5" />
-        <mark key="[" line="2" column="46" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
@@ -827,11 +832,11 @@
       <jump line="65" column="84" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileQuoteBar.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXBvc2l0aW9uOiByZWxhdGl2ZTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>absolute</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -840,7 +845,7 @@
         <text encoding="base64">CQljb25zb2xlLmxvZygnZHJhd2VySXNPcGVuJywgZHJhd2VySXNPcGVuKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CXBvc2l0aW9uOiByZWxhdGl2ZTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -852,28 +857,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJd2luZG93LnJlbW92ZUV2ZW50TGlzdGVuZXIoJ3Njcm9sbCcsIHRoaXMub25TY3JvbGxFdmVudCk7Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQljb25zdCB7aGFzU2Nyb2xsZWR9ID0gdGhpcy5zdGF0ZTsK</text>
+        <text encoding="base64">CQkJd2luZG93LnJlbW92ZUV2ZW50TGlzdGVuZXIoJ3Njcm9sbCcsIHRoaXMub25TY3JvbGxFdmVudCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygnZXZhbCcsICghaGFzU2Nyb2xsZWQgfHwgZHJhd2VySXNPcGVuKSk7Cg==</text>
+        <text encoding="base64">CQljb25zdCB7aGFzU2Nyb2xsZWR9ID0gdGhpcy5zdGF0ZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygnZHJhd2VySXNPcGVuJywgZHJhd2VySXNPcGVuKTsK</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygnZXZhbCcsICghaGFzU2Nyb2xsZWQgfHwgZHJhd2VySXNPcGVuKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvLyB0aGlzLnNldFN0YXRlKHtoYXNTY3JvbGxlZH0pOwo=</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygnZHJhd2VySXNPcGVuJywgZHJhd2VySXNPcGVuKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygnaGFzU2Nyb2xsZWQnLCBoYXNTY3JvbGxlZCwgc2Nyb2xsVG9wKTsK</text>
+        <text encoding="base64">CQkvLyB0aGlzLnNldFN0YXRlKHtoYXNTY3JvbGxlZH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coJ3JlbW92ZWQnKTsK</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygnaGFzU2Nyb2xsZWQnLCBoYXNTY3JvbGxlZCwgc2Nyb2xsVG9wKTsK</text>
       </register>
       <register name=":" type="4">
         <text>27</text>

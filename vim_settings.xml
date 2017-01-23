@@ -155,11 +155,11 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/reactreduxes6/src/actions/courseActions.test.js" timestamp="1485183309031">
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="21" column="4" />
-        <mark key="^" line="21" column="4" />
-        <mark key="." line="21" column="4" />
+      <file name="$USER_HOME$/Projects/reactreduxes6/src/actions/courseActions.test.js" timestamp="1485186001736">
+        <mark key="[" line="55" column="4" />
+        <mark key="]" line="55" column="4" />
+        <mark key="." line="55" column="4" />
+        <mark key="^" line="55" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/reactreduxes6/src/actions/courseActions.js" timestamp="1484713500085">
         <mark key="[" line="2" column="21" />
@@ -331,6 +331,11 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/reactreduxes6/src/reducers/CourseReducer.test.js" timestamp="1485184903473">
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="23" column="40" />
+        <mark key="." line="23" column="40" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.html" timestamp="1482427581983">
         <mark key="[" line="0" column="13" />
@@ -659,12 +664,6 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484949337317">
-        <mark key="'" line="0" column="5" />
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-      </file>
       <file name="$USER_HOME$/Projects/reactreduxes6/src/actions/actionTypes.js" timestamp="1484713336814">
         <mark key="[" line="0" column="49" />
         <mark key="]" line="1" column="48" />
@@ -887,19 +886,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tino</text>
+        <text>BEGIN_AJAX_CALL</text>
       </register>
       <register name="-" type="4">
-        <text>tino</text>
+        <text>BEGIN_AJAX_CALL</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAge3ZhbHVlOiAnY29yeS1ob3VzZScsIHRleHQ6ICdDb3J5IEhvdXNlJ30sCg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGFjdGlvbnNbMF0udHlwZSkudG9FcXVhbCh0eXBlcy5CRUdJTl9BSkFYX0NBTEwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWxldGVDb3Vyc2U6IFByb3BUeXBlcy5hcnJheQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -911,28 +910,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHthdXRob3JzRm9ybWF0dGVkRm9yRHJvcGRvd259IGZyb20gJy4uL3NlbGVjdG9ycy9zZWxlY3RvcnMnOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBkZWxldGVDb3Vyc2U6IFByb3BUeXBlcy5hcnJheQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IHthdXRob3JzRm9ybWF0dGVkRm9yRHJvcGRvd259IGZyb20gJy4uL3NlbGVjdG9ycy9zZWxlY3RvcnMnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxhc3ROYW1lID0gJ2xhc3ROYW1lJzsK</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>60</text>

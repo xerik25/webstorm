@@ -315,11 +315,11 @@
         <mark key="^" line="44" column="24" />
         <mark key="." line="44" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/QuoteForm.js" timestamp="1484844532494">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="7" column="59" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/QuoteForm.js" timestamp="1485193979778">
+        <mark key="[" line="65" column="17" />
+        <mark key="]" line="65" column="17" />
+        <mark key="." line="65" column="17" />
+        <mark key="^" line="65" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/SubmissionContainer.js" timestamp="1484706015460">
         <mark key="[" line="8" column="0" />
@@ -376,11 +376,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/App.js" timestamp="1484088057554">
-        <mark key="[" line="19" column="60" />
-        <mark key="]" line="20" column="23" />
-        <mark key="^" line="20" column="23" />
-        <mark key="." line="20" column="23" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/App.js" timestamp="1485193880078">
+        <mark key="[" line="77" column="36" />
+        <mark key="]" line="78" column="51" />
+        <mark key="^" line="78" column="51" />
+        <mark key="." line="78" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/ContactInfoContainer.js" timestamp="1484872993529">
         <mark key="[" line="10" column="73" />
@@ -545,17 +545,17 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/initialAppState.js" timestamp="1485192244653">
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/initialAppState.js" timestamp="1485193913881">
         <mark key="[" line="3" column="33" />
         <mark key="]" line="4" column="36" />
         <mark key="^" line="4" column="36" />
         <mark key="." line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/ShellContainer.js" timestamp="1484011068498">
-        <mark key="[" line="8" column="45" />
-        <mark key="]" line="8" column="45" />
-        <mark key="^" line="8" column="48" />
-        <mark key="." line="8" column="45" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/ShellContainer.js" timestamp="1485193919440">
+        <mark key="[" line="8" column="48" />
+        <mark key="]" line="9" column="70" />
+        <mark key="^" line="9" column="70" />
+        <mark key="." line="9" column="70" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/scriptTags/googleAnalytics.js" timestamp="1484600411242">
         <mark key="[" line="9" column="6" />
@@ -725,7 +725,7 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/AppReducer.js" timestamp="1485192275792">
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/AppReducer.js" timestamp="1485192472728">
         <mark key="[" line="55" column="44" />
         <mark key="]" line="55" column="47" />
         <mark key="^" line="55" column="47" />
@@ -883,10 +883,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -895,7 +895,7 @@
         <text encoding="base64">CQkJCXF1b3RlUmVzcG9uc2VXYXNTdWNjZXNzZnVsOiBmYWxzZSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly9UT0RPOiBXaHkgYXJlIHRoZXNlIHRocm93aW5nIGVycm9ycyBhbmQgc2F5aW5nIHRoZXkgYXJlIG1pc3NpbmcgaW4gUHJvcFR5cGVzPwo=</text>
+        <text encoding="base64">CQkJPC9kaXY+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -907,28 +907,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Ly9UT0RPOiBXaHkgYXJlIHRoZXNlIHRocm93aW5nIGVycm9ycyBhbmQgc2F5aW5nIHRoZXkgYXJlIG1pc3NpbmcgaW4gUHJvcFR5cGVzPwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWxldGVDb3Vyc2U6IFByb3BUeXBlcy5hcnJheQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHthdXRob3JzRm9ybWF0dGVkRm9yRHJvcGRvd259IGZyb20gJy4uL3NlbGVjdG9ycy9zZWxlY3RvcnMnOwo=</text>
+        <text encoding="base64">ICBkZWxldGVDb3Vyc2U6IFByb3BUeXBlcy5hcnJheQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHthdXRob3JzRm9ybWF0dGVkRm9yRHJvcGRvd259IGZyb20gJy4uL3NlbGVjdG9ycy9zZWxlY3RvcnMnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>60</text>

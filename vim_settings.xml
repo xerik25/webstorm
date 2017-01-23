@@ -132,11 +132,6 @@
         <mark key="." line="19" column="35" />
         <mark key="^" line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileQuoteBar.styles.js" timestamp="1484949127220">
-        <mark key="[" line="108" column="20" />
-        <mark key="]" line="108" column="20" />
-        <mark key="." line="108" column="20" />
-      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/scriptTags/hotjar.js" timestamp="1483553559640">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="29" />
@@ -167,7 +162,6 @@
         <mark key="^" line="2" column="35" />
         <mark key="." line="2" column="35" />
       </file>
-      <file name="/MobileQuoteBar.styles.js" timestamp="1484949103686" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/SliderDragStopAction.js" timestamp="1483736908073">
         <mark key="[" line="7" column="32" />
         <mark key="]" line="9" column="2" />
@@ -551,11 +545,11 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/initialAppState.js" timestamp="1484926676040">
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="23" column="22" />
-        <mark key="^" line="23" column="22" />
-        <mark key="." line="23" column="22" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/initialAppState.js" timestamp="1485192244653">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="4" column="36" />
+        <mark key="^" line="4" column="36" />
+        <mark key="." line="4" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/ShellContainer.js" timestamp="1484011068498">
         <mark key="[" line="8" column="45" />
@@ -581,7 +575,6 @@
         <mark key="^" line="66" column="96" />
         <mark key="." line="66" column="98" />
       </file>
-      <file name="$USER_HOME$/Projects/reactreduxes6/src/components/course/CorseForm.ReactTestUtils.test.js" timestamp="1485039958464" />
       <file name="$USER_HOME$/Projects/reactreduxes6/src/index.js" timestamp="1485182332258">
         <mark key="[" line="8" column="51" />
         <mark key="]" line="8" column="51" />
@@ -623,7 +616,6 @@
         <mark key="." line="21" column="45" />
         <mark key="^" line="21" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-agent-referral-page/src/images/index.js" timestamp="1484926087408" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/healthInfo/HealthRatingInput.js" timestamp="1484081177736">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="35" />
@@ -664,7 +656,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/base/variables/_breakpoints.scss" timestamp="1484923724235" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/UpdateSection.js" timestamp="1484838588212">
         <mark key="[" line="9" column="36" />
         <mark key="]" line="9" column="0" />
@@ -734,11 +725,11 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/AppReducer.js" timestamp="1484927090901">
-        <mark key="[" line="85" column="26" />
-        <mark key="]" line="85" column="40" />
-        <mark key="^" line="85" column="40" />
-        <mark key="." line="85" column="40" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/AppReducer.js" timestamp="1485192275792">
+        <mark key="[" line="55" column="44" />
+        <mark key="]" line="55" column="47" />
+        <mark key="^" line="55" column="47" />
+        <mark key="." line="55" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_stepDisplay.scss" timestamp="1484777589862">
         <mark key="[" line="53" column="22" />
@@ -752,7 +743,6 @@
         <mark key="^" line="1" column="47" />
         <mark key="." line="1" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-agent-referral-page/src/components/logos/Logos.js" timestamp="1484926107884" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/index.js" timestamp="1484332333613">
         <mark key="[" line="20" column="13" />
         <mark key="]" line="20" column="18" />
@@ -892,17 +882,17 @@
       <jump line="35" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/base/variables/variables.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly9UT0RPOiBXaHkgYXJlIHRoZXNlIHRocm93aW5nIGVycm9ycyBhbmQgc2F5aW5nIHRoZXkgYXJlIG1pc3NpbmcgaW4gUHJvcFR5cGVzPwo=</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>potypes</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGFjdGlvbnNbMF0udHlwZSkudG9FcXVhbCh0eXBlcy5CRUdJTl9BSkFYX0NBTEwpOwo=</text>
+        <text encoding="base64">CQkJCXF1b3RlUmVzcG9uc2VXYXNTdWNjZXNzZnVsOiBmYWxzZSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly9UT0RPOiBXaHkgYXJlIHRoZXNlIHRocm93aW5nIGVycm9ycyBhbmQgc2F5aW5nIHRoZXkgYXJlIG1pc3NpbmcgaW4gUHJvcFR5cGVzPwo=</text>

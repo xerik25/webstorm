@@ -210,11 +210,11 @@
         <mark key="^" line="45" column="34" />
         <mark key="." line="45" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/reactreduxes6/src/components/App.js" timestamp="1485182636085">
-        <mark key="[" line="19" column="3" />
-        <mark key="]" line="19" column="3" />
-        <mark key="." line="19" column="3" />
-        <mark key="^" line="19" column="3" />
+      <file name="$USER_HOME$/Projects/reactreduxes6/src/components/App.js" timestamp="1485188199124">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/dist/index.html" timestamp="1482539634605">
         <mark key="[" line="0" column="15" />
@@ -370,6 +370,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="^" line="5" column="26" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/reactreduxes6/src/store/store.test.js" timestamp="1485187544477">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="22" column="5" />
+        <mark key="^" line="22" column="5" />
+        <mark key="." line="22" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/PolicyValueChanged.js" timestamp="1483738846699">
         <mark key="[" line="1" column="0" />
@@ -599,10 +605,11 @@
         <mark key="." line="41" column="51" />
         <mark key="^" line="41" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/reactreduxes6/src/components/common/Header.js" timestamp="1484423267051">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Projects/reactreduxes6/src/components/common/Header.js" timestamp="1485188104363">
+        <mark key="[" line="17" column="7" />
+        <mark key="]" line="17" column="8" />
+        <mark key="." line="17" column="8" />
+        <mark key="^" line="19" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/HealthInfoContainer.js" timestamp="1484846708873">
         <mark key="[" line="10" column="15" />
@@ -885,11 +892,11 @@
       <jump line="35" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/base/variables/variables.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>BEGIN_AJAX_CALL</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly9UT0RPOiBXaHkgYXJlIHRoZXNlIHRocm93aW5nIGVycm9ycyBhbmQgc2F5aW5nIHRoZXkgYXJlIG1pc3NpbmcgaW4gUHJvcFR5cGVzPwo=</text>
       </register>
       <register name="-" type="4">
-        <text>BEGIN_AJAX_CALL</text>
+        <text>potypes</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -898,7 +905,7 @@
         <text encoding="base64">ICAgICAgZXhwZWN0KGFjdGlvbnNbMF0udHlwZSkudG9FcXVhbCh0eXBlcy5CRUdJTl9BSkFYX0NBTEwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Ly9UT0RPOiBXaHkgYXJlIHRoZXNlIHRocm93aW5nIGVycm9ycyBhbmQgc2F5aW5nIHRoZXkgYXJlIG1pc3NpbmcgaW4gUHJvcFR5cGVzPwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -910,28 +917,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWxldGVDb3Vyc2U6IFByb3BUeXBlcy5hcnJheQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHthdXRob3JzRm9ybWF0dGVkRm9yRHJvcGRvd259IGZyb20gJy4uL3NlbGVjdG9ycy9zZWxlY3RvcnMnOwo=</text>
+        <text encoding="base64">ICBkZWxldGVDb3Vyc2U6IFByb3BUeXBlcy5hcnJheQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHthdXRob3JzRm9ybWF0dGVkRm9yRHJvcGRvd259IGZyb20gJy4uL3NlbGVjdG9ycy9zZWxlY3RvcnMnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>60</text>

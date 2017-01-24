@@ -126,12 +126,6 @@
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/_mobileQuoteBar.scss" timestamp="1485234955450">
-        <mark key="[" line="22" column="23" />
-        <mark key="]" line="22" column="37" />
-        <mark key="." line="22" column="37" />
-        <mark key="^" line="22" column="37" />
-      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileBackgroundBanner.js" timestamp="1482085037909">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="35" />
@@ -139,9 +133,9 @@
         <mark key="^" line="19" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileQuoteBar.styles.js" timestamp="1485235176864">
-        <mark key="[" line="199" column="31" />
-        <mark key="]" line="199" column="32" />
-        <mark key="." line="199" column="32" />
+        <mark key="[" line="198" column="31" />
+        <mark key="]" line="198" column="32" />
+        <mark key="." line="198" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/scriptTags/hotjar.js" timestamp="1483553559640">
         <mark key="[" line="0" column="0" />
@@ -378,9 +372,10 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/layout/_layout.scss" timestamp="1485235377400">
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/layout/_layout.scss" timestamp="1485274363538">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/tools/buildHtml.js" timestamp="1484601507593">
@@ -937,11 +932,11 @@
       <jump line="17" column="28" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/failureModal/_failureModal.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXRyYW5zaXRpb246IGFsbCAwLjRzIGxpbmVhcjsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="-" type="4">
-        <text>0.9</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>

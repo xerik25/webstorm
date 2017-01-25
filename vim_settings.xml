@@ -548,11 +548,11 @@
         <mark key="^" line="37" column="4" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/footer/_infoLink.scss" timestamp="1485370508695">
-        <mark key="[" line="62" column="23" />
-        <mark key="]" line="63" column="32" />
-        <mark key="." line="63" column="32" />
-        <mark key="^" line="63" column="32" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/footer/_infoLink.scss" timestamp="1485372330901">
+        <mark key="[" line="72" column="47" />
+        <mark key="]" line="72" column="48" />
+        <mark key="." line="72" column="48" />
+        <mark key="^" line="62" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileTermLengthInput.js" timestamp="1484864330348">
         <mark key="[" line="52" column="171" />
@@ -951,8 +951,8 @@
       <jump line="14" column="7" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/QuoteForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>30</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQltYXJnaW4tcmlnaHQ6IHB4VG9SZW0oNSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>30</text>
@@ -964,7 +964,7 @@
         <text encoding="base64">CQlsaW5lLWhlaWdodDogMS4ycmVtOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQltYXJnaW4tcmlnaHQ6IHB4VG9SZW0oNSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -976,28 +976,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJaGVpZ2h0OiBweFRvUmVtKDYwKTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">CQkJCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJaGVpZ2h0OiBweFRvUmVtKDYwKTsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJaGVpZ2h0OiBweFRvUmVtKDYwKTsKCQkJd2lkdGg6IHB4VG9SZW0oNjApOwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvL2ZvbnQtc2l6ZTogMXJlbTsK</text>
+        <text encoding="base64">CQkJaGVpZ2h0OiBweFRvUmVtKDYwKTsKCQkJd2lkdGg6IHB4VG9SZW0oNjApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWZsZXg6IDA7Cg==</text>
+        <text encoding="base64">CQkvL2ZvbnQtc2l6ZTogMXJlbTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJLy93aWR0aDogcHhUb1JlbSg2MCk7Cg==</text>
+        <text encoding="base64">CWZsZXg6IDA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJLy9oZWlnaHQ6IHB4VG9SZW0oNjApOwo=</text>
+        <text encoding="base64">CQkJLy93aWR0aDogcHhUb1JlbSg2MCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWZsZXgtZmxvdzogcm93IHdyYXA7Cg==</text>
+        <text encoding="base64">CQkJLy9oZWlnaHQ6IHB4VG9SZW0oNjApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>60</text>

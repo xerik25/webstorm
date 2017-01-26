@@ -84,11 +84,11 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/module/_slider.scss" timestamp="1485470470088">
-        <mark key="[" line="5" column="26" />
-        <mark key="]" line="5" column="57" />
-        <mark key="." line="5" column="57" />
-        <mark key="^" line="5" column="57" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/module/_slider.scss" timestamp="1485471111040">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="39" />
+        <mark key="^" line="6" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/reactreduxes6/src/actions/ajaxStatusActions.js" timestamp="1485182232584">
         <mark key="[" line="7" column="38" />
@@ -337,6 +337,12 @@
         <mark key="]" line="11" column="46" />
         <mark key="^" line="11" column="46" />
         <mark key="." line="11" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_quoteBar.scss" timestamp="1485471202987">
+        <mark key="[" line="29" column="34" />
+        <mark key="]" line="29" column="47" />
+        <mark key="." line="29" column="47" />
+        <mark key="^" line="29" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/DropdownOpen.js" timestamp="1484330912581">
         <mark key="[" line="2" column="14" />
@@ -597,9 +603,6 @@
         <mark key="." line="18" column="35" />
         <mark key="^" line="17" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/initialAppState.js" timestamp="1485315246328">
-        <mark key="'" line="32" column="21" />
-      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/ShellContainer.js" timestamp="1485303636679">
         <mark key="[" line="7" column="45" />
         <mark key="]" line="7" column="43" />
@@ -665,11 +668,12 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/base/variables/_colors.scss" timestamp="1484859651715">
-        <mark key="[" line="21" column="41" />
-        <mark key="]" line="21" column="45" />
-        <mark key="." line="21" column="45" />
-        <mark key="^" line="21" column="45" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/base/variables/_colors.scss" timestamp="1485471213844">
+        <mark key="'" line="11" column="37" />
+        <mark key="[" line="42" column="64" />
+        <mark key="]" line="42" column="65" />
+        <mark key="." line="42" column="65" />
+        <mark key="^" line="42" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/healthInfo/HealthRatingInput.js" timestamp="1484081177736">
         <mark key="[" line="25" column="0" />
@@ -728,9 +732,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1485469944209">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/reactreduxes6/src/actions/actionTypes.js" timestamp="1484713336814">
         <mark key="[" line="0" column="49" />
@@ -862,7 +863,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/Projects/nodeAndExpress/.jshintrc" />
       <jump line="31" column="9" filename="$USER_HOME$/Projects/nodeAndExpress/.jscsrc" />
       <jump line="65" column="0" filename="$USER_HOME$/Projects/nodeAndExpress/.jscsrc" />
       <jump line="7" column="19" filename="$USER_HOME$/Projects/nodeAndExpress/src/views/index.jade" />
@@ -962,19 +962,20 @@
       <jump line="64" column="38" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/App.js" />
       <jump line="33" column="21" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/initialAppState.js" />
       <jump line="14" column="7" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/QuoteForm.js" />
+      <jump line="11" column="37" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/base/variables/_colors.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlib3JkZXI6IDNweCBzb2xpZCAkb3JhbmdlICFpbXBvcnRhbnQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>rgba($harvest, .95)</text>
       </register>
       <register name="-" type="4">
-        <text>UA-2081734-17</text>
+        <text>rgba($harvest, .95)</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQloZWlnaHQ6IHB4VG9SZW0oNDApOwoJCXdpZHRoOiBweFRvUmVtKDQwKTsK</text>
+        <text encoding="base64">JGhhcnZlc3Q6ICAgICAgICAgICAgICAgbWFwLWdldCgkY29sb3JzLCBoYXJ2ZXN0KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQlib3JkZXI6IDNweCBzb2xpZCAkb3JhbmdlICFpbXBvcnRhbnQ7Cg==</text>

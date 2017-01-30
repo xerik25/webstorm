@@ -310,11 +310,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/scss/module/midSection/_midSection.scss" timestamp="1485811820330">
-        <mark key="[" line="29" column="63" />
-        <mark key="]" line="29" column="63" />
-        <mark key="^" line="13" column="26" />
-        <mark key="." line="29" column="63" />
+      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/scss/module/midSection/_midSection.scss" timestamp="1485815993730">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="61" column="3" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/configureStore.js" timestamp="1484607306885">
         <mark key="[" line="0" column="36" />
@@ -742,10 +742,10 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485811578059">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+      <file name="/Dummy.txt" timestamp="1485811845216">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/reactreduxes6/src/actions/actionTypes.js" timestamp="1484713336814">
         <mark key="[" line="0" column="49" />
@@ -997,10 +997,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -1008,12 +1008,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1pbi1oZWlnaHQ6IHB4VG9SZW0oNzAwKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>updating styles and added alt hero images
-
-WHY: To match creative better. On mobile I added some whitespace
-to the top and on tablet and desktop images I removed some whitespace
-from the top so that it looks better responsively.</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICB3aWR0aDogMTAwJTsKICAgIGJhY2tncm91bmQtY29sb3I6IHJnYmEoYmxhY2ssIDAuNSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1024,29 +1020,33 @@ from the top so that it looks better responsively.</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbWluLWhlaWdodDogcHhUb1JlbSg2MDApOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHBNSU5PUiBBREpVU1RNRU5UUyBUTyBIRUlHSFQgQU5EIFBBRERJTkcgRk9SIE1PQklMRQoKV0hZOiBUSEUgJ0dFVCBTVEFSVEVEJyBCVVRUT04gV0FTIE9WRVJMQVBQSU5HIEhFUk8gSU1BR0Uu</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIG1pbi1oZWlnaHQ6IHB4VG9SZW0oNzAwKTsK</text>
+      <register name="3" type="4">
+        <text>updating styles and added alt hero images
+
+WHY: To match creative better. On mobile I added some whitespace
+to the top and on tablet and desktop images I removed some whitespace
+from the top so that it looks better responsively.</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1pbi1oZWlnaHQ6IHB4VG9SZW0oNzAwKTsK</text>
+        <text encoding="base64">ICAgICAgbWluLWhlaWdodDogcHhUb1JlbSg2MDApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1pbi1oZWlnaHQ6IHB4VG9SZW0oNzAwKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIG1pbi1oZWlnaHQ6IHB4VG9SZW0oNzAwKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1pbi1oZWlnaHQ6IHB4VG9SZW0oNzAwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIG1pbi1oZWlnaHQ6IHB4VG9SZW0oNzAwKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IENyZWF0ZWQgc2ltcGxlIEhUTUwgcGFnZSB0aGF0IHdpbGwgbmVlZCB0byBiZSBwb3J0ZWQgdG8gYXNweC4gU3R5bGVzCnNob3VsZCBjYXJyeSBvdmVyIGp1c3QgZmluZSB0aG91Z2guCgpXSFk6IFNpbmNlIEknbSB3b3JraW5nIG9uIGEgTUFDIEkgaGFkIHRvIGNyZWF0ZSBpdCB0aGlzIHdheS4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIG1pbi1oZWlnaHQ6IHB4VG9SZW0oNzAwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>60</text>

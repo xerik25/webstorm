@@ -477,6 +477,7 @@
         <mark key="^" line="29" column="13" />
         <mark key="." line="28" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/module/_typography.scss" timestamp="1485877409682" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/SliderDragStoppedAction.js" timestamp="1483742249616">
         <mark key="[" line="22" column="32" />
         <mark key="]" line="22" column="32" />
@@ -658,11 +659,10 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/scss/module/insuranceCoverage/_insuranceCoverage.scss" timestamp="1485876238366">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="4" />
-        <mark key="." line="8" column="4" />
-        <mark key="^" line="8" column="26" />
+      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/scss/module/insuranceCoverage/_insuranceCoverage.scss" timestamp="1485880431557">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="23" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/failureModal/FailureModal.js" timestamp="1485290616110">
         <mark key="[" line="36" column="38" />
@@ -713,6 +713,12 @@
         <mark key="]" line="16" column="25" />
         <mark key="." line="16" column="25" />
         <mark key="^" line="16" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/scss/base/variables/_colors.scss" timestamp="1485880352802">
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="17" column="34" />
+        <mark key="." line="17" column="34" />
+        <mark key="^" line="17" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/reactreduxes6/src/reducers/ajaxStatusReducer.js" timestamp="1484713423731">
         <mark key="[" line="10" column="13" />
@@ -1009,22 +1015,20 @@
       <jump line="18" column="47" filename="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/com/insuranceCoverage.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>min-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwb3NpdGlvbjogcmVsYXRpdmU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>min-</text>
+        <text>#ebebeb</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiBhdXRvOwo=</text>
+        <text encoding="base64">JGxpZ2h0LWdyZXk6ICAgICAgICAgICAgICAgICNDQ0NCQ0I7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>SQMAR-276 / PR comments
-
-- organizing styles</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBwb3NpdGlvbjogcmVsYXRpdmU7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1035,29 +1039,31 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiBweFRvUmVtKDI0KTsK</text>
+      <register name="2" type="4">
+        <text>SQMAR-276 / PR comments
+
+- organizing styles</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICNlYmViZWI7Cg==</text>
+        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiBweFRvUmVtKDI0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcjogc29saWQgMXB4IHdoaXRlOwo=</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICNlYmViZWI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxpbmUtaGVpaHQ6IHB4VG9SZW0oMjApOwo=</text>
+        <text encoding="base64">ICAgIGJvcmRlcjogc29saWQgMXB4IHdoaXRlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsK</text>
+        <text encoding="base64">ICAgIGxpbmUtaGVpaHQ6IHB4VG9SZW0oMjApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiAjZWJlYmViOwo=</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiAjZWJlYmViOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>60</text>

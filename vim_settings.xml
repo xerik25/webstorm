@@ -86,8 +86,8 @@
         <mark key="^" line="34" column="47" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/constants/scrollToConstants.js" timestamp="1485991849151">
-        <mark key="[" line="6" column="0" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/constants/scrollToConstants.js" timestamp="1485996062460">
+        <mark key="[" line="3" column="15" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="30" column="32" />
         <mark key="." line="6" column="0" />
@@ -588,11 +588,10 @@
         <mark key="." line="6" column="26" />
         <mark key="^" line="6" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/contactInfo/PhoneInput.js" timestamp="1485988090634">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="43" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="13" column="51" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/contactInfo/PhoneInput.js" timestamp="1485993364181">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/scss/module/heroBackground/_heroBackground.scss" timestamp="1485794075037" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/contactInfo/LastNameInput.js" timestamp="1485988207472">
@@ -679,11 +678,11 @@
         <mark key="^" line="66" column="96" />
         <mark key="." line="66" column="98" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/services/focusInputField.js" timestamp="1485991858623">
-        <mark key="[" line="4" column="31" />
-        <mark key="]" line="4" column="47" />
-        <mark key="." line="4" column="47" />
-        <mark key="^" line="4" column="47" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/services/focusInputField.js" timestamp="1485996645251">
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="19" column="37" />
+        <mark key="." line="19" column="37" />
+        <mark key="^" line="19" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/reactreduxes6/src/index.js" timestamp="1485182332258">
         <mark key="[" line="8" column="51" />
@@ -714,11 +713,11 @@
         <mark key="." line="36" column="38" />
         <mark key="^" line="20" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/common/CustomPhoneInput.js" timestamp="1485980139291">
-        <mark key="[" line="81" column="47" />
-        <mark key="]" line="81" column="53" />
-        <mark key="." line="81" column="53" />
-        <mark key="^" line="81" column="53" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/common/CustomPhoneInput.js" timestamp="1485993558721">
+        <mark key="[" line="75" column="26" />
+        <mark key="]" line="75" column="26" />
+        <mark key="." line="75" column="26" />
+        <mark key="^" line="76" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/reactreduxes6/src/components/course/CorseForm.test.js" timestamp="1485039760225">
         <mark key="[" line="41" column="46" />
@@ -803,10 +802,10 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485991761289">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1485996194256">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/reactreduxes6/src/actions/actionTypes.js" timestamp="1484713336814">
         <mark key="[" line="0" column="49" />
@@ -1059,19 +1058,24 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>constants.currentWindowWidth</text>
+        <text>[0]</text>
       </register>
       <register name="-" type="4">
-        <text>constants.currentWindowWidth</text>
+        <text>[0]</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlwaG9uZU51bWJlcjogewoJCQlvZmZzZXRSZWR1Y3Rpb246IDIyMAoJCX0sCg==</text>
+        <text encoding="base64">CQkJaWYgKGN1cnJlbnRXaW5kb3dXaWR0aCA8IHdpbmRvd1NpemVCcmVha3BvaW50KSB7CgkJCQljb25zb2xlLmxvZygnb2Zmc2V0VG9wJywgb2Zmc2V0VG9wLCAnb2Zmc2V0UmVkdWN0aW9uJywgb2Zmc2V0UmVkdWN0aW9uKTsKCQkJCXNjcm9sbC5zY3JvbGxUbyhvZmZzZXRUb3AgLSBvZmZzZXRSZWR1Y3Rpb24pOwoJCQl9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CWN1cnJlbnRXaW5kb3dXaWR0aDogd2luZG93LmlubmVyV2lkdGgsCg==</text>
+      <register name="1" type="4">
+        <text>add logic to decipher between ios and android for scrollTo
+
+HOW: Added userAgent check to scrollTo function
+
+WHY: ios only needs to scroll for dropdowns and not input fields. 
+Where android needs to scroll for both.</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1082,33 +1086,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>SQLIF-258 / cleaning up styles per PR comment
-
-HOW: Moved styles to the proper stylesheet and organized styles
-
-WHY: To match our standards</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWRyYXdlcklzT3BlbjogUmVhY3QuUHJvcFR5cGVzLmJvb2wK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWN1cnJlbnRTZWN0aW9uOiBSZWFjdC5Qcm9wVHlwZXMubnVtYmVyLAoJZHJhd2VySXNPcGVuOiBSZWFjdC5Qcm9wVHlwZXMuYm9vbAo=</text>
+        <text encoding="base64">CQkJCWlmIChjdXJyZW50V2luZG93V2lkdGggPCB3aW5kb3dTaXplQnJlYWtwb2ludCkgewoJCQkJCXNjcm9sbC5zY3JvbGxUbyhvZmZzZXRUb3AgLSBvZmZzZXRSZWR1Y3Rpb24pOwoJCQkJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNjcm9sbFRvSW5wdXQgZnJvbSAnLi4vLi4vc2VydmljZXMvZm9jdXNJbnB1dEZpZWxkJzsK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygnaGVyZScpOwo=</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnb2Zmc2V0VG9wJywgb2Zmc2V0VG9wLCAnb2Zmc2V0UmVkdWN0aW9uJywgb2Zmc2V0UmVkdWN0aW9uKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJb25DaGVjaz17Y29uc29sZS5sb2coJ3Rlc3RpbmcnKX0K</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCd0ZXN0JywgZXZlbnROYW1lLCBjb25zdGFudHMuaW5wdXRzW2V2ZW50TmFtZV0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJbwo=</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdvZmZzZXRUb3AnLCBvZmZzZXRUb3AsICdvZmZzZXRSZWR1Y3Rpb24nLCBvZmZzZXRSZWR1Y3Rpb24pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJb25Gb2N1cz17c2Nyb2xsVG9JbnB1dH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>60</text>

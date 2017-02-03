@@ -6,7 +6,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/basicInfo/ZipcodeInput.js" timestamp="1485987635683" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/basicInfo/ZipcodeInput.js" timestamp="1486146665287">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/services/userProgressService.js" timestamp="1485793031093" />
       <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/scss/module/home/_blueBarMessage.scss" timestamp="1486142666387">
         <mark key="[" line="22" column="15" />
@@ -81,6 +85,13 @@
         <mark key="^" line="28" column="42" />
         <mark key="." line="28" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/QuoteForm.js" timestamp="1485991942068">
+        <mark key="'" line="28" column="29" />
+        <mark key="[" line="70" column="43" />
+        <mark key="]" line="70" column="41" />
+        <mark key="." line="70" column="41" />
+        <mark key="^" line="70" column="41" />
+      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/SubmissionContainer.js" timestamp="1484706015460">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -120,11 +131,12 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/com/formBuild.html" timestamp="1486146311312">
-        <mark key="[" line="93" column="49" />
-        <mark key="]" line="93" column="50" />
-        <mark key="." line="93" column="50" />
-        <mark key="^" line="93" column="50" />
+      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/com/formBuild.html" timestamp="1486150237193">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="110" column="23" />
+        <mark key="]" line="110" column="28" />
+        <mark key="." line="110" column="28" />
+        <mark key="^" line="110" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/module/_typography.scss" timestamp="1485877409682" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/BigQuoteBar.js" timestamp="1484947524200">
@@ -136,6 +148,13 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/com/insuranceCoverage.html" timestamp="1486049265124">
+        <mark key="'" line="20" column="47" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="14" />
+        <mark key="^" line="52" column="13" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/contactInfo/PhoneInput.js" timestamp="1486047456769">
         <mark key="[" line="27" column="28" />
@@ -161,6 +180,7 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/services/EmailValidator.js" timestamp="1486149780298" />
       <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/js/components/popup/popup.js" timestamp="1486145000116" />
       <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/scss/module/btn/_btn.scss" timestamp="1486070048720">
         <mark key="[" line="31" column="0" />
@@ -207,6 +227,11 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/js/components/formValidation/formValidation.js" timestamp="1486147752571">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/quoteFailureBox/QuoteFailureBox.js" timestamp="1485965666046">
         <mark key="[" line="17" column="55" />
@@ -255,10 +280,13 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/tmpJsFiles/app.js" timestamp="1485909158904" />
+      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/tmpJsFiles/app.js" timestamp="1486148281635">
+        <mark key="[" line="375" column="0" />
+        <mark key="]" line="375" column="0" />
+        <mark key="." line="375" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="29" filename="$USER_HOME$/Projects/nodeAndExpress/src/views/books.ejs" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/nodeAndExpress/src/controllers/bookController.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/nodeAndExpress/src/controllers/bookController.js" />
       <jump line="27" column="17" filename="$USER_HOME$/Projects/BuildAppReactAndFlux/gulpfile.js" />
@@ -358,22 +386,23 @@
       <jump line="28" column="29" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/QuoteForm.js" />
       <jump line="112" column="21" filename="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/com/formBuild.html" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/com/formBuild.html" />
+      <jump line="91" column="0" filename="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/com/formBuild.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[0]</text>
+        <text>Email</text>
       </register>
       <register name="-" type="4">
-        <text>[0]</text>
+        <text>Email</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IHB4VG9SZW0oNTApIHB4VG9SZW0oMjApOwo=</text>
+        <text encoding="base64">ICAgIHZhciBlbWFpbFNlY3Rpb24gPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5Q2xhc3NOYW1lKCdqc1F1b3RlZm9ybUVtYWlsU2VjdGlvbicpWzBdOwogICAgdmFyIGVtYWlsID0gZG9jdW1lbnQuZ2V0RWxlbWVudHNCeUNsYXNzTmFtZSgnanNRdW90ZWZvcm1FbWFpbCcpWzBdLnZhbHVlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBmaXJzdE5hbWUgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5Q2xhc3NOYW1lKCdxdW90ZUZvcm1fX2lucHV0LS1maXJzdE5hbWUnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -385,28 +414,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gdmFsaWRhdGVaaXBjb2RlKCkge30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdCcsIHN1Ym1pdCwgZmlyc3ROYW1lKTsK</text>
+        <text encoding="base64">ZnVuY3Rpb24gdmFsaWRhdGVGaXJzdE5hbWUoKSB7fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0gewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0Jywgc3VibWl0LCBmaXJzdE5hbWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyaWdnZXJDbGFzcy5hZGRDbGFzcyhwb3BVcEJveCwgcG9wdXBDb250YWluZXJDbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVtb3ZlJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyaWdnZXJDbGFzcy5hZGRDbGFzcyhTRUxFQ1RPUlMudHJhbnNwYXJlbnRCYWNrZ3JvdW5kLCBIVE1MQ0xBU1MudHJhbnNwYXJlbnRCYWNrZ3JvdW5kQWN0aXZlKTsK</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyaWdnZXJDbGFzcy5hZGRDbGFzcyhTRUxFQ1RPUlMuYm9keSwgcG9wdXBCb2R5Q2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>60</text>

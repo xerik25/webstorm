@@ -115,11 +115,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/js/components/formValidation/formValidation.js" timestamp="1486175444973">
-        <mark key="[" line="27" column="58" />
-        <mark key="]" line="27" column="69" />
-        <mark key="." line="27" column="69" />
-        <mark key="^" line="27" column="69" />
+      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/js/components/formValidation/formValidation.js" timestamp="1486178151688">
+        <mark key="[" line="20" column="34" />
+        <mark key="]" line="20" column="39" />
+        <mark key="." line="20" column="39" />
+        <mark key="^" line="20" column="39" />
       </file>
       <file name="/Dummy.txt" timestamp="1486159326835">
         <mark key="'" line="4" column="5" />
@@ -234,6 +234,7 @@
         <mark key="^" line="52" column="13" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="/formValidation.js" timestamp="1486177867495" />
       <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/com/Testing.html" timestamp="1485793073434">
         <mark key="[" line="3" column="16" />
         <mark key="]" line="3" column="16" />
@@ -414,19 +415,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/^[0-9]*$/g, ''</text>
+        <text encoding="base64">L15bMC05XSokLy50ZXN0KHBob25lTnVtYmVyKSAmJiA=</text>
       </register>
       <register name="-" type="4">
-        <text>/^[0-9]*$/g, ''</text>
+        <text encoding="base64">L15bMC05XSokLy50ZXN0KHBob25lTnVtYmVyKSAmJiA=</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bGV0IHZhbGlkYXRlUGhvbmUgPSAocGhvbmVOdW1iZXIpID0+IC9eWzAtOV0qJC8udGVzdChwaG9uZU51bWJlcikgJiYgcGhvbmVOdW1iZXIubGVuZ3RoID4gOTsK</text>
+        <text encoding="base64">ICAgIGxldCBwaG9uZU51bWJlciA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlDbGFzc05hbWUoJ2pzUXVvdGVmb3JtUGhvbmVOdW1iZXInKVswXS52YWx1ZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGV0IHZhbGlkYXRlUGhvbmUgPSAocGhvbmVOdW1iZXIpID0+IHBob25lTnVtYmVyLmxlbmd0aCA+IDkgJiYgL15bMC05XSokLy5yZXBsYWNlKHBob25lTnVtYmVyKTsK</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCd0ZXN0JywgdmFsaWRhdGVQaG9uZShwaG9uZU51bWJlcikpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -438,28 +439,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGV0IHZhbGlkYXRlUGhvbmUgPSAocGhvbmVOdW1iZXIpID0+IC9eWzAtOV0qJC8udGVzdChwaG9uZU51bWJlcikgJiYgcGhvbmVOdW1iZXIubGVuZ3RoID4gOTsK</text>
+        <text encoding="base64">Ly8gbGV0IHZhbGlkYXRlUGhvbmUgPSAocGhvbmVOdW1iZXIpID0+IC9eWzAtOV0qJC8udGVzdChwaG9uZU51bWJlcikgJiYgcGhvbmVOdW1iZXIubGVuZ3RoID4gOTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50LmdldEVsZW1lbnRzQnlDbGFzc05hbWUoJ2pzUXVvdGVmb3JtUGhvbmVOdW1iZXInKVswXS52YWx1ZSA9IDg4Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IHZhbGlkYXRlUGhvbmUgPSAocGhvbmVOdW1iZXIpID0+IHBob25lTnVtYmVyLmxlbmd0aCA+IDkgJiYgL15bMC05XSokLy5yZXBsYWNlKHBob25lTnVtYmVyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IHZhbGlkYXRlUGhvbmUgPSAocGhvbmVOdW1iZXIpID0+IC9eWzAtOV0qJC8udGVzdChwaG9uZU51bWJlcikgJiYgcGhvbmVOdW1iZXIubGVuZ3RoID4gOTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>60</text>

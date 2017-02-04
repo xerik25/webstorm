@@ -115,18 +115,18 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/js/components/formValidation/formValidation.js" timestamp="1486183930415">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="34" column="89" />
+      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/js/components/formValidation/formValidation.js" timestamp="1486184783121">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="6" />
       </file>
       <file name="/Dummy.txt" timestamp="1486182384360">
         <mark key="[" line="0" column="42" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1486174340162">
+      <file name="/a.regexp" timestamp="1486184542759">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -233,7 +233,7 @@
         <mark key="^" line="52" column="13" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/services/maskPhoneNumber.js" timestamp="1486182089116" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/services/maskPhoneNumber.js" timestamp="1486184383063" />
       <file name="/formValidation.js" timestamp="1486177867495" />
       <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/com/Testing.html" timestamp="1485793073434">
         <mark key="[" line="3" column="16" />
@@ -415,10 +415,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0JywgcGhvbmVOdW1iZXIudmFsdWUsIGlzUGhvbmVOdW1iZXJWYWxpZChwaG9uZU51bWJlci52YWx1ZSkpOwo=</text>
+        <text encoding="base64">Ly8gaGVyZQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Obj</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -427,7 +427,7 @@
         <text encoding="base64">ICAgIHBob25lTnVtYmVyLnZhbHVlID0gdmFsaWRhdGVQaG9uZShwaG9uZU51bWJlci52YWx1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0JywgcGhvbmVOdW1iZXIudmFsdWUsIGlzUGhvbmVOdW1iZXJWYWxpZChwaG9uZU51bWJlci52YWx1ZSkpOwo=</text>
+        <text encoding="base64">Ly8gaGVyZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -439,32 +439,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlzUGhvbmVOdW1iZXJWYWxpZChwaG9uZU51bWJlci52YWx1ZSkgPyBwaG9uZU51bWJlclNlY3Rpb24uY2xhc3NMaXN0LnJlbW92ZShlcnJvckNsYXNzKSA6IHBob25lTnVtYmVyU2VjdGlvbi5jbGFzc0xpc3QuYWRkKGVycm9yQ2xhc3MpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBob25lTnVtYmVyLnZhbHVlID0gbWFza1Bob25lTnVtYmVyKHBob25lTnVtYmVyLnZhbHVlKTsK</text>
+        <text encoding="base64">ICAgIHBob25lTnVtYmVyOiAncGhvbmVOdW1iZXInCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBwaG9uZU51bWJlciA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlDbGFzc05hbWUoJ2pzUXVvdGVmb3JtUGhvbmVOdW1iZXInKVswXTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text>Fixing the footer and working on JS for form validation.
-
-WHY: Talked with Justin and he helped me get the correct
-classes for the footer. Setup a class that will toggle for validation
-and added some basic validation with regex.</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0JywgcGhvbmVOdW1iZXIudmFsdWUsIGlzUGhvbmVOdW1iZXJWYWxpZChwaG9uZU51bWJlci52YWx1ZSkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlzUGhvbmVOdW1iZXJWYWxpZChwaG9uZU51bWJlci52YWx1ZSkgPyBwaG9uZU51bWJlclNlY3Rpb24uY2xhc3NMaXN0LnJlbW92ZShlcnJvckNsYXNzKSA6IHBob25lTnVtYmVyU2VjdGlvbi5jbGFzc0xpc3QuYWRkKGVycm9yQ2xhc3MpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBob25lTnVtYmVyLnZhbHVlID0gbWFza1Bob25lTnVtYmVyKHBob25lTnVtYmVyLnZhbHVlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>60</text>

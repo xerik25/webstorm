@@ -356,7 +356,11 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486420001265" />
+      <file name="/Dummy.txt" timestamp="1486421192632">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/basicInfo/BasicInfo.js" timestamp="1485358621362">
         <mark key="[" line="90" column="11" />
         <mark key="]" line="90" column="12" />
@@ -1126,8 +1130,12 @@
       <jump line="13" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/services/addScrollToEvents.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdydW5pbicpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Moved adding scrollEvents to it's own service
+
+HOW: Created new service called addScrollToEvents.
+
+WHY: To clean up the code and get it out of app.js</text>
       </register>
       <register name="-" type="4">
         <text>event</text>
@@ -1138,8 +1146,12 @@
       <register name="0" type="4">
         <text>eButton.addEventListener('click', focusField);</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdydW5pbicpOwo=</text>
+      <register name="1" type="4">
+        <text>Moved adding scrollEvents to it's own service
+
+HOW: Created new service called addScrollToEvents.
+
+WHY: To clean up the code and get it out of app.js</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1151,21 +1163,24 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCdydW5pbicpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNjcm9sbFRvSW5wdXQgZnJvbSAnLi4vc2VydmljZXMvc2Nyb2xsVG9JbnB1dCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHNjcm9sbFRvSW5wdXQgZnJvbSAnLi4vc2VydmljZXMvc2Nyb2xsVG9JbnB1dCc7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CQljb25zdCBmb3JtSW5wdXRzID0gQXJyYXkuZnJvbShkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCdpbnB1dCcpKTsKCgkJY29uc3QgZm9jdXNGaWVsZCA9IChlKSA9PiB7CgkJCWxldCBvYmplY3RBcmdzID0gaW5wdXRFdmVudHNbZS50YXJnZXQubmFtZV07CgkJCXNjcm9sbFRvSW5wdXQob2JqZWN0QXJncyk7CgkJfTsKCgkJY29uc3QgaW5wdXRFdmVudHMgPSBmb3JtSW5wdXRzLnJlZHVjZSgoYWNjLCBpbnB1dEVsZW1lbnQpID0+IHsKCQkJYWNjW2lucHV0RWxlbWVudC5uYW1lXSA9IHt0YXJnZXQ6IHtuYW1lOiBpbnB1dEVsZW1lbnQubmFtZSwgb2Zmc2V0UGFyZW50OiBpbnB1dEVsZW1lbnQucGFyZW50RWxlbWVudH19OwoJCQlyZXR1cm4gYWNjOwoJCX0sIHt9KTsKCgkJZm9ybUlucHV0cy5mb3JFYWNoKGlucHV0RWxlbWVudCA9PiBpbnB1dEVsZW1lbnQuYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCBmb2N1c0ZpZWxkKSk7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>Adding event listeners to inputs to focus on Android
 
 HOW: In app.js I'm adding an event listener to each input field
@@ -1176,11 +1191,8 @@ WHY: The Android keyboard messes up the scrolling if the input
 was already focused. So I added the new event so that if you click
 on the field after minimizing the keyboard it will still scroll to focus</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coJ3Rlc3QnLCBvYmplY3RBcmdzKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljb25zdCB7c2Nyb2xsVG9QaG9uZUlucHV0fSA9IHRoaXMucHJvcHM7Cg==</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJ3Rlc3QnLCBvYmplY3RBcmdzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>60</text>

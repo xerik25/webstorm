@@ -467,12 +467,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/App.js" timestamp="1486415361943">
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/App.js" timestamp="1486417250779">
         <mark key="'" line="83" column="38" />
-        <mark key="[" line="52" column="38" />
-        <mark key="]" line="52" column="37" />
-        <mark key="." line="52" column="37" />
-        <mark key="^" line="52" column="37" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="57" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/ContactInfoContainer.js" timestamp="1485305853432">
         <mark key="[" line="5" column="0" />
@@ -730,10 +730,10 @@
         <mark key="^" line="66" column="96" />
         <mark key="." line="66" column="98" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/services/focusInputField.js" timestamp="1486411535854">
-        <mark key="[" line="31" column="57" />
-        <mark key="]" line="31" column="83" />
-        <mark key="." line="31" column="83" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/services/focusInputField.js" timestamp="1486417269905">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
         <mark key="^" line="31" column="83" />
       </file>
       <file name="$USER_HOME$/Projects/reactreduxes6/src/index.js" timestamp="1485182332258">
@@ -1134,8 +1134,8 @@
       <jump line="4" column="5" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCd0aW1lb3V0Jywgc2hvdWxkQmVTY3JvbGxlZCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -1147,7 +1147,7 @@
         <text>eButton.addEventListener('click', focusField);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlBcnJheS5mcm9tKGZvcm1JbnB1dHMpCg==</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCd0aW1lb3V0Jywgc2hvdWxkQmVTY3JvbGxlZCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1159,28 +1159,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJY29uc29sZQo=</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJ3J1bicsIG9mZnNldFRvcCwgb2Zmc2V0UmVkdWN0aW9uLCBldmVudC50YXJnZXQub2Zmc2V0UGFyZW50KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJb25Gb2N1cz17c2Nyb2xsVG9JbnB1dH0K</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygnaW5wdXRFdmVudHMnLCBpbnB1dEV2ZW50cyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coJ2ZvckVhY2gnLCBlQnV0dG9uLCBlQnV0dG9uLm9mZnNldFBhcmVudCwgZUJ1dHRvbi5wYXJlbnRFbGVtZW50KTsK</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJ3JlZHVjZScsIGFjYywgZUJ1dHRvbik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZUJ1dHRvbi5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsIGZvY3VzRmllbGQpOwo=</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJ3Rlc3QnLCBvYmplY3RBcmdzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlBcnJheS5mcm9tKGZvcm1JbnB1dHMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQljb25zdCBpbnB1dEV2ZW50cyA9IGZvcm1JbnB1dHMucmVkdWNlKChhY2MsIGVCdXR0b24pID0+IHsKCQkJZUJ1dHRvbi5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsIGZvY3VzRmllbGQpOwoJCQljb25zb2xlLmxvZygnZm9yRWFjaCcsIGVCdXR0b24sIGVCdXR0b24ub2Zmc2V0UGFyZW50LCBlQnV0dG9uLnBhcmVudEVsZW1lbnQpOwoJCQlpbnB1dEV2ZW50c1tlQnV0dG9uLm5hbWVdID0ge3RhcmdldDoge25hbWU6IGVCdXR0b24ubmFtZSwgb2Zmc2V0UGFyZW50OiBlQnV0dG9uLnBhcmVudEVsZW1lbnR9fQoJCX0sIHt9KTsK</text>
+        <text encoding="base64">CQkJY29uc29sZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkpCg==</text>
+        <text encoding="base64">CQkJCQkJb25Gb2N1cz17c2Nyb2xsVG9JbnB1dH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJfSkK</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJ2ZvckVhY2gnLCBlQnV0dG9uLCBlQnV0dG9uLm9mZnNldFBhcmVudCwgZUJ1dHRvbi5wYXJlbnRFbGVtZW50KTsK</text>
       </register>
       <register name=":" type="4">
         <text>60</text>

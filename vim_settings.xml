@@ -349,11 +349,11 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/js/components/formValidation/formValidation.js" timestamp="1486347672437">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="78" column="48" />
+      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/js/components/formValidation/formValidation.js" timestamp="1486349660428">
+        <mark key="[" line="67" column="28" />
+        <mark key="]" line="67" column="28" />
+        <mark key="." line="67" column="28" />
+        <mark key="^" line="66" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/com/midSection.html" timestamp="1485809634788">
         <mark key="[" line="28" column="101" />
@@ -1146,20 +1146,20 @@
       <jump line="4" column="5" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIH0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>eTarget</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LyogIFRlc3RpbmcgICovCg==</text>
+        <text encoding="base64">ICAgICAgICBlLnRhcmdldC52YWx1ZSA9IG1hc2tQaG9uZU51bWJlcihlLnRhcmdldC52YWx1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1171,28 +1171,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBldmFsdWF0ZUFuZFNldEVsZW1lbnRUZXh0KHZhbGlkYXRpb25Gbi5iaW5kKG51bGwsIGUudGFyZ2V0LnZhbHVlKSwgZU91dHB1dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygnY2xpY2sgaGFuZGxlcicsIGVPdXRwdXQsIHZhbGlkYXRpb25Gbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBldmFsdWF0ZUFuZFNldEVsZW1lbnRUZXh0KHZhbGlkYXRpb25Gbi5iaW5kKG51bGwsIGUudGFyZ2V0LnZhbHVlKSwgZU91dHB1dCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIEFycmF5LmZyb20oZU91dHB1dHMpLmZvckVhY2goZU91dHB1dCA9PiB7Cg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY29uc3QgaXNaaXBjb2RlVmFsaWQgPSB6aXBjb2RlID0+IHppcGNvZGUubGVuZ3RoID4gNDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Ly8gY29uc3QgaXNQaG9uZU51bWJlclZhbGlkID0gcGhvbmVOdW1iZXIgPT4gcGhvbmVOdW1iZXIubGVuZ3RoID4gMTE7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV2YWxGbigpID8gZWwuaW5uZXJUZXh0ID0gJ3RydWUnIDogZWwuaW5uZXJUZXh0ID0gJ2ZhbHNlJzsK</text>
+        <text encoding="base64">Ly8gY29uc3QgaXNFbWFpbFZhbGlkID0gZW1haWwgPT4gZW1haWwubWF0Y2goZW1haWxSZWcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgZXZhbHVhdGVBbmRTZXRFbGVtZW50VGV4dCA9IChldmFsRm4sIGVsKSA9PiB7Cg==</text>
+        <text encoding="base64">Ly8gY29uc3QgaXNMYXN0TmFtZVZhbGlkID0gbmFtZSA9PiBuYW1lLmxlbmd0aCA+IDA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmb3JFYWNoIE91dHB1dCcsIGVCdXR0b24pOwo=</text>
+        <text encoding="base64">Ly8gY29uc3QgaXNGaXJzdE5hbWVWYWxpZCA9IG5hbWUgPT4gbmFtZS5sZW5ndGggPiAwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>60</text>

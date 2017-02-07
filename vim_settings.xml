@@ -150,6 +150,11 @@
         <mark key="^" line="61" column="3" />
         <mark key="." line="61" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/js/services/removeAlpha.js" timestamp="1486504573409">
+        <mark key="[" line="0" column="61" />
+        <mark key="]" line="0" column="61" />
+        <mark key="." line="0" column="61" />
+      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/configureStore.js" timestamp="1484607306885">
         <mark key="[" line="0" column="36" />
         <mark key="]" line="0" column="36" />
@@ -331,12 +336,12 @@
         <mark key="^" line="39" column="21" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/js/components/quoteForm/quoteForm.js" timestamp="1486503382440">
+      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/js/components/quoteForm/quoteForm.js" timestamp="1486505042807">
         <mark key="'" line="9" column="8" />
-        <mark key="[" line="16" column="66" />
-        <mark key="]" line="16" column="66" />
-        <mark key="." line="16" column="70" />
-        <mark key="^" line="5" column="30" />
+        <mark key="[" line="39" column="91" />
+        <mark key="]" line="39" column="91" />
+        <mark key="." line="39" column="92" />
+        <mark key="^" line="39" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/reactreduxes6/src/components/course/CorseForm.test.js" timestamp="1485039760225">
         <mark key="[" line="41" column="46" />
@@ -421,7 +426,7 @@
         <mark key="." line="31" column="22" />
         <mark key="^" line="31" column="22" />
       </file>
-      <file name="/a.regexp" timestamp="1486482560772">
+      <file name="/a.regexp" timestamp="1486504663423">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -542,6 +547,12 @@
         <mark key="]" line="2" column="21" />
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/js/constants/selectors.js" timestamp="1486504127379">
+        <mark key="[" line="15" column="92" />
+        <mark key="]" line="15" column="90" />
+        <mark key="^" line="15" column="90" />
+        <mark key="." line="15" column="90" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/scriptTags/index.js" timestamp="1483553478372">
         <mark key="[" line="7" column="0" />
@@ -713,6 +724,7 @@
         <mark key="^" line="5" column="26" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/com/js/app.js" timestamp="1486504661035" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/PolicyValueChanged.js" timestamp="1483738846699">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1157,19 +1169,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>formInput.parentNode</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>formInput.parentNode</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coJ2ZvY3VzIGluJyk7Cg==</text>
+        <text encoding="base64">ICAgIHZhbGlkYXRpb25GbigpID8gRE9NTm9kZS5jbGFzc0xpc3QucmVtb3ZlKGVycm9yQ2xhc3MpIDogRE9NTm9kZS5jbGFzc0xpc3QuYWRkKGVycm9yQ2xhc3MpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgbWFza1Bob25lTnVtYmVyID0gcGhvbmVOdW1iZXIgPT4gcGhvbmVOdW1iZXIucmVwbGFjZSgvXEQvZywgJycpCiAgICAuc3Vic3RyaW5nKDAsIDEwKQogICAgLnNwbGl0KCcnKQogICAgLnJlZHVjZSgoY3VyciwgbmV4dCwgaW5kZXgpID0+IGAke2N1cnJ9JHtGb3JtYXRDaGFyc1tpbmRleF0gfHwgJyd9JHtuZXh0fWAsICcnKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1181,28 +1193,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmNvbnN0IEZvcm1hdENoYXJzID0gewogICAgMzogJy0nLAogICAgNjogJy0nCn07Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodmFsaWRhdGlvbkZuKHZhbHVlKSkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0aW9uRm4odmFsdWUpID8gdmFsaWRhdGlvbkNoZWNrcyArKyA6IGZhbHNlOwogICAgICAgIHRvZ2dsZUVycm9yQ2xhc3ModmFsaWRhdGlvbkZuLmJpbmQobnVsbCwgdmFsdWUpLCBmb3JtSW5wdXQucGFyZW50Tm9kZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgZW1haWxSZWcgPSAvXigoW148PigpXFtcXVxcLiw7OlxzQCJdKyhcLltePD4oKVxbXF1cXC4sOzpcc0AiXSspKil8KCIuKyIpKUAoKFxbWzAtOV17MSwzfVwuWzAtOV17MSwzfVwuWzAtOV17MSwzfVwuWzAtOV17MSwzfV0pfCgoW2EtekEtWlwtMC05XStcLikrW2EtekEtWl17Mix9KSkkLzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvcm1JbnB1dHMuZm9yRWFjaChmb3JtSW5wdXQgPT4gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJd2luZG93LnNjcm9sbFRvKDAsIDApCg==</text>
+        <text encoding="base64">Ly8gSGVscGVycwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJaWYgKGRvY3VtZW50LmFjdGl2ZUVsZW1lbnQubmFtZSA9PT0gInppcGNvZGUiKSB7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>60</text>

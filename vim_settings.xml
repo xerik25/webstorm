@@ -45,6 +45,12 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/controls/internal/lead-form.ascx" timestamp="1486439620116" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.js" timestamp="1486498799327">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_termLengthInput.scss" timestamp="1483721334056">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
@@ -136,17 +142,18 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/base/variables/variables.json" timestamp="1486497999237" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/PolicyValueChanged.js" timestamp="1483738846699">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/App.js" timestamp="1486420292607">
-        <mark key="'" line="83" column="38" />
-        <mark key="[" line="43" column="26" />
-        <mark key="]" line="44" column="27" />
-        <mark key="." line="44" column="27" />
-        <mark key="^" line="44" column="27" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/App.js" timestamp="1486500604712">
+        <mark key="'" line="89" column="38" />
+        <mark key="[" line="49" column="31" />
+        <mark key="]" line="49" column="33" />
+        <mark key="." line="49" column="33" />
+        <mark key="^" line="49" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/scss/module/home/_quoteForm.scss" timestamp="1486481030154">
         <mark key="[" line="118" column="25" />
@@ -205,11 +212,11 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/UpdateSection.js" timestamp="1486445164344" />
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/services/scrollToInput.js" timestamp="1486445493967">
-        <mark key="[" line="6" column="20" />
-        <mark key="]" line="6" column="68" />
-        <mark key="." line="6" column="68" />
-        <mark key="^" line="6" column="68" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/services/scrollToInput.js" timestamp="1486500092914">
+        <mark key="[" line="9" column="59" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+        <mark key="^" line="9" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/healthInfo/_healthInfo.scss" timestamp="1484065164527">
         <mark key="[" line="4" column="0" />
@@ -243,8 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="17" filename="$USER_HOME$/Projects/BuildAppReactAndFlux/gulpfile.js" />
-      <jump line="24" column="0" filename="$USER_HOME$/Projects/BuildAppReactAndFlux/eslint.config.json" />
       <jump line="66" column="10" filename="$USER_HOME$/Projects/BuildAppReactAndFlux/gulpfile.js" />
       <jump line="9" column="4" filename="$USER_HOME$/Projects/BuildAppReactAndFlux/gulpfile.js" />
       <jump line="572" column="0" filename="$USER_HOME$/Projects/marketing-emails/Residents/index.html" />
@@ -343,22 +348,24 @@
       <jump line="4" column="5" filename="/Dummy.txt" />
       <jump line="13" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/services/addScrollToEvents.js" />
       <jump line="19" column="0" filename="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/js/components/formValidation/formValidation.js" />
+      <jump line="31" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.js" />
+      <jump line="0" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PC9zZWN0aW9uPgo=</text>
+      <register name="&quot;" type="4">
+        <text>in</text>
       </register>
       <register name="-" type="4">
-        <text>div</text>
+        <text>in</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
-      <register name="0" type="4">
-        <text>eButton.addEventListener('click', focusField);</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJ2ZvY3VzIGluJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PC9zZWN0aW9uPgo=</text>
+        <text encoding="base64">CQkJd2luZG93LnNjcm9sbFRvKDAsIDApCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -370,25 +377,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PHNlY3Rpb24+Cg==</text>
+        <text encoding="base64">CQkJaWYgKGRvY3VtZW50LmFjdGl2ZUVsZW1lbnQubmFtZSA9PT0gInppcGNvZGUiKSB7fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiY29sb3JzIjogewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC9zZWN0aW9uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHNlY3Rpb24+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiBweFRvUmVtKDUwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

@@ -47,6 +47,12 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/js/components/formValidation/quoteForm.js" timestamp="1486443233431">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/services/focusInputField.js" timestamp="1486418392171">
         <mark key="[" line="31" column="32" />
         <mark key="]" line="24" column="50" />
@@ -63,17 +69,15 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/js/components/formValidation/formValidation.js" timestamp="1486440624839">
+      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/js/components/formValidation/formValidation.js" timestamp="1486442308182">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="31" column="3" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="24" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486440154068">
+      <file name="/Dummy.txt" timestamp="1486442695765">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/basicInfo/BasicInfo.js" timestamp="1486435807077">
         <mark key="[" line="90" column="11" />
@@ -139,18 +143,18 @@
         <mark key="." line="44" column="27" />
         <mark key="^" line="44" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/scss/module/home/_quoteForm.scss" timestamp="1486440117546">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-        <mark key="^" line="4" column="17" />
+      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/scss/module/home/_quoteForm.scss" timestamp="1486442925369">
+        <mark key="[" line="112" column="23" />
+        <mark key="]" line="113" column="3" />
+        <mark key="." line="113" column="3" />
+        <mark key="^" line="113" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/com/formBuild.html" timestamp="1486439631071">
+      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/com/formBuild.html" timestamp="1486443192622">
         <mark key="'" line="91" column="0" />
-        <mark key="[" line="23" column="54" />
-        <mark key="]" line="23" column="77" />
-        <mark key="." line="23" column="77" />
-        <mark key="^" line="23" column="77" />
+        <mark key="[" line="44" column="62" />
+        <mark key="]" line="24" column="91" />
+        <mark key="." line="44" column="63" />
+        <mark key="^" line="24" column="91" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/BigQuoteBar.js" timestamp="1484947524200">
         <mark key="[" line="44" column="0" />
@@ -167,11 +171,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/js/components/mobileMenu/mobileMenu.js" timestamp="1486154343334">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="4" />
-        <mark key="." line="25" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/healthInfo/HealthRatingInput.js" timestamp="1486411750343">
         <mark key="[" line="38" column="82" />
@@ -323,7 +322,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Updating z-index for button since there was an overlap issue with foote</text>
+        <text>quoteForm__input</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -344,28 +343,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJvdHRvbTogLTE1cHg7CiAgICBsZWZ0OiAwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VXBkYXRpbmcgcG9zaXRpb24gZm9yIHF1b3RlRm9ybSBjb250YWluZXIgYW5kIHVwZGF0ZWQgZXJyb3IgdGV4dAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gdG9nZ2xlRXJyb3JDbGFzcyh2YWxpZGF0aW9uRm4sIERPTU5vZGUpIHsKICAgIHZhbGlkYXRpb25GbigpID8gRE9NTm9kZS5jbGFzc0xpc3QucmVtb3ZlKGVycm9yQ2xhc3MpIDogRE9NTm9kZS5jbGFzc0xpc3QuYWRkKGVycm9yQ2xhc3MpOwp9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3VibWl0QnV0dG9uLmFkZEV2ZW50TGlzdGVuZXIoJ2NsaWNrJywgKCkgPT4gewogICAgdmFsaWRhdGlvbkNoZWNrcyA9IDA7CiAgICBBcnJheS5mcm9tKGZvcm1JbnB1dHMpLmZvckVhY2goZU91dHB1dCA9PiB7CiAgICAgICAgY29uc3QgdmFsaWRhdGlvbkZuID0gdmFsaWRhdGlvbnNbZU91dHB1dC5uYW1lXTsKICAgICAgICBjb25zdCB2YWx1ZSA9IGVPdXRwdXQudmFsdWU7CiAgICAgICAgaWYgKCF2YWxpZGF0aW9uRm4pIHJldHVybjsKICAgICAgICB2YWxpZGF0aW9uRm4odmFsdWUpID8gdmFsaWRhdGlvbkNoZWNrcyArKyA6IGZhbHNlOwogICAgICAgIHRvZ2dsZUVycm9yQ2xhc3ModmFsaWRhdGlvbkZuLmJpbmQobnVsbCwgdmFsdWUpLCBlT3V0cHV0LnBhcmVudE5vZGUpOwogICAgICAgIGlmIChmb3JtSW5wdXRzLmxlbmd0aCA9PSB2YWxpZGF0aW9uQ2hlY2tzKSB7CiAgICAgICAgICAgIC8vVE9ETzogU3VibWl0IEZvcm0KICAgICAgICAgICAgY29uc29sZS5sb2coJ2Zvcm0gc3VibWl0dGVkJyk7CiAgICAgICAgfQogICAgfSk7Cn0sIGZhbHNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJLy8gc2Nyb2xsVG9JbnB1dCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJaW1wb3J0IHNjcm9sbFRvSW5wdXQgZnJvbSAnLi9zY3JvbGxUb0lucHV0JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CX0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlpbnB1dEVsZW1lbnQuYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCBmb2N1c0ZpZWxkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>60</text>

@@ -299,10 +299,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultsGrid.scss" timestamp="1486659425098">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultsGrid.scss" timestamp="1486666924000">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="16" />
+        <mark key="." line="10" column="16" />
+        <mark key="^" line="6" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/services/focusInputField.js" timestamp="1486418392171">
         <mark key="[" line="31" column="32" />
@@ -844,11 +845,11 @@
         <mark key="^" line="6" column="58" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/resultsGrid.js" timestamp="1486658942948">
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="14" column="23" />
-        <mark key="." line="14" column="23" />
-        <mark key="^" line="12" column="28" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/resultsGrid.js" timestamp="1486666878648">
+        <mark key="[" line="16" column="46" />
+        <mark key="]" line="16" column="46" />
+        <mark key="." line="16" column="46" />
+        <mark key="^" line="11" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/QuoteForm.js" timestamp="1484003235916">
         <mark key="[" line="37" column="0" />
@@ -1186,19 +1187,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiByZWQ7Cg==</text>
+        <text encoding="base64">CQl3aWR0aDogMjAlOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>basicInfo</text>
+        <text>Content</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGltcG9ydCAiLi4vLi4vY29tcG9uZW50cy9jb21tb24vY3VzdG9tUGhvbmVJbnB1dCI7Cg==</text>
+        <text encoding="base64">CQl3aWR0aDogMjAlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiByZWQ7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1210,28 +1211,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQk8Cg==</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiByZWQ7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IC8gUFIgY29tbWVudHMKCi0gYWRkZWQgSlNEb2MKLSBjaGFuZ2VkIHNvbWUgbGV0cyB0byBjb25zdHM=</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgljb21wb25lbnREaWRNb3VudCAoKSB7CgkJYWRkU2Nyb2xsVG9JbnB1dEV2ZW50cygpOwoJfQo=</text>
+        <text encoding="base64">CQkJCQk8Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCW9uY2xpY2sK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IC8gUFIgY29tbWVudHMKCi0gYWRkZWQgSlNEb2MKLSBjaGFuZ2VkIHNvbWUgbGV0cyB0byBjb25zdHM=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAxZTdiOTY1OTYwNDQwNzNjYmFhOWY5YTExZTU1NGU2MTE0ZmM2MTM4Cg==</text>
+        <text encoding="base64">Cgljb21wb25lbnREaWRNb3VudCAoKSB7CgkJYWRkU2Nyb2xsVG9JbnB1dEV2ZW50cygpOwoJfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvcm1JbnB1dHM6IEFycmF5LnByb3RvdHlwZS5zbGljZS5jYWxsKGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3JBbGwoJy5qc1F1b3RlRm9ybUlucHV0JykpLAo=</text>
+        <text encoding="base64">CQkJCQkJCW9uY2xpY2sK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Pj4+Pj4+PiAxZTdiOTY1OTYwNDQwNzNjYmFhOWY5YTExZTU1NGU2MTE0ZmM2MTM4Cg==</text>
       </register>
       <register name=":" type="4">
         <text>60</text>

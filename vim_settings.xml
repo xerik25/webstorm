@@ -130,11 +130,11 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/resultItem.js" timestamp="1486690410137">
-        <mark key="[" line="9" column="50" />
-        <mark key="]" line="9" column="50" />
-        <mark key="." line="9" column="54" />
-        <mark key="^" line="5" column="25" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/resultItem.js" timestamp="1486694904321">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="17" column="31" />
+        <mark key="." line="17" column="31" />
+        <mark key="^" line="17" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/MobileQuoteBarDrawerToggled.js" timestamp="1482364162323">
         <mark key="[" line="5" column="54" />
@@ -853,11 +853,11 @@
         <mark key="^" line="6" column="58" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/resultsGrid.js" timestamp="1486692784280">
-        <mark key="[" line="29" column="17" />
-        <mark key="]" line="29" column="17" />
-        <mark key="." line="29" column="17" />
-        <mark key="^" line="23" column="38" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/resultsGrid.js" timestamp="1486694846128">
+        <mark key="[" line="38" column="34" />
+        <mark key="]" line="38" column="33" />
+        <mark key="." line="38" column="33" />
+        <mark key="^" line="38" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/QuoteForm.js" timestamp="1484003235916">
         <mark key="[" line="37" column="0" />
@@ -1193,20 +1193,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/fakeData.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>resutls</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQl7CgkJCXZhbHVlOiA2NS4xNCwKCQkJbGluazogJ2dvb2dsZS5jb20nCgkJfSwK</text>
+        <text encoding="base64">CXJlc3VsdFllYXJzOiBSZWFjdC5Qcm9wVHlwZXMuYXJyYXkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdmYWtlRGF0YScsIHJlc3VsdFllYXJzLCByZXN1bHRQb2xpY3lWYWx1ZXMsIHJlc3VsdHMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1218,28 +1218,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCTwvQ29sPgo=</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCdmYWtlRGF0YScsIHJlc3VsdFllYXJzLCByZXN1bHRQb2xpY3lWYWx1ZXMsIHJlc3VsdHMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCTxDb2wgeHM9IjQiIGNsYXNzTmFtZT0ibm9QYWRkaW5nIj4K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">CQkJCTwvQ29sPgo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCTxDb2wgeHM9IjQiIGNsYXNzTmFtZT0ibm9QYWRkaW5nIj4K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQk8UmVzdWx0SXRlbS8+Cg==</text>
+        <text encoding="base64">CQkJCTwvQ29sPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCTxDb2wgeHM9IjQiIGNsYXNzTmFtZT0ibm9QYWRkaW5nIj4KCQkJCQk8UmVzdWx0SXRlbS8+CgkJCQk8L0NvbD4KCQkJCTxDb2wgeHM9IjQiIGNsYXNzTmFtZT0ibm9QYWRkaW5nIj4KCQkJCQk8UmVzdWx0SXRlbS8+CgkJCQk8L0NvbD4KCQkJCTxDb2wgeHM9IjQiIGNsYXNzTmFtZT0ibm9QYWRkaW5nIj4KCQkJCQk8UmVzdWx0SXRlbS8+CgkJCQk8L0NvbD4KCQkJCTxDb2wgeHM9IjQiIGNsYXNzTmFtZT0ibm9QYWRkaW5nIj4KCQkJCQk8UmVzdWx0SXRlbS8+CgkJCQk8L0NvbD4KCQkJCTxDb2wgeHM9IjQiIGNsYXNzTmFtZT0ibm9QYWRkaW5nIj4KCQkJCQk8UmVzdWx0SXRlbS8+CgkJCQk8L0NvbD4KCQkJCTxDb2wgeHM9IjQiIGNsYXNzTmFtZT0ibm9QYWRkaW5nIj4KCQkJCQk8UmVzdWx0SXRlbS8+CgkJCQk8L0NvbD4KCQkJCTxDb2wgeHM9IjQiIGNsYXNzTmFtZT0ibm9QYWRkaW5nIj4KCQkJCQk8UmVzdWx0SXRlbS8+CgkJCQk8L0NvbD4KCQkJCTxDb2wgeHM9IjQiIGNsYXNzTmFtZT0ibm9QYWRkaW5nIj4K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">CQkJCQk8UmVzdWx0SXRlbS8+Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCTxDb2wgeHM9IjQiIGNsYXNzTmFtZT0ibm9QYWRkaW5nIj4KCQkJCQk8UmVzdWx0SXRlbS8+CgkJCQk8L0NvbD4KCQkJCTxDb2wgeHM9IjQiIGNsYXNzTmFtZT0ibm9QYWRkaW5nIj4KCQkJCQk8UmVzdWx0SXRlbS8+CgkJCQk8L0NvbD4KCQkJCTxDb2wgeHM9IjQiIGNsYXNzTmFtZT0ibm9QYWRkaW5nIj4KCQkJCQk8UmVzdWx0SXRlbS8+CgkJCQk8L0NvbD4KCQkJCTxDb2wgeHM9IjQiIGNsYXNzTmFtZT0ibm9QYWRkaW5nIj4KCQkJCQk8UmVzdWx0SXRlbS8+CgkJCQk8L0NvbD4KCQkJCTxDb2wgeHM9IjQiIGNsYXNzTmFtZT0ibm9QYWRkaW5nIj4KCQkJCQk8UmVzdWx0SXRlbS8+CgkJCQk8L0NvbD4KCQkJCTxDb2wgeHM9IjQiIGNsYXNzTmFtZT0ibm9QYWRkaW5nIj4KCQkJCQk8UmVzdWx0SXRlbS8+CgkJCQk8L0NvbD4KCQkJCTxDb2wgeHM9IjQiIGNsYXNzTmFtZT0ibm9QYWRkaW5nIj4KCQkJCQk8UmVzdWx0SXRlbS8+CgkJCQk8L0NvbD4KCQkJCTxDb2wgeHM9IjQiIGNsYXNzTmFtZT0ibm9QYWRkaW5nIj4K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCTxDb2wgeHM9IjQiPjMwIFllYXJzPC9Db2w+Cg==</text>
+        <text encoding="base64">CQkJCQk8UmVzdWx0SXRlbS8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCTxDb2wgeHM9IjQiPjIwIFllYXJzPC9Db2w+Cg==</text>
+        <text encoding="base64">CQkJCTxDb2wgeHM9IjQiPjMwIFllYXJzPC9Db2w+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>60</text>

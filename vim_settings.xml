@@ -791,8 +791,11 @@
         <mark key="^" line="66" column="96" />
         <mark key="." line="66" column="98" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultsGrid.scss" timestamp="1487009116987">
-        <mark key="'" line="52" column="27" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultsGrid.scss" timestamp="1487012706009">
+        <mark key="'" line="53" column="27" />
+        <mark key="[" line="30" column="21" />
+        <mark key="]" line="30" column="22" />
+        <mark key="." line="30" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/services/focusInputField.js" timestamp="1486418392171">
         <mark key="[" line="31" column="32" />
@@ -1220,8 +1223,8 @@
       <jump line="6" column="68" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/QuoteForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>00px</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQloZWlnaHQ6IDEwMHB4Owo=</text>
       </register>
       <register name="-" type="4">
         <text>00px</text>

@@ -791,12 +791,12 @@
         <mark key="^" line="66" column="96" />
         <mark key="." line="66" column="98" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultsGrid.scss" timestamp="1487014924673">
-        <mark key="'" line="55" column="27" />
-        <mark key="[" line="13" column="33" />
-        <mark key="]" line="13" column="34" />
-        <mark key="." line="13" column="34" />
-        <mark key="^" line="119" column="24" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultsGrid.scss" timestamp="1487016819777">
+        <mark key="'" line="61" column="27" />
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="14" column="30" />
+        <mark key="." line="14" column="30" />
+        <mark key="^" line="14" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/services/focusInputField.js" timestamp="1486418392171">
         <mark key="[" line="31" column="32" />
@@ -1224,11 +1224,11 @@
       <jump line="6" column="68" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/QuoteForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQltYXJnaW4tdG9wOiBweFRvUmVtKDIwKTsK</text>
+      <register name="&quot;" type="4">
+        <text>`</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>

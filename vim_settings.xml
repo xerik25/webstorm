@@ -791,11 +791,12 @@
         <mark key="^" line="66" column="96" />
         <mark key="." line="66" column="98" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultsGrid.scss" timestamp="1487012706009">
-        <mark key="'" line="53" column="27" />
-        <mark key="[" line="30" column="21" />
-        <mark key="]" line="30" column="22" />
-        <mark key="." line="30" column="22" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultsGrid.scss" timestamp="1487014248580">
+        <mark key="'" line="54" column="27" />
+        <mark key="[" line="118" column="23" />
+        <mark key="]" line="118" column="24" />
+        <mark key="." line="118" column="24" />
+        <mark key="^" line="118" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/services/focusInputField.js" timestamp="1486418392171">
         <mark key="[" line="31" column="32" />
@@ -1223,20 +1224,20 @@
       <jump line="6" column="68" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/QuoteForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQloZWlnaHQ6IDEwMHB4Owo=</text>
+      <register name="&quot;" type="4">
+        <text>100</text>
       </register>
       <register name="-" type="4">
-        <text>00px</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQloZWlnaHQ6IDEwMHB4Owo=</text>
+        <text encoding="base64">CQl3aWR0aDogcHhUb1JlbSgxMDApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQltCg==</text>
+        <text encoding="base64">CQltYXgtd2lkdGg6IHB4VG9SZW0oNTApOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1248,28 +1249,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJbWluLXdpZHRoOiBweFRvUmVtKDEwMCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQltCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQljb2xvcjogYmxhY2s7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygnc2VjdGlvbicsIGN1cnJlbnRTZWN0aW9uKTsK</text>
+        <text encoding="base64">CQljb2xvcjogYmxhY2s7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCd0ZXN0JywgcmVzdWx0WWVhcnMsIHJlc3VsdFBvbGljeVZhbHVlcywgcmVzdWx0cyk7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFJlc3VsdHNHcmlkQ29udGFpbmVyIGZyb20gJy4uL2NvbnRhaW5lcnMvUmVzdWx0c0dyaWRDb250YWluZXInOwo=</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygnc2VjdGlvbicsIGN1cnJlbnRTZWN0aW9uKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQk8UmVzdWx0c0dyaWRDb250YWluZXIvPgo=</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCd0ZXN0JywgcmVzdWx0WWVhcnMsIHJlc3VsdFBvbGljeVZhbHVlcywgcmVzdWx0cyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>60</text>

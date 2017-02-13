@@ -791,12 +791,12 @@
         <mark key="^" line="66" column="96" />
         <mark key="." line="66" column="98" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultsGrid.scss" timestamp="1487018305065">
-        <mark key="'" line="64" column="27" />
-        <mark key="[" line="40" column="36" />
-        <mark key="]" line="40" column="36" />
-        <mark key="." line="40" column="36" />
-        <mark key="^" line="40" column="36" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultsGrid.scss" timestamp="1487021515072">
+        <mark key="'" line="63" column="27" />
+        <mark key="[" line="27" column="19" />
+        <mark key="]" line="27" column="25" />
+        <mark key="." line="27" column="25" />
+        <mark key="^" line="27" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/services/focusInputField.js" timestamp="1486418392171">
         <mark key="[" line="31" column="32" />
@@ -953,8 +953,8 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486756182544">
-        <mark key="[" line="0" column="25" />
+      <file name="/Dummy.txt" timestamp="1487021545026">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
@@ -1225,19 +1225,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pxToRem(10)</text>
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>pxToRem(10)</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXBhZGRpbmctbGVmdDogcHhUb1JlbSgxMCk7Cg==</text>
+        <text encoding="base64">CQltYXJnaW4tdG9wOiBweFRvUmVtKC01KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQloZWlnaHQ6IDMzJTsK</text>
+        <text encoding="base64">CQkJLy9oZWlnaHQ6IDE1MHB4Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1249,28 +1249,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQltYXgtd2lkdGg6IHB4VG9SZW0oNTApOwo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJbWluLXdpZHRoOiBweFRvUmVtKDEwMCk7Cg==</text>
+        <text encoding="base64">CQkJLy9mb250LXNpemU6IHB4VG9SZW0oMjIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQltCg==</text>
+        <text encoding="base64">CQlAaW5jbHVkZSBicmVha3BvaW50KHNtKSB7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkvL2ZvbnQtc2l6ZTogcHhUb1JlbSgxMCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQljb2xvcjogYmxhY2s7Cg==</text>
+        <text encoding="base64">CgkJQGluY2x1ZGUgYnJlYWtwb2ludChzbSkgewoJCQkvL21hcmdpbi10b3A6IHB4VG9SZW0oLTEwKTsKCQkJLy9saW5lLWhlaWdodDogcHhUb1JlbSg2MCk7CgkJCS8vZm9udC1zaXplOiBweFRvUmVtKDYwKTsKCQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CgkJQGluY2x1ZGUgYnJlYWtwb2ludChzbSkgewoJCQkvL21hcmdpbi10b3A6IHB4VG9SZW0oLTEwKTsKCQkJLy9saW5lLWhlaWdodDogcHhUb1JlbSg2MCk7CgkJCS8vZm9udC1zaXplOiBweFRvUmVtKDYwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygnc2VjdGlvbicsIGN1cnJlbnRTZWN0aW9uKTsK</text>
+        <text encoding="base64">CgkJLy9mbGV4LWdyb3c6IDE7CgkJLy9hbGlnbi1pdGVtczogY2VudGVyOwoJCS8vanVzdGlmeS1jb250ZW50OiBjZW50ZXI7CgkJLy9kaXNwbGF5OiBmbGV4OwoJCS8vbWFyZ2luLXRvcDogcHhUb1JlbSgtNSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>60</text>

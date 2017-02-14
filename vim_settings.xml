@@ -130,11 +130,11 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/resultItem.js" timestamp="1487102081809">
-        <mark key="[" line="6" column="37" />
-        <mark key="]" line="6" column="37" />
-        <mark key="." line="6" column="37" />
-        <mark key="^" line="6" column="37" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/resultItem.js" timestamp="1487102788544">
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="20" column="14" />
+        <mark key="." line="20" column="14" />
+        <mark key="^" line="20" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/MobileQuoteBarDrawerToggled.js" timestamp="1482364162323">
         <mark key="[" line="5" column="54" />
@@ -233,12 +233,12 @@
         <mark key="^" line="7" column="76" />
         <mark key="." line="7" column="76" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultItem.scss" timestamp="1487101788967">
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultItem.scss" timestamp="1487102656757">
         <mark key="'" line="59" column="1" />
-        <mark key="[" line="23" column="15" />
-        <mark key="]" line="23" column="20" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
         <mark key="^" line="23" column="20" />
-        <mark key="." line="23" column="20" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/scriptTags/maxymiser.js" timestamp="1483553332252">
         <mark key="[" line="1" column="27" />
@@ -400,7 +400,7 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487101108414">
+      <file name="/Dummy.txt" timestamp="1487102806337">
         <mark key="[" line="0" column="27" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
@@ -837,11 +837,11 @@
         <mark key="^" line="6" column="58" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/resultsGrid.js" timestamp="1487101969620">
-        <mark key="[" line="18" column="30" />
-        <mark key="]" line="18" column="30" />
-        <mark key="." line="18" column="30" />
-        <mark key="^" line="18" column="30" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/resultsGrid.js" timestamp="1487103080114">
+        <mark key="[" line="17" column="32" />
+        <mark key="]" line="17" column="62" />
+        <mark key="." line="17" column="62" />
+        <mark key="^" line="17" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/QuoteForm.js" timestamp="1484003235916">
         <mark key="[" line="37" column="0" />
@@ -1192,10 +1192,15 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Fixing CSS issues
+
+- Renamed some classes to better names
+- Fixed targeting issue that was caused by adding my overlay.
+When form submitted and the new div for overlay popped up
+it would mess with the targeting</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -1203,8 +1208,13 @@
       <register name="0" type="2">
         <text encoding="base64">ICogQHBhcmFtIHtzdHJpbmd9IFtwcm9wcy5jbGFzc05hbWVdIC0gVGhlIGNsYXNzbmFtZShzKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>Fixing CSS issues
+
+- Renamed some classes to better names
+- Fixed targeting issue that was caused by adding my overlay.
+When form submitted and the new div for overlay popped up
+it would mess with the targeting</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1216,30 +1226,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvLyBTcGVjaWFsIHRhcmdldCBmb3IgdGhlIGNlbnRlciBpdGVtIGluIHRoZSBncmlkCg==</text>
+        <text encoding="base64">CQkJCQl7Zm9ybUlzU3VibWl0dGluZyAmJiA8ZGl2IGNsYXNzTmFtZT0icmVzdWx0c0dyaWRfX292ZXJsYXkiPgoJCQkJCQk8Q2lyY3VsYXJQcm9ncmVzcyBzaXplPXszfSBzdHlsZT17c3R5bGVzLmNpcmN1bGFyUHJvZ3Jlc3N9Lz4KCQkJCQk8L2Rpdj59Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkuaGlnaGxpZ2h0ZWQgewo=</text>
+        <text encoding="base64">CS8vIFNwZWNpYWwgc3R5bGVzIGZvciB0aGUgY2VudGVyIGl0ZW0gaW4gdGhlIGdyaWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CWNvbnN0IGhpZ2hsaWdodGVkQ2xhc3MgPSAncmVzdWx0c0l0ZW0tLWhpZ2hsaWdodGVkJzsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvLyBTcGVjaWFsIHRhcmdldCBmb3IgdGhlIGNlbnRlciBpdGVtIGluIHRoZSBncmlkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkuaGlnaGxpZ2h0ZWQgewo=</text>
       </register>
-      <register name="8" type="4">
-        <text>Adding JSDoc for resultGrid and resultItem
-
-WHY: Because you should! Duh!</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQl7Zm9ybUlzU3VibWl0dGluZyAmJiA8ZGl2IGNsYXNzTmFtZT0icmVzdWx0c0dyaWRfX292ZXJsYXkiPgoJCQkJCQk8Q2lyY3VsYXJQcm9ncmVzcyBzaXplPXszfSBzdHlsZT17c3R5bGVzLmNpcmN1bGFyUHJvZ3Jlc3N9Lz4KCQkJCQk8L2Rpdj59Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>60</text>

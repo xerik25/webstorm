@@ -318,12 +318,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultsGrid.scss" timestamp="1487025735022">
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultsGrid.scss" timestamp="1487032672705">
         <mark key="'" line="63" column="27" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="60" column="52" />
+        <mark key="[" line="32" column="26" />
+        <mark key="]" line="32" column="28" />
+        <mark key="." line="32" column="28" />
+        <mark key="^" line="32" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/services/focusInputField.js" timestamp="1486418392171">
         <mark key="[" line="31" column="32" />
@@ -401,8 +401,8 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487031523667">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1487032173626">
+        <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
@@ -1193,10 +1193,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>180</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>180</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -1204,8 +1204,12 @@
       <register name="0" type="2">
         <text encoding="base64">ICogQHBhcmFtIHtzdHJpbmd9IFtwcm9wcy5jbGFzc05hbWVdIC0gVGhlIGNsYXNzbmFtZShzKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdhY3Rpb25zJywgYWN0aW9ucyk7Cg==</text>
+      <register name="1" type="4">
+        <text>Created styles for highlighted quote
+
+HOW: Created a nth-child target so the center result in the grid
+gets the styling it needs. I also moved resultItem styles to it's
+own style sheet.</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1217,29 +1221,29 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWxpbms6IFJlYWN0LlByb3BUeXBlcy5zdHJpbmcK</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCdhY3Rpb25zJywgYWN0aW9ucyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCd0ZXN0aW5nJyk7Cg==</text>
+        <text encoding="base64">CWxpbms6IFJlYWN0LlByb3BUeXBlcy5zdHJpbmcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PGRpdiBjbGFzc05hbWU9e2Byb3cgJHtjbGFzc05hbWV9YH0+e2NoaWxkcmVufTwvZGl2PjsK</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCd0ZXN0aW5nJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCQkK</text>
+        <text encoding="base64">PGRpdiBjbGFzc05hbWU9e2Byb3cgJHtjbGFzc05hbWV9YH0+e2NoaWxkcmVufTwvZGl2PjsK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">CQkJCQkJCQkK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CQkJCQkJCQlsaW5rPXtyZXN1bHQubGlua30K</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>updating styles for results grid
 
 HOW: Organized style properties and adjusted layout so that
 mobile and desktop match along with matching all font sizes
 from the PSD.</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

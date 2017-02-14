@@ -338,12 +338,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultsGrid.scss" timestamp="1487096481735">
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultsGrid.scss" timestamp="1487099554769">
         <mark key="'" line="61" column="27" />
-        <mark key="[" line="42" column="12" />
-        <mark key="]" line="42" column="20" />
-        <mark key="." line="42" column="20" />
-        <mark key="^" line="42" column="20" />
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/services/focusInputField.js" timestamp="1486418392171">
         <mark key="[" line="31" column="32" />
@@ -1248,16 +1248,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>circularProgress while submitting
-
-HOW: added a progress spinner so that the results grid has an overlay
-while the formSubmitting bool is true.
-
-WHY: Wanted to prevent the user from making multiple data calls
-by clicking on more that one result in the grid.</text>
+        <text>sm</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>sm</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -1265,14 +1259,8 @@ by clicking on more that one result in the grid.</text>
       <register name="0" type="2">
         <text encoding="base64">ICogQHBhcmFtIHtzdHJpbmd9IFtwcm9wcy5jbGFzc05hbWVdIC0gVGhlIGNsYXNzbmFtZShzKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>circularProgress while submitting
-
-HOW: added a progress spinner so that the results grid has an overlay
-while the formSubmitting bool is true.
-
-WHY: Wanted to prevent the user from making multiple data calls
-by clicking on more that one result in the grid.</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1284,18 +1272,30 @@ by clicking on more that one result in the grid.</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">CXBhZGRpbmctbGVmdDogMDsKCXBhZGRpbmctcmlnaHQ6IHB4VG9SZW0oMTApOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>circularProgress while submitting
+
+HOW: added a progress spinner so that the results grid has an overlay
+while the formSubmitting bool is true.
+
+WHY: Wanted to prevent the user from making multiple data calls
+by clicking on more that one result in the grid.</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlmb3JtSXNTdWJtaXR0aW5nOiBzdGF0ZS5BcHAuZm9ybUlzU3VibWl0dGluZywK</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">CQlmb3JtSXNTdWJtaXR0aW5nOiBzdGF0ZS5BcHAuZm9ybUlzU3VibWl0dGluZywK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>Style fix for IE, Firefox and Safari
 
 HOW: So on Firefox writing mode just makes the text vanish
@@ -1303,14 +1303,8 @@ so I removed the prop and used the transform to rotate instead.
 On IE and Safari it had issues with the height on the left labels
 for the results grid. Using flex-grow instead fixed the issue</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CX0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQktbW96LWJvcmRlci1yYWRpdXM6Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>60</text>

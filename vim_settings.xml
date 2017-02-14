@@ -339,12 +339,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultsGrid.scss" timestamp="1487035504409">
-        <mark key="'" line="62" column="27" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="36" column="24" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultsGrid.scss" timestamp="1487036165696">
+        <mark key="'" line="61" column="27" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="35" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/services/focusInputField.js" timestamp="1486418392171">
         <mark key="[" line="31" column="32" />
@@ -443,10 +443,10 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487032173626">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
+      <file name="/Dummy.txt" timestamp="1487036203977">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/basicInfo/BasicInfo.js" timestamp="1486435807077">
         <mark key="[" line="90" column="11" />
@@ -624,10 +624,10 @@
         <mark key="^" line="2" column="35" />
         <mark key="." line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/ResultsGridContainer.js" timestamp="1487031863189">
-        <mark key="[" line="17" column="102" />
-        <mark key="]" line="17" column="102" />
-        <mark key="." line="17" column="102" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/ResultsGridContainer.js" timestamp="1487036320752">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="29" column="26" />
+        <mark key="." line="23" column="0" />
         <mark key="^" line="17" column="102" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/SliderDragStopAction.js" timestamp="1483736908073">
@@ -1248,8 +1248,14 @@
       <jump line="57" column="1" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultItem.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkvL3dyaXRpbmctbW9kZTogdmVydGljYWwtcmw7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Setting up form submit action for grid
+
+HOW: I had to update Row and Col so they would accept onClick
+and then wired it up to use the correct action, but now you can click 
+on and item in the results grid and it will submit the form. Later 
+when the API is ready we will have to make sure the data is
+updated before submission.</text>
       </register>
       <register name="-" type="4">
         <text>100%</text>
@@ -1260,8 +1266,14 @@
       <register name="0" type="2">
         <text encoding="base64">ICogQHBhcmFtIHtzdHJpbmd9IFtwcm9wcy5jbGFzc05hbWVdIC0gVGhlIGNsYXNzbmFtZShzKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkvL3dyaXRpbmctbW9kZTogdmVydGljYWwtcmw7Cg==</text>
+      <register name="1" type="4">
+        <text>Setting up form submit action for grid
+
+HOW: I had to update Row and Col so they would accept onClick
+and then wired it up to use the correct action, but now you can click 
+on and item in the results grid and it will submit the form. Later 
+when the API is ready we will have to make sure the data is
+updated before submission.</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1273,32 +1285,32 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJbWF4LWhlaWdodDogMTUwcHg7Cg==</text>
+        <text encoding="base64">CQkJLy9oZWlnaHQ6IDMzJTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJbWluLWhlaWdodDogMTAwcHg7Cg==</text>
+        <text encoding="base64">CQkvL3dyaXRpbmctbW9kZTogdmVydGljYWwtcmw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vaGVpZ2h0OiA0ODBweDsK</text>
+        <text encoding="base64">CQkJbWF4LWhlaWdodDogMTUwcHg7Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CQkJbWluLWhlaWdodDogMTAwcHg7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CS8vaGVpZ2h0OiA0ODBweDsK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CQkJd3JpdGluZy1tb2RlOiBob3Jpem9udGFsLXRiOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>Created styles for highlighted quote
 
 HOW: Created a nth-child target so the center result in the grid
 gets the styling it needs. I also moved resultItem styles to it's
 own style sheet.</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdhY3Rpb25zJywgYWN0aW9ucyk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CWxpbms6IFJlYWN0LlByb3BUeXBlcy5zdHJpbmcK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCd0ZXN0aW5nJyk7Cg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCdhY3Rpb25zJywgYWN0aW9ucyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>60</text>

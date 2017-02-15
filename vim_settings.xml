@@ -464,6 +464,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/package.json" timestamp="1487198391742">
+        <mark key="[" line="22" column="72" />
+        <mark key="]" line="22" column="99" />
+        <mark key="^" line="22" column="99" />
+        <mark key="." line="22" column="99" />
+      </file>
       <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/com/saveWithBundle.html" timestamp="1485793757922">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="6" column="19" />
@@ -746,8 +752,7 @@
         <mark key="." line="2" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/QuoteForm.js" timestamp="1487186668646">
-        <mark key="'" line="6" column="68" />
-        <mark key="[" line="49" column="58" />
+        <mark key="[" line="6" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/reactreduxes6/src/reducers/CourseReducer.test.js" timestamp="1485184903473">
         <mark key="[" line="23" column="39" />
@@ -1243,11 +1248,11 @@
       <jump line="57" column="1" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultItem.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>property</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>

@@ -340,7 +340,7 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/initialAppState.js" timestamp="1487708695317">
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/initialAppState.js" timestamp="1487710681037">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="58" column="20" />
         <mark key="]" line="58" column="21" />
@@ -457,8 +457,8 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487694843460">
-        <mark key="[" line="0" column="26" />
+      <file name="/Dummy.txt" timestamp="1487711369135">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
@@ -492,7 +492,7 @@
         <mark key="." line="31" column="22" />
         <mark key="^" line="31" column="22" />
       </file>
-      <file name="/a.regexp" timestamp="1487709104611">
+      <file name="/a.regexp" timestamp="1487710682169">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -578,10 +578,11 @@
         <mark key="]" line="6256" column="0" />
         <mark key="." line="6256" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/contactInfo/ContactInfo.js" timestamp="1487699496838">
-        <mark key="[" line="22" column="24" />
-        <mark key="]" line="22" column="24" />
-        <mark key="." line="22" column="24" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/contactInfo/ContactInfo.js" timestamp="1487711403553">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="63" column="78" />
       </file>
       <file name="$USER_HOME$/Projects/reactreduxes6/src/reducers/initialState.js" timestamp="1485182341820">
         <mark key="[" line="4" column="1" />
@@ -850,7 +851,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/FormSubmitted.js" timestamp="1487709806085">
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/FormSubmitted.js" timestamp="1487710505481">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="9" column="28" />
@@ -928,6 +929,7 @@
         <mark key="." line="6" column="38" />
         <mark key="^" line="6" column="38" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/common/Title.js" timestamp="1487710666651" />
       <file name="$USER_HOME$/Projects/reactreduxes6/src/store/configureStore.js" timestamp="1484424580419">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="8" column="39" />
@@ -1140,6 +1142,7 @@
         <mark key="^" line="59" column="35" />
         <mark key="." line="59" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/services/ProgressChecker.js" timestamp="1487710714549" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/healthInfo/_healthInfo.scss" timestamp="1484065164527">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -1156,11 +1159,6 @@
         <mark key="]" line="53" column="23" />
         <mark key="." line="53" column="23" />
         <mark key="^" line="53" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileQuoteBar.js" timestamp="1487358960215">
-        <mark key="]" line="54" column="41" />
-        <mark key="." line="54" column="41" />
-        <mark key="^" line="54" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/common/NextAndPreviousButton.js" timestamp="1483379719896">
         <mark key="[" line="0" column="26" />
@@ -1324,10 +1322,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHF1b3RlQ2FuQmVSZXF1ZXN0ZWQgZnJvbSAnLi4vc2VydmljZXMvcXVvdGVDYW5CZVJlcXVlc3RlZCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFByb2dyZXNzU2VydmljZSBmcm9tICcuLi8uLi9zZXJ2aWNlcy91c2VyUHJvZ3Jlc3NTZXJ2aWNlJzsK</text>
       </register>
       <register name="-" type="4">
-        <text>is</text>
+        <text>!!</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -1336,7 +1334,7 @@
         <text encoding="base64">CWNvbnNvbGUubG9nKCdDb250YWN0SW5mbycsIHNob3dDdXJyZW50U2VjdGlvbkVycm9ycywgY3VycmVudEZvcm1FbnRyeSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHF1b3RlQ2FuQmVSZXF1ZXN0ZWQgZnJvbSAnLi4vc2VydmljZXMvcXVvdGVDYW5CZVJlcXVlc3RlZCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFByb2dyZXNzU2VydmljZSBmcm9tICcuLi8uLi9zZXJ2aWNlcy91c2VyUHJvZ3Jlc3NTZXJ2aWNlJzsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1351,28 +1349,28 @@
         <text encoding="base64">aW1wb3J0IHF1b3RlQ2FuQmVSZXF1ZXN0ZWQgZnJvbSAnLi4vc2VydmljZXMvcXVvdGVDYW5CZVJlcXVlc3RlZCc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">aW1wb3J0IHF1b3RlQ2FuQmVSZXF1ZXN0ZWQgZnJvbSAnLi4vc2VydmljZXMvcXVvdGVDYW5CZVJlcXVlc3RlZCc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJaWYgKHF1b3RlQ2FuQmVSZXF1ZXN0ZWQoYXBwU3RhdGUpKSB7Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CQkJaWYgKHF1b3RlQ2FuQmVSZXF1ZXN0ZWQoYXBwU3RhdGUpKSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>updating JSDoc for FormSubmitted
 
 WHY: Since we altered how the quote is pulled and form submitted
 I needed to update the JSDoc.</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQljdXJzb3I6IHBvaW50ZXI7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl0ZXh0LWFsaWduOiBjZW50ZXI7Cg==</text>
+        <text encoding="base64">CQljdXJzb3I6IHBvaW50ZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

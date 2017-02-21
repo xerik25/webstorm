@@ -744,7 +744,7 @@
         <mark key="." line="33" column="37" />
         <mark key="^" line="33" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/quote-form-server/package.json" timestamp="1487715403040">
+      <file name="$USER_HOME$/Projects/quote-form-server/package.json" timestamp="1487717180185">
         <mark key="[" line="6" column="20" />
         <mark key="]" line="6" column="27" />
         <mark key="^" line="6" column="27" />
@@ -851,11 +851,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/FormSubmitted.js" timestamp="1487710505481">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="9" column="28" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/FormSubmitted.js" timestamp="1487719090295">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="27" column="65" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/App.js" timestamp="1486996221650">
         <mark key="'" line="83" column="38" />
@@ -1149,6 +1149,7 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/AppReducer.js" timestamp="1487718733756" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_stepDisplay.scss" timestamp="1484777589862">
         <mark key="[" line="53" column="22" />
         <mark key="]" line="53" column="23" />
@@ -1316,11 +1317,11 @@
       <jump line="57" column="1" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultItem.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>WebstormProjects</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJY29uc3QgYXBwU3RhdGUgPSBnZXRTdGF0ZSgpLkFwcDsK</text>
       </register>
       <register name="-" type="4">
-        <text>WebstormProjects</text>
+        <text>appState</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -1328,13 +1329,8 @@
       <register name="0" type="2">
         <text encoding="base64">CWNvbnNvbGUubG9nKCdDb250YWN0SW5mbycsIHNob3dDdXJyZW50U2VjdGlvbkVycm9ycywgY3VycmVudEZvcm1FbnRyeSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>added links to top of results grid
-
-HOW: added new links and styled accordingly
-
-WHY: Forgot to add them earlier. We will need to add an action to these
-eventually but may wait on that until we are getting results from the API</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJY29uc3QgYXBwU3RhdGUgPSBnZXRTdGF0ZSgpLkFwcDsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1345,32 +1341,37 @@ eventually but may wait on that until we are getting results from the API</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFByb2dyZXNzU2VydmljZSBmcm9tICcuLi8uLi9zZXJ2aWNlcy91c2VyUHJvZ3Jlc3NTZXJ2aWNlJzsK</text>
+      <register name="2" type="4">
+        <text>added links to top of results grid
+
+HOW: added new links and styled accordingly
+
+WHY: Forgot to add them earlier. We will need to add an action to these
+eventually but may wait on that until we are getting results from the API</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHF1b3RlQ2FuQmVSZXF1ZXN0ZWQgZnJvbSAnLi4vc2VydmljZXMvcXVvdGVDYW5CZVJlcXVlc3RlZCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFByb2dyZXNzU2VydmljZSBmcm9tICcuLi8uLi9zZXJ2aWNlcy91c2VyUHJvZ3Jlc3NTZXJ2aWNlJzsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IHF1b3RlQ2FuQmVSZXF1ZXN0ZWQgZnJvbSAnLi4vc2VydmljZXMvcXVvdGVDYW5CZVJlcXVlc3RlZCc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">aW1wb3J0IHF1b3RlQ2FuQmVSZXF1ZXN0ZWQgZnJvbSAnLi4vc2VydmljZXMvcXVvdGVDYW5CZVJlcXVlc3RlZCc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJaWYgKHF1b3RlQ2FuQmVSZXF1ZXN0ZWQoYXBwU3RhdGUpKSB7Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">CQkJaWYgKHF1b3RlQ2FuQmVSZXF1ZXN0ZWQoYXBwU3RhdGUpKSB7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>updating JSDoc for FormSubmitted
 
 WHY: Since we altered how the quote is pulled and form submitted
 I needed to update the JSDoc.</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

@@ -19,6 +19,9 @@
         <mark key="." line="10" column="41" />
         <mark key="^" line="10" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/react-redux-boilerplate/.gitignore" timestamp="1487346037077">
+        <mark key="[" line="29" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/basicInfo/BasicInfo.styles.js" timestamp="1483651468457">
         <mark key="[" line="11" column="30" />
         <mark key="]" line="11" column="33" />
@@ -301,9 +304,6 @@
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/contactInfo/PhoneInput.js" timestamp="1487697800963">
         <mark key="[" line="16" column="82" />
-        <mark key="]" line="17" column="44" />
-        <mark key="." line="17" column="44" />
-        <mark key="^" line="17" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/scss/module/heroBackground/_heroBackground.scss" timestamp="1486142933776">
         <mark key="[" line="1" column="24" />
@@ -579,10 +579,9 @@
         <mark key="." line="6256" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/contactInfo/ContactInfo.js" timestamp="1487699496838">
-        <mark key="[" line="66" column="24" />
-        <mark key="]" line="66" column="24" />
-        <mark key="." line="66" column="24" />
-        <mark key="^" line="24" column="49" />
+        <mark key="[" line="22" column="24" />
+        <mark key="]" line="22" column="24" />
+        <mark key="." line="22" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/reactreduxes6/src/reducers/initialState.js" timestamp="1485182341820">
         <mark key="[" line="4" column="1" />
@@ -804,6 +803,9 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/QuoteForm.js" timestamp="1487186668646">
+        <mark key="[" line="6" column="58" />
+      </file>
       <file name="$USER_HOME$/Projects/reactreduxes6/src/reducers/CourseReducer.test.js" timestamp="1485184903473">
         <mark key="[" line="23" column="39" />
         <mark key="]" line="23" column="40" />
@@ -848,11 +850,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/FormSubmitted.js" timestamp="1487691319981">
-        <mark key="[" line="11" column="7" />
-        <mark key="]" line="11" column="7" />
-        <mark key="." line="11" column="7" />
-        <mark key="^" line="11" column="26" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/FormSubmitted.js" timestamp="1487708199184">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="28" />
+        <mark key="." line="10" column="28" />
+        <mark key="^" line="10" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/App.js" timestamp="1486996221650">
         <mark key="'" line="83" column="38" />
@@ -910,15 +912,9 @@
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/common/ErrorText.js" timestamp="1487697996475">
         <mark key="[" line="9" column="45" />
-        <mark key="]" line="10" column="43" />
-        <mark key="^" line="10" column="43" />
-        <mark key="." line="10" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/contactInfo/EmailInput.js" timestamp="1487697780995">
         <mark key="[" line="16" column="76" />
-        <mark key="]" line="17" column="44" />
-        <mark key="." line="17" column="44" />
-        <mark key="^" line="17" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/reactreduxes6/src/components/selectors/selectors.test.js" timestamp="1485182430585">
         <mark key="[" line="8" column="67" />
@@ -931,12 +927,6 @@
         <mark key="]" line="6" column="38" />
         <mark key="." line="6" column="38" />
         <mark key="^" line="6" column="38" />
-      </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/common/Title.js" timestamp="1487697956640">
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="10" column="29" />
-        <mark key="^" line="10" column="40" />
-        <mark key="." line="10" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/reactreduxes6/src/store/configureStore.js" timestamp="1484424580419">
         <mark key="[" line="8" column="27" />
@@ -1334,10 +1324,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">fHwgc2hvd0N1cnJlbnRTZWN0aW9uRXJyb3JzICYmIHBob25lRXJyb3JUZXh0</text>
+        <text>is</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">fHwgc2hvd0N1cnJlbnRTZWN0aW9uRXJyb3JzICYmIHBob25lRXJyb3JUZXh0</text>
+        <text>is</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>

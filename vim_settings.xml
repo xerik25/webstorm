@@ -71,11 +71,10 @@
         <mark key="." line="13" column="6" />
         <mark key="^" line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_orangeInputsContainer.scss" timestamp="1487798390705">
-        <mark key="[" line="23" column="18" />
-        <mark key="]" line="24" column="27" />
-        <mark key="." line="24" column="27" />
-        <mark key="^" line="24" column="27" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_orangeInputsContainer.scss" timestamp="1487799333552">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/_mobileQuoteBar.scss" timestamp="1485469628336">
         <mark key="[" line="48" column="0" />
@@ -800,11 +799,11 @@
         <mark key="." line="25" column="33" />
         <mark key="^" line="25" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_policyValueInput.scss" timestamp="1487797997771">
-        <mark key="[" line="7" column="40" />
-        <mark key="]" line="7" column="41" />
-        <mark key="." line="7" column="41" />
-        <mark key="^" line="8" column="14" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_policyValueInput.scss" timestamp="1487799522162">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="18" />
+        <mark key="." line="16" column="18" />
+        <mark key="^" line="16" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/TermLengthInput.js" timestamp="1484864363260">
         <mark key="[" line="59" column="44" />
@@ -1308,10 +1307,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>100%</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>100%</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -1320,7 +1319,7 @@
         <text encoding="base64">CWJhY2tncm91bmQ6IHVybCgnLi4vLi4vaW1hZ2VzL2hlcm8uanBnJykgY2VudGVyIHRvcCBuby1yZXBlYXQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CX0sCg==</text>
+        <text encoding="base64">CS8vbWFyZ2luLXRvcDogcHhUb1JlbSgxMCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1332,28 +1331,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQltYXJnaW5Ub3A6ICcxMHB4Jwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQloZWlnaHQ6ICcxOTBweCcsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CWlucHV0c0NvbnRhaW5lcjogewo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">CX0sCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CQltYXJnaW5Ub3A6ICcxMHB4Jwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQloZWlnaHQ6ICcxOTBweCcsCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CWlucHV0c0NvbnRhaW5lcjogewo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CX0sCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQltYXJnaW5Ub3A6ICcxMHB4Jwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQloZWlnaHQ6ICcxOTBweCcsCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWlucHV0c0NvbnRhaW5lcjogewo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

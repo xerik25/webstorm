@@ -779,10 +779,11 @@
         <mark key="^" line="11" column="46" />
         <mark key="." line="11" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_quoteBar.scss" timestamp="1487781060668">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="27" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_quoteBar.scss" timestamp="1487782446814">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="31" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="17" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/DropdownOpen.js" timestamp="1484330912581">
         <mark key="[" line="2" column="14" />
@@ -1311,19 +1312,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJCWJhY2tncm91bmQtcG9zaXRpb246IGNlbnRlciBjZW50ZXI7CgkJCQliYWNrZ3JvdW5kLXNpemU6IGNvdmVyOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>.svg</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdDb250YWN0SW5mbycsIHNob3dDdXJyZW50U2VjdGlvbkVycm9ycywgY3VycmVudEZvcm1FbnRyeSk7Cg==</text>
+        <text encoding="base64">CQkJCWJhY2tncm91bmQtcG9zaXRpb246IGNlbnRlciBjZW50ZXI7CgkJCQliYWNrZ3JvdW5kLXNpemU6IGNvdmVyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJCWJhY2tncm91bmQ6IHVybCgnLi4vLi4vaW1hZ2VzL2Fycm93Mi5qcGcnKSBuby1yZXBlYXQ7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1335,15 +1336,21 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQkJCWJhY2tncm91bmQ6IHVybCgnLi4vLi4vaW1hZ2VzL3F1b3RlQXJyb3cuc3ZnJykgbm8tcmVwZWF0Owo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQkJCXotaW5kZXg6IDE7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>to package.json
 
 Also added a new npm script that will build JSDoc
 and render with live-server</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>SQLIF-103 and SQLIF-104 / PR Updates
 
 - fixed spelling typo
@@ -1351,10 +1358,10 @@ and render with live-server</text>
 we no longer need it
 - update propIsInvalid check on ContactInfo that was throwing propType errors</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJY29uc3QgYXBwU3RhdGUgPSBnZXRTdGF0ZSgpLkFwcDsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>added links to top of results grid
 
 HOW: added new links and styled accordingly
@@ -1362,14 +1369,8 @@ HOW: added new links and styled accordingly
 WHY: Forgot to add them earlier. We will need to add an action to these
 eventually but may wait on that until we are getting results from the API</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFByb2dyZXNzU2VydmljZSBmcm9tICcuLi8uLi9zZXJ2aWNlcy91c2VyUHJvZ3Jlc3NTZXJ2aWNlJzsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHF1b3RlQ2FuQmVSZXF1ZXN0ZWQgZnJvbSAnLi4vc2VydmljZXMvcXVvdGVDYW5CZVJlcXVlc3RlZCc7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHF1b3RlQ2FuQmVSZXF1ZXN0ZWQgZnJvbSAnLi4vc2VydmljZXMvcXVvdGVDYW5CZVJlcXVlc3RlZCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFByb2dyZXNzU2VydmljZSBmcm9tICcuLi8uLi9zZXJ2aWNlcy91c2VyUHJvZ3Jlc3NTZXJ2aWNlJzsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

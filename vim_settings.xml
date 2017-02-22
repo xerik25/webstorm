@@ -906,6 +906,13 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="22" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/BigQuoteBar.js" timestamp="1487785307802">
+        <mark key="'" line="128" column="0" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="^" line="93" column="41" />
+        <mark key="." line="94" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/common/ErrorText.js" timestamp="1487697996475">
         <mark key="[" line="9" column="45" />
       </file>
@@ -1209,8 +1216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="12" filename="$USER_HOME$/Projects/selectah-agent-referral-page/src/images/index.js" />
-      <jump line="18" column="56" filename="$USER_HOME$/Projects/selectah-agent-referral-page/src/images/index.js" />
       <jump line="94" column="5" filename="$USER_HOME$/Projects/selectah-agent-referral-page/src/images/index.js" />
       <jump line="26" column="0" filename="$USER_HOME$/Projects/codeand_blog/app/app.js" />
       <jump line="12" column="4" filename="$USER_HOME$/Projects/codeand_blog_forked/codeand_blog/app.js" />
@@ -1309,13 +1314,15 @@
       <jump line="64" column="25" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/QuoteForm.js" />
       <jump line="6" column="68" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/QuoteForm.js" />
       <jump line="57" column="1" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultItem.scss" />
+      <jump line="92" column="41" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/BigQuoteBar.js" />
+      <jump line="125" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/BigQuoteBar.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCWJhY2tncm91bmQtcG9zaXRpb246IGNlbnRlciBjZW50ZXI7CgkJCQliYWNrZ3JvdW5kLXNpemU6IGNvdmVyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.svg</text>
+        <text>&quot;image&quot;</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -1324,7 +1331,7 @@
         <text encoding="base64">CQkJCWJhY2tncm91bmQtcG9zaXRpb246IGNlbnRlciBjZW50ZXI7CgkJCQliYWNrZ3JvdW5kLXNpemU6IGNvdmVyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWJhY2tncm91bmQ6IHVybCgnLi4vLi4vaW1hZ2VzL2Fycm93Mi5qcGcnKSBuby1yZXBlYXQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1336,41 +1343,36 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWJhY2tncm91bmQ6IHVybCgnLi4vLi4vaW1hZ2VzL3F1b3RlQXJyb3cuc3ZnJykgbm8tcmVwZWF0Owo=</text>
+        <text encoding="base64">CQkJCQkJCQk8aW1nIHNyYz17aW1hZ2V9IGFsdD0iIi8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJCQkJCQk8Q29sLz4K</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CQkJCWJhY2tncm91bmQ6IHVybCgnLi4vLi4vaW1hZ2VzL2Fycm93Mi5qcGcnKSBuby1yZXBlYXQ7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCWJhY2tncm91bmQ6IHVybCgnLi4vLi4vaW1hZ2VzL3F1b3RlQXJyb3cuc3ZnJykgbm8tcmVwZWF0Owo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CQkJCXotaW5kZXg6IDE7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>to package.json
 
 Also added a new npm script that will build JSDoc
 and render with live-server</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>SQLIF-103 and SQLIF-104 / PR Updates
 
 - fixed spelling typo
 - removed if check and quoteCanBeRequested service since
 we no longer need it
 - update propIsInvalid check on ContactInfo that was throwing propType errors</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJY29uc3QgYXBwU3RhdGUgPSBnZXRTdGF0ZSgpLkFwcDsK</text>
-      </register>
-      <register name="8" type="4">
-        <text>added links to top of results grid
-
-HOW: added new links and styled accordingly
-
-WHY: Forgot to add them earlier. We will need to add an action to these
-eventually but may wait on that until we are getting results from the API</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFByb2dyZXNzU2VydmljZSBmcm9tICcuLi8uLi9zZXJ2aWNlcy91c2VyUHJvZ3Jlc3NTZXJ2aWNlJzsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

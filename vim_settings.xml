@@ -457,10 +457,10 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487711425300">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
+      <file name="/Dummy.txt" timestamp="1487719345124">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/basicInfo/BasicInfo.js" timestamp="1486435807077">
         <mark key="[" line="90" column="11" />
@@ -1317,8 +1317,13 @@
       <jump line="57" column="1" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultItem.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJY29uc3QgYXBwU3RhdGUgPSBnZXRTdGF0ZSgpLkFwcDsK</text>
+      <register name="&quot;" type="4">
+        <text>SQLIF-103 and SQLIF-104 / PR Updates
+
+- fixed spelling typo
+- removed if check and quoteCanBeRequested service since
+we no longer need it
+- update propIsInvalid check on ContactInfo that was throwing propType errors</text>
       </register>
       <register name="-" type="4">
         <text>appState</text>
@@ -1329,8 +1334,13 @@
       <register name="0" type="2">
         <text encoding="base64">CWNvbnNvbGUubG9nKCdDb250YWN0SW5mbycsIHNob3dDdXJyZW50U2VjdGlvbkVycm9ycywgY3VycmVudEZvcm1FbnRyeSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJY29uc3QgYXBwU3RhdGUgPSBnZXRTdGF0ZSgpLkFwcDsK</text>
+      <register name="1" type="4">
+        <text>SQLIF-103 and SQLIF-104 / PR Updates
+
+- fixed spelling typo
+- removed if check and quoteCanBeRequested service since
+we no longer need it
+- update propIsInvalid check on ContactInfo that was throwing propType errors</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1341,7 +1351,10 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">CQkJY29uc3QgYXBwU3RhdGUgPSBnZXRTdGF0ZSgpLkFwcDsK</text>
+      </register>
+      <register name="3" type="4">
         <text>added links to top of results grid
 
 HOW: added new links and styled accordingly
@@ -1349,29 +1362,23 @@ HOW: added new links and styled accordingly
 WHY: Forgot to add them earlier. We will need to add an action to these
 eventually but may wait on that until we are getting results from the API</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFByb2dyZXNzU2VydmljZSBmcm9tICcuLi8uLi9zZXJ2aWNlcy91c2VyUHJvZ3Jlc3NTZXJ2aWNlJzsK</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHF1b3RlQ2FuQmVSZXF1ZXN0ZWQgZnJvbSAnLi4vc2VydmljZXMvcXVvdGVDYW5CZVJlcXVlc3RlZCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFByb2dyZXNzU2VydmljZSBmcm9tICcuLi8uLi9zZXJ2aWNlcy91c2VyUHJvZ3Jlc3NTZXJ2aWNlJzsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IHF1b3RlQ2FuQmVSZXF1ZXN0ZWQgZnJvbSAnLi4vc2VydmljZXMvcXVvdGVDYW5CZVJlcXVlc3RlZCc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">aW1wb3J0IHF1b3RlQ2FuQmVSZXF1ZXN0ZWQgZnJvbSAnLi4vc2VydmljZXMvcXVvdGVDYW5CZVJlcXVlc3RlZCc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJaWYgKHF1b3RlQ2FuQmVSZXF1ZXN0ZWQoYXBwU3RhdGUpKSB7Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJaWYgKHF1b3RlQ2FuQmVSZXF1ZXN0ZWQoYXBwU3RhdGUpKSB7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>updating JSDoc for FormSubmitted
-
-WHY: Since we altered how the quote is pulled and form submitted
-I needed to update the JSDoc.</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

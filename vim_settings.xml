@@ -264,10 +264,11 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_termLengthInput.scss" timestamp="1483721334056">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_termLengthInput.scss" timestamp="1487781248701">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="6" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/DropdownToggled.js" timestamp="1484332297292">
         <mark key="[" line="12" column="23" />
@@ -778,11 +779,10 @@
         <mark key="^" line="11" column="46" />
         <mark key="." line="11" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_quoteBar.scss" timestamp="1487780188129">
-        <mark key="[" line="31" column="44" />
-        <mark key="]" line="31" column="49" />
-        <mark key="." line="31" column="49" />
-        <mark key="^" line="31" column="49" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_quoteBar.scss" timestamp="1487781060668">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="27" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/DropdownOpen.js" timestamp="1484330912581">
         <mark key="[" line="2" column="14" />
@@ -816,10 +816,11 @@
         <mark key="." line="25" column="33" />
         <mark key="^" line="25" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_policyValueInput.scss" timestamp="1483721002569">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_policyValueInput.scss" timestamp="1487781235831">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="6" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/TermLengthInput.js" timestamp="1484864363260">
         <mark key="[" line="59" column="44" />
@@ -1309,8 +1310,8 @@
       <jump line="57" column="1" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultItem.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -1321,11 +1322,8 @@
       <register name="0" type="2">
         <text encoding="base64">CWNvbnNvbGUubG9nKCdDb250YWN0SW5mbycsIHNob3dDdXJyZW50U2VjdGlvbkVycm9ycywgY3VycmVudEZvcm1FbnRyeSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>to package.json
-
-Also added a new npm script that will build JSDoc
-and render with live-server</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1336,7 +1334,16 @@ and render with live-server</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCXotaW5kZXg6IDE7Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>to package.json
+
+Also added a new npm script that will build JSDoc
+and render with live-server</text>
+      </register>
+      <register name="4" type="4">
         <text>SQLIF-103 and SQLIF-104 / PR Updates
 
 - fixed spelling typo
@@ -1344,10 +1351,10 @@ and render with live-server</text>
 we no longer need it
 - update propIsInvalid check on ContactInfo that was throwing propType errors</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJY29uc3QgYXBwU3RhdGUgPSBnZXRTdGF0ZSgpLkFwcDsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>added links to top of results grid
 
 HOW: added new links and styled accordingly
@@ -1355,20 +1362,14 @@ HOW: added new links and styled accordingly
 WHY: Forgot to add them earlier. We will need to add an action to these
 eventually but may wait on that until we are getting results from the API</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IFByb2dyZXNzU2VydmljZSBmcm9tICcuLi8uLi9zZXJ2aWNlcy91c2VyUHJvZ3Jlc3NTZXJ2aWNlJzsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHF1b3RlQ2FuQmVSZXF1ZXN0ZWQgZnJvbSAnLi4vc2VydmljZXMvcXVvdGVDYW5CZVJlcXVlc3RlZCc7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHF1b3RlQ2FuQmVSZXF1ZXN0ZWQgZnJvbSAnLi4vc2VydmljZXMvcXVvdGVDYW5CZVJlcXVlc3RlZCc7Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">aW1wb3J0IHF1b3RlQ2FuQmVSZXF1ZXN0ZWQgZnJvbSAnLi4vc2VydmljZXMvcXVvdGVDYW5CZVJlcXVlc3RlZCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJaWYgKHF1b3RlQ2FuQmVSZXF1ZXN0ZWQoYXBwU3RhdGUpKSB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHF1b3RlQ2FuQmVSZXF1ZXN0ZWQgZnJvbSAnLi4vc2VydmljZXMvcXVvdGVDYW5CZVJlcXVlc3RlZCc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

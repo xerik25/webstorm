@@ -432,10 +432,10 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488229511362">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+      <file name="/Dummy.txt" timestamp="1488236041561">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/basicInfo/BasicInfo.js" timestamp="1486435807077">
         <mark key="[" line="90" column="11" />
@@ -670,10 +670,11 @@
         <mark key="." line="13" column="25" />
         <mark key="^" line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/QuoteDisplay.js" timestamp="1487964578376">
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="14" column="16" />
-        <mark key="." line="14" column="16" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/QuoteDisplay.js" timestamp="1488235789368">
+        <mark key="[" line="21" column="59" />
+        <mark key="]" line="22" column="20" />
+        <mark key="." line="22" column="20" />
+        <mark key="^" line="22" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/scriptTags/scodeAndSiteCatalyst.js" timestamp="1483636089143">
         <mark key="[" line="973" column="20" />
@@ -932,7 +933,7 @@
         <mark key="^" line="6" column="58" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/resultsGrid.js" timestamp="1488234494915">
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/resultsGrid.js" timestamp="1488234913279">
         <mark key="[" line="17" column="49" />
         <mark key="]" line="17" column="98" />
         <mark key="^" line="17" column="98" />
@@ -1283,10 +1284,14 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>An object of actions for this component</text>
+        <text>adding resultsGridBillingFrequency to intialAppState
+
+WHY: Because of the updates to our fake data for the results
+grid it made since to add something to intialAppState that would 
+toggle Monthly, Quarterly, and Annually</text>
       </register>
       <register name="-" type="4">
-        <text>An object of actions for this component</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -1294,8 +1299,12 @@
       <register name="0" type="2">
         <text encoding="base64">ICogQHBhcmFtIHtvYmplY3R9IGFjdGlvbnMgLSBBbiBvYmplY3Qgb2YgYWN0aW9ucyBmb3IgdGhpcyBjb21wb25lbnQK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCd0ZXN0JywgcmVzdWx0c0dyaWRSYXRlc1RvU2hvdyk7Cg==</text>
+      <register name="1" type="4">
+        <text>adding resultsGridBillingFrequency to intialAppState
+
+WHY: Because of the updates to our fake data for the results
+grid it made since to add something to intialAppState that would 
+toggle Monthly, Quarterly, and Annually</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1307,32 +1316,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlyZXN1bHRzR3JpZFJhdGVzVG9TaG93OiBzdGF0ZS5BcHAucmVzdWx0c0dyaWRSYXRlc1RvU2hvdywK</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCdzdGUnLCBzdGVwTnVtYmVyVG9TaG93KTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CWxldCByYXRlc1RvU2hvdyA9ICdxdW90ZUFtb3VudE1vbnRobHknOwo=</text>
+      <register name="3" type="4">
+        <text>add logic to conditionally show footer text
+
+HOW: Worked with Brett and we updated our fakeData
+so that it will now have policy names. Then added a .reduce
+and .some function to make sure the list of plans shows and the
+AGL or TransAmerica legal text shows if needed.</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CWNvbnNvbGUubG9nKCd0ZXN0JywgcmVzdWx0c0dyaWRSYXRlc1RvU2hvdyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlyZXN1bHRzR3JpZFJhdGVzVG9TaG93OiBzdGF0ZS5BcHAucmVzdWx0c0dyaWRSYXRlc1RvU2hvdywK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CWxldCByYXRlc1RvU2hvdyA9ICdxdW90ZUFtb3VudE1vbnRobHknOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CQkJcXVvdGVBbW91bnRRdWF0ZXJseTogNDUuMjUsCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>moved legal text to a constants file
 
 WHY: often times it seems like this text will get updated
 and it is rather lengthy so I thought moving to a constants
 file would make updating it down the road easier.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3Rlc3RpbmcnLCB0cmFuc2FtZXJpY2FDYXJyaWVySURUYWJsZSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJPHA+e2xlZ2FsVGV4dENvbnN0YW50cy5sZWdhbFRleHQ1fTwvcD4K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdyZXN1bHRzJywgcmVzdWx0cyk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3Rlc3RpbmcnLCB0cmFuc2FtZXJpY2FDYXJyaWVySURUYWJsZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

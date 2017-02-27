@@ -300,6 +300,12 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="63" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/initialAppState.js" timestamp="1488233806028">
+        <mark key="[" line="15" column="48" />
+        <mark key="]" line="15" column="48" />
+        <mark key="^" line="15" column="48" />
+        <mark key="." line="15" column="48" />
+      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/ShellContainer.js" timestamp="1485303636679">
         <mark key="[" line="7" column="45" />
         <mark key="]" line="7" column="43" />
@@ -461,8 +467,10 @@
         <mark key="." line="31" column="22" />
         <mark key="^" line="31" column="22" />
       </file>
-      <file name="/a.regexp" timestamp="1488228209861">
-        <mark key="[" line="0" column="0" />
+      <file name="/a.regexp" timestamp="1488234338911">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/package.json" timestamp="1487344943704">
         <mark key="[" line="22" column="31" />
@@ -476,11 +484,11 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/LegalTextContainer.js" timestamp="1488219174154">
-        <mark key="[" line="8" column="37" />
-        <mark key="]" line="8" column="37" />
-        <mark key="^" line="8" column="36" />
-        <mark key="." line="8" column="37" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/LegalTextContainer.js" timestamp="1488233846895">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="64" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-agent-referral-page/src/components/logos/Logos.js" timestamp="1487255267709">
         <mark key="[" line="23" column="54" />
@@ -638,10 +646,10 @@
         <mark key="^" line="2" column="35" />
         <mark key="." line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/ResultsGridContainer.js" timestamp="1487094795677">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/ResultsGridContainer.js" timestamp="1488233863100">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="65" />
+        <mark key="." line="11" column="0" />
         <mark key="^" line="7" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/SliderDragStopAction.js" timestamp="1483736908073">
@@ -924,11 +932,11 @@
         <mark key="^" line="6" column="58" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/resultsGrid.js" timestamp="1488230341218">
-        <mark key="[" line="26" column="90" />
-        <mark key="]" line="26" column="90" />
-        <mark key="^" line="26" column="91" />
-        <mark key="." line="26" column="90" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/resultsGrid.js" timestamp="1488234494915">
+        <mark key="[" line="17" column="49" />
+        <mark key="]" line="17" column="98" />
+        <mark key="^" line="17" column="98" />
+        <mark key="." line="17" column="98" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/QuoteForm.js" timestamp="1484003235916">
         <mark key="[" line="37" column="0" />
@@ -1275,19 +1283,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>An object of actions for this component</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>An object of actions for this component</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJcXVvdGVBbW91bnRRdWF0ZXJseTogMjIuMjUsCgkJCXF1b3RlQW1vdW50QW5udWFsbHk6IDMzLjI1LAo=</text>
+        <text encoding="base64">ICogQHBhcmFtIHtvYmplY3R9IGFjdGlvbnMgLSBBbiBvYmplY3Qgb2YgYWN0aW9ucyBmb3IgdGhpcyBjb21wb25lbnQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJcXVvdGVBbW91bnRRdWF0ZXJseTogNDUuMjUsCg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCd0ZXN0JywgcmVzdWx0c0dyaWRSYXRlc1RvU2hvdyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1298,30 +1306,30 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">CQlyZXN1bHRzR3JpZFJhdGVzVG9TaG93OiBzdGF0ZS5BcHAucmVzdWx0c0dyaWRSYXRlc1RvU2hvdywK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CWxldCByYXRlc1RvU2hvdyA9ICdxdW90ZUFtb3VudE1vbnRobHknOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJcXVvdGVBbW91bnRRdWF0ZXJseTogNDUuMjUsCg==</text>
+      </register>
+      <register name="5" type="4">
         <text>moved legal text to a constants file
 
 WHY: often times it seems like this text will get updated
 and it is rather lengthy so I thought moving to a constants
 file would make updating it down the road easier.</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coJ3Rlc3RpbmcnLCB0cmFuc2FtZXJpY2FDYXJyaWVySURUYWJsZSk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCQkJPHA+e2xlZ2FsVGV4dENvbnN0YW50cy5sZWdhbFRleHQ1fTwvcD4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdyZXN1bHRzJywgcmVzdWx0cyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IHRyYW5zYW1lcmljYUNhcnJpZXJJRFRhYmxlOwo=</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCdyZXN1bHRzJywgcmVzdWx0cyk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

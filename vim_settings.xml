@@ -258,11 +258,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/constants/legalTextConstants.js" timestamp="1488214072985">
-        <mark key="[" line="10" column="101" />
-        <mark key="]" line="10" column="101" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/constants/legalTextConstants.js" timestamp="1488216757841">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="14" />
         <mark key="^" line="4" column="40" />
-        <mark key="." line="10" column="101" />
+        <mark key="." line="10" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/reactreduxes6/src/reducers/index.js" timestamp="1484421175386">
         <mark key="[" line="7" column="9" />
@@ -312,6 +312,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/constants/transamericaCarrierIDTable.js" timestamp="1488216791265" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/services/focusInputField.js" timestamp="1486418392171">
         <mark key="[" line="31" column="32" />
         <mark key="]" line="24" column="50" />
@@ -455,7 +456,7 @@
         <mark key="." line="31" column="22" />
         <mark key="^" line="31" column="22" />
       </file>
-      <file name="/a.regexp" timestamp="1488213909664">
+      <file name="/a.regexp" timestamp="1488215490263">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/package.json" timestamp="1487344943704">
@@ -470,7 +471,7 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/LegalTextContainer.js" timestamp="1487971481341">
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/LegalTextContainer.js" timestamp="1488216861053">
         <mark key="[" line="6" column="48" />
         <mark key="]" line="6" column="48" />
         <mark key="^" line="6" column="48" />
@@ -697,11 +698,10 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/footer/LegalText.js" timestamp="1488215187533">
-        <mark key="[" line="29" column="65" />
-        <mark key="]" line="29" column="81" />
-        <mark key="." line="29" column="81" />
-        <mark key="^" line="29" column="81" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/footer/LegalText.js" timestamp="1488216877304">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/reactreduxes6/src/components/course/courseActions.test.js" timestamp="1485183086676">
         <mark key="[" line="1" column="49" />
@@ -1267,8 +1267,8 @@
       <jump line="84" column="12" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_orangeInputsContainer.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>if</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQl7LypUT0RPOiBJZiBUcmFuc2FtZXJpY2EgaXMgYSBwbGFuIHNob3cgbGVnYWxUZXh0NCovfQo=</text>
       </register>
       <register name="-" type="4">
         <text>if</text>
@@ -1280,7 +1280,7 @@
         <text encoding="base64">CQkJY29sb3I6IGJsYWNrOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCg==</text>
+        <text encoding="base64">CQkJCQl7LypUT0RPOiBJZiBUcmFuc2FtZXJpY2EgaXMgYSBwbGFuIHNob3cgbGVnYWxUZXh0NCovfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1292,28 +1292,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJPHNwYW4gY2xhc3NOYW1lPSJjb2xvci0taG90UGluayI+KHZhcmlhYmxlIHBlciBwZXJzb24pPC9zcGFuPgo=</text>
+        <text encoding="base64">CQkJCQl7LypUT0RPOiBTaG93IGxpc3Qgb2YgcGxhbnMgcmV0dXJuZWQgZnJvbSBBUEkgYWZ0ZXIgbGVnYWxUZXh0NCovfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJey8qVE9ETzogdXBkYXRlIHZhcmlhYmxlIHBlciBwZXJzb24qL30K</text>
+        <text encoding="base64">CQkJCQl7c2hvd1Jlc3VsdHNHcmlkTGVnYWxUZXh0ICYmIDxwPntsZWdhbFRleHRDb25zdGFudHMubGVnYWxUZXh0M308L3A+fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZS12aWV3cG9ydAo=</text>
+        <text encoding="base64">CWxlZ2FsVGV4dDQ6ICdUaGUgY29tcGFuaWVzIGFuZCBwb2xpY2llcyBsaXN0ZWQgYWJvdmUgZm9yIHRoZSBwdXJwb3NlcyBvZiB0aGlzIGJhbGxwYXJrIHF1b3RlIGFyZSAnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QGN1c3RvbS1tZWRpYSAtLXNtYWxsLXZpZXdwb3J0IChtYXgtd2lkdGg6IDMwZW0pOwo=</text>
+        <text encoding="base64">CWxlZ2FsVGV4dDU6ICdUZXJtIExpZmUgSW5zdXJhbmNlIHByb2R1Y3RzIGlzc3VlZCBieSBUcmFuc2FtZXJpY2EgTGlmZSBJbnN1cmFuY2UgQ29tcGFueSwgQ2VkYXIgUmFwaWRzLCBJQSBvciBpbiBOZXcgWW9yaywgVHJhbnNhbWVyaWNhIEZpbmFuY2lhbCBMaWZlIEluc3VyYW5jZSBDb21wYW55LCBIYXJyaXNvbiwgTlkuIFByZW1pdW1zIGluY3JlYXNlIGFubnVhbGx5IGJlZ2lubmluZyBpbiB5ZWFyIDExIGZvciB0aGUgMTAteWVhciBwb2xpY3ksIGluIHllYXIgMTYgZm9yIHRoZSAxNS15ZWFyIHBvbGljeSwgaW4geWVhciAyMSBmb3IgdGhlIDIwLXllYXIgcG9saWN5LCBpbiB5ZWFyIDI2IGZvciB0aGUgMjUgeWVhciBwb2xpY3ksIGFuZCBpbiB5ZWFyIDMxIGZvciB0aGUgMzAteWVhciBwb2xpY3kuIFBvbGljeSBmb3JtIGFuZCBudW1iZXIgbWF5IHZhcnksIGFuZCB0aGVzZSBwb2xpY2llcyBtYXkgbm90IGJlIGF2YWlsYWJsZSBpbiBhbGwganVyaXNkaWN0aW9ucy4gSW5zdXJhbmNlIGVsaWdpYmlsaXR5IGFuZCBwcmVtaXVtcyBhcmUgc3ViamVjdCB0byB1bmRlcndyaXRpbmcuIEluIG1vc3Qgc3RhdGVzLCBpbiB0aGUgZXZlbnQgb2Ygc3VpY2lkZSBkdXJpbmcgdGhlIGZpcnN0IHR3byBwb2xpY3kgeWVhcnMsIGRlYXRoIGJlbmVmaXRzIGFyZSBsaW1pdGVkIG9ubHkgdG8gdGhlIHJldHVybiBvZiBwcmVtaXVtcyBwYWlkLicsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QG1lZGlhICgtLXNtYWxsLXZpZXdwb3J0KSB7Cg==</text>
+        <text encoding="base64">CQkJCQkJey8qVE9ETzogb25seSBzaG93IGxlZ2FsVGV4dDUgaWYgdHJhbnNhbWVyaWNhIHBsYW5zIGFyZSBsaXN0ZWQqL30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGN1c3RvbS1tZWRpYSAtLXNtYWxsLXZpZXdwb3J0IChtYXgtd2lkdGg6IDMwZW0pOwo=</text>
+        <text encoding="base64">CQkJCQkJPHA+e2xlZ2FsVGV4dENvbnN0YW50cy5sZWdhbFRleHQ1fTwvcD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvKn0qLwo=</text>
+        <text encoding="base64">CQkJCQl7c2hvd1Jlc3VsdHNHcmlkTGVnYWxUZXh0ICYmIDxzcGFuPgoJCQkJCQl7LypUT0RPOiBvbmx5IHNob3cgbGVnYWxUZXh0NSBpZiB0cmFuc2FtZXJpY2EgcGxhbnMgYXJlIGxpc3RlZCovfQoJCQkJCQk8cD57bGVnYWxUZXh0Q29uc3RhbnRzLmxlZ2FsVGV4dDV9PC9wPgoJCQkJCQk8cD57bGVnYWxUZXh0Q29uc3RhbnRzLmxlZ2FsVGV4dDZ9PC9wPgoJCQkJCQk8cD57bGVnYWxUZXh0Q29uc3RhbnRzLmxlZ2FsVGV4dDd9PC9wPgoJCQkJCTwvc3Bhbj59Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJLypjb2xvcjogYmxhY2s7Ki8K</text>
+        <text encoding="base64">CQkJCQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

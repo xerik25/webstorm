@@ -258,11 +258,11 @@
         <mark key="^" line="34" column="10" />
         <mark key="." line="34" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/constants/legalTextConstants.js" timestamp="1488216757841">
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="10" column="14" />
-        <mark key="^" line="4" column="40" />
-        <mark key="." line="10" column="14" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/constants/legalTextConstants.js" timestamp="1488295929813">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="12" column="10" />
+        <mark key="." line="9" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/reactreduxes6/src/reducers/index.js" timestamp="1484421175386">
         <mark key="[" line="7" column="9" />
@@ -730,11 +730,11 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/footer/LegalText.js" timestamp="1488247728661">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="42" column="20" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/footer/LegalText.js" timestamp="1488295925195">
+        <mark key="[" line="28" column="44" />
+        <mark key="]" line="28" column="61" />
+        <mark key="." line="28" column="61" />
+        <mark key="^" line="28" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/vueSeed/src/components/testing.vue" timestamp="1488265597208">
         <mark key="[" line="19" column="5" />
@@ -1314,10 +1314,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>legalText3</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>legalText3</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -1326,7 +1326,7 @@
         <text encoding="base64">aW1wb3J0IEhlbGxvIGZyb20gJ0AvY29tcG9uZW50cy9IZWxsbycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1ldGhvZHM6IHsKICAgICAgaW5jcmVtZW50ICgpIHsKICAgICAgICBzdG9yZS5jb21taXQoJ2luY3JlbWVudCcpCiAgICAgIH0sCiAgICAgIGRlY3JlbWVudCAoKSB7CiAgICAgICAgc3RvcmUuY29tbWl0KCdkZWNyZW1lbnQnKQogICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICogQHBhcmFtCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1338,28 +1338,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtc2c6IGBXZWxjb21lIHRvIFlvdXIgVnVlLmpzIEFwcCBhbmQgSSBhbSAke3Rlc3Rpbmd9YAo=</text>
+        <text encoding="base64">ICAgIG1ldGhvZHM6IHsKICAgICAgaW5jcmVtZW50ICgpIHsKICAgICAgICBzdG9yZS5jb21taXQoJ2luY3JlbWVudCcpCiAgICAgIH0sCiAgICAgIGRlY3JlbWVudCAoKSB7CiAgICAgICAgc3RvcmUuY29tbWl0KCdkZWNyZW1lbnQnKQogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCB0ZXN0aW5nID0gJ3Rlc3RpbmcnCg==</text>
+        <text encoding="base64">ICAgICAgICBtc2c6IGBXZWxjb21lIHRvIFlvdXIgVnVlLmpzIEFwcCBhbmQgSSBhbSAke3Rlc3Rpbmd9YAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBjb25zdCB0ZXN0aW5nID0gJ3Rlc3RpbmcnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZS5jb21taXQoJ2RlY3JlbWVudCcpCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGVjcmVtZW50ICgpIHsK</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZS5jb21taXQoJ2RlY3JlbWVudCcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgZGVjcmVtZW50ICgpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZS5jb21taXQoJ2luY3JlbWVudCcpCg==</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

@@ -438,8 +438,8 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488295968928">
-        <mark key="[" line="0" column="13" />
+      <file name="/Dummy.txt" timestamp="1488315480253">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
@@ -479,7 +479,7 @@
         <mark key="." line="31" column="22" />
         <mark key="^" line="31" column="22" />
       </file>
-      <file name="/a.regexp" timestamp="1488259773586">
+      <file name="/a.regexp" timestamp="1488314974027">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -1149,11 +1149,11 @@
         <mark key="^" line="59" column="35" />
         <mark key="." line="59" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/module/_margin-and-padding.scss" timestamp="1488314540372">
-        <mark key="[" line="3" column="45" />
-        <mark key="]" line="3" column="45" />
-        <mark key="." line="3" column="45" />
-        <mark key="^" line="3" column="45" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/module/_margin-and-padding.scss" timestamp="1488315472319">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="11" />
+        <mark key="^" line="11" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/variables/_breakpoints.scss" timestamp="1483484560076">
         <mark key="[" line="3" column="26" />
@@ -1319,11 +1319,11 @@
       <jump line="84" column="12" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_orangeInputsContainer.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICogQGRlc2NyaXB0aW9uCg==</text>
+      <register name="&quot;" type="4">
+        <text>$base-font-size</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>$base-font-size</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -1332,7 +1332,7 @@
         <text>3</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQGRlc2NyaXB0aW9uCg==</text>
+        <text encoding="base64">QGltcG9ydCAiLi4vdG9vbGtpdCI7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1344,28 +1344,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogZXhhbXBsZSBnZW5lcmF0ZWQgY2xhc3NlcyBmb3IgZW06IC5tdC0xLCBtci0xLCBtYi0xLCBtbC0xIHwgLnB0LTEsIHByLTIsIHBiLTMsIHBsLTQK</text>
+        <text encoding="base64">ICogQGRlc2NyaXB0aW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogZXhhbXBsZSBnZW5lcmF0ZWQgY2xhc3NlcyBmb3IgcmVtOiAubXQtMSwgbXItMSwgbWItMSwgbWwtMSB8IC5wdC0xLCBwci0yLCBwYi0zLCBwbC00Cg==</text>
+        <text encoding="base64">ICogZXhhbXBsZSBnZW5lcmF0ZWQgY2xhc3NlcyBmb3IgZW06IC5tdC0xLCBtci0xLCBtYi0xLCBtbC0xIHwgLnB0LTEsIHByLTIsIHBiLTMsIHBsLTQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogZXhhbXBsZSBnZW5lcmF0ZWQgY2xhc3NlcyBmb3IgcHg6IC5tdC0xMHB4LCBtci0xMHB4LCBtYi0xMHB4LCBtbC0xMHB4IHwgLnB0LTEwcHgsIHByLTIwcHgsIHBiLTMwcHgsIHBsLTQwcHgK</text>
+        <text encoding="base64">ICogZXhhbXBsZSBnZW5lcmF0ZWQgY2xhc3NlcyBmb3IgcmVtOiAubXQtMSwgbXItMSwgbWItMSwgbWwtMSB8IC5wdC0xLCBwci0yLCBwYi0zLCBwbC00Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogbmFtaW5nIG9yZGVyIGZvbGxvd3MgdGhlIHByb3BlcnR5IHNob3J0aGFuZDoK</text>
+        <text encoding="base64">ICogZXhhbXBsZSBnZW5lcmF0ZWQgY2xhc3NlcyBmb3IgcHg6IC5tdC0xMHB4LCBtci0xMHB4LCBtYi0xMHB4LCBtbC0xMHB4IHwgLnB0LTEwcHgsIHByLTIwcHgsIHBiLTMwcHgsIHBsLTQwcHgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JGJhc2UtZm9udC1zaXplOiAxNjsK</text>
+        <text encoding="base64">ICogbmFtaW5nIG9yZGVyIGZvbGxvd3MgdGhlIHByb3BlcnR5IHNob3J0aGFuZDoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQltYXJnaW4tI3tudGgoJGl0ZW0sIDcpfTogI3tudGgoJGl0ZW0sIDIpfWVtOwo=</text>
+        <text encoding="base64">JGJhc2UtZm9udC1zaXplOiAxNjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQltYXJnaW4tI3tudGgoJGl0ZW0sIDcpfTogI3tudGgoJGl0ZW0sIDIpfWVtOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiRzdGVwOiAxOwokdG90YWw6ICRiYXNlLWZvbnQtc2l6ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

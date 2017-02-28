@@ -216,7 +216,12 @@
         <mark key="^" line="22" column="5" />
         <mark key="." line="22" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/felaTest/src/styles/scss/base/variables/_breakpoints.scss" timestamp="1488153899106" />
+      <file name="$USER_HOME$/Projects/vueSeed/src/initalAppState.js" timestamp="1488261749889">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/index.html" timestamp="1486676266257">
         <mark key="[" line="7" column="72" />
         <mark key="]" line="7" column="76" />
@@ -456,14 +461,20 @@
         <mark key="^" line="52" column="4" />
         <mark key="." line="52" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/vueSeed/src/components/Hello.vue" timestamp="1488261961387">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="43" column="3" />
+        <mark key="." line="43" column="3" />
+        <mark key="^" line="43" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/_mobileTermLengthInput.scss" timestamp="1485225095850">
         <mark key="[" line="31" column="22" />
         <mark key="]" line="31" column="22" />
         <mark key="." line="31" column="22" />
         <mark key="^" line="31" column="22" />
       </file>
-      <file name="/a.regexp" timestamp="1488234338911">
-        <mark key="[" line="0" column="11" />
+      <file name="/a.regexp" timestamp="1488259773586">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
@@ -905,6 +916,12 @@
         <mark key="." line="6" column="26" />
         <mark key="^" line="6" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/vueSeed/src/main.js" timestamp="1488261798623">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/common/Col.js" timestamp="1487187284758">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1126,7 +1143,6 @@
         <mark key="." line="53" column="23" />
         <mark key="^" line="53" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/AppReducer.js" timestamp="1488216949693" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/common/NextAndPreviousButton.js" timestamp="1483379719896">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="1" column="47" />
@@ -1273,28 +1289,20 @@
       <jump line="84" column="12" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_orangeInputsContainer.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>adding resultsGridBillingFrequency to intialAppState
-
-WHY: Because of the updates to our fake data for the results
-grid it made since to add something to intialAppState that would 
-toggle Monthly, Quarterly, and Annually</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ3N0YXRlJywgc3RhdGUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHtvYmplY3R9IGFjdGlvbnMgLSBBbiBvYmplY3Qgb2YgYWN0aW9ucyBmb3IgdGhpcyBjb21wb25lbnQK</text>
+        <text encoding="base64">c3RvcmUuY29tbWl0KCdpbmNyZW1lbnQnKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>adding resultsGridBillingFrequency to intialAppState
-
-WHY: Because of the updates to our fake data for the results
-grid it made since to add something to intialAppState that would 
-toggle Monthly, Quarterly, and Annually</text>
+      <register name="1" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ3N0YXRlJywgc3RhdGUpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1306,37 +1314,28 @@ toggle Monthly, Quarterly, and Annually</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdzdGUnLCBzdGVwTnVtYmVyVG9TaG93KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>add logic to conditionally show footer text
-
-HOW: Worked with Brett and we updated our fakeData
-so that it will now have policy names. Then added a .reduce
-and .some function to make sure the list of plans shows and the
-AGL or TransAmerica legal text shows if needed.</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHN0b3JlIGZyb20gJy4vaW5pdGFsQXBwU3RhdGUnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCd0ZXN0JywgcmVzdWx0c0dyaWRSYXRlc1RvU2hvdyk7Cg==</text>
+        <text encoding="base64">c3RvcmUuY29tbWl0KCdpbmNyZW1lbnQnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlyZXN1bHRzR3JpZFJhdGVzVG9TaG93OiBzdGF0ZS5BcHAucmVzdWx0c0dyaWRSYXRlc1RvU2hvdywK</text>
+        <text encoding="base64">W3Z1ZXhdIG11c3QgY2FsbCBWdWUudXNlKFZ1ZXgpIGJlZm9yZSBjcmVhdGluZyBhIHN0b3JlIGluc3RhbmNlLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWxldCByYXRlc1RvU2hvdyA9ICdxdW90ZUFtb3VudE1vbnRobHknOwo=</text>
+        <text encoding="base64">VnVlLnVzZShWdWV4KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJcXVvdGVBbW91bnRRdWF0ZXJseTogNDUuMjUsCg==</text>
+        <text encoding="base64">aW1wb3J0IFZ1ZXggZnJvbSAndnVleCcK</text>
       </register>
-      <register name="8" type="4">
-        <text>moved legal text to a constants file
-
-WHY: often times it seems like this text will get updated
-and it is rather lengthy so I thought moving to a constants
-file would make updating it down the road easier.</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3Rlc3RpbmcnLCB0cmFuc2FtZXJpY2FDYXJyaWVySURUYWJsZSk7Cg==</text>
+        <text encoding="base64">VnVlLnVzZShWdWV4KQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

@@ -324,6 +324,18 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/constants/resultsGridConstants.js" timestamp="1488559069254">
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+        <mark key="^" line="12" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/initialAppState.js" timestamp="1488556963742">
+        <mark key="[" line="67" column="54" />
+        <mark key="]" line="67" column="72" />
+        <mark key="." line="67" column="72" />
+        <mark key="^" line="67" column="72" />
+      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/ShellContainer.js" timestamp="1485303636679">
         <mark key="[" line="7" column="45" />
         <mark key="]" line="7" column="43" />
@@ -390,11 +402,11 @@
         <mark key="^" line="39" column="21" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/ResultItem.js" timestamp="1488495122335">
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="16" column="37" />
-        <mark key="." line="16" column="37" />
-        <mark key="^" line="16" column="37" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/ResultItem.js" timestamp="1488559427388">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="61" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="16" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/reactreduxes6/src/components/course/CorseForm.test.js" timestamp="1485039760225">
         <mark key="[" line="41" column="46" />
@@ -507,7 +519,7 @@
         <mark key="." line="31" column="22" />
         <mark key="^" line="31" column="22" />
       </file>
-      <file name="/a.regexp" timestamp="1488494205232">
+      <file name="/a.regexp" timestamp="1488558818823">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -699,10 +711,11 @@
         <mark key="^" line="2" column="35" />
         <mark key="." line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/ResultsGridContainer.js" timestamp="1488555190569">
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/ResultsGridContainer.js" timestamp="1488558990739">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
+        <mark key="^" line="33" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/SliderDragStopAction.js" timestamp="1483736908073">
         <mark key="[" line="7" column="32" />
@@ -1190,11 +1203,11 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/ResultsGrid.js" timestamp="1488555363328">
-        <mark key="[" line="41" column="59" />
-        <mark key="]" line="41" column="59" />
-        <mark key="." line="41" column="59" />
-        <mark key="^" line="41" column="59" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/ResultsGrid.js" timestamp="1488559773092">
+        <mark key="[" line="51" column="43" />
+        <mark key="]" line="51" column="44" />
+        <mark key="." line="51" column="44" />
+        <mark key="^" line="51" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/variables/_breakpoints.scss" timestamp="1483484560076">
         <mark key="[" line="3" column="26" />
@@ -1379,8 +1392,8 @@
       <jump line="26" column="36" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/AppReducer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCTxzcGFuPnt2YWx1ZSA/IHZhbHVlLnRvRml4ZWQoMikgOiAnPyd9PC9zcGFuPgo=</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1392,10 +1405,10 @@
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCXtbJ01vbnRobHknLCAnUXVhcnRlcmx5JywgJ0FubnVhbGx5J10ubWFwKChmcmVxdWVuY3kpID0+CgkJCQkJPGxpCgkJCQkJCWtleT17ZnJlcXVlbmN5fQoJCQkJCQljbGFzc05hbWU9InJlc3VsdHNHcmlkX19maWx0ZXJMaW5rIgoJCQkJCQlvbkNsaWNrPXsoKSA9PiB7CgkJCQkJCQlhY3Rpb25zLnVwZGF0ZVJlc3VsdHNHcmlkQmlsbGluZ0ZyZXF1ZW5jeShjb25zdGFudHNbYGJpbGxpbmdGcmVxdWVuY3kke2ZyZXF1ZW5jeX1gXSkKCQkJCQkJfX0+e2ZyZXF1ZW5jeX0KCQkJCQk8L2xpPgoJCQkJKX0K</text>
+        <text encoding="base64">CQkJCTxzcGFuPnt2YWx1ZSA/IHZhbHVlLnRvRml4ZWQoMikgOiAnPyd9PC9zcGFuPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWZyZXF1ZW5jaWVzOiB7CgkJbW9udGhseTogJ21vbnRobHknLAoJCXF1YXJ0ZXJseTogJ3F1YXJ0ZXJseScsCgkJYW5udWFsbHk6ICdhbm51YWxseScKCX0K</text>
+        <text encoding="base64">CQlzb21ldGhpbmc6ICdTb21ldGhpbmcnCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1407,28 +1420,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCd0ZXN0JywgZnJlcXVlbmN5LCByZXN1bHRzKTsK</text>
+        <text encoding="base64">CS8vIHJldHVybiByZXN1bHRzLm1hcCgocmVzdWx0KSA9PiB7CgkvLyAJaWYgKHJlc3VsdFtgcXVvdGVBbW91bnQke2ZyZXF1ZW5jeX1gXSkgewoJLy8gCQlyZXR1cm4gcmVzdWx0W2BxdW90ZUFtb3VudCR7ZnJlcXVlbmN5fWBdOwoJLy8gCX0gZWxzZSB7CgkvLyAJCWNvbnNvbGUubG9nKCdubyBkYXRhIGZvdW5kJyk7CgkvLyAJCXJldHVybiByZXN1bHRbJ3F1b3RlQW1vdW50TW9udGhseSddOwoJLy8gCX0KCS8vIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCXsvKntPYmplY3Qua2V5cyhjb25zdGFudHMuZnJlcXVlbmNpZXMpLm1hcCgoZnJlcXVlbmN5KSA9PiovfQoJCQkJCXsvKjxsaSovfQoJCQkJCQl7LyprZXk9e2ZyZXF1ZW5jeX0qL30KCQkJCQkJey8qY2xhc3NOYW1lPSJyZXN1bHRzR3JpZF9fZmlsdGVyTGluayIqL30KCQkJCQkJey8qb25DbGljaz17KCkgPT4geyovfQoJCQkJCQkJey8qYWN0aW9ucy51cGRhdGVSZXN1bHRzR3JpZEJpbGxpbmdGcmVxdWVuY3koY29uc3RhbnRzW2BiaWxsaW5nRnJlcXVlbmN5JHtmcmVxdWVuY3l9YF0pKi99CgkJCQkJCXsvKn19PntmcmVxdWVuY3l9Ki99CgkJCQkJey8qPC9saT4qL30KCQkJCXsvKil9Ki99Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QWRkaW5nIEpTRG9jIGZvciBib2R5SW5wdXQK</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCd0ZXN0JywgZnJlcXVlbmN5LCByZXN1bHRzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWNvbnN0IGZuID0gYWN0aW9ucy51cGRhdGVSZXN1bHRzR3JpZEJpbGxpbmdGcmVxdWVuY3k7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtjYXBpdGFsaXplRmlyc3RMZXR0ZXJ9IGZyb20gJy4uL3NlcnZpY2VzL3V0aWxpdGllcyc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCXtjb25zdCBmbn0K</text>
+        <text encoding="base64">CWJpbGxpbmdGcmVxdWVuY3lBbm51YWxseTogJ2FubnVhbGx5JywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWNvbnN0IGZuCg==</text>
+        <text encoding="base64">CWJpbGxpbmdGcmVxdWVuY3lRdWFydGVybHk6ICdxdWFydGVybHknLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJY2xhc3NOYW1lPSJyZXN1bHRzR3JpZF9fZmlsdGVyTGluayIK</text>
+        <text encoding="base64">CWJpbGxpbmdGcmVxdWVuY3lNb250aGx5OiAnbW9udGhseScsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCTxsaSBjbGFzc05hbWU9InJlc3VsdHNHcmlkX19maWx0ZXJMaW5rIiBvbkNsaWNrPXsoZXZlbnQpID0+IGFjdGlvbnMudXBkYXRlUmVzdWx0c0dyaWRCaWxsaW5nRnJlcXVlbmN5KGNvbnN0YW50cy5iaWxsaW5nRnJlcXVlbmN5QW5udWFsbHkpfT5Bbm51YWxseTwvbGk+Cg==</text>
+        <text encoding="base64">CQkJCQkJCWNvbnNvbGUubG9nKCdmcmVxJywgY29uc3RhbnRzLmZyZXF1ZW5jaWVzW2tleV0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

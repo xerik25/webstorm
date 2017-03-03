@@ -480,8 +480,11 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488496776380">
+      <file name="/Dummy.txt" timestamp="1488561945161">
+        <mark key="'" line="0" column="50" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/basicInfo/BasicInfo.js" timestamp="1486435807077">
         <mark key="[" line="90" column="11" />
@@ -1203,12 +1206,6 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/ResultsGrid.js" timestamp="1488561128933">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="69" column="69" />
-      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/variables/_breakpoints.scss" timestamp="1483484560076">
         <mark key="[" line="3" column="26" />
         <mark key="]" line="3" column="28" />
@@ -1382,7 +1379,6 @@
       <jump line="92" column="41" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/BigQuoteBar.js" />
       <jump line="125" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/BigQuoteBar.js" />
       <jump line="84" column="12" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_orangeInputsContainer.scss" />
-      <jump line="0" column="12" filename="/Dummy.txt" />
       <jump line="21" column="20" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/initialAppState.js" />
       <jump line="38" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/BigQuoteBar.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/healthInfo/BodyInput.js" />
@@ -1390,16 +1386,17 @@
       <jump line="57" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/index.js" />
       <jump line="23" column="58" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/AppReducer.js" />
       <jump line="26" column="36" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/AppReducer.js" />
+      <jump line="0" column="50" filename="/Dummy.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>updating JSDOC for updateResultsGridBilling action</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>updating JSDOC for updateResultsGridBilling action</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>

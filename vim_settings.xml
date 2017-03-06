@@ -138,11 +138,11 @@
         <mark key="^" line="14" column="22" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/ResultsGridRequested.js" timestamp="1488839420355">
-        <mark key="[" line="35" column="4" />
-        <mark key="]" line="35" column="6" />
-        <mark key="." line="35" column="6" />
-        <mark key="^" line="35" column="6" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/ResultsGridRequested.js" timestamp="1488840910550">
+        <mark key="[" line="44" column="41" />
+        <mark key="]" line="45" column="15" />
+        <mark key="." line="45" column="15" />
+        <mark key="^" line="45" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/scriptTags/hotjar.js" timestamp="1483635318866">
         <mark key="[" line="4" column="16" />
@@ -1384,13 +1384,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>var</text>
+        <text>timer</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>timer</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -1399,7 +1399,7 @@
         <text encoding="base64">CQkJLy8gcmV0dXJuIE9iamVjdC5hc3NpZ24oe30sIHN0YXRlLCB7aXNSZWRpcmVjdFJlYWR5OiB0cnVlfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyIHRpbWVyID0gc2V0VGltZW91dCgoKSA9PiB7Cgljb25zb2xlLmxvZygnZGlkIEkgd2luJyk7Cn0sIHRpbWVvdXQpOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1411,28 +1411,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXRpbWVyKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Y29uc3QgdGltZXIgPSBzZXRUaW1lb3V0KHRlc3RpbmcsIHRpbWVvdXQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXNldFRpbWVvdXQoKCkgPT4gewoJfSwgdGltZW91dCk7Cg==</text>
+        <text encoding="base64">CXRpbWVyKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CX0sIHRpbWVvdXQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJdHlwZTogJ1JFRElSRVRJTkcnCg==</text>
+        <text encoding="base64">CXRpbWVyID0gc2V0VGltZW91dCgoKSA9PiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlyZXR1cm4gewo=</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygnZGlkIEkgd2luJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWRpc3BhdGNoKEZvcm1SZWFkeUZvclJlZGlyZWN0KGRpc3BhdGNoKSk7Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IHRpbWVyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

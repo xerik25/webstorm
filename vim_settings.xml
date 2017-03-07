@@ -482,10 +482,10 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488912895884">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+      <file name="/Dummy.txt" timestamp="1488918206159">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="41" />
+        <mark key="." line="0" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/basicInfo/BasicInfo.js" timestamp="1486435807077">
         <mark key="[" line="90" column="11" />
@@ -899,16 +899,16 @@
         <mark key="^" line="5" column="26" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/FormSubmitted.js" timestamp="1488915828529">
-        <mark key="[" line="98" column="8" />
-        <mark key="]" line="98" column="43" />
-        <mark key="." line="98" column="43" />
-        <mark key="^" line="98" column="43" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/FormSubmitted.js" timestamp="1488917983951">
+        <mark key="[" line="99" column="41" />
+        <mark key="]" line="99" column="41" />
+        <mark key="." line="99" column="41" />
+        <mark key="^" line="99" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/App.js" timestamp="1488903244930">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="41" column="37" />
-        <mark key="." line="41" column="37" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/App.js" timestamp="1488917427753">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
         <mark key="^" line="41" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/ContactInfoContainer.js" timestamp="1488322181944">
@@ -1379,7 +1379,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlkaXNwYXRjaChzdGFydFRpbWVyRm9yUmVkaXJlY3QoKSk7Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1390,11 +1390,11 @@
       <register name="/" type="4">
         <text>nav</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CXJldHVybiAoZGlzcGF0Y2gsIGdldFN0YXRlKSA9PiB7Cg==</text>
+      <register name="0" type="4">
+        <text>dispatch(startTimerForRedirect())</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlkaXNwYXRjaChzdGFydFRpbWVyRm9yUmVkaXJlY3QoKSk7Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1406,28 +1406,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXJldHVybiAoZGlzcGF0Y2gsIGdldFN0YXRlKSA9PiB7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">CX07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlyZXN1bHQK</text>
+        <text encoding="base64">CXJldHVybiAoZGlzcGF0Y2gsIGdldFN0YXRlKSA9PiB7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQl0eXBlOiBUeXBlcy5GT1JNX1NVQk1JU1NJT05fU1VDQ0VTUywK</text>
+      <register name="5" type="4">
+        <text>resultsGridSuccess reducer
+
+WHY: I deleted the old reducer for isReadyToRedirect and moved the
+update of isReadyToRedirect to resultsGridSuccess so that when 
+the user clicks the first submit button the value will be false, until 
+the resutlsGrid comes in to place. Then it is marked true so when the
+use clicks on a result in the grid it will then</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXJldHVybiB7Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHtzdG9wVGltZXJGb3JSZWRpcmVjdCwgRm9ybVJlYWR5Rm9yUmVkaXJlY3R9IGZyb20gJy4vUmVzdWx0c0dyaWRSZXF1ZXN0ZWQnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWRpc3BhdGNoKHN0YXJ0VGltZXJGb3JSZWRpcmVjdCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCS8vIGRpc3BhdGNoKHN0YXJ0VGltZXJGb3JSZWRpcmVjdCgpKTsK</text>
+        <text encoding="base64">CWNvbXBvbmVudFdpbGxSZWNlaXZlUHJvcHMocHJvcHMpIHt9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgdGltZW91dEJlZm9yZVJlZGlyZWN0ID0gNTAwMDsKbGV0IHRpbWVvdXRGbjsK</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCd0aW1lciBzdG9wcGVkISEhJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

@@ -482,7 +482,7 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488907295668">
+      <file name="/Dummy.txt" timestamp="1488912895884">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -913,11 +913,11 @@
         <mark key="^" line="5" column="26" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/FormSubmitted.js" timestamp="1488908037063">
-        <mark key="[" line="24" column="15" />
-        <mark key="]" line="24" column="48" />
-        <mark key="." line="24" column="48" />
-        <mark key="^" line="24" column="48" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/FormSubmitted.js" timestamp="1488913234022">
+        <mark key="[" line="70" column="4" />
+        <mark key="]" line="69" column="21" />
+        <mark key="." line="69" column="21" />
+        <mark key="^" line="69" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/App.js" timestamp="1488903244930">
         <mark key="[" line="42" column="0" />
@@ -1392,14 +1392,14 @@
       <jump line="4" column="20" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/ResultsGridRequested.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>{</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>nateIsAWinner</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -1407,8 +1407,11 @@
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgRm9ybVJlYWR5Rm9yUmVkaXJlY3QgPSAoKSA9PiB7CglyZXR1cm4gKGRpc3BhdGNoLCBnZXRTdGF0ZSkgPT4gewoJCWRpc3BhdGNoKHt0eXBlOiBUeXBlcy5TRVRfSVNfUkVESVJFQ1RfUkVBRFl9KTsKCQl3aW5kb3cubG9jYXRpb24ucmVwbGFjZShnZXRTdGF0ZSgpLkFwcC5yZWRpcmVjdExpbmspOwoJfTsKfTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+      <register name="1" type="4">
+        <text>Renaming functions and moving redirect from app.js to action
+
+WHY: The redirect should be in the action and not app.js so we can track
+it better.</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1420,28 +1423,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIE9iamVjdC5hc3NpZ24oe30sIHN0YXRlLCB7aXNSZWRpcmVjdFJlYWR5OiB0cnVlfSkK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQljYXNlIFR5cGVzLlNFVF9JU19SRURJUkVDVF9SRUFEWTogewo=</text>
+        <text encoding="base64">CQkJcmV0dXJuIE9iamVjdC5hc3NpZ24oe30sIHN0YXRlLCB7aXNSZWRpcmVjdFJlYWR5OiB0cnVlfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQljYXNlIFR5cGVzLlNFVF9JU19SRURJUkVDVF9SRUFEWTogewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlzdG9wVGltZXJGb3JSZWRpcmVjdCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CX07Cg==</text>
+        <text encoding="base64">CQlzdG9wVGltZXJGb3JSZWRpcmVjdCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CX07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXJldHVybiB7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CXJldHVybiB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

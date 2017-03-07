@@ -325,11 +325,11 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/constants/resultsGridConstants.js" timestamp="1488561203387">
-        <mark key="[" line="12" column="28" />
-        <mark key="]" line="12" column="28" />
-        <mark key="." line="12" column="28" />
-        <mark key="^" line="12" column="27" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/constants/resultsGridConstants.js" timestamp="1488926880509">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+        <mark key="^" line="14" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/initialAppState.js" timestamp="1488923466554">
         <mark key="'" line="8" column="13" />
@@ -356,11 +356,10 @@
         <mark key="^" line="5" column="7" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultsGrid.scss" timestamp="1488921438211">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="^" line="102" column="27" />
-        <mark key="." line="103" column="0" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultsGrid.scss" timestamp="1488926560673">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/services/focusInputField.js" timestamp="1486418392171">
         <mark key="[" line="31" column="32" />
@@ -488,10 +487,8 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488923660806">
+      <file name="/Dummy.txt" timestamp="1488926888704">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/basicInfo/BasicInfo.js" timestamp="1486435807077">
         <mark key="[" line="90" column="11" />
@@ -905,11 +902,11 @@
         <mark key="^" line="5" column="26" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/FormSubmitted.js" timestamp="1488923688560">
-        <mark key="[" line="99" column="41" />
-        <mark key="]" line="99" column="41" />
-        <mark key="." line="99" column="41" />
-        <mark key="^" line="99" column="41" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/FormSubmitted.js" timestamp="1488926831071">
+        <mark key="[" line="115" column="92" />
+        <mark key="]" line="115" column="101" />
+        <mark key="." line="115" column="101" />
+        <mark key="^" line="115" column="101" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/App.js" timestamp="1488917427753">
         <mark key="[" line="41" column="0" />
@@ -1205,11 +1202,11 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/ResultsGrid.js" timestamp="1488923359806">
-        <mark key="[" line="31" column="37" />
-        <mark key="]" line="32" column="20" />
-        <mark key="^" line="32" column="20" />
-        <mark key="." line="32" column="20" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/ResultsGrid.js" timestamp="1488926438126">
+        <mark key="[" line="24" column="47" />
+        <mark key="]" line="24" column="55" />
+        <mark key="^" line="24" column="55" />
+        <mark key="." line="24" column="55" />
       </file>
       <file name="/ResultsGridRequested.js" timestamp="1488904393455" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/variables/_breakpoints.scss" timestamp="1483484560076">
@@ -1390,13 +1387,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Adding indicator to results grid filter so you know which results are showingAdding indicator to results grid filter so you know which results are showing</text>
+        <text>5</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Adding indicator to results grid filter so you know which results are showingAdding indicator to results grid filter so you know which results are showing</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -1405,7 +1402,7 @@
         <text>dispatch(startTimerForRedirect())</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Y29uc3QgdGltZW91dEJlZm9yZVJlZGlyZWN0ID0gNTAwMDsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1416,39 +1413,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>Setting isReadyToRedirect in FormSubmissionSuccess reducer
-
-WHY: We want to wait until we hear back from Proplusion before we 
-update the bool and start the timer. Also since we are moving the bool
-it made sense to start the timer in the FormSubmitted action as well.</text>
-      </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">CX0K</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CSZfX2ZpbHRlcjpub3QoOmxhc3QtY2hpbGQpIHsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CXJldHVybiAoZGlzcGF0Y2gsIGdldFN0YXRlKSA9PiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CX07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXJldHVybiAoZGlzcGF0Y2gsIGdldFN0YXRlKSA9PiB7Cg==</text>
+        <text encoding="base64">CQlib3JkZXItcmlnaHQ6IHNvbGlkIHB4VG9SZW0oMSkgJGNvbmNyZXRlOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>resultsGridSuccess reducer
-
-WHY: I deleted the old reducer for isReadyToRedirect and moved the
-update of isReadyToRedirect to resultsGridSuccess so that when 
-the user clicks the first submit button the value will be false, until 
-the resutlsGrid comes in to place. Then it is marked true so when the
-use clicks on a result in the grid it will then</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHtzdG9wVGltZXJGb3JSZWRpcmVjdCwgRm9ybVJlYWR5Rm9yUmVkaXJlY3R9IGZyb20gJy4vUmVzdWx0c0dyaWRSZXF1ZXN0ZWQnOwo=</text>
+        <text encoding="base64">CQliYWNrZ3JvdW5kOiB0cmFuc3BhcmVudDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQljdXJzb3I6IHBvaW50ZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

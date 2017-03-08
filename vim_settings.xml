@@ -487,8 +487,8 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488982661232">
-        <mark key="[" line="0" column="12" />
+      <file name="/Dummy.txt" timestamp="1488985182643">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
@@ -904,11 +904,11 @@
         <mark key="^" line="5" column="26" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/FormSubmitted.js" timestamp="1488982428221">
-        <mark key="[" line="94" column="6" />
-        <mark key="]" line="94" column="7" />
-        <mark key="." line="94" column="7" />
-        <mark key="^" line="118" column="6" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/FormSubmitted.js" timestamp="1488985391880">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="117" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/App.js" timestamp="1488917427753">
         <mark key="[" line="41" column="0" />
@@ -1388,23 +1388,23 @@
       <jump line="4" column="20" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/ResultsGridRequested.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGRpc2FibGVkPXtmb3JtSXNTdWJtaXR0aW5nfQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CS8vVE9ETzogQnJldHQgbWF5IG1vdmUgdGhpcyBvbiByZWZhY3Rvcgo=</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGRpc2FibGVkPXtmb3JtSXNTdWJtaXR0aW5nfQ==</text>
+        <text>will</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
-      <register name="0" type="4">
-        <text>dispatch(startTimerForRedirect())</text>
+      <register name="0" type="2">
+        <text encoding="base64">CS8vVE9ETzogQnJldHQgbWF5IG1vdmUgdGhpcyBvbiByZWZhY3Rvcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgdGltZW91dEJlZm9yZVJlZGlyZWN0ID0gNTAwMDsK</text>
+        <text encoding="base64">CS8vVE9ETzogQnJldHQgbWF5IG1vdmUgdGhpcyBvbiByZWZhY3Rvcgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1416,28 +1416,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CS8vVE9ETzogQnJldHQgbWF5IG1vdmUgdGhpcyBvbiByZWZhY3Rvcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSZfX2ZpbHRlcjpub3QoOmxhc3QtY2hpbGQpIHsK</text>
+        <text encoding="base64">ICogQGNvbnN0cnVjdG9yCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQGNvbnN0cnVjdG9yCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQGNvbnN0cnVjdG9yCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlib3JkZXItcmlnaHQ6IHNvbGlkIHB4VG9SZW0oMSkgJGNvbmNyZXRlOwo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQliYWNrZ3JvdW5kOiB0cmFuc3BhcmVudDsK</text>
+        <text encoding="base64">ICogQGRlc2NyaXB0aW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljdXJzb3I6IHBvaW50ZXI7Cg==</text>
+        <text encoding="base64">ICogQHJldHVybnMge29iamVjdH0K</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

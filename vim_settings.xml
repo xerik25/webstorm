@@ -40,7 +40,12 @@
         <mark key="^" line="25" column="32" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1489002272939">
+      <file name="/Dummy.txt" timestamp="1489004222393">
+        <mark key="[" line="2" column="57" />
+        <mark key="]" line="2" column="53" />
+        <mark key="." line="2" column="57" />
+      </file>
+      <file name="/a.regexp" timestamp="1489020184567">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -211,13 +216,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>is</text>
+        <text>prop</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>is</text>
+        <text>prop</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -225,8 +230,11 @@
       <register name="0" type="2">
         <text encoding="base64">CQllcnJvck1lc3NhZ2VQcmltYXJ5OiBjb25zdGFudHMuZXJyb3JNZXNzYWdlcywK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">U1FMSUYtMjkyIC8gQ2hhbmdlZCBlcnJvciBtZXNzYWdlIHRvIHVzZSBtYXhXaWR0aAoKSE9XOiBpbnN0ZWFkIG9mIHNlbmRpbmcgYW4gb2JqZWN0IHdpdGggZXJyb3IgbWVzc2FnZSBJIApicm9rZSBpdCBvdXQgdG8gdHdvIHN0cmluZ3MgYWdhaW4gYW5kIHVzZWQgbWF4V2lkdGggdG8KY29udHJvbCB0aGluZ3MuCgpXSFk6IExvb2tzIGJldHRlciBvbiB2YXJpb3VzIGJyZWFrcG9pbnRzIGJlY2F1c2Ugb2Ygd29yZC13cmFwCg==</text>
+      <register name="1" type="4">
+        <text>setting errorMessage from constants in resultGrid instead of container
+
+WHY: Talked to Nate and since we really aren't mapping state to props we
+should probably be doing it in the component instead.</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -238,24 +246,27 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWVycm9yTWVzc2FnZVNlY29uZGFyeTogUmVhY3QuUHJvcFR5cGVzLnN0cmluZwo=</text>
+        <text encoding="base64">U1FMSUYtMjkyIC8gQ2hhbmdlZCBlcnJvciBtZXNzYWdlIHRvIHVzZSBtYXhXaWR0aAoKSE9XOiBpbnN0ZWFkIG9mIHNlbmRpbmcgYW4gb2JqZWN0IHdpdGggZXJyb3IgbWVzc2FnZSBJIApicm9rZSBpdCBvdXQgdG8gdHdvIHN0cmluZ3MgYWdhaW4gYW5kIHVzZWQgbWF4V2lkdGggdG8KY29udHJvbCB0aGluZ3MuCgpXSFk6IExvb2tzIGJldHRlciBvbiB2YXJpb3VzIGJyZWFrcG9pbnRzIGJlY2F1c2Ugb2Ygd29yZC13cmFwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWVycm9yTWVzc2FnZVByaW1hcnk6IFJlYWN0LlByb3BUeXBlcy5zdHJpbmcsCg==</text>
+        <text encoding="base64">CWVycm9yTWVzc2FnZVNlY29uZGFyeTogUmVhY3QuUHJvcFR5cGVzLnN0cmluZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbnN0YW50cyBmcm9tICcuLi9jb25zdGFudHMvcmVzdWx0c0dyaWRDb25zdGFudHMnOwo=</text>
+        <text encoding="base64">CWVycm9yTWVzc2FnZVByaW1hcnk6IFJlYWN0LlByb3BUeXBlcy5zdHJpbmcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQllcnJvck1lc3NhZ2VTZWNvbmRhcnk6IGNvbnN0YW50cy5lcnJvck1lc3NhZ2VTZWNvbmRhcnksCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbnN0YW50cyBmcm9tICcuLi9jb25zdGFudHMvcmVzdWx0c0dyaWRDb25zdGFudHMnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQllcnJvck1lc3NhZ2VQcmltYXJ5OiBjb25zdGFudHMuZXJyb3JNZXNzYWdlUHJpbWFyeSwK</text>
+        <text encoding="base64">CQllcnJvck1lc3NhZ2VTZWNvbmRhcnk6IGNvbnN0YW50cy5lcnJvck1lc3NhZ2VTZWNvbmRhcnksCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">CQllcnJvck1lc3NhZ2VQcmltYXJ5OiBjb25zdGFudHMuZXJyb3JNZXNzYWdlUHJpbWFyeSwK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>Adding error message and styles for redirectPrompt
 
 HOW/WHY: Stored the message in constants, updated styles to match creative
@@ -264,9 +275,6 @@ it to below the carriers. That way the message is closer to the grid for
 the user to see but also prevents lots of padding issues we would have
 making th error container connect to the hero on desktop and fixed
 header on mobile.</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CX0K</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

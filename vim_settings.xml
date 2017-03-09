@@ -70,9 +70,6 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/UpdateSection.js" timestamp="1489098892106" />
-      <file name="/Dummy.txt" timestamp="1489099927881">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/initialAppState.js" timestamp="1489098121847">
         <mark key="[" line="74" column="7" />
         <mark key="]" line="74" column="7" />
@@ -112,6 +109,12 @@
         <mark key="]" line="32" column="73" />
         <mark key="^" line="111" column="46" />
         <mark key="." line="32" column="73" />
+      </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/submitSection/SubmitSection.js" timestamp="1489100803630">
+        <mark key="[" line="33" column="76" />
+        <mark key="]" line="33" column="76" />
+        <mark key="." line="33" column="83" />
+        <mark key="^" line="26" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/SubmitForm.js" timestamp="1489099914200">
         <mark key="'" line="4" column="45" />
@@ -258,14 +261,14 @@
       <jump line="4" column="45" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/SubmitForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWRlYnVnZ2VyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>next</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>next</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>

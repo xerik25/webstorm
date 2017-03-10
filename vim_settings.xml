@@ -40,11 +40,11 @@
         <mark key="^" line="68" column="42" />
         <mark key="." line="68" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/SubmissionContainer.js" timestamp="1489099045760">
-        <mark key="[" line="23" column="70" />
-        <mark key="]" line="24" column="63" />
-        <mark key="^" line="24" column="63" />
-        <mark key="." line="24" column="63" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/SubmissionContainer.js" timestamp="1489104359541">
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="12" column="56" />
+        <mark key="^" line="12" column="56" />
+        <mark key="." line="12" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/BasicInfoContainer.js" timestamp="1489003284034">
         <mark key="[" line="11" column="35" />
@@ -70,7 +70,7 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/UpdateSection.js" timestamp="1489098892106" />
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/initialAppState.js" timestamp="1489098121847">
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/initialAppState.js" timestamp="1489104331872">
         <mark key="[" line="74" column="7" />
         <mark key="]" line="74" column="7" />
         <mark key="." line="74" column="7" />
@@ -92,7 +92,7 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="41" column="37" />
       </file>
-      <file name="/a.regexp" timestamp="1489098151960">
+      <file name="/a.regexp" timestamp="1489104333322">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -110,7 +110,7 @@
         <mark key="^" line="32" column="116" />
         <mark key="." line="32" column="116" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/submitSection/SubmitSection.js" timestamp="1489100803630">
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/submitSection/SubmitSection.js" timestamp="1489104246971">
         <mark key="[" line="33" column="76" />
         <mark key="]" line="33" column="76" />
         <mark key="." line="33" column="83" />
@@ -261,14 +261,14 @@
       <jump line="4" column="45" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/SubmitForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCWN1cnJlbnRTZWN0aW9uOiAzCg==</text>
+      <register name="&quot;" type="4">
+        <text>quoteIsBeingRequested</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>next</text>
+        <text>quoteIsBeingRequested</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>

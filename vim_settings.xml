@@ -6,11 +6,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/RedirectTimeouts.js" timestamp="1489174264663">
-        <mark key="[" line="31" column="88" />
-        <mark key="]" line="31" column="88" />
-        <mark key="." line="31" column="88" />
-        <mark key="^" line="31" column="88" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/RedirectTimeouts.js" timestamp="1489181586201">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="91" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/submitSection/SubmitButton.js" timestamp="1489168088533" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/images/index.js" timestamp="1489091961638">
@@ -77,6 +77,12 @@
         <mark key="^" line="20" column="24" />
         <mark key="." line="20" column="24" />
       </file>
+      <file name="/Dummy.txt" timestamp="1489179894151">
+        <mark key="'" line="2" column="2" />
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="2" column="2" />
+        <mark key="." line="2" column="2" />
+      </file>
       <file name="$USER_HOME$/Projects/react-redux-boilerplate/src/components/common/Row.js" timestamp="1489164627845">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -126,13 +132,13 @@
         <mark key="." line="37" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/submitSection/SubmitSection.js" timestamp="1489104246971" />
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/LegalTextContainer.js" timestamp="1489171497476">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="8" column="71" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/LegalTextContainer.js" timestamp="1489181290954">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="120" />
+        <mark key="." line="8" column="120" />
+        <mark key="^" line="8" column="120" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/SubmitForm.js" timestamp="1489174649090">
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/SubmitForm.js" timestamp="1489181533436">
         <mark key="'" line="57" column="5" />
         <mark key="[" line="13" column="46" />
         <mark key="]" line="13" column="46" />
@@ -167,11 +173,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/FollowRedirect.js" timestamp="1489099733126">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="11" column="21" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/FollowRedirect.js" timestamp="1489182007633">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/common/CustomPhoneInput.js" timestamp="1489176743564" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/AppTypes.js" timestamp="1488924101527">
@@ -233,7 +239,6 @@
       <jump line="30" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/services/userProgressService.js" />
       <jump line="65" column="84" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileQuoteBar.js" />
       <jump line="35" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/base/variables/variables.json" />
-      <jump line="2" column="0" filename="/Dummy.txt" />
       <jump line="66" column="59" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/QuoteForm.js" />
       <jump line="17" column="28" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/failureModal/_failureModal.scss" />
       <jump line="64" column="38" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/App.js" />
@@ -288,16 +293,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/RedirectTimeouts.js" />
       <jump line="4" column="45" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/SubmitForm.js" />
       <jump line="57" column="5" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/SubmitForm.js" />
+      <jump line="2" column="2" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>BeforeRedirect</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICogQHBhcmFtIGdldFN0YXRlCg==</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>BeforeRedirect</text>
+        <text>responsible for submitting the form and processing the results</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
@@ -306,7 +312,7 @@
         <text encoding="base64">CQkJCQkJPGRpdj57WzAsMSwzXS5tYXAoKHJlc3VsdCwgaW5kZXgpID0+IDxkaXYga2V5PXtpbmRleH0+cmVzdWx0PC9kaXY+KX08L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl0aW1lcjogMjAK</text>
+        <text encoding="base64">ICogQHBhcmFtIGdldFN0YXRlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -318,28 +324,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWVycm9yTWVzc2FnZVNlY29uZGFyeTogJ1lvdSB3aWxsIGF1dG9tYXRpY2FsbHkgYmUgcmVkaXJlY3RlZCBpbiAxMCBzZWNvbmRzLicsCg==</text>
+        <text encoding="base64">ICogQHBhcmFtIGRpc3BhdGNoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQk8ZGl2Pnt0aW1lcn08L2Rpdj4K</text>
+        <text encoding="base64">ICogQHJldHVybiB7dGh1bmt9IEEgdGh1bmsgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQHBhcmFtIGdldFN0YXRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQHBhcmFtIGRpc3BhdGNoCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CXRpY2sgKCkgewoJCXRoaXMuc2V0U3RhdGUoe3RpbWVyOiB0aGlzLnN0YXRlLnRpbWVyIC0gMX0pOwoJCWlmICh0aGlzLnN0YXRlLnRpbWVyIDw9IDApIHsKCQkJY2xlYXJJbnRlcnZhbCh0aGlzLmludGVydmFsKTsKCQl9Cgl9Cg==</text>
+      <register name="6" type="4">
+        <text>fixed some spacing
+- reducing function to one line
+- added check for buildResults incase n</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl0aW1lcjogMjAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQljb25zdGFudHMudGltZW91dEJlZm9yZVJlZGlyZWN0Cg==</text>
+        <text encoding="base64">CWVycm9yTWVzc2FnZVNlY29uZGFyeTogJ1lvdSB3aWxsIGF1dG9tYXRpY2FsbHkgYmUgcmVkaXJlY3RlZCBpbiAxMCBzZWNvbmRzLicsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJPGRpdj57W10ubWFwKChyZXN1bHQsIGluZGV4KSA9PiA8ZGl2IGtleT17aW5kZXh9PntyZXN1bHR9PC9kaXY+KX08L2Rpdj4K</text>
+        <text encoding="base64">CQkJCQk8ZGl2Pnt0aW1lcn08L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

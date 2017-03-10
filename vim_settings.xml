@@ -134,6 +134,12 @@
         <mark key="]" line="71" column="39" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/react-redux-boilerplate/.eslintrc" timestamp="1489161998747">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="8" />
+        <mark key="^" line="71" column="7" />
+        <mark key="." line="71" column="8" />
+      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/ResultItem.js" timestamp="1488561179875">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -156,6 +162,12 @@
         <mark key="]" line="23" column="66" />
         <mark key="." line="23" column="66" />
         <mark key="^" line="23" column="66" />
+      </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/services/validateToInternal.js" timestamp="1489161857308">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="4" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -262,13 +274,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>quoteIsBeingRequested</text>
+        <text>true</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>quoteIsBeingRequested</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -277,7 +289,7 @@
         <text encoding="base64">aW1wb3J0IFR5cGVzIGZyb20gJy4vQXBwVHlwZXMnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWN1cnJlbnRTZWN0aW9uOiAzCg==</text>
+        <text encoding="base64">ICAgICAgICB9XQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -289,28 +301,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICJyZXF1aXJlUGFyYW1EZXNjcmlwdGlvbiI6IHRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdmb3JtIHN1Ym1pdHRlZCBzdWNjZXNzJyk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdmb2xsb3cgcmVkaXJlY3QnKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdmb3JtIHN1Ym1pdHRlZCBzdWNjZXNzJyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAicmVxdWlyZVJldHVybiI6IDIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCWN1cnJlbnRTZWN0aW9uOiAzCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CWRlYnVnZ2VyOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CWdldFN0YXRlKCkuQXBwLmhhc0Zvcm1CZWVuU3VibWl0dGVkID8KCQlkaXNwYXRjaChGb2xsb3dSZWRpcmVjdCgpKSA6CgkJZGlzcGF0Y2goU3RhcnRUaW1lb3V0Rm9yUmVkaXJlY3QoKSk7Cg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCdmb3JtIHN1Ym1pdHRlZCBzdWNjZXNzJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFR5cGVzIGZyb20gJy4vQXBwVHlwZXMnOwo=</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCdmb2xsb3cgcmVkaXJlY3QnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvLyBTdG9wIFRpbWVyIAo=</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCdmb3JtIHN1Ym1pdHRlZCBzdWNjZXNzJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

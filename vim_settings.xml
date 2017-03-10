@@ -57,11 +57,11 @@
         <mark key="." line="10" column="22" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/constants/resultsGridConstants.js" timestamp="1489179263528">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="22" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/constants/resultsGridConstants.js" timestamp="1489184243512">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="29" />
+        <mark key="." line="13" column="29" />
+        <mark key="^" line="13" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/constants/quoteBarConstants.js" timestamp="1489178741027" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/quoteFailureBox/QuoteFailureBox.js" timestamp="1489092037067">
@@ -77,7 +77,7 @@
         <mark key="^" line="20" column="24" />
         <mark key="." line="20" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489179894151">
+      <file name="/Dummy.txt" timestamp="1489182728823">
         <mark key="'" line="2" column="2" />
         <mark key="[" line="2" column="2" />
         <mark key="]" line="2" column="2" />
@@ -94,11 +94,11 @@
         <mark key="." line="13" column="73" />
         <mark key="^" line="13" column="73" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/ResultsGrid.js" timestamp="1489179330546">
-        <mark key="[" line="25" column="36" />
-        <mark key="]" line="25" column="48" />
-        <mark key="^" line="25" column="48" />
-        <mark key="." line="25" column="48" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/ResultsGrid.js" timestamp="1489183579901">
+        <mark key="[" line="92" column="47" />
+        <mark key="]" line="93" column="68" />
+        <mark key="^" line="93" column="68" />
+        <mark key="." line="93" column="68" />
       </file>
       <file name="$USER_HOME$/Projects/react-redux-boilerplate/src/components/App.js" timestamp="1489164655995">
         <mark key="[" line="25" column="42" />
@@ -162,11 +162,17 @@
         <mark key="]" line="71" column="39" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/ResultItem.js" timestamp="1488561179875">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="25" column="32" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultItem.scss" timestamp="1489185328737">
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/ResultItem.js" timestamp="1489185514049">
+        <mark key="[" line="12" column="124" />
+        <mark key="]" line="12" column="124" />
+        <mark key="^" line="12" column="124" />
+        <mark key="." line="12" column="124" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/carrierLogoBanner/_carrierLogoBanner.scss" timestamp="1489001795866">
         <mark key="[" line="5" column="0" />
@@ -194,11 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="14" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/variables.json" />
-      <jump line="39" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/webpack.config.dev.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/webpack.config.prod.js" />
-      <jump line="49" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/webpack.config.prod.js" />
-      <jump line="31" column="15" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileStepDisplay.js" />
       <jump line="42" column="1" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/_mobileBackgroundBanner.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/_mobileBackgroundBanner.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/variables/variables.json" />
@@ -294,16 +295,21 @@
       <jump line="4" column="45" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/SubmitForm.js" />
       <jump line="57" column="5" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/SubmitForm.js" />
       <jump line="2" column="2" filename="/Dummy.txt" />
+      <jump line="69" column="21" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultItem.scss" />
+      <jump line="84" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultItem.scss" />
+      <jump line="43" column="4" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultItem.scss" />
+      <jump line="78" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultItem.scss" />
+      <jump line="85" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultItem.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGdldFN0YXRlCg==</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>responsible for submitting the form and processing the results</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
@@ -312,7 +318,7 @@
         <text encoding="base64">CQkJCQkJPGRpdj57WzAsMSwzXS5tYXAoKHJlc3VsdCwgaW5kZXgpID0+IDxkaXYga2V5PXtpbmRleH0+cmVzdWx0PC9kaXY+KX08L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGdldFN0YXRlCg==</text>
+        <text encoding="base64">CSYtLWVycm9yIHsKCQliYWNrZ3JvdW5kLWNvbG9yOiBncmF5ICFpbXBvcnRhbnQ7Cgl9Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -324,30 +330,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGRpc3BhdGNoCg==</text>
+        <text encoding="base64">cmVzdWx0SXRlbXMtLWVycm9yCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQHJldHVybiB7dGh1bmt9IEEgdGh1bmsgCg==</text>
+        <text encoding="base64">CQliYWNrZ3JvdW5kLWNvbG9yOiBncmF5ICFpbXBvcnRhbnQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGdldFN0YXRlCg==</text>
+        <text encoding="base64">CSYtLWVycm9yIHsKCQliYWNrZ3JvdW5kLWNvbG9yOiBncmF5ICFpbXBvcnRhbnQ7Cgl9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGRpc3BhdGNoCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>fixed some spacing
-- reducing function to one line
-- added check for buildResults incase n</text>
+      <register name="6" type="2">
+        <text encoding="base64">CWJhY2tncm91bmQtY29sb3I6IHJlZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl0aW1lcjogMjAK</text>
+        <text encoding="base64">LnJlc3VsdEl0ZW1zLS1lcnJvciB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWVycm9yTWVzc2FnZVNlY29uZGFyeTogJ1lvdSB3aWxsIGF1dG9tYXRpY2FsbHkgYmUgcmVkaXJlY3RlZCBpbiAxMCBzZWNvbmRzLicsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQk8ZGl2Pnt0aW1lcn08L2Rpdj4K</text>
+        <text encoding="base64">CXJlc3VsdEl0ZW1zLS1lcnJvcgo=</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

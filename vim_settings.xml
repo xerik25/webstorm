@@ -22,6 +22,7 @@
       <file name="/a.dummy" timestamp="1489437533802">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/package.json" timestamp="1489506409389" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/constants/generalConstants.js" timestamp="1489091670047">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -84,8 +85,8 @@
         <mark key="^" line="20" column="24" />
         <mark key="." line="20" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489437533809">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1489438417958">
+        <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
@@ -99,6 +100,11 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/server/index.js" timestamp="1489507523728">
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="8" column="40" />
+        <mark key="." line="8" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/ResultItems.js" timestamp="1489434730109">
         <mark key="[" line="9" column="92" />
@@ -130,6 +136,12 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
         <mark key="^" line="41" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/server/package.json" timestamp="1489507538727">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="14" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="6" column="14" />
       </file>
       <file name="/a.regexp" timestamp="1489428214277">
         <mark key="[" line="0" column="0" />
@@ -326,13 +338,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1000</text>
+        <text encoding="base64">UE9SVD0zMDAxICYmIA==</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>1000</text>
+        <text encoding="base64">UE9SVD0zMDAxICYmIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
@@ -340,12 +352,8 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IENvbCBmcm9tICcuLi9jb21tb24vQ29sJzsK</text>
       </register>
-      <register name="1" type="4">
-        <text>Made error class for results gray and opaque
-
-Also adjusted a couple of styles for the results grid.
-- Made smallest font size smaller for amount incase a large rate
-- changed height to flex-grow for side labels on results grid</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICJyZW1vdmUtbWFwcyI6ICJub2RlX21vZHVsZXMvLmJpbi9yaW1yYWYgLi9jb250ZW50LyoubWFwIiwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -357,28 +365,28 @@ Also adjusted a couple of styles for the results grid.
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">ICAgICJyZW1vdmUtY29udGVudCI6ICJub2RlX21vZHVsZXMvLmJpbi9yaW1yYWYgLi9jb250ZW50IiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXNob3VsZENvbXBvbmVudFVwZGF0ZSAoKSB7Cg==</text>
+        <text encoding="base64">ICAgICJjbGVhbi1jb250ZW50IjogIm5wbSBydW4gcmVtb3ZlLWNvbnRlbnQgJiYgbWtkaXIgY29udGVudCIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl0aGlzLnN0YXJ0VGltZXJGb3JFcnJvck1lc3NhZ2UoKTsKCQl0aGlzLmludGVydmFsID0gc2V0SW50ZXJ2YWwodGhpcy51cGRhdGVUaW1lciwgMTAwMCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgInBvc3RidWlsZCI6ICJucG0gcnVuIHJlbW92ZS1tYXBzIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvLyBUT0RPOiB1bmNvbW1lbnQgd2hlbiB3ZSBzdGFydCBvZmZlcmluZyBxdWFydGVybHkgcmF0ZXMK</text>
+        <text encoding="base64">Ly8gICAgImJ1aWxkIjogIm5wbSBydW4gY29weS1jb250ZW50IiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQk8L3NlY3Rpb24+Cg==</text>
+        <text encoding="base64">Ly8gICAgInByZWJ1aWxkIjogIm5wbSBydW4gY2xlYW4tY29udGVudCIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQk8c2VjdGlvbj4K</text>
+        <text encoding="base64">Ly8gICAgImNvcHktY29udGVudCI6ICJjb3B5ZmlsZXMgLWYgfi9Qcm9qZWN0cy9zcS1xdW90ZS1lbmdpbmUtd2ViL2Rpc3QvKiBjb250ZW50IiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJey8qc3VibWl0Rm9ybT17KCkgPT4gYWN0aW9ucy5zdWJtaXRGb3JtKGluZGV4KX0qL30K</text>
+        <text encoding="base64">Ly8gICAgInRlc3QiOiAiZWNobyB+L1Byb2plY3RzL3NxLXF1b3RlLWVuZ2luZS13ZWIvZGlzdC8qIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWNvbnN0IHtyZXN1bHRRdW90ZUFtb3VudHN9ID0gcHJvcHM7Cg==</text>
+        <text encoding="base64">Ly8gICAgImRlcGxveTpwcm9kIjogImViIGRlcGxveSBxdW90ZS1mb3JtIgo=</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

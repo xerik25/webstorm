@@ -216,6 +216,11 @@
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/.ebextensions/sockets.config" timestamp="1489614391769">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="2" />
+        <mark key="." line="5" column="2" />
+      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/quoteFailureBox/QuoteFailureBox.js" timestamp="1489092037067">
         <mark key="[" line="16" column="44" />
         <mark key="]" line="16" column="60" />
@@ -241,6 +246,11 @@
         <mark key="[" line="12" column="39" />
         <mark key="]" line="12" column="40" />
         <mark key="." line="12" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/bitbucket-pipelines.yml" timestamp="1489614825306">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/ResultItems.js" timestamp="1489434730109">
         <mark key="[" line="9" column="92" />
@@ -442,14 +452,14 @@
       <jump line="47" column="40" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/ResultsGrid.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>http://</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLSBucG0gdGVzdAo=</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>http://</text>
+        <text>prod</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
@@ -458,7 +468,7 @@
         <text>this.setState({showMessage: true})</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBucG0gdGVzdAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -470,28 +480,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBucG0gdGVzdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CX0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CXN1Ym1pdEZvcm0gKCkgewo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">CQkK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CX0K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3BvcnQnLCBwb3J0LCAnc29ja2V0c2VydmVyJywgc29ja2V0U2VydmVyKTsK</text>
+        <text encoding="base64">CXN1Ym1pdEZvcm0gKCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWNsaWVudENvbm5lY3RlZAo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CW5vdGlmaWNhdGlvbk1lc3NhZ2UsCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3BvcnQnLCBwb3J0LCAnc29ja2V0c2VydmVyJywgc29ja2V0U2VydmVyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">CWNsaWVudENvbm5lY3RlZAo=</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

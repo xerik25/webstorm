@@ -17,10 +17,10 @@
         <mark key="^" line="12" column="22" />
         <mark key="." line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/constants/resultsGridConstants.js" timestamp="1489438249826">
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="28" />
-        <mark key="." line="22" column="28" />
+      <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/constants/resultsGridConstants.js" timestamp="1489588729843">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="27" />
+        <mark key="." line="23" column="27" />
         <mark key="^" line="22" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/react-redux-boilerplate/src/components/reduxExample/ReduxExample.js" timestamp="1489164708575">
@@ -141,7 +141,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489513498436" />
+      <file name="/Dummy.txt" timestamp="1489586197097">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/react-redux-boilerplate/src/components/common/Row.js" timestamp="1489164627845">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -323,7 +327,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWdsb2JlOiB7CgkJc3JjOiBnbG9iZUxvZ28sCgkJYWx0OiAiR2xvYmUgTGlmZSBhbmQgQWNjaWRlbnQgSW5zdXJhbmNlIENvbXBhbnkgbG9nbyIKCX0sCg==</text>
+        <text encoding="base64">U1FMSUYtMzAxIC8gYWRkaW5nIEpTRG9jIHJldHVybiBjb21tZW50IHBlciBQUiBjb21tZW50Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -338,7 +342,7 @@
         <text encoding="base64">aW1wb3J0IENvbCBmcm9tICcuLi9jb21tb24vQ29sJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWdsb2JlOiB7CgkJc3JjOiBnbG9iZUxvZ28sCgkJYWx0OiAiR2xvYmUgTGlmZSBhbmQgQWNjaWRlbnQgSW5zdXJhbmNlIENvbXBhbnkgbG9nbyIKCX0sCg==</text>
+        <text encoding="base64">U1FMSUYtMzAxIC8gYWRkaW5nIEpTRG9jIHJldHVybiBjb21tZW50IHBlciBQUiBjb21tZW50Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -350,28 +354,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZpZGVsaXR5OiB7CgkJc3JjOiBmaWRlbGl0eUxvZ28sCgkJYWx0OiAiRmlkZWxpdHkgTGlmZSIKCX0sCg==</text>
+        <text encoding="base64">CWdsb2JlOiB7CgkJc3JjOiBnbG9iZUxvZ28sCgkJYWx0OiAiR2xvYmUgTGlmZSBhbmQgQWNjaWRlbnQgSW5zdXJhbmNlIENvbXBhbnkgbG9nbyIKCX0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGdsb2JlTG9nbyBmcm9tICcuL2NhcnJpZXJMb2dvcy9HbG9iZS5wbmcnOwo=</text>
+        <text encoding="base64">CWZpZGVsaXR5OiB7CgkJc3JjOiBmaWRlbGl0eUxvZ28sCgkJYWx0OiAiRmlkZWxpdHkgTGlmZSIKCX0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGZpZGVsaXR5TG9nbyBmcm9tICcuL2NhcnJpZXJMb2dvcy9GaWRlbGl0eUxpZmUucG5nJzsK</text>
+        <text encoding="base64">aW1wb3J0IGdsb2JlTG9nbyBmcm9tICcuL2NhcnJpZXJMb2dvcy9HbG9iZS5wbmcnOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGZpZGVsaXR5TG9nbyBmcm9tICcuL2NhcnJpZXJMb2dvcy9GaWRlbGl0eUxpZmUucG5nJzsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICJleHByZXNzIjogIl40LjE0LjEiLAo=</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAog</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CSAgInRlc3QiOiAibW9jaGEgdGVzdC9zZXR1cC9pbmRleC5qcyB0ZXN0LyoudGVzdC5qcyIsCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">LmlkZWEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

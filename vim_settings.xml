@@ -12,9 +12,6 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="1" />
       </file>
-      <file name="/a.dummy" timestamp="1489437533802">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/package.json" timestamp="1489596518074" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/.gitignore" timestamp="1489508845973" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/webpack.config.prod.js" timestamp="1489599864143">
@@ -150,6 +147,12 @@
         <mark key="^" line="78" column="1" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/.gitignore" timestamp="1489602390865">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="35" column="11" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/constants/generalConstants.js" timestamp="1489091670047">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -200,8 +203,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489600595051">
+      <file name="/Dummy.txt" timestamp="1489602355407">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/react-redux-boilerplate/src/components/common/Row.js" timestamp="1489164627845">
         <mark key="[" line="14" column="0" />
@@ -409,7 +414,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWlzTm90aWZ5aW5nLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -424,7 +429,7 @@
         <text encoding="base64">CWFjdGlvbnM6IHsKCQlzZXRJc05vdGlmeWluZzogKHZhbCkgPT4gZGlzcGF0Y2goQXBwQWN0aW9ucy5TZXRJc05vdGlmeWluZyh2YWwpKQoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWlzTm90aWZ5aW5nLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -436,28 +441,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWV4dGVybmFsRXhhbXBsZXNMaW5rOiAnaHR0cDovL3JlZHV4LmpzLm9yZy9kb2NzL2ludHJvZHVjdGlvbi9FeGFtcGxlcy5odG1sJwo=</text>
+        <text encoding="base64">I0J1aWxkIGRpcmVjdG9yaWVzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWlzTm90aWZ5aW5nOiBmYWxzZSwK</text>
+        <text encoding="base64">LmRpc3QtY2xpZW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGlzTm90aWZ5aW5nIGZyb20gJy4vaXNOb3RpZnlpbmcnOwo=</text>
+        <text encoding="base64">LmRpc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q29tbWl0aW5nIGRpc3QgYW5kIGRpc3QtY2xpZW50Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">SW5pdGlhbCBjb21taXQgYWZ0ZXIgcHVsbGluZyBvdmVyIHJlYWN0LXJlZHV4LWJvaWxlcnBsYXRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">CWlzTm90aWZ5aW5nLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CWV4dGVybmFsRXhhbXBsZXNMaW5rOiAnaHR0cDovL3JlZHV4LmpzLm9yZy9kb2NzL2ludHJvZHVjdGlvbi9FeGFtcGxlcy5odG1sJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CWlzTm90aWZ5aW5nOiBmYWxzZSwK</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

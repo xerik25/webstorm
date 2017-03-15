@@ -12,8 +12,14 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/package.json" timestamp="1489509053251" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/package.json" timestamp="1489596518074" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/.gitignore" timestamp="1489508845973" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/webpack.config.prod.js" timestamp="1489598054038">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="17" column="45" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/server.js" timestamp="1489595022283" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/server/services/registerEventHandlers.js" timestamp="1489595328475">
         <mark key="[" line="5" column="0" />
@@ -26,6 +32,12 @@
         <mark key="]" line="12" column="22" />
         <mark key="^" line="12" column="22" />
         <mark key="." line="12" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/services/registerEvents.js" timestamp="1489597343163">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="64" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/server/server.js" timestamp="1489595123182">
         <mark key="[" line="25" column="37" />
@@ -55,6 +67,13 @@
         <mark key="]" line="67" column="77" />
         <mark key="." line="67" column="77" />
         <mark key="^" line="67" column="77" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/.editorconfig" timestamp="1489595744465" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/clientConnected.js" timestamp="1489597285475">
+        <mark key="[" line="5" column="42" />
+        <mark key="]" line="5" column="42" />
+        <mark key="." line="5" column="42" />
+        <mark key="^" line="5" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/server/package.json" timestamp="1489507538727">
         <mark key="[" line="6" column="14" />
@@ -120,9 +139,6 @@
         <mark key="]" line="7" column="106" />
         <mark key="^" line="7" column="106" />
         <mark key="." line="7" column="106" />
-      </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/.gitignore" timestamp="1489508857240">
-        <mark key="^" line="32" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/constants/generalConstants.js" timestamp="1489091670047">
         <mark key="[" line="8" column="0" />
@@ -208,7 +224,7 @@
         <mark key="." line="6" column="8" />
         <mark key="^" line="6" column="8" />
       </file>
-      <file name="/a.regexp" timestamp="1489593597543">
+      <file name="/a.regexp" timestamp="1489597412402">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -348,13 +364,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQknLi9zcmMvaW5kZXgnCg==</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Redirects:{redirects:redirectType</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
@@ -363,7 +379,7 @@
         <text encoding="base64">CQkJY29uc29sZS5sb2coJ3N1Y2Nlc3MnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQknLi9zcmMvaW5kZXgnCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -375,28 +391,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGVtaXR0ZXIgZnJvbSAnLi9lbWl0dGVyRmFjdG9yeSc7Cg==</text>
+        <text encoding="base64">CQknd2hhdHdnLWZldGNoJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQljb250ZW50QmFzZTogJy4vZGlzdCcK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlwYXRoOiBfX2Rpcm5hbWUgKyAnL2Rpc3QnLCAvLyBOb3RlOiBQaHlzaWNhbCBmaWxlcyBhcmUgb25seSBvdXRwdXQgYnkgdGhlIHByb2R1Y3Rpb24gYnVpbGQgdGFzayBgbnBtIHJ1biBidWlsZGAuCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgllbWl0dGVyLm9uKGV2ZW50VHlwZXMuRkVUQ0hfUkVESVJFQ1RTX0ZBSUxFRCwgKGVycikgPT4gewoJCXN0b3JlLmRpc3BhdGNoKHsKCQkJdHlwZTogZXZlbnRUeXBlcy5GRVRDSF9SRURJUkVDVFNfRkFJTEVELAoJCQllcnJvcjogZXJyCgkJfSk7CgoJCWlvLnNvY2tldHMuZW1pdChldmVudFR5cGVzLkZFVENIX1JFRElSRUNUU19GQUlMRUQsIHJlc3VsdHMpOwoJfSk7</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQlwYXRoOiBfX2Rpcm5hbWUgKyAnL2Rpc3QnLCAvLyBOb3RlOiBQaHlzaWNhbCBmaWxlcyBhcmUgb25seSBvdXRwdXQgYnkgdGhlIHByb2R1Y3Rpb24gYnVpbGQgdGFzayBgbnBtIHJ1biBidWlsZGAuCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CWVtaXR0ZXIub24oZXZlbnRUeXBlcy5GRVRDSF9TVUJNSVNTSU9OU19TVUNDRUVERUQsIChyZXN1bHRzKSA9PiB7CgkJc3RvcmUuZGlzcGF0Y2goewoJCQl0eXBlOiBldmVudFR5cGVzLkZFVENIX1NVQk1JU1NJT05TX1NVQ0NFRURFRCwKCQkJc3VibWlzc2lvbnNDb2xsZWN0aW9uOiByZXN1bHRzCgkJfSk7CgoJCWlvLnNvY2tldHMuZW1pdChldmVudFR5cGVzLkZFVENIX1NVQk1JU1NJT05TX1NVQ0NFRURFRCwgcmVzdWx0cyk7Cgl9KTsKCgllbWl0dGVyLm9uKGV2ZW50VHlwZXMuRkVUQ0hfU1VCTUlTU0lPTlNfRkFJTEVELCAoZXJyKSA9PiB7CgkJc3RvcmUuZGlzcGF0Y2goewoJCQl0eXBlOiBldmVudFR5cGVzLkZFVENIX1NVQk1JU1NJT05TX0ZBSUxFRCwKCQkJZXJyb3I6IGVycgoJCX0pOwoKCQlpby5zb2NrZXRzLmVtaXQoZXZlbnRUeXBlcy5GRVRDSF9TVUJNSVNTSU9OU19GQUlMRUQsIHJlc3VsdHMpOwoJfSk7CgoJZW1pdHRlci5vbihldmVudFR5cGVzLlBFUlNJU1RfU1VCTUlTU0lPTl9TVUNDRUVERUQsIChyZXN1bHRzKSA9PiB7CgkJc3RvcmUuZGlzcGF0Y2goewoJCQl0eXBlOiBldmVudFR5cGVzLlBFUlNJU1RfU1VCTUlTU0lPTl9TVUNDRUVERUQsCgkJCXBlcnNpc3RlZExhc3RTdWJtaXNzaW9uOiByZXN1bHRzCgkJfSk7CgoJCWlvLnNvY2tldHMuZW1pdChldmVudFR5cGVzLlBFUlNJU1RfU1VCTUlTU0lPTl9TVUNDRUVERUQsIHJlc3VsdHMpOwoJfSk7CgoJZW1pdHRlci5vbihldmVudFR5cGVzLlBFUlNJU1RfU1VCTUlTU0lPTl9GQUlMRUQsIChyZXN1bHQpID0+IHsKCQlzdG9yZS5kaXNwYXRjaCh7CgkJCXR5cGU6IGV2ZW50VHlwZXMuUEVSU0lTVF9TVUJNSVNTSU9OX0ZBSUxFRCwKCQkJcGVyc2lzdGVkTGFzdFN1Ym1pc3Npb246IHJlc3VsdAoJCX0pOwoKCQlpby5zb2NrZXRzLmVtaXQoZXZlbnRUeXBlcy5QRVJTSVNUX1NVQk1JU1NJT05fRkFJTEVELCByZXN1bHRzKTsKCX0pOwoKCWVtaXR0ZXIub24oZXZlbnRUeXBlcy5QRVJTSVNUX1NVQk1JU1NJT05fVE9fQ1JNX1NVQ0NFRURFRCwgKHJlc3VsdHMpID0+IHsKCQlzdG9yZS5kaXNwYXRjaCh7CgkJCXR5cGU6IGV2ZW50VHlwZXMuUEVSU0lTVF9TVUJNSVNTSU9OX1RPX0NSTV9TVUNDRUVERUQsCgkJCXBlcnNpc3RlZExhc3RDUk1TdWJtaXNzaW9uOiByZXN1bHRzCgkJfSk7CgoJCWlvLnNvY2tldHMuZW1pdChldmVudFR5cGVzLlBFUlNJU1RfU1VCTUlTU0lPTl9UT19DUk1fU1VDQ0VFREVELCByZXN1bHRzKTsKCX0pOwoKCWVtaXR0ZXIub24oZXZlbnRUeXBlcy5QRVJTSVNUX1NVQk1JU1NJT05fVE9fQ1JNX0ZBSUxFRCwgKHJlc3VsdCkgPT4gewoJCXN0b3JlLmRpc3BhdGNoKHsKCQkJdHlwZTogZXZlbnRUeXBlcy5QRVJTSVNUX1NVQk1JU1NJT05fVE9fQ1JNX0ZBSUxFRCwKCQkJcGVyc2lzdGVkTGFzdENSTVN1Ym1pc3Npb246IHJlc3VsdAoJCX0pOwoKCQlpby5zb2NrZXRzLmVtaXQoZXZlbnRUeXBlcy5QRVJTSVNUX1NVQk1JU1NJT05fVE9fQ1JNX0ZBSUxFRCwgcmVzdWx0cyk7Cgl9KTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQlzb2NrZXQuZW1pdChldmVudFR5cGVzLkNMSUVOVF9DT05ORUNUSU9OX1NVQ0NFRURFRCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlpby5zb2NrZXRzLmVtaXQK</text>
+        <text encoding="base64">aW1wb3J0IGluaXRpYWxTdGF0ZSBmcm9tICcuL2luaXRpYWxBcHBTdGF0ZSc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

@@ -150,12 +150,12 @@
         <mark key="." line="6" column="35" />
         <mark key="^" line="4" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/quote-form/client/src/constants/resultsGridConstants.js" timestamp="1489677331501">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/quote-form/client/src/constants/resultsGridConstants.js" timestamp="1489681450444">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="26" />
+        <mark key="^" line="0" column="28" />
+        <mark key="." line="25" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/tools/buildHtml.js" timestamp="1489598839233">
         <mark key="'" line="34" column="0" />
@@ -170,12 +170,18 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="91" />
       </file>
-      <file name="$USER_HOME$/Projects/quote-form/client/src/components/resultsGrid/ResultsGrid.js" timestamp="1489677260434">
+      <file name="$USER_HOME$/Projects/quote-form/client/src/services/utilities.js" timestamp="1489681974694">
+        <mark key="[" line="34" column="45" />
+        <mark key="]" line="34" column="45" />
+        <mark key="." line="34" column="45" />
+        <mark key="^" line="34" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/quote-form/client/src/components/resultsGrid/ResultsGrid.js" timestamp="1489681601240">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="35" column="93" />
-        <mark key="]" line="35" column="93" />
-        <mark key="." line="35" column="93" />
-        <mark key="^" line="35" column="91" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="8" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/images/index.js" timestamp="1489584694364">
         <mark key="[" line="35" column="0" />
@@ -326,7 +332,7 @@
         <mark key="." line="6" column="8" />
         <mark key="^" line="6" column="8" />
       </file>
-      <file name="/a.regexp" timestamp="1489677175700">
+      <file name="/a.regexp" timestamp="1489680935098">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -377,8 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="24" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/_utilites.scss" />
-      <jump line="58" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/_utilites.scss" />
       <jump line="0" column="17" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/_utilites.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/_mobileTermLengthInput.scss" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/basicInfo/BasicInfo.js" />
@@ -477,25 +481,27 @@
       <jump line="44" column="4" filename="$USER_HOME$/Projects/quote-form/client/src/components/resultsGrid/ResultsGrid.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/quote-form/client/src/components/resultsGrid/ResultsGrid.js" />
       <jump line="28" column="0" filename="$USER_HOME$/Projects/quote-form/client/src/constants/resultsGridConstants.js" />
+      <jump line="23" column="23" filename="$USER_HOME$/Projects/quote-form/client/src/constants/resultsGridConstants.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/Projects/quote-form/client/src/constants/resultsGridConstants.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGNhbGNNbGxpc2Vjb25kcyA9IHsKCW1pbGxpc2Vjb25kc1RvU2Vjb25kczogc2Vjb25kcyA9PiBzZWNvbmRzICogMTAwMCwKCXNlY29uZHNUb01pbGxpc2Vjb25kczogc2Vjb25kcyA9PiBzZWNvbmRzIC8gMTAwMAp9OwoK</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJdGltZXI6IGNvbnN0YW50cy50aW1lb3V0QmVmb3JlUmVkaXJlY3QgLyAxMDAwCg==</text>
+        <text encoding="base64">ICogQGRlc2NyaXB0aW9uIHRha2Ugc2Vjb25kcyBhbmQgcmV0dXJuIG1pbGxpc2Vjb25kcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGNhbGNNbGxpc2Vjb25kcyA9IHsKCW1pbGxpc2Vjb25kc1RvU2Vjb25kczogc2Vjb25kcyA9PiBzZWNvbmRzICogMTAwMCwKCXNlY29uZHNUb01pbGxpc2Vjb25kczogc2Vjb25kcyA9PiBzZWNvbmRzIC8gMTAwMAp9OwoK</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -507,36 +513,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGNhbGNNbGxpc2Vjb25kcyA9IHsKCW1pbGxpc2Vjb25kc1RvU2Vjb25kczogc2Vjb25kcyA9PiBzZWNvbmRzICogMTAwMCwKCXNlY29uZHNUb01pbGxpc2Vjb25kczogc2Vjb25kcyA9PiBzZWNvbmRzIC8gMTAwMAp9OwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGNhbGNNbGxpc2Vjb25kcyA9IHsKCW1pbGxpc2Vjb25kc1RvU2Vjb25kczogc2Vjb25kcyA9PiBzZWNvbmRzICogMTAwMCwKCXNlY29uZHNUb01pbGxpc2Vjb25kczogc2Vjb25kcyA9PiBzZWNvbmRzIC8gMTAwMAp9Owo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJdGltZXI6IGNvbnN0YW50cy50aW1lb3V0QmVmb3JlUmVkaXJlY3QgLyAxMDAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>StopTimeoutForRedirect needs to be a distpatch on formSubmit
-
-WHY: We refactored StopTimeoutForRedirect to be a thunk
-and when we did so I forgot to disptach it so the timeout
-never got cancelled.</text>
+      <register name="5" type="2">
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCTxkaXYgb25DbGljaz17KCkgPT4gdGhpcy5kaXNtaXNzVGltZW91dEFuZEludGVydmFsKCl9PlRlc3Rpbmc8L2Rpdj4K</text>
+        <text encoding="base64">fTsK</text>
       </register>
-      <register name="7" type="8">
-        <text>resul
-value
-submi
-shoul
-frequ</text>
+      <register name="7" type="2">
+        <text encoding="base64">CW1pbGxpc2Vjb25kc1RvU2Vjb25kczogc2Vjb25kcyA9PiBzZWNvbmRzIC8gMTAwMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWR1cmF0aW9uczogUmVhY3QuUHJvcFR5cGVzLmFycmF5LmlzUmVxdWlyZWQsCg==</text>
+        <text encoding="base64">CXNlY29uZHNUb01pbGxpc2Vjb25kczogc2Vjb25kcyA9PiBzZWNvbmRzICogMTAwMCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl0aGlzLnN0YXJ0VGltZXJGb3JFcnJvck1lc3NhZ2UgPSB0aGlzLnN0YXJ0VGltZXJGb3JFcnJvck1lc3NhZ2UuYmluZCh0aGlzKTsK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGNhbGNNbGxpc2Vjb25kcyA9IHsK</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

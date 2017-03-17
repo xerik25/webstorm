@@ -12,11 +12,11 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" timestamp="1489703142112">
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="10" column="27" />
-        <mark key="." line="10" column="27" />
-        <mark key="^" line="22" column="30" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" timestamp="1489705248367">
+        <mark key="[" line="10" column="51" />
+        <mark key="]" line="11" column="53" />
+        <mark key="." line="11" column="53" />
+        <mark key="^" line="11" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/package.json" timestamp="1489617197074">
         <mark key="[" line="29" column="0" />
@@ -83,6 +83,12 @@
         <mark key="^" line="20" column="24" />
         <mark key="." line="20" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierFakeData.js" timestamp="1489705131166">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/initialAppState.js" timestamp="1489428381180">
         <mark key="[" line="67" column="73" />
         <mark key="]" line="67" column="77" />
@@ -119,11 +125,11 @@
         <mark key="^" line="14" column="78" />
         <mark key="." line="14" column="78" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/LeadTierInterfaceContainer.js" timestamp="1489702464687">
-        <mark key="[" line="16" column="60" />
-        <mark key="]" line="16" column="60" />
-        <mark key="." line="16" column="76" />
-        <mark key="^" line="3" column="23" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/LeadTierInterfaceContainer.js" timestamp="1489705746141">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="7" column="45" />
+        <mark key="." line="7" column="45" />
+        <mark key="^" line="7" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/SubmitForm.js" timestamp="1489181533436">
         <mark key="[" line="13" column="46" />
@@ -295,6 +301,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1489703334578">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/react-redux-boilerplate/src/components/common/Row.js" timestamp="1489164627845">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -316,10 +325,11 @@
         <mark key="." line="10" column="26" />
         <mark key="^" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/initialAppState.js" timestamp="1489700207757">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/initialAppState.js" timestamp="1489705714344">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="6" column="35" />
+        <mark key="^" line="6" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/appReducer.js" timestamp="1489700435286">
         <mark key="[" line="7" column="19" />
@@ -530,22 +540,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>You\'ve just been notified?</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>You\'ve just been notified?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogQGRlc2NyaXB0aW9uIHRha2Ugc2Vjb25kcyBhbmQgcmV0dXJuIG1pbGxpc2Vjb25kcwo=</text>
+        <text encoding="base64">CXsKCQlsb3c6IDE1NC42MSwKCQloaWdoOiAxNDczLjc2Cgl9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWFjdGlvbnM6IFJlYWN0LlByb3BUeXBlcy5vYmplY3QuaXNSZXF1aXJlZAo=</text>
+        <text encoding="base64">CW5vdGlmaWNhdGlvbk1lc3NhZ2UgOiAnWW91XCd2ZSBqdXN0IGJlZW4gbm90aWZpZWQ/JywK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -557,28 +567,29 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWlzTm90aWZ5aW5nOiBmYWxzZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">CXRlc3Rpbmc6ICd0ZXN0aW5nJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CX0pOwo=</text>
+        <text encoding="base64">CWlzTm90aWZ5aW5nOiBmYWxzZW90aWZpY2F0aW9uTWVzc2FnZSA6ICdZb3VcJ3ZlIGp1c3QgYmVlbiBub3RpZmllZD8nLAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlleHBlY3Qod3JhcHBlci5maW5kKCdSYWlzZWRCdXR0b24nKSkudG8uaGF2ZS5sZW5ndGhPZigxKTsK</text>
+      <register name="5" type="4">
+        <text>,
+	n</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQljb25zdCB3cmFwcGVyID0gc2hhbGxvdyggPCBSZWR1eEV4YW1wbGUgLz4gKTsK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWl0KCdzaG91bGQgaGF2ZSBhIG1hdGVyaWFsIGJ1dHRvbicsICgpID0+IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVzY3JpYmUoJzxSZWR1eEV4YW1wbGUgLz4nLCAoKSA9PiB7Cg==</text>
+        <text encoding="base64">CXt9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFJlZHV4RXhhbXBsZSBmcm9tICcuLi9zcmMvY29tcG9uZW50cy9sZWFkVGllckludGVyZmFjZS9MZWFkVGllckludGVyZmFjZSc7Cg==</text>
+        <text encoding="base64">CWFjdGlvbnM6IFJlYWN0LlByb3BUeXBlcy5vYmplY3QuaXNSZXF1aXJlZAo=</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

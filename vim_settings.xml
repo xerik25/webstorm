@@ -18,17 +18,23 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" timestamp="1490117114945">
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="15" column="38" />
-        <mark key="." line="15" column="38" />
-        <mark key="^" line="15" column="38" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" timestamp="1490121130363">
+        <mark key="[" line="24" column="26" />
+        <mark key="]" line="24" column="51" />
+        <mark key="." line="24" column="51" />
+        <mark key="^" line="24" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/package.json" timestamp="1490114907353">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="18" />
         <mark key="." line="1" column="18" />
         <mark key="^" line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierReducer.js" timestamp="1490120116162">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="3" column="10" />
+        <mark key="^" line="3" column="10" />
+        <mark key="." line="3" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/webpack.config.prod.js" timestamp="1489606007977">
         <mark key="[" line="7" column="106" />
@@ -148,11 +154,11 @@
         <mark key="^" line="14" column="78" />
         <mark key="." line="14" column="78" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/LeadTierInterfaceContainer.js" timestamp="1489713809149">
-        <mark key="[" line="7" column="38" />
-        <mark key="]" line="7" column="38" />
-        <mark key="." line="7" column="38" />
-        <mark key="^" line="7" column="45" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/LeadTierInterfaceContainer.js" timestamp="1490120137666">
+        <mark key="[" line="9" column="44" />
+        <mark key="]" line="9" column="50" />
+        <mark key="." line="9" column="50" />
+        <mark key="^" line="9" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/SubmitForm.js" timestamp="1489181533436">
         <mark key="[" line="13" column="46" />
@@ -342,7 +348,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489795110059">
+      <file name="/Dummy.txt" timestamp="1490118073948">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -369,17 +375,17 @@
         <mark key="." line="10" column="26" />
         <mark key="^" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/initialAppState.js" timestamp="1489705714344">
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="35" />
-        <mark key="." line="6" column="35" />
-        <mark key="^" line="6" column="35" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/initialAppState.js" timestamp="1490120193746">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/appReducer.js" timestamp="1489700435286">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="8" column="14" />
-        <mark key="." line="8" column="14" />
-        <mark key="^" line="8" column="14" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/appReducer.js" timestamp="1490120157697">
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+        <mark key="^" line="10" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/AppReducer.js" timestamp="1489600788009">
         <mark key="[" line="5" column="0" />
@@ -409,7 +415,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1490117955767">
+      <file name="/a.regexp" timestamp="1490120138377">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -554,22 +560,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Testing</text>
+        <text>testing</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Testing</text>
+        <text>testing</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCd2aWN0b3J5Jyk7Cg==</text>
+        <text encoding="base64">CQkJCQkJPFRhYmxlUm93Q29sdW1uPjxUZXh0RmllbGQgaGludFRleHQ9InRlc3RpbmciLz48L1RhYmxlUm93Q29sdW1uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUVYQU1QTEVfQlVUVE9OX0NMSUNLRUQ6ICdFWEFNUExFX0JVVFRPTl9DTElDS0VEJywK</text>
+        <text encoding="base64">CQkJCQkJPFRhYmxlUm93Q29sdW1uPkVtcGxveWVkPC9UYWJsZVJvd0NvbHVtbj4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -581,28 +587,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQljYXNlIFR5cGVzLkVYQU1QTEVfQlVUVE9OX0NMSUNLRUQ6Cg==</text>
+        <text encoding="base64">CQkJCQkJPFRhYmxlUm93Q29sdW1uPkpvaG4gU21pdGg8L1RhYmxlUm93Q29sdW1uPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUNIQU5HRV9FWFRFUk5BTF9FWEFNUExFU19MSU5LOiAnQ0hBTkdFX0VYVEVSTkFMX0VYQU1QTEVTX0xJTksnCg==</text>
+        <text encoding="base64">CQkJPFJvdz4KCQkJCTxDb2wgeHM9IjEyIj4KCQkJCQlMZWFkIFRpZXIgSW50ZXJmYWNlCgkJCQkJe2xlYWRUaWVyRmFrZURhdGEubWFwKCh2YWx1ZSwgaW5kZXgpID0+CgkJCQkJCTxkaXYga2V5PXtpbmRleH0+CgkJCQkJCQk8c3Bhbj5MZWFkIFRpZXIge2luZGV4ICsgMX08L3NwYW4+CgkJCQkJCQk8c3Bhbj57dmFsdWUuaGlnaH08L3NwYW4+CgkJCQkJCQk8c3Bhbj57dmFsdWUubG93fTwvc3Bhbj4KCQkJCQkJPC9kaXY+CgkJCQkJKX0KCQkJCTwvQ29sPgoJCQk8L1Jvdz4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2luaXQnLCB0YWJsZURhdGEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXRlc3Rpbmc6ICd0ZXN0aW5nJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coJ2ZhaWx1cmUnKTsK</text>
+        <text encoding="base64">CQkJCQkJPGRpdj57dmFsdWUubG93fTwvZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coJ3N1Y2Nlc3MnKTsK</text>
+        <text encoding="base64">CQkJCQkJPGRpdj57dmFsdWUuaGlnaH08L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

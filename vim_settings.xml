@@ -280,7 +280,7 @@
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/package.json" timestamp="1490114964110">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/package.json" timestamp="1490303000064">
         <mark key="[" line="3" column="26" />
         <mark key="]" line="3" column="31" />
         <mark key="." line="3" column="31" />
@@ -421,7 +421,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/appReducer.js" timestamp="1490302595145">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/appReducer.js" timestamp="1490302831633">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -612,7 +612,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWNsaWVudENvbm5lY3RlZCwK</text>
+        <text encoding="base64">Q2xlYW5pbmcgdXAgY29uc29sZS5sb2dzLCB1bnVzZWQgYWN0aW9ucy9yZWR1Y2VycyBhbmQgdXBkYXRlZCBwYWNrYWdlLmpzb24K</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -627,7 +627,7 @@
         <text encoding="base64">CQkJc2V0SXNOb3RpZnlpbmc6ICh2YWwpID0+IGRpc3BhdGNoKEFwcEFjdGlvbnMuU2V0SXNOb3RpZnlpbmcodmFsKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWNsaWVudENvbm5lY3RlZCwK</text>
+        <text encoding="base64">Q2xlYW5pbmcgdXAgY29uc29sZS5sb2dzLCB1bnVzZWQgYWN0aW9ucy9yZWR1Y2VycyBhbmQgdXBkYXRlZCBwYWNrYWdlLmpzb24K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -639,28 +639,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNsaWVudENvbm5lY3RlZCBmcm9tICcuL2NsaWVudENvbm5lY3RlZCc7Cg==</text>
+        <text encoding="base64">CWNsaWVudENvbm5lY3RlZCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNsaWVudENvbm5lY3RlZCBmcm9tICcuL2NsaWVudENvbm5lY3RlZCc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gbXVsdGlEaXNwYXRjaChzdG9yZSkgewoJcmV0dXJuIGZ1bmN0aW9uIChuZXh0KSB7CgkJcmV0dXJuIGZ1bmN0aW9uIChhY3Rpb24pIHsKCgkJCWxldCByZXN1bHRBY3Rpb24gPSBhY3Rpb247CgoJCQlpZiAoQXJyYXkuaXNBcnJheShhY3Rpb24pKSB7CgkJCQkvLyBQdWxsIHRoZSBmaXJzdCBhY3Rpb24gb2ZmIHRoZSBhcnJheSBhcyB3ZSBuZWVkIHRvIHJldHVybiBvbmUKCQkJCS8vIGFjdGlvbiBmcm9tIHRoaXMgbWlkZGxld2FyZS4KCQkJCXJlc3VsdEFjdGlvbiA9IGFjdGlvbi5zaGlmdCgpOwoKCQkJCS8vIEJVRzoKCQkJCS8vIFJFRkFDVE9SOiBUT0RPOiBUaGlzIGlzIHB1dHRpbmcgdGhlIGZpcnN0IGFjdGlvbgoJCQkJLy8gYmVoaW5kIHRoZSByZXN0IGR1ZSB0byBoYXZpbmcgdG8gcmV0dXJuIGFuIGFjdGlvbgoJCQkJLy8gZnJvbSB0aGlzIG1pZGRsZXdhcmUuCgoJCQkJLy8gRGlzcGF0Y2ggdGhlIHJlc3QuCgkJCQlhY3Rpb24uZm9yRWFjaChzdG9yZS5kaXNwYXRjaCk7CgkJCX0KCgkJCXJldHVybiBuZXh0KHJlc3VsdEFjdGlvbik7CgkJfTsKCX07Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gbXVsdGlEaXNwYXRjaChzdG9yZSkgewoJcmV0dXJuIGZ1bmN0aW9uIChuZXh0KSB7CgkJcmV0dXJuIGZ1bmN0aW9uIChhY3Rpb24pIHsKCgkJCWxldCByZXN1bHRBY3Rpb24gPSBhY3Rpb247CgoJCQlpZiAoQXJyYXkuaXNBcnJheShhY3Rpb24pKSB7CgkJCQkvLyBQdWxsIHRoZSBmaXJzdCBhY3Rpb24gb2ZmIHRoZSBhcnJheSBhcyB3ZSBuZWVkIHRvIHJldHVybiBvbmUKCQkJCS8vIGFjdGlvbiBmcm9tIHRoaXMgbWlkZGxld2FyZS4KCQkJCXJlc3VsdEFjdGlvbiA9IGFjdGlvbi5zaGlmdCgpOwoKCQkJCS8vIEJVRzoKCQkJCS8vIFJFRkFDVE9SOiBUT0RPOiBUaGlzIGlzIHB1dHRpbmcgdGhlIGZpcnN0IGFjdGlvbgoJCQkJLy8gYmVoaW5kIHRoZSByZXN0IGR1ZSB0byBoYXZpbmcgdG8gcmV0dXJuIGFuIGFjdGlvbgoJCQkJLy8gZnJvbSB0aGlzIG1pZGRsZXdhcmUuCgoJCQkJLy8gRGlzcGF0Y2ggdGhlIHJlc3QuCgkJCQlhY3Rpb24uZm9yRWFjaChzdG9yZS5kaXNwYXRjaCk7CgkJCX0KCgkJCXJldHVybiBuZXh0KHJlc3VsdEFjdGlvbik7CgkJfTsKCX07Cn0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgcmVnaXN0ZXJFdmVudHM7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgcmVnaXN0ZXJFdmVudHM7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

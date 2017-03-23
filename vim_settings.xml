@@ -37,11 +37,11 @@
         <mark key="^" line="12" column="22" />
         <mark key="." line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/services/registerEvents.js" timestamp="1490115807322">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/services/registerEvents.js" timestamp="1490230564502">
+        <mark key="[" line="3" column="37" />
+        <mark key="]" line="3" column="37" />
         <mark key="^" line="3" column="38" />
-        <mark key="." line="9" column="0" />
+        <mark key="." line="3" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/configureStore.js" timestamp="1489600950980">
         <mark key="[" line="1" column="35" />
@@ -612,14 +612,14 @@
       <jump line="43" column="25" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierFakeData.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXJlZ2lzdGVyRXZlbnRzKGRpc3BhdGNoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>

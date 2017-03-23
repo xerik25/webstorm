@@ -244,11 +244,8 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/AppContainer.js" timestamp="1490226311345">
-        <mark key="[" line="39" column="17" />
-        <mark key="]" line="40" column="12" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/AppContainer.js" timestamp="1490229039964">
         <mark key="^" line="40" column="12" />
-        <mark key="." line="40" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/styles/scss/styles.scss" timestamp="1489090751603">
         <mark key="[" line="32" column="50" />
@@ -615,8 +612,8 @@
       <jump line="43" column="25" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierFakeData.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>let</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXJlZ2lzdGVyRXZlbnRzKGRpc3BhdGNoKTsK</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -631,7 +628,7 @@
         <text encoding="base64">Ly8gCQl0aWVyOiAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgbm8tY29uc29sZSAqLwo=</text>
+        <text encoding="base64">CXJlZ2lzdGVyRXZlbnRzKGRpc3BhdGNoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -646,25 +643,25 @@
         <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgbm8tY29uc29sZSAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly9WYXJpYWJsZXMK</text>
+        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgbm8tY29uc29sZSAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wb2x5ZmlsbCI6ICJeNi4xNi4wIiwK</text>
+        <text encoding="base64">Ly9WYXJpYWJsZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q2hhbmdpbmcgY2xpZW50IHRvIHVzZSBwb3J0IDMwMDEgc28gc2VydmVyIGNhbiB1c2UgMzAwMQoKQWxzbyBzZXQgZGVmYXVsdHMgZm9yIGxvY2FsaG9zdDozMDAwIGlmIHByb2Nlc3MuZW52LlBPUlQgb3IgCnByb2Nlc3MuZW52LlNPQ0tFVF9TRVJWRVIgYXJlIG5vdCBzZXQK</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wb2x5ZmlsbCI6ICJeNi4xNi4wIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJLy8gcmV0dXJuIE9iamVjdC5hc3NpZ24oe30sIHN0YXRlLCB7ZWRpdGFibGVSb3c6IGVkaXRhYmxlRGF0YX0pCg==</text>
+        <text encoding="base64">Q2hhbmdpbmcgY2xpZW50IHRvIHVzZSBwb3J0IDMwMDEgc28gc2VydmVyIGNhbiB1c2UgMzAwMQoKQWxzbyBzZXQgZGVmYXVsdHMgZm9yIGxvY2FsaG9zdDozMDAwIGlmIHByb2Nlc3MuZW52LlBPUlQgb3IgCnByb2Nlc3MuZW52LlNPQ0tFVF9TRVJWRVIgYXJlIG5vdCBzZXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJLy8gY29uc29sZS5sb2coJ2VkaXRhYmxlRGF0YScsIGVkaXRhYmxlRGF0YSwgc3RhdGUuc2VsZWN0ZWRSb3csIHN0YXRlLmxlYWRUaWVyRGF0YSk7Cg==</text>
+        <text encoding="base64">CQkJLy8gcmV0dXJuIE9iamVjdC5hc3NpZ24oe30sIHN0YXRlLCB7ZWRpdGFibGVSb3c6IGVkaXRhYmxlRGF0YX0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJLy8gY29uc3QgZWRpdGFibGVEYXRhID0gT2JqZWN0LmFzc2lnbih7fSwgc3RhdGUubGVhZFRpZXJEYXRhW3N0YXRlLnNlbGVjdGVkUm93XSk7Cg==</text>
+        <text encoding="base64">CQkJLy8gY29uc29sZS5sb2coJ2VkaXRhYmxlRGF0YScsIGVkaXRhYmxlRGF0YSwgc3RhdGUuc2VsZWN0ZWRSb3csIHN0YXRlLmxlYWRUaWVyRGF0YSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJLy8gY29uc3QgZWRpdGFibGVEYXRhID0gT2JqZWN0LmFzc2lnbih7fSwgc3RhdGUubGVhZFRpZXJEYXRhW3N0YXRlLnNlbGVjdGVkUm93XSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

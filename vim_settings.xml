@@ -53,6 +53,7 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/quote-form/client/src/services/formSubmissionService.js" timestamp="1490314079956" />
       <file name="$USER_HOME$/Projects/react-redux-boilerplate/src/components/reduxExample/ReduxExample.js" timestamp="1489164708575">
         <mark key="[" line="19" column="37" />
         <mark key="]" line="20" column="24" />
@@ -87,6 +88,12 @@
         <mark key="]" line="28" column="54" />
         <mark key="^" line="28" column="54" />
         <mark key="." line="28" column="54" />
+      </file>
+      <file name="$USER_HOME$/Projects/quote-form/client/src/containers/SubmissionContainer.js" timestamp="1490315404102">
+        <mark key="[" line="34" column="34" />
+        <mark key="]" line="34" column="35" />
+        <mark key="." line="34" column="35" />
+        <mark key="^" line="22" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/server/storage/fetchCollection.js" timestamp="1490112771887">
         <mark key="[" line="20" column="0" />
@@ -295,6 +302,12 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/quote-form/client/src/actions/CheckIfFormIsReady.js" timestamp="1490315773620">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="12" column="16" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/server/events/index.js" timestamp="1489794110168">
         <mark key="[" line="1" column="30" />
         <mark key="]" line="1" column="93" />
@@ -337,12 +350,6 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
         <mark key="^" line="125" column="34" />
-      </file>
-      <file name="$USER_HOME$/Projects/quote-form/client/src/actions/SubmitForm.js" timestamp="1490305688770">
-        <mark key="[" line="14" column="78" />
-        <mark key="]" line="14" column="78" />
-        <mark key="^" line="14" column="78" />
-        <mark key="." line="14" column="78" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/index.js" timestamp="1490306517746">
         <mark key="[" line="1" column="45" />
@@ -430,14 +437,15 @@
         <mark key="]" line="5" column="2" />
         <mark key="." line="5" column="2" />
       </file>
+      <file name="$USER_HOME$/Projects/quote-form/client/src/components/submitSection/SubmitButton.js" timestamp="1490314704910" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/quoteFailureBox/QuoteFailureBox.js" timestamp="1489092037067">
         <mark key="[" line="16" column="44" />
         <mark key="]" line="16" column="60" />
         <mark key="." line="16" column="60" />
         <mark key="^" line="16" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490307002925">
-        <mark key="[" line="2" column="2" />
+      <file name="/Dummy.txt" timestamp="1490307056389">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="2" />
         <mark key="." line="2" column="2" />
       </file>
@@ -459,7 +467,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="/a.regexp" timestamp="1490305108608">
+      <file name="/a.regexp" timestamp="1490314723629">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -603,10 +611,8 @@
       <jump line="43" column="25" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierFakeData.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Removed dev folder since it is no longer needed
-- Removed multiDispatch
-- Removed clientConnected reducer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -618,12 +624,10 @@
         <text encoding="base64">XDxUaGlzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHtmdW5jdGlvbn0gaW8uZW1pdCAtIFRoZSBlbWl0IGZ1bmN0aW9uIHRvIHVzZSB0byBicm9hZGNhc3Qgc29ja2V0IGV2ZW50cwo=</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCd0ZXN0IDEnKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>Removed dev folder since it is no longer needed
-- Removed multiDispatch
-- Removed clientConnected reducer</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -635,28 +639,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQHJldHVybgo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHtmdW5jdGlvbn0gZGlzcGF0Y2ggLSBUaGUgZGlzcGF0Y2ggZnVuY3Rpb24gc28gd2UgY2FuIGNhbGwgaXQgb25jZSBzb2NrZXQgaXMgY29ubmVjdGVkCg==</text>
+        <text encoding="base64">CQlyZXR1cm4gUHJvbWlzZS5yZWplY3QoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQHJldHVybiB7dGh1bmt9IC0gQSBmdW5jdGlvbiB0aGF0IHJldHVybnMgdGhlIENIQU5HRV9OT1RJRklDQVRJT05fTUVTU0FHRSBhY3Rpb24K</text>
+        <text encoding="base64">CWlmICghZ2V0U3RhdGUoKS5BcHAuaXNFbnRyeVJlYWR5VG9TdWJtaXQpIHsKCQlyZXR1cm4gUHJvbWlzZS5yZWplY3QoKTsKCX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHtzdHJpbmd9IHZhbHVlIC0gTm90aWZpY2F0aW9uIG1lc3NhZ2UK</text>
+        <text encoding="base64">CQlpZiAoIWdldFN0YXRlKCkuQXBwLmlzRW50cnlSZWFkeVRvU3VibWl0KSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQHJldHVybiB7dGh1bmt9IC0gQSBmdW5jdGlvbiB0aGF0IHJldHVybnMgdGhlIENIQU5HRV9OT1RJRklDQVRJT05fTUVTU0FHRSBhY3Rpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQHJldHVybiB7b2JqZWN0fSAtIGpzeAo=</text>
+        <text encoding="base64">CWlmICghZ2V0U3RhdGUoKS5BcHAuaXNFbnRyeVJlYWR5VG9TdWJtaXQpIHsKCQlyZXR1cm4gUHJvbWlzZS5yZWplY3QoKTsKCX0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdkaXNwYXRjaCcsIGRpc3BhdGNoKTsK</text>
+      <register name="8" type="4">
+        <text>Removed dev folder since it is no longer needed
+- Removed multiDispatch
+- Removed clientConnected reducer</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQHJldHVybiBudWxsCg==</text>
+        <text encoding="base64">ICogQHJldHVybgo=</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

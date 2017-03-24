@@ -12,10 +12,10 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" timestamp="1490306655847">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" timestamp="1490362600221">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/SetIsNotifying.js" timestamp="1490306168621">
         <mark key="[" line="6" column="2" />
@@ -90,9 +90,9 @@
         <mark key="." line="28" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/quote-form/client/src/containers/SubmissionContainer.js" timestamp="1490315404102">
-        <mark key="[" line="34" column="34" />
-        <mark key="]" line="34" column="35" />
-        <mark key="." line="34" column="35" />
+        <mark key="[" line="22" column="34" />
+        <mark key="]" line="22" column="35" />
+        <mark key="." line="22" column="35" />
         <mark key="^" line="22" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/server/storage/fetchCollection.js" timestamp="1490112771887">
@@ -125,10 +125,10 @@
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/package.json" timestamp="1490303000064">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="31" />
-        <mark key="." line="3" column="31" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/package.json" timestamp="1490363080837">
+        <mark key="[" line="9" column="49" />
+        <mark key="]" line="9" column="49" />
+        <mark key="." line="9" column="49" />
         <mark key="^" line="3" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/.gitignore" timestamp="1489615797570">
@@ -220,6 +220,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/ChangeNotifcationMessage.js" timestamp="1490362687990" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/appReducer.js" timestamp="1490302831633">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -290,7 +291,7 @@
         <mark key="." line="7" column="108" />
         <mark key="^" line="7" column="108" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/server.js" timestamp="1489769008112">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/server.js" timestamp="1490363125587">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="1" column="0" />
@@ -444,8 +445,8 @@
         <mark key="." line="16" column="60" />
         <mark key="^" line="16" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490307056389">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1490362623956">
+        <mark key="[" line="2" column="2" />
         <mark key="]" line="2" column="2" />
         <mark key="." line="2" column="2" />
       </file>
@@ -467,7 +468,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="/a.regexp" timestamp="1490314723629">
+      <file name="/a.regexp" timestamp="1490363099333">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -484,11 +485,10 @@
         <mark key="^" line="17" column="24" />
         <mark key="." line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/home/Home.js" timestamp="1489702707569">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/home/Home.js" timestamp="1490362474652">
         <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="17" />
-        <mark key="^" line="24" column="17" />
-        <mark key="." line="24" column="17" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/setTierTable.js" timestamp="1490188682896">
         <mark key="[" line="2" column="43" />
@@ -611,14 +611,14 @@
       <jump line="43" column="25" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierFakeData.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>it</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
@@ -626,8 +626,13 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCd0ZXN0IDEnKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>moveeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -639,30 +644,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlyZXR1cm4gUHJvbWlzZS5yZWplY3QoKTsK</text>
+        <text encoding="base64">TGVhZFRpZXJJbnRlcmZhY2UucHJvcFR5cGVzID0ge307Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWlmICghZ2V0U3RhdGUoKS5BcHAuaXNFbnRyeVJlYWR5VG9TdWJtaXQpIHsKCQlyZXR1cm4gUHJvbWlzZS5yZWplY3QoKTsKCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpZiAoIWdldFN0YXRlKCkuQXBwLmlzRW50cnlSZWFkeVRvU3VibWl0KSB7Cg==</text>
+        <text encoding="base64">SG9tZS5wcm9wVHlwZXMgPSB7fTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWlmICghZ2V0U3RhdGUoKS5BcHAuaXNFbnRyeVJlYWR5VG9TdWJtaXQpIHsKCQlyZXR1cm4gUHJvbWlzZS5yZWplY3QoKTsKCX0K</text>
+        <text encoding="base64">CX0K</text>
       </register>
-      <register name="8" type="4">
-        <text>Removed dev folder since it is no longer needed
-- Removed multiDispatch
-- Removed clientConnected reducer</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQlyZXR1cm4gUHJvbWlzZS5yZWplY3QoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQHJldHVybgo=</text>
+        <text encoding="base64">CWlmICghZ2V0U3RhdGUoKS5BcHAuaXNFbnRyeVJlYWR5VG9TdWJtaXQpIHsKCQlyZXR1cm4gUHJvbWlzZS5yZWplY3QoKTsKCX0K</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

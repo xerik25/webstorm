@@ -226,11 +226,11 @@
         <mark key="." line="6" column="44" />
         <mark key="^" line="6" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/ModalContainer.js" timestamp="1490807717092">
-        <mark key="[" line="32" column="4" />
-        <mark key="]" line="32" column="4" />
-        <mark key="." line="32" column="7" />
-        <mark key="^" line="28" column="8" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/ModalContainer.js" timestamp="1490820804968">
+        <mark key="[" line="21" column="42" />
+        <mark key="]" line="25" column="52" />
+        <mark key="." line="21" column="51" />
+        <mark key="^" line="25" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/savedSelectedRow.js" timestamp="1490644863074">
         <mark key="[" line="5" column="37" />
@@ -372,7 +372,7 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierFakeData.js" timestamp="1490720517895">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierFakeData.js" timestamp="1490821744545">
         <mark key="[" line="49" column="17" />
         <mark key="]" line="49" column="18" />
         <mark key="." line="49" column="18" />
@@ -454,12 +454,12 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/Modal.js" timestamp="1490817843626">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/Modal.js" timestamp="1490823951111">
         <mark key="'" line="90" column="0" />
-        <mark key="[" line="55" column="50" />
-        <mark key="]" line="55" column="50" />
-        <mark key="." line="55" column="50" />
-        <mark key="^" line="64" column="92" />
+        <mark key="[" line="38" column="12" />
+        <mark key="]" line="38" column="12" />
+        <mark key="." line="38" column="12" />
+        <mark key="^" line="38" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/tools/buildHtml.js" timestamp="1490306582921">
         <mark key="[" line="4" column="0" />
@@ -713,22 +713,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>parseFloat</text>
+        <text encoding="base64">bmFtZSA9PT0gJ2xvd1ZhbHVlJyAmJiB2</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>parseFloat</text>
+        <text encoding="base64">bmFtZSA9PT0gJ2xvd1ZhbHVlJyAmJiB2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJCTwvQ29sPgo=</text>
+        <text encoding="base64">CQluYW1lID09PSAnbG93VmFsdWUnICYgdmFsdWUgPiB0aGlzLnByb3BzLm1heExvd1ZhbHVlID8gdGhpcy5zZXRTdGF0ZSh7aW52YWxpZExvd1ZhbHVlOiBmYWxzZX0pIDogdGhpcy5zZXRTdGF0ZSh7aW52YWxpZExvd1ZhbHVlOiB0cnVlfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygnc3RhdGUnLCB0aGlzLnN0YXRlKTsK</text>
+        <text encoding="base64">CQkvLyBuYW1lID09PSAnbG93VmFsdWUnICYmIHZhbHVlID4gdGhpcy5wcm9wcy5tYXhMb3dWYWx1ZSA/IHRoaXMuc2V0U3RhdGUoe2ludmFsaWRMb3dWYWx1ZTogZmFsc2V9KSA6IHRoaXMuc2V0U3RhdGUoe2ludmFsaWRMb3dWYWx1ZTogdHJ1ZX0pOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -740,30 +740,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCTwvQ29sPgo=</text>
+        <text encoding="base64">CQkvLyBuYW1lID09PSAnaGlnaFZhbHVlJyAmJiB2YWx1ZSA8IHRoaXMucHJvcHMubWF4SGlnaFZhbHVlID8gdGhpcy5zZXRTdGF0ZSh7aW52YWxpZEhpZ2hWYWx1ZTogZmFsc2V9KSA6IHRoaXMuc2V0U3RhdGUoe2ludmFsaWRIaWdoVmFsdWU6IHRydWV9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CW1heExvd1ZhbHVlOiBSZWFjdC5Qcm9wVHlwZXMubnVtYmVyLmlzUmVxdWlyZWQsCg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>swapping high and low columns on table
-
-WHY: Requested that it read from left to right</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHtudW1iZXJ9IHByb3BzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCTxDb2wgeHM9IjYiPlByZXZpb3VzIFRpZXIgTG93IFZhbHVlIHttYXhIaWdoVmFsdWV9PC9Db2w+Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvLyBtYXhIaWdoVmFsdWU6IGdldE1heFZhbHVlKHN0YXRlLkFwcC5sZWFkVGllckRhdGEsIHN0YXRlLkFwcC5zYXZlZFNlbGVjdGVkUm93KSwK</text>
+        <text encoding="base64">CXNldEludmFsaWRIaWdoVmFsdWUgKCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQltYXhMb3dWYWx1ZTogc3RhdGUK</text>
+        <text encoding="base64">CQkvLyB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQljbGFzc05hbWU9InRleHQtY2VudGVyIgo=</text>
+        <text encoding="base64">CQkvLyB9IGVsc2UgaWYgKG5hbWUgPT09ICdsb3dWYWx1ZScgJiYgdmFsdWUgPiB0aGlzLnByb3BzLm1heExvd1ZhbHVlKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

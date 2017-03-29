@@ -454,12 +454,12 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/Modal.js" timestamp="1490808244083">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/Modal.js" timestamp="1490817843626">
         <mark key="'" line="90" column="0" />
-        <mark key="[" line="51" column="28" />
-        <mark key="]" line="51" column="46" />
-        <mark key="." line="51" column="46" />
-        <mark key="^" line="51" column="46" />
+        <mark key="[" line="55" column="50" />
+        <mark key="]" line="55" column="50" />
+        <mark key="." line="55" column="50" />
+        <mark key="^" line="64" column="92" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/tools/buildHtml.js" timestamp="1490306582921">
         <mark key="[" line="4" column="0" />
@@ -712,14 +712,14 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJCTwvQ29sPgo=</text>
+      <register name="&quot;" type="4">
+        <text>parseFloat</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>div</text>
+        <text>parseFloat</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
@@ -728,7 +728,7 @@
         <text encoding="base64">CQkJCQkJCTwvQ29sPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCTwvQ29sPgo=</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygnc3RhdGUnLCB0aGlzLnN0YXRlKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -740,27 +740,27 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQkJCQkJCTwvQ29sPgo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CW1heExvd1ZhbHVlOiBSZWFjdC5Qcm9wVHlwZXMubnVtYmVyLmlzUmVxdWlyZWQsCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>swapping high and low columns on table
 
 WHY: Requested that it read from left to right</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICogQHBhcmFtIHtudW1iZXJ9IHByb3BzLgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJCQkJCTxDb2wgeHM9IjYiPlByZXZpb3VzIFRpZXIgTG93IFZhbHVlIHttYXhIaWdoVmFsdWV9PC9Db2w+Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkvLyBtYXhIaWdoVmFsdWU6IGdldE1heFZhbHVlKHN0YXRlLkFwcC5sZWFkVGllckRhdGEsIHN0YXRlLkFwcC5zYXZlZFNlbGVjdGVkUm93KSwK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQltYXhMb3dWYWx1ZTogc3RhdGUK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQljbGFzc05hbWU9InRleHQtY2VudGVyIgo=</text>
+        <text encoding="base64">CQltYXhMb3dWYWx1ZTogc3RhdGUK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CQkJCQljbGFzc05hbWU9InRleHQtY2VudGVyIgo=</text>

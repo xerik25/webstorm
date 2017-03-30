@@ -12,12 +12,12 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" timestamp="1490720270715">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" timestamp="1490901876247">
         <mark key="'" line="8" column="1" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="67" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="56" column="102" />
+        <mark key="[" line="16" column="3" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+        <mark key="^" line="17" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/SetIsNotifying.js" timestamp="1490306168621">
         <mark key="[" line="6" column="2" />
@@ -84,11 +84,11 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/LeadTierInterfaceContainer.js" timestamp="1490712258639">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="33" column="19" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/LeadTierInterfaceContainer.js" timestamp="1490904702123">
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="15" column="37" />
+        <mark key="^" line="15" column="37" />
+        <mark key="." line="15" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/SubmitForm.js" timestamp="1489181533436">
         <mark key="[" line="13" column="46" />
@@ -226,11 +226,11 @@
         <mark key="." line="6" column="44" />
         <mark key="^" line="6" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/ModalContainer.js" timestamp="1490820804968">
-        <mark key="[" line="21" column="42" />
-        <mark key="]" line="25" column="52" />
-        <mark key="." line="21" column="51" />
-        <mark key="^" line="25" column="52" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/ModalContainer.js" timestamp="1490901896456">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="17" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="20" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/savedSelectedRow.js" timestamp="1490644863074">
         <mark key="[" line="5" column="37" />
@@ -454,12 +454,13 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/Modal.js" timestamp="1490900820193">
-        <mark key="'" line="90" column="0" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/Modal.js" timestamp="1490904489711">
+        <mark key="'" line="96" column="0" />
         <mark key="i" line="15" column="43" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="127" />
-        <mark key="." line="93" column="0" />
+        <mark key="[" line="38" column="141" />
+        <mark key="]" line="38" column="145" />
+        <mark key="." line="38" column="145" />
+        <mark key="^" line="38" column="145" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/tools/buildHtml.js" timestamp="1490306582921">
         <mark key="[" line="4" column="0" />
@@ -712,23 +713,23 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkvL1RPRE86IGFkZCBub3RpZmljYXRpb24gd2hlbiB2YWx1ZXMgYXJlIHVwZGF0ZWQgaW4gcmVkdXggc3RvcmUuIExhdGVyIHRoZSBBUEkgY2FsbCBzdWNjZXNzCg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LiA=</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHtudW1iZXJ9IHByb3BzLm1heEhpZ2hWYWx1ZSAtIFRoZSBtYXggdmFsdWUgeW91IGNhbiBzZXQgb24gY3VycmVudCB0aWVyIGZyb20gdGhlIG5leHQgdGllcgo=</text>
+        <text encoding="base64">CQkJbGV0IHRlc3QxID0gdmFsdWUgPCBtYXhIaWdoVmFsdWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvL1RPRE86IGFkZCBub3RpZmljYXRpb24gd2hlbiB2YWx1ZXMgYXJlIHVwZGF0ZWQgaW4gcmVkdXggc3RvcmUuIExhdGVyIHRoZSBBUEkgY2FsbCBzdWNjZXNzCg==</text>
+        <text encoding="base64">CQkJdmFsdWUgPCBtYXhIaWdoVmFsdWUgfHwgdmFsdWUgPCB0aGlzLnN0YXRlLmxvd1ZhbHVlID8gdGhpcy5zZXRTdGF0ZSh7aW52YWxpZEhpZ2hWYWx1ZTogZmFsc2V9KSA6IHRoaXMuc2V0U3RhdGUoe2ludmFsaWRIaWdoVmFsdWU6IHRydWV9KTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -740,28 +741,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJLy9UT0RPOiBmaXggaXNzdWUgd2hlcmUgbW9kYWwgaXMgbm90IHNob3dpbmcgMiBkZWNpbWFsIHBvaW50cwo=</text>
+        <text encoding="base64">CQkJdmFsdWUgPCB0aGlzLnN0YXRlLmxvd1ZhbHVlID8gdGhpcy5zZXRTdGF0ZSh7aW52YWxpZEhpZ2hWYWx1ZTogdHJ1ZX0pIDogdGhpcy5zZXRTdGF0ZSh7aW52YWxpZEhpZ2hWYWx1ZTogZmFsc2V9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQHBhcmFtCg==</text>
+        <text encoding="base64">CQkJCQkJCQkJZmxvYXRpbmdMYWJlbFRleHQ9IkxvdyBWYWx1ZSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogLy9UT0RPOiBhZGQgbmV3IHBhcmFtcwo=</text>
+        <text encoding="base64">CQkJCQkJCQkJZmxvYXRpbmdMYWJlbFRleHQ9IkhpZ2ggVmFsdWUiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHtvYmplY3R9IHByb3BzLmFjdGlvbnMgLSBBY3Rpb25zIGZyb20gdGhlIGNvbnRhaW5lcgo=</text>
+        <text encoding="base64">CQkJCQkJCQkJZGVmYXVsdFZhbHVlPXtlZGl0YWJsZVRpZXJEYXRhLmhpZ2gudG9GaXhlZCgyKX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvLyBuYW1lID09PSAnbG93VmFsdWUnICYmIHZhbHVlID4gdGhpcy5wcm9wcy5tYXhMb3dWYWx1ZSA/IGNvbnNvbGUubG9nKCdmYWxzZScpIDogY29uc29sZS5sb2coJ3RydWUnKTsK</text>
+        <text encoding="base64">CQkJCQkJCQkJZGVmYXVsdFZhbHVlPXtlZGl0YWJsZVRpZXJEYXRhLmxvdy50b0ZpeGVkKDIpfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCQlUT0RPOiBDYW4geW91IG1ha2UgYSBtYXggYW5kIG1pbiB2YWwK</text>
+        <text encoding="base64">ICogQHBhcmFtIHtvYmplY3R9IHByb3BzLmFjdGlvbnMgLSBBY3Rpb25zIGZyb20gdGhlIGNvbnRhaW5lcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvLyBuYW1lID09PSAnbG93VmFsdWUnICYmIHZhbHVlID4gdGhpcy5wcm9wcy5tYXhMb3dWYWx1ZSA/IHRoaXMuc2V0U3RhdGUoe2ludmFsaWRMb3dWYWx1ZTogZmFsc2V9KSA6IHRoaXMuc2V0U3RhdGUoe2ludmFsaWRMb3dWYWx1ZTogdHJ1ZX0pOwo=</text>
+        <text encoding="base64">CQkvL1RPRE86IGFkZCBub3RpZmljYXRpb24gd2hlbiB2YWx1ZXMgYXJlIHVwZGF0ZWQgaW4gcmVkdXggc3RvcmUuIExhdGVyIHRoZSBBUEkgY2FsbCBzdWNjZXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvLyBuYW1lID09PSAnaGlnaFZhbHVlJyAmJiB2YWx1ZSA8IHRoaXMucHJvcHMubWF4SGlnaFZhbHVlID8gdGhpcy5zZXRTdGF0ZSh7aW52YWxpZEhpZ2hWYWx1ZTogZmFsc2V9KSA6IHRoaXMuc2V0U3RhdGUoe2ludmFsaWRIaWdoVmFsdWU6IHRydWV9KTsK</text>
+        <text encoding="base64">CQkJLy9UT0RPOiBmaXggaXNzdWUgd2hlcmUgbW9kYWwgaXMgbm90IHNob3dpbmcgMiBkZWNpbWFsIHBvaW50cwo=</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

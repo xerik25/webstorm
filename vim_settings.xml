@@ -454,12 +454,12 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/Modal.js" timestamp="1490823951111">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/Modal.js" timestamp="1490832657641">
         <mark key="'" line="90" column="0" />
-        <mark key="[" line="38" column="12" />
-        <mark key="]" line="38" column="12" />
-        <mark key="." line="38" column="12" />
-        <mark key="^" line="38" column="12" />
+        <mark key="[" line="34" column="59" />
+        <mark key="]" line="34" column="63" />
+        <mark key="." line="34" column="63" />
+        <mark key="^" line="34" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/tools/buildHtml.js" timestamp="1490306582921">
         <mark key="[" line="4" column="0" />
@@ -712,8 +712,8 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bmFtZSA9PT0gJ2xvd1ZhbHVlJyAmJiB2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkJCQlUT0RPOiBDYW4geW91IG1ha2UgYSBtYXggYW5kIG1pbiB2YWwK</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -728,7 +728,7 @@
         <text encoding="base64">CQluYW1lID09PSAnbG93VmFsdWUnICYgdmFsdWUgPiB0aGlzLnByb3BzLm1heExvd1ZhbHVlID8gdGhpcy5zZXRTdGF0ZSh7aW52YWxpZExvd1ZhbHVlOiBmYWxzZX0pIDogdGhpcy5zZXRTdGF0ZSh7aW52YWxpZExvd1ZhbHVlOiB0cnVlfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvLyBuYW1lID09PSAnbG93VmFsdWUnICYmIHZhbHVlID4gdGhpcy5wcm9wcy5tYXhMb3dWYWx1ZSA/IHRoaXMuc2V0U3RhdGUoe2ludmFsaWRMb3dWYWx1ZTogZmFsc2V9KSA6IHRoaXMuc2V0U3RhdGUoe2ludmFsaWRMb3dWYWx1ZTogdHJ1ZX0pOwo=</text>
+        <text encoding="base64">CQkJCQkJCQlUT0RPOiBDYW4geW91IG1ha2UgYSBtYXggYW5kIG1pbiB2YWwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -740,28 +740,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvLyBuYW1lID09PSAnaGlnaFZhbHVlJyAmJiB2YWx1ZSA8IHRoaXMucHJvcHMubWF4SGlnaFZhbHVlID8gdGhpcy5zZXRTdGF0ZSh7aW52YWxpZEhpZ2hWYWx1ZTogZmFsc2V9KSA6IHRoaXMuc2V0U3RhdGUoe2ludmFsaWRIaWdoVmFsdWU6IHRydWV9KTsK</text>
+        <text encoding="base64">CQkvLyBuYW1lID09PSAnbG93VmFsdWUnICYmIHZhbHVlID4gdGhpcy5wcm9wcy5tYXhMb3dWYWx1ZSA/IHRoaXMuc2V0U3RhdGUoe2ludmFsaWRMb3dWYWx1ZTogZmFsc2V9KSA6IHRoaXMuc2V0U3RhdGUoe2ludmFsaWRMb3dWYWx1ZTogdHJ1ZX0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkvLyBuYW1lID09PSAnaGlnaFZhbHVlJyAmJiB2YWx1ZSA8IHRoaXMucHJvcHMubWF4SGlnaFZhbHVlID8gdGhpcy5zZXRTdGF0ZSh7aW52YWxpZEhpZ2hWYWx1ZTogZmFsc2V9KSA6IHRoaXMuc2V0U3RhdGUoe2ludmFsaWRIaWdoVmFsdWU6IHRydWV9KTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXNldEludmFsaWRIaWdoVmFsdWUgKCkgewo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvLyB9Cg==</text>
+        <text encoding="base64">CXNldEludmFsaWRIaWdoVmFsdWUgKCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvLyB9IGVsc2UgaWYgKG5hbWUgPT09ICdsb3dWYWx1ZScgJiYgdmFsdWUgPiB0aGlzLnByb3BzLm1heExvd1ZhbHVlKSB7Cg==</text>
+        <text encoding="base64">CQkvLyB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

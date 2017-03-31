@@ -124,6 +124,7 @@
         <mark key="." line="26" column="42" />
         <mark key="^" line="26" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/jsBestPractices/index.html" timestamp="1490927885874" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/images/index.js" timestamp="1489584694364">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -460,13 +461,13 @@
         <mark key="^" line="3" column="32" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/Modal.js" timestamp="1490924048299">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/Modal.js" timestamp="1490929315071">
         <mark key="'" line="42" column="46" />
         <mark key="i" line="15" column="43" />
-        <mark key="[" line="28" column="39" />
-        <mark key="]" line="28" column="39" />
-        <mark key="^" line="28" column="39" />
-        <mark key="." line="28" column="39" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="^" line="108" column="120" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/tools/buildHtml.js" timestamp="1490306582921">
         <mark key="[" line="4" column="0" />
@@ -615,6 +616,12 @@
         <mark key="." line="23" column="66" />
         <mark key="^" line="23" column="66" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.js" timestamp="1490927634617">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="13" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/scriptTags/quantcast.js" />
@@ -719,23 +726,23 @@
       <jump line="42" column="46" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/Modal.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>high</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkJCQkJZGlzYWJsZWQ9eyh0aGlzLnN0YXRlLmxvd1ZhbHVlRXJyb3JNZXNzYWdlIHx8IHRoaXMuc3RhdGUuaGlnaFZhbHVlRXJyb3JNZXNzYWdlKSA9PT0gJyd9Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>high</text>
+        <text>invalidLowValue</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJaGlnaFZhbHVlRXJyb3JNZXNzYWdlOiBudWxsCg==</text>
+        <text encoding="base64">CQkJCQkJCQkJZGlzYWJsZWQ9e3RoaXMuc3RhdGUuaW52YWxpZEhpZ2hWYWx1ZSB8fCB0aGlzLnN0YXRlLmludmFsaWRMb3dWYWx1ZX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygndGVzdCcsIGhpZ2gpCg==</text>
+        <text encoding="base64">CQkJCQkJCQkJZGlzYWJsZWQ9eyh0aGlzLnN0YXRlLmxvd1ZhbHVlRXJyb3JNZXNzYWdlIHx8IHRoaXMuc3RhdGUuaGlnaFZhbHVlRXJyb3JNZXNzYWdlKSA9PT0gJyd9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -747,28 +754,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWVsc2UgeyB9Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJey8qZGlzYWJsZWQ9e3RoaXMuc3RhdGUuaW52YWxpZEhpZ2hWYWx1ZSB8fCB0aGlzLnN0YXRlLmludmFsaWRMb3dWYWx1ZX0qL30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkvL1RPRE86IHJlbW92ZSBib29scyBpZiBwb3NzaWJsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlpZiAoKSB7CgkJfSBlbHNlIGlmICgpIHsKCQl9CgkJZWxzZSB7Cg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygndGVzdCcsIHRoaXMuc3RhdGUuaGlnaFZhbHVlRXJyb3JNZXNzYWdlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygndGVzdCcsIGhpZ2gpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJCWVsc2UgeyB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpZiAobmFtZSA9PT0gJ2hpZ2hWYWx1ZScpIHsKCQkJLy8gdmFsdWUgPiBtYXhIaWdoVmFsdWUgfHwgdmFsdWUgPCB0aGlzLnN0YXRlLmxvd1ZhbHVlID8gdGhpcy5zZXRTdGF0ZSh7aW52YWxpZEhpZ2hWYWx1ZTogdHJ1ZX0pIDogdGhpcy5zZXRTdGF0ZSh7aW52YWxpZEhpZ2hWYWx1ZTogZmFsc2V9KTsKCQkJLy8gaGlnaFZhbHVlRXJyb3JNZXNzYWdlID0gdmFsdWUgPiBtYXhIaWdoVmFsdWUgPyAnVmFsdWUgaXMgdG9vIGhpZ2gnIDogJyc7CgkJCS8vIGhpZ2hWYWx1ZUVycm9yTWVzc2FnZSA9IHZhbHVlIDwgdGhpcy5zdGF0ZS5sb3dWYWx1ZSA/ICdWYWx1ZSBpcyB0b28gbG93JyA6ICcnOwoJCX0gZWxzZSBpZiAobmFtZSA9PT0gJ2xvd1ZhbHVlJykgewoJCQkvLyB2YWx1ZSA8IG1heExvd1ZhbHVlIHx8IHZhbHVlID4gdGhpcy5zdGF0ZS5oaWdoVmFsdWUgPyB0aGlzLnNldFN0YXRlKHtpbnZhbGlkTG93VmFsdWU6IHRydWV9KSA6IHRoaXMuc2V0U3RhdGUoe2ludmFsaWRMb3dWYWx1ZTogZmFsc2V9KTsKCQl9Cg==</text>
+        <text encoding="base64">CQlpZiAoKSB7CgkJfSBlbHNlIGlmICgpIHsKCQl9CgkJZWxzZSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJOwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

@@ -404,13 +404,13 @@
         <mark key="^" line="3" column="32" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/Modal.js" timestamp="1490976929980">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/Modal.js" timestamp="1490984546578">
         <mark key="'" line="122" column="0" />
         <mark key="i" line="14" column="43" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="44" column="96" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="85" column="83" />
+        <mark key="]" line="86" column="62" />
+        <mark key="^" line="86" column="62" />
+        <mark key="." line="86" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/tools/buildHtml.js" timestamp="1490306582921">
         <mark key="[" line="4" column="0" />
@@ -641,19 +641,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>parseInt</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>parseInt</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGVzdCgnT3BlblRpZXJNb2RhbDsgdmFsaWQgc2VsZWN0ZWQgcm93OyBkaXNwYXRjaGVzIHByb3Blcmx5IGZvcm1hdHRlZCBhY3Rpb24nLCAodCkgPT4gewoJLy8gQVJSQU5HRQoJY29uc3Qgc3RvcmUgPSB7Z2V0U3RhdGU6ICgpID0+IHtyZXR1cm4ge0FwcDoge3NlbGVjdGVkUm93OiA1fX19fTsKCWNvbnN0IGRpc3BhdGNoID0gKCkgPT4gdC5wYXNzKCk7IC8vIEFTU0VSVAoKCS8vIEFDVAoJT3BlblRpZXJNb2RhbCgpKGRpc3BhdGNoLCBzdG9yZS5nZXRTdGF0ZSk7CgoJdC5lbmQoKTsKfSk7Cg==</text>
+        <text encoding="base64">CQl0aGlzLnNldFN0YXRlKHtoaWdoVmFsdWVFcnJvck1lc3NhZ2UsIGhpZ2hWYWx1ZTogcGFyc2VGbG9hdChwYXJzZUZsb2F0KHZhbHVlKS50b0ZpeGVkKDIpKX0pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bmVlZGVkIHRvIGNoZWNrIGFuZCBtYWtlIHN1cmUgdGhlIGN1cnJlbnQgdGllciBoaWdoIHZhbHVlCg==</text>

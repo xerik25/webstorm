@@ -390,10 +390,11 @@
         <mark key="." line="67" column="77" />
         <mark key="^" line="67" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierData.js" timestamp="1491237459736">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierData.js" timestamp="1491253785394">
+        <mark key="[" line="6" column="90" />
+        <mark key="]" line="6" column="90" />
+        <mark key="." line="6" column="90" />
+        <mark key="^" line="6" column="90" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/clientConnected.js" timestamp="1490115796541">
         <mark key="[" line="5" column="0" />
@@ -523,11 +524,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/UpdateTier.js" timestamp="1491249913645">
-        <mark key="[" line="33" column="14" />
-        <mark key="]" line="33" column="19" />
-        <mark key="." line="33" column="19" />
-        <mark key="^" line="33" column="19" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/UpdateTier.js" timestamp="1491254431189">
+        <mark key="[" line="27" column="15" />
+        <mark key="]" line="27" column="27" />
+        <mark key="." line="27" column="27" />
+        <mark key="^" line="27" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/index.js" timestamp="1490226481201">
         <mark key="[" line="9" column="0" />
@@ -743,22 +744,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>HighVal</text>
+        <text>getState().App.leadTierData.length</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>HighVal</text>
+        <text>getState().App.leadTierData.length</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CWNvbnN0IHByZXZUaWVyID0gdGllciAtIDE7Cgljb25zdCBwcmV2TG93VmFsID0gaGlnaCArIC4wMTsKCWNvbnN0IHByZXZIaWdoVmFsID0gZ2V0U3RhdGUoKS5BcHAubGVhZFRpZXJEYXRhW3ByZXZUaWVyXS5oaWdoOwoJZGlzcGF0Y2goewoJCXR5cGU6IGFjdGlvblR5cGVzLlVQREFURV9USUVSLAoJCXVwZGF0ZWRUaWVyOiB7dGllcjogcHJldlRpZXIsIGhpZ2g6IHByZXZIaWdoVmFsLCBsb3c6IHByZXZMb3dWYWx9LAoJfSk7Cg==</text>
+      <register name="0" type="4">
+        <text>getState().App.leadTierData.length</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vIHJldHVybiB7CgkvLyAJdHlwZTogYWN0aW9uVHlwZXMuVVBEQVRFX1RJRVIsCgkvLyAJdXBkYXRlZFRpZXI6IHt0aWVyLCBoaWdoLCBsb3d9LAoJLy8gCXByZXZpb3VzVGllcjoge3RpZXI6IHByZXZUaWVyLCBoaWdoOiBwcmV2SGlnaFZhbCwgbG93OiBwcmV2TG93VmFsfQoJLy8gfTsK</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCdzaXplJywgbnVtYmVyT2ZUaWVycyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -770,28 +771,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWNvbnN0IHByZXZMb3dWYWwgPSBoaWdoICsgLjAxOwo=</text>
+        <text encoding="base64">CQkJCS8vIFthY3Rpb24ucHJldmlvdXNUaWVyLnRpZXIgLSAxXTogYWN0aW9uLnByZXZpb3VzVGllciwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWNvbnN0IHByZXZIaWdoVmFsID0gZ2V0U3RhdGUoKS5BcHAubGVhZFRpZXJEYXRhW3ByZXZUaWVyXS5oaWdoOwo=</text>
+        <text encoding="base64">CS8vIGNvbnNvbGUubG9nKCdsZWFkVGllckRhdGEnLCBhY3Rpb24ucHJldmlvdXNUaWVyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQljb25zdCBwcmV2TG93VmFsID0gaGlnaCArIC4wMTsKCQkvLyBjb25zdCBwcmV2SGlnaFZhbCA9IHByZXZpb3VzVGllckRhdGEuaGlnaDsKCQljb25zdCBwcmV2VGllciA9IHRpZXIgLSAxOwoJCWRpc3BhdGNoKHsKCQkJdHlwZTogYWN0aW9uVHlwZXMuVVBEQVRFX1RJRVIsCgkJCXVwZGF0ZWRUaWVyOiB7dGllcjogcHJldlRpZXIsIGxvdywgcHJldkxvd1ZhbH0sCgkJfSk7Cg==</text>
+        <text encoding="base64">CQkJLy8gY29uc29sZS5sb2coJ3Rlc3RpbmcnLCB7W2FjdGlvbi5wcmV2aW91c1RpZXIudGllcl06IGFjdGlvbi5wcmV2aW91c1RpZXJ9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlzZWxlY3RlZFJvdzogZ2V0U3RhdGUoKS5BcHAuc2VsZWN0ZWRSb3csCg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygnaGlnaCcsIHRpZXIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vIGNvbnN0IHByZXZMb3dWYWwgPSBoaWdoICsgLjAxOwoJLy8gY29uc3QgcHJldkhpZ2hWYWwgPSBwcmV2aW91c1RpZXJEYXRhLmhpZ2g7CgkvLyBjb25zdCBwcmV2VGllciA9IHByZXZpb3VzVGllckRhdGEudGllcjsK</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCd3aGF0IGlzIHRoZSB0aWVyJywgdGllcik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWNvbnN0IHByZXZMb3dWYWwgPSBoaWdoICsgLjAxOwoJY29uc3QgcHJldkhpZ2hWYWwgPSBwcmV2aW91c1RpZXJEYXRhLmhpZ2g7Cgljb25zdCBwcmV2VGllciA9IHByZXZpb3VzVGllckRhdGEudGllcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CWNvbnN0IG5leHRUaWVyID0gdGllciArIDE7Cgljb25zdCBuZXh0SGlnaFZhbCA9IGxvdyAtIC4wMTsKCWNvbnN0IG5leHRMb3dWYWwgPSBnZXRTdGF0ZSgpLkFwcC5sZWFkVGllckRhdGFbbmV4dFRpZXJdLmxvdzsKCWRpc3BhdGNoKHsKCQl0eXBlOiBhY3Rpb25UeXBlcy5VUERBVEVfVElFUiwKCQl1cGRhdGVkVGllcjoge3RpZXI6IG5leHRUaWVyLCBoaWdoOiBuZXh0SGlnaFZhbCwgbG93OiBuZXh0TG93VmFsfSwKCX0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

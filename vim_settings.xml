@@ -12,12 +12,11 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" timestamp="1491238297717">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" timestamp="1491244465039">
         <mark key="'" line="8" column="1" />
-        <mark key="[" line="41" column="28" />
-        <mark key="]" line="41" column="32" />
-        <mark key="." line="41" column="32" />
-        <mark key="^" line="41" column="32" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/SetIsNotifying.js" timestamp="1490306168621">
         <mark key="[" line="6" column="2" />
@@ -227,11 +226,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/RowSelectionChanged.js" timestamp="1491238067404">
-        <mark key="[" line="12" column="25" />
-        <mark key="]" line="12" column="28" />
-        <mark key="^" line="12" column="28" />
-        <mark key="." line="12" column="28" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/RowSelectionChanged.js" timestamp="1491244379302">
+        <mark key="[" line="9" column="40" />
+        <mark key="]" line="10" column="110" />
+        <mark key="^" line="10" column="110" />
+        <mark key="." line="10" column="110" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/ModalContainer.js" timestamp="1491237196730">
         <mark key="[" line="10" column="0" />
@@ -261,6 +260,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="19" />
       </file>
+      <file name="/LeadTierInterface.js" timestamp="1491244317486" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/appReducer.js" timestamp="1490646478384">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -496,7 +496,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/OpenTierModal.js" timestamp="1490975435803">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/OpenTierModal.js" timestamp="1491244544583">
         <mark key="[" line="5" column="40" />
         <mark key="]" line="6" column="56" />
         <mark key="." line="6" column="56" />
@@ -523,11 +523,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/UpdateTier.js" timestamp="1491237505532">
-        <mark key="[" line="11" column="41" />
-        <mark key="]" line="11" column="58" />
-        <mark key="^" line="11" column="58" />
-        <mark key="." line="11" column="58" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/UpdateTier.js" timestamp="1491245339336">
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="17" column="16" />
+        <mark key="^" line="18" column="30" />
+        <mark key="." line="17" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/index.js" timestamp="1490226481201">
         <mark key="[" line="9" column="0" />
@@ -742,23 +742,23 @@
       <jump line="123" column="0" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/Modal.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>RowSelectionChanged(event[0])</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>RowSelectionChanged(event[0])</text>
+        <text>low</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCW9uUm93U2VsZWN0aW9uPXsoZXZlbnQpID0+IFJvd1NlbGVjdGlvbkNoYW5nZWQoZXZlbnRbMF0pfQo=</text>
+        <text encoding="base64">CWlmICh0aWVyID4gMSkgewoJCWNvbnNvbGUubG9nKCdsb3cnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQljYXNlIFR5cGVzLgo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -770,28 +770,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWNvbnN0IHByZXZMb3dWYWwgPSBoaWdoICsgLjAxOwoJY29uc3QgcHJldkhpZ2hWYWwgPSBwcmV2aW91c1RpZXJEYXRhLmhpZ2g7Cgljb25zdCBwcmV2VGllciA9IHByZXZpb3VzVGllckRhdGEudGllcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIGNvbnNvbGUubG9nKHByZXZpb3VzVGllckRhdGEubG93ID0gaGlnaCArIC4wMSk7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIGNvbnNvbGUubG9nKCd1cGRhdGVUaWVyJywgdGllciwgaGlnaCwgbG93LCBwcmV2aW91c1RpZXJEYXRhLCBuZXh0VGllckRhdGEpOwo=</text>
+        <text encoding="base64">CQkJCQkJCXsvKm9uQ2xpY2s9eyhldmVudCkgPT4gY29uc29sZS5sb2coJ2V2ZW50MicsIGV2ZW50LnRhcmdldCl9Ki99Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvLyBjb25zb2xlLmxvZygncmVuZGVyJywgcHJldmlvdXNUaWVyRGF0YSwgbmV4dFRpZXJEYXRhKTsK</text>
+        <text encoding="base64">CQkJCW9uUm93U2VsZWN0aW9uPXsoZXZlbnQpID0+IGNvbnNvbGUubG9nKCdldmVudCcsIGV2ZW50KX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQluZXh0VGllckRhdGE6IGdldE5leHRUaWVyKHN0YXRlLkFwcC5sZWFkVGllckRhdGEsIHN0YXRlLkFwcC5zYXZlZFNlbGVjdGVkUm93KSwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlwcmV2aW91c1RpZXJEYXRhOiBnZXRQcmV2aW91c1RpZXIoc3RhdGUuQXBwLmxlYWRUaWVyRGF0YSwgc3RhdGUuQXBwLnNhdmVkU2VsZWN0ZWRSb3cpLAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCW9uQ2VsbENsaWNrPXsoZXZlbnQpID0+IGNvbnNvbGUubG9nKCdldmVudCBjZWxsJywgZXZlbnQpfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCW9uQ2VsbENsaWNrCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CW51bGw7Cg==</text>
+        <text encoding="base64">CQkJCWRlc2VsZWN0T25DbGlja2F3YXk9e2ZhbHNlfQo=</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

@@ -232,11 +232,11 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/ModalContainer.js" timestamp="1490990418658">
-        <mark key="[" line="11" column="72" />
-        <mark key="]" line="11" column="73" />
-        <mark key="." line="11" column="73" />
-        <mark key="^" line="11" column="11" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/ModalContainer.js" timestamp="1491234972714">
+        <mark key="[" line="30" column="38" />
+        <mark key="]" line="30" column="38" />
+        <mark key="." line="30" column="38" />
+        <mark key="^" line="11" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/savedSelectedRow.js" timestamp="1490644863074">
         <mark key="[" line="5" column="37" />
@@ -472,13 +472,13 @@
         <mark key="^" line="3" column="32" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/Modal.js" timestamp="1490991118802">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/Modal.js" timestamp="1491235457626">
         <mark key="'" line="122" column="0" />
         <mark key="i" line="14" column="43" />
-        <mark key="[" line="101" column="121" />
-        <mark key="]" line="101" column="152" />
-        <mark key="^" line="101" column="152" />
-        <mark key="." line="101" column="152" />
+        <mark key="[" line="24" column="48" />
+        <mark key="]" line="23" column="59" />
+        <mark key="^" line="23" column="59" />
+        <mark key="." line="24" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/tools/buildHtml.js" timestamp="1490306582921">
         <mark key="[" line="4" column="0" />
@@ -744,22 +744,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>low</text>
+        <text>.low.toFixed(2)</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>low</text>
+        <text>.low.toFixed(2)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCVthY3Rpb24udXBkYXRlZFRpZXIudGllcl06IGFjdGlvbi51cGRhdGVkVGllciwK</text>
+        <text encoding="base64">CQlwcmV2aW91c1RpZXJEYXRhOiBnZXRQcmV2aW91c1RpZXIoc3RhdGUuQXBwLmxlYWRUaWVyRGF0YSwgc3RhdGUuQXBwLnNhdmVkU2VsZWN0ZWRSb3cpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCVthY3Rpb24ucHJldmlvdXNUaWVyLnRpZXJdOiBhY3Rpb24ucHJldmlvdXNUaWVyLAo=</text>
+        <text encoding="base64">CQluZXh0VGllckRhdGE6IHN0YXRlLkFwcC5sZWFkVGllckRhdGFbc3RhdGUuQXBwLnNhdmVkU2VsZWN0ZWRSb3cgKyAxXSwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -771,28 +771,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCd0ZXN0aW5nJywge1thY3Rpb24udXBkYXRlZFRpZXIudGllcl06IGFjdGlvbi51cGRhdGVkVGllcn0pOwo=</text>
+        <text encoding="base64">CQkJCVthY3Rpb24ucHJldmlvdXNUaWVyLnRpZXJdOiBhY3Rpb24ucHJldmlvdXNUaWVyLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWNvbnN0IG5ld0hpZ2hWYWx1ZSA9IGhpZ2ggKyAuMDE7Cg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCd0ZXN0aW5nJywge1thY3Rpb24udXBkYXRlZFRpZXIudGllcl06IGFjdGlvbi51cGRhdGVkVGllcn0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CWNvbnN0IG5ld0hpZ2hWYWx1ZSA9IGhpZ2ggKyAuMDE7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWFjdGlvbi5wcmV2VGllcjogYWN0aW9uLnZhbAo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJCWFjdGlvbi5wcmV2VGllcjogYWN0aW9uLnZhbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCd1cGRhdGVUaWVyJywgdGllciwgaGlnaCwgbG93LCB0ZXN0KTsK</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlwcmV2aW91c1RpZXJEYXRhOiBzdGF0ZQo=</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCd1cGRhdGVUaWVyJywgdGllciwgaGlnaCwgbG93LCB0ZXN0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCQl7Y29uc29sZS5sb2coJ3Rlc3RpbmcnLCBpbmRleCA9PT0gc2VsZWN0ZWRSb3csIGluZGV4LCBzZWxlY3RlZFJvdyl9Cg==</text>
+        <text encoding="base64">CQlwcmV2aW91c1RpZXJEYXRhOiBzdGF0ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

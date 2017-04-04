@@ -61,12 +61,6 @@
         <mark key="^" line="5" column="66" />
         <mark key="." line="5" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/selectedRow.js" timestamp="1490989333845">
-        <mark key="[" line="21" column="30" />
-        <mark key="]" line="21" column="36" />
-        <mark key="." line="21" column="36" />
-        <mark key="^" line="21" column="36" />
-      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/rootReducer.js" timestamp="1489607387765">
         <mark key="[" line="3" column="37" />
         <mark key="]" line="4" column="18" />
@@ -79,11 +73,11 @@
         <mark key="^" line="20" column="24" />
         <mark key="." line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/CancelEdit.js" timestamp="1490977775059">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="18" />
-        <mark key="." line="6" column="18" />
-        <mark key="^" line="6" column="18" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/CancelEdit.js" timestamp="1491270828282">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="33" />
+        <mark key="^" line="5" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/.editorconfig" timestamp="1490976891503">
         <mark key="[" line="24" column="15" />
@@ -97,11 +91,18 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/LeadTierInterfaceContainer.js" timestamp="1491258737202">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="1" column="54" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/rowSelectionChanged.spec.js" timestamp="1491270267066">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="65" />
+        <mark key="^" line="12" column="65" />
+        <mark key="." line="12" column="65" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/LeadTierInterfaceContainer.js" timestamp="1491271047008">
+        <mark key="'" line="21" column="78" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="0" column="66" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/SubmitForm.js" timestamp="1489181533436">
         <mark key="[" line="13" column="46" />
@@ -239,10 +240,11 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/ModalContainer.js" timestamp="1491237196730">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/ModalContainer.js" timestamp="1491271028480">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="4" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/savedSelectedRow.js" timestamp="1490644863074">
         <mark key="[" line="5" column="37" />
@@ -438,11 +440,11 @@
         <mark key="^" line="1" column="41" />
         <mark key="." line="1" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/index.js" timestamp="1490626340269">
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="21" column="13" />
-        <mark key="." line="21" column="13" />
-        <mark key="^" line="21" column="13" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/index.js" timestamp="1491271100748">
+        <mark key="[" line="1" column="46" />
+        <mark key="]" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+        <mark key="^" line="2" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/ResultItem.js" timestamp="1489513481214">
         <mark key="[" line="10" column="51" />
@@ -479,13 +481,13 @@
         <mark key="^" line="3" column="32" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/Modal.js" timestamp="1491237268712">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/Modal.js" timestamp="1491270964139">
         <mark key="'" line="121" column="0" />
         <mark key="i" line="14" column="43" />
-        <mark key="[" line="100" column="121" />
-        <mark key="]" line="100" column="121" />
+        <mark key="[" line="93" column="45" />
+        <mark key="]" line="93" column="46" />
         <mark key="^" line="23" column="59" />
-        <mark key="." line="100" column="121" />
+        <mark key="." line="93" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/tools/buildHtml.js" timestamp="1490306582921">
         <mark key="[" line="4" column="0" />
@@ -531,11 +533,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/UpdateTier.js" timestamp="1491258140710">
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="22" column="18" />
-        <mark key="." line="22" column="22" />
-        <mark key="^" line="0" column="11" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/UpdateTier.js" timestamp="1491270402215">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="6" />
+        <mark key="." line="11" column="6" />
+        <mark key="^" line="11" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/index.js" timestamp="1490226481201">
         <mark key="[" line="9" column="0" />
@@ -572,7 +574,7 @@
         <mark key="." line="16" column="60" />
         <mark key="^" line="16" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491257369415">
+      <file name="/Dummy.txt" timestamp="1491269777044">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -595,7 +597,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="/a.regexp" timestamp="1490984703872">
+      <file name="/a.regexp" timestamp="1491270474658">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -639,6 +641,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/rowSelectionChanged.js" timestamp="1491269531070">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="17" column="34" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/AppTypes.js" timestamp="1488924101527">
         <mark key="[" line="22" column="83" />
         <mark key="]" line="23" column="66" />
@@ -653,7 +661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/scriptTags/s_code.js" />
       <jump line="724" column="49" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/scriptTags/s_code.js" />
       <jump line="1" column="10" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/scriptTags/s_code.js" />
       <jump line="940" column="39" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/scriptTags/scode.js" />
@@ -753,16 +760,17 @@
       <jump line="42" column="46" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/Modal.js" />
       <jump line="89" column="28" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/Modal.js" />
       <jump line="123" column="0" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/Modal.js" />
+      <jump line="22" column="78" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/LeadTierInterfaceContainer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFjdGlvbnMgZnJvbSAnLi4vYWN0aW9ucyc7Cg==</text>
+        <text encoding="base64">Ly9UT0RPOiByZW1vdmVkIGFjdGlvbnMgYW5kIHVzZSBuYW1lZCBleHBvcnRzIGZvciBhY3Rpb25zCg==</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>actions.</text>
+        <text>CHANGE_ROW_SELECTION</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
@@ -771,7 +779,7 @@
         <text>getState().App.leadTierData.length</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFjdGlvbnMgZnJvbSAnLi4vYWN0aW9ucyc7Cg==</text>
+        <text encoding="base64">Ly9UT0RPOiByZW1vdmVkIGFjdGlvbnMgYW5kIHVzZSBuYW1lZCBleHBvcnRzIGZvciBhY3Rpb25zCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -783,33 +791,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9UT0RPOiByZW1vdmVkIGFjdGlvbnMgYW5kIHVzZSBuYW1lZCBleHBvcnRzIGZvciBhY3Rpb25zCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgT3BlblRpZXJNb2RhbDsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgQ2FuY2VsRWRpdE1vZGU7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgUm93U2VsZWN0aW9uQ2hhbmdlZDsK</text>
+        <text encoding="base64">CUNsb3NlVGllck1vZGFsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlkZXNlbGVjdE9uQ2xpY2thd2F5PXtmYWxzZX0K</text>
+        <text encoding="base64">aW1wb3J0IENsb3NlVGllck1vZGFsIGZyb20gJy4vQ2FuY2VsRWRpdCc7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>refactored updateFields to be 2 separate functions
-
-I wanted to clean this up since it was a bit complex. Created
-separate functions that call a helper function to set the message 
-based on the validation checks. Also I'm now using these messages
-if they are set/notSet to disable/enable the Update Tier button.</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGFjdGlvbnMgZnJvbSAnLi4vYWN0aW9ucyc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCWRhdGEtdGllcj17cm93LnRpZXJ9Cg==</text>
+        <text encoding="base64">CVVwZGF0ZVRpZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygnbG93JywgdGllcik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFVwZGF0ZVRpZXIgZnJvbSAnLi91cGRhdGVUaWVyJzsK</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

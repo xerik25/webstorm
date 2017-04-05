@@ -12,12 +12,12 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" timestamp="1491421929289">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" timestamp="1491422737088">
         <mark key="'" line="8" column="1" />
-        <mark key="[" line="69" column="100" />
-        <mark key="]" line="69" column="100" />
-        <mark key="." line="69" column="100" />
-        <mark key="^" line="69" column="100" />
+        <mark key="[" line="85" column="33" />
+        <mark key="]" line="85" column="33" />
+        <mark key="." line="85" column="33" />
+        <mark key="^" line="85" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/SetIsNotifying.js" timestamp="1491320397795">
         <mark key="[" line="3" column="13" />
@@ -442,7 +442,7 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierFakeData.js" timestamp="1491421835586">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierFakeData.js" timestamp="1491422373757">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="17" />
         <mark key="." line="4" column="17" />
@@ -832,22 +832,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>infinity</text>
+        <text>.isRequired</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>infinity</text>
+        <text>.isRequired</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IEVkaXRJY29uIGZyb20gJ21hdGVyaWFsLXVpL3N2Zy1pY29ucy9lZGl0b3IvbW9kZS1lZGl0JzsK</text>
+        <text encoding="base64">CQkJUmVhY3QuUHJvcFR5cGVzLm51bWJlci5pc1JlcXVpcmVkLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEZvbnRJY29uIGZyb20gJ21hdGVyaWFsLXVpL0ZvbnRJY29uJzsK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -859,30 +859,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEZvbnRJY29uIGZyb20gJ21hdGVyaWFsLXVpL0ZvbnRJY29uJzsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQkJCQkJCQlkaXNhYmxlZD17dHJ1ZX0K</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>updated actions to use implicit returns
 - updated let to const 
 - destructure this.state on Modal component</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CS8vIEFwcDogYXBwUmVkdWNlcgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IHtjb21iaW5lUmVkdWNlcnN9IGZyb20gJ3JlZHV4JzsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly8gaW1wb3J0IGFwcFJlZHVjZXIgZnJvbSAnLi9hcHBSZWR1Y2VyJzsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGNsb3NlVGllck1vZGFsID0gKCkgPT4gewoJcmV0dXJuIHsKCQl0eXBlOiB0eXBlcy5DTE9TRV9USUVSX01PREFMCgl9Owp9Owo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHJvd1NlbGVjdGlvbkNoYW5nZWQgPSAodGllcikgPT4gewoJcmV0dXJuIHsKCQl0eXBlOiB0eXBlcy5DSEFOR0VfUk9XX1NFTEVDVElPTiwKCQlzZWxlY3RlZFJvdzogdGllcgoJfTsKfTsK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGNsb3NlVGllck1vZGFsID0gKCkgPT4gewoJcmV0dXJuIHsKCQl0eXBlOiB0eXBlcy5DTE9TRV9USUVSX01PREFMCgl9Owp9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

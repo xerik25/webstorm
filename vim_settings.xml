@@ -12,12 +12,12 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" timestamp="1491418848608">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" timestamp="1491420595249">
         <mark key="'" line="8" column="1" />
-        <mark key="[" line="70" column="65" />
-        <mark key="]" line="70" column="74" />
-        <mark key="." line="70" column="74" />
-        <mark key="^" line="70" column="74" />
+        <mark key="[" line="69" column="123" />
+        <mark key="]" line="69" column="123" />
+        <mark key="." line="69" column="123" />
+        <mark key="^" line="69" column="157" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/SetIsNotifying.js" timestamp="1491320397795">
         <mark key="[" line="3" column="13" />
@@ -442,11 +442,11 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierFakeData.js" timestamp="1491419342646">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierFakeData.js" timestamp="1491420124081">
         <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="20" />
-        <mark key="." line="4" column="20" />
-        <mark key="^" line="4" column="20" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+        <mark key="^" line="4" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/initialAppState.js" timestamp="1489428381180">
         <mark key="[" line="67" column="73" />
@@ -658,7 +658,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="/a.regexp" timestamp="1491409982217">
+      <file name="/a.regexp" timestamp="1491420481358">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -832,13 +832,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
@@ -847,7 +847,7 @@
         <text encoding="base64">CQkJCQkJPFRhYmxlSGVhZGVyQ29sdW1uPkhpZ2g8L1RhYmxlSGVhZGVyQ29sdW1uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCQlkaXNhYmxlZD17dHJ1ZX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -858,31 +858,31 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQkJCQlkaXNhYmxlZD17dHJ1ZX0K</text>
+      </register>
+      <register name="3" type="4">
         <text>updated actions to use implicit returns
 - updated let to const 
 - destructure this.state on Modal component</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CS8vIEFwcDogYXBwUmVkdWNlcgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IHtjb21iaW5lUmVkdWNlcnN9IGZyb20gJ3JlZHV4JzsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Ly8gaW1wb3J0IGFwcFJlZHVjZXIgZnJvbSAnLi9hcHBSZWR1Y2VyJzsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZXhwb3J0IGNvbnN0IGNsb3NlVGllck1vZGFsID0gKCkgPT4gewoJcmV0dXJuIHsKCQl0eXBlOiB0eXBlcy5DTE9TRV9USUVSX01PREFMCgl9Owp9Owo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ZXhwb3J0IGNvbnN0IHJvd1NlbGVjdGlvbkNoYW5nZWQgPSAodGllcikgPT4gewoJcmV0dXJuIHsKCQl0eXBlOiB0eXBlcy5DSEFOR0VfUk9XX1NFTEVDVElPTiwKCQlzZWxlY3RlZFJvdzogdGllcgoJfTsKfTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCQk8ZGl2Pgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQk8L2Rpdj4K</text>
+        <text encoding="base64">CQkJCQk8ZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

@@ -377,6 +377,12 @@
         <mark key="^" line="3" column="81" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/closeTierModal.js" timestamp="1491402527682">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="69" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/package.json" timestamp="1490974752173">
         <mark key="[" line="20" column="4" />
         <mark key="]" line="25" column="3" />
@@ -834,7 +840,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHJvd1NlbGVjdGlvbkNoYW5nZWQgPSAodGllcikgPT4gewoJcmV0dXJuIHsKCQl0eXBlOiB0eXBlcy5DSEFOR0VfUk9XX1NFTEVDVElPTiwKCQlzZWxlY3RlZFJvdzogdGllcgoJfTsKfTsK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGNsb3NlVGllck1vZGFsID0gKCkgPT4gewoJcmV0dXJuIHsKCQl0eXBlOiB0eXBlcy5DTE9TRV9USUVSX01PREFMCgl9Owp9Owo=</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -849,7 +855,7 @@
         <text encoding="base64">QGltcG9ydCAiLi4vLi4vY29tcG9uZW50cy9sZWFkVGllckludGVyZmFjZS9sZWFkVGllckludGVyZmFjZSI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHJvd1NlbGVjdGlvbkNoYW5nZWQgPSAodGllcikgPT4gewoJcmV0dXJuIHsKCQl0eXBlOiB0eXBlcy5DSEFOR0VfUk9XX1NFTEVDVElPTiwKCQlzZWxlY3RlZFJvdzogdGllcgoJfTsKfTsK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGNsb3NlVGllck1vZGFsID0gKCkgPT4gewoJcmV0dXJuIHsKCQl0eXBlOiB0eXBlcy5DTE9TRV9USUVSX01PREFMCgl9Owp9Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -861,16 +867,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQk8ZGl2Pgo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHJvd1NlbGVjdGlvbkNoYW5nZWQgPSAodGllcikgPT4gewoJcmV0dXJuIHsKCQl0eXBlOiB0eXBlcy5DSEFOR0VfUk9XX1NFTEVDVElPTiwKCQlzZWxlY3RlZFJvdzogdGllcgoJfTsKfTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQk8L2Rpdj4K</text>
+        <text encoding="base64">CQkJCQk8ZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">CQkJCQk8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">CQl9Cg==</text>
@@ -879,10 +885,10 @@
         <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TFMtMTAgLyBBZGRpbmcgbWVzc2EK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJaW5pdGlhbExvd1ZhbHVlOiBwcm9wcy5lZGl0YWJsZVRpZXJEYXRhLmxvdywK</text>
+        <text encoding="base64">TFMtMTAgLyBBZGRpbmcgbWVzc2EK</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

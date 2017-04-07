@@ -19,7 +19,7 @@
         <mark key="." line="85" column="33" />
         <mark key="^" line="85" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/updateTier.js" timestamp="1491574820708">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/updateTier.js" timestamp="1491577117061">
         <mark key="[" line="20" column="38" />
         <mark key="]" line="20" column="38" />
         <mark key="." line="20" column="38" />
@@ -96,12 +96,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/updateTier.spec.js" timestamp="1491576187543">
-        <mark key="'" line="11" column="39" />
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="23" column="32" />
-        <mark key="^" line="15" column="32" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/updateTier.spec.js" timestamp="1491577681308">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="7" column="27" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.js" timestamp="1489097028785">
         <mark key="[" line="6" column="0" />
@@ -199,7 +198,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/Modal.js" timestamp="1491510117892">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/Modal.js" timestamp="1491577108551">
         <mark key="'" line="121" column="0" />
         <mark key="i" line="14" column="43" />
         <mark key="[" line="128" column="0" />
@@ -382,23 +381,23 @@
       <jump line="12" column="39" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/updateTier.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlpZiAoYWN0aW9uLnVwZGF0ZVRpZXIudGllciA9PT0gMykgewoJCQl0LmVxdWFsKGFjdGlvbi51cGRhdGVkVGllci50aWVyLCAzKTsKCQkJdC5wYXNzKCk7CgkJfQo=</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlpZiAoYWN0aW9uLnVwZGF0ZVRpZXIudGllciA9PT0gMykgewoJCQl0LmVxdWFsKGFjdGlvbi51cGRhdGVkVGllci50aWVyLCAzKTsKCQkJdC5wYXNzKCk7CgkJfQo=</text>
+        <text encoding="base64">CS8vIEFDVAoJdXBkYXRlVGllcih0aWVyLCBoaWdoLCBsb3cpKHN0b3JlLmRpc3BhdGNoLCBzdG9yZS5nZXRTdGF0ZSk7CgoJdC5lbmQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlpZgo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -410,28 +409,29 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl0LnBhc3MoKTsK</text>
+        <text encoding="base64">CWNvbnN0IHRpZXIgPSAzOwoJY29uc3QgaGlnaCA9IDEwMDsKCWNvbnN0IGxvdyA9IDgwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CX07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvLyB0LmVxdWFsKGFjdGlvbi51cGRhdGVkVGllci50aWVyLCAxKTsK</text>
+        <text encoding="base64">CWNvbnN0IGRpc3BhdGNoID0gKGFjdGlvbikgPT4gewoJCWNvbnNvbGUubG9nKCdsYW5kb24nLCBhY3Rpb24udXBkYXRlZFRpZXIudGllcik7CgkJLy8gQVNTRVJUCgkJdC5lcXVhbChhY3Rpb24udHlwZSwgdHlwZXMuVVBEQVRFX1RJRVIpOwoJCWlmIChhY3Rpb24udXBkYXRlVGllciAmJiBhY3Rpb24udXBkYXRlVGllci50aWVyID09PSAzKSB7CgkJCXQuZXF1YWwoYWN0aW9uLnVwZGF0ZWRUaWVyLnRpZXIsIDMpOwoJCQl0LnBhc3MoKTsKCQl9CgkJaWYgKGFjdGlvbi51cGRhdGVUaWVyICYmIGFjdGlvbi51cGRhdGVUaWVyLnRpZXIgPT09IDIpIHsKCQkJdC5lcXVhbChhY3Rpb24udXBkYXRlZFRpZXIudGllciwgMik7CgkJCXQucGFzcygpOwoJCX0KCQlpZiAoYWN0aW9uLnVwZGF0ZVRpZXIgJiYgYWN0aW9uLnVwZGF0ZVRpZXIudGllciA9PT0gNCkgewoJCQl0LmVxdWFsKGFjdGlvbi51cGRhdGVkVGllci50aWVyLCA0KTsKCQkJdC5wYXNzKCk7CgkJfQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCTxkaXYgY2xhc3NOYW1lPXtgYXBwX19jb250ZW50ICR7bmF2T3BlbiA/ICcgYXBwX19jb250ZW50LS1vcGVuJyA6ICcnfWB9Pgo=</text>
+      <register name="5" type="4">
+        <text>h
+//</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGVzdCh0eXBlcy5DTE9TRV9USUVSX01PREFMICsgJ2Nsb3NlVGllck1vZGFsOyBkaXNwYXRjaGVzIHByb3Blcmx5IGZvcm1hdHRlZCBhY3Rpb24nLCAodCkgPT4gewo=</text>
+        <text encoding="base64">CQlpZgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl0LnBhc3MoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXQucGFzcygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygnYWN0aW9uJywgYWN0aW9uKTsK</text>
+        <text encoding="base64">CQkvLyB0LmVxdWFsKGFjdGlvbi51cGRhdGVkVGllci50aWVyLCAxKTsK</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

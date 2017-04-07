@@ -18,13 +18,6 @@
         <mark key="." line="4" column="31" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" timestamp="1491422737088">
-        <mark key="'" line="8" column="1" />
-        <mark key="[" line="85" column="33" />
-        <mark key="]" line="85" column="33" />
-        <mark key="." line="85" column="33" />
-        <mark key="^" line="85" column="33" />
-      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/SetIsNotifying.js" timestamp="1491320397795">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="14" />
@@ -299,10 +292,11 @@
         <mark key="]" line="12" column="40" />
         <mark key="." line="12" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/bitbucket-pipelines.yml" timestamp="1490743620537">
-        <mark key="[" line="34" column="27" />
-        <mark key="]" line="34" column="27" />
-        <mark key="." line="34" column="27" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/bitbucket-pipelines.yml" timestamp="1491589800332">
+        <mark key="[" line="11" column="69" />
+        <mark key="]" line="11" column="69" />
+        <mark key="^" line="11" column="69" />
+        <mark key="." line="11" column="69" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/initialAppState.js" timestamp="1491575237978">
         <mark key="[" line="9" column="0" />
@@ -640,9 +634,6 @@
         <mark key="." line="16" column="60" />
         <mark key="^" line="16" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491586883425">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/toggleEdit.js" timestamp="1490225069997">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -828,19 +819,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>action.</text>
+        <text>prod</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>action.</text>
+        <text>prod</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGVzdCh0eXBlcy5VUERBVEVfVElFUiArICc7IHZhbGlkIHBhcmFtcyBvbiBsb3cgdGllcjsgc2hvdWxkIGRpc3BhdGNoIDIgdXBkYXRlZCB0aWVycycsICh0KSA9PiB7CgkvLyBBUlJBTkdFCgljb25zdCB0aWVyID0gMTsKCWNvbnN0IGhpZ2ggPSAxMDA7Cgljb25zdCBsb3cgPSA4MDsKCS8vIEFjdGlvbiB0eXBlIGZpcmVzIHRocmVlIHRpbWVzIGFuZCBvbmUgZm9yIGVhY2ggdmFsaWQgdGllcgoJdC5wbGFuKDQpOwoJY29uc3Qgc3RvcmUgPSB7CgkJZ2V0U3RhdGU6ICgpID0+IHtyZXR1cm4ge2xlYWRUaWVyRGF0YTogdGFibGVEYXRhfTt9LAoJCWRpc3BhdGNoOiAoYWN0aW9uKSA9PiB7CgkJCS8vIEFTU0VSVAoJCQl0LmVxdWFscyhhY3Rpb24udHlwZSwgdHlwZXMuVVBEQVRFX1RJRVIpOwoJCQlpZiAoYWN0aW9uLnVwZGF0ZWRUaWVyICYmIGFjdGlvbi51cGRhdGVkVGllci50aWVyID09PSAxKSB7CgkJCQl0LnNhbWUoYWN0aW9uLnVwZGF0ZWRUaWVyLnRpZXIsIDEpOwoJCQl9CgkJCWlmIChhY3Rpb24udXBkYXRlZFRpZXIgJiYgYWN0aW9uLnVwZGF0ZWRUaWVyLnRpZXIgPT09IDIpIHsKCQkJCXQuc2FtZShhY3Rpb24udXBkYXRlZFRpZXIudGllciwgMik7CgkJCX0KCQl9Cgl9OwoKCS8vIEFDVAoJdXBkYXRlVGllcih0aWVyLCBoaWdoLCBsb3cpKHN0b3JlLmRpc3BhdGNoLCBzdG9yZS5nZXRTdGF0ZSk7Cgp9KTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBucG0gY29uZmlnIHNldCByZWdpc3RyeSBodHRwOi8vbnBtLnNlbGVjdHF1b3RlbGFicy5jb206ODA4MAogICAgICAgICAgICAtIG5wbSBpbnN0YWxsCiAgICAgICAgICAgIC0gbnBtIHJ1biBidWlsZDpwcm9kCiAgICAgICAgICAgIC0gbnBtIHRlc3QK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">LyoqCiAqIEBmdW5jdGlvbiBnZXRTZWxlY3RlZFJvdwogKiBAcGFyYW0ge251bWJlcn0gaW5kZXggLSBudW1iZXIgb2Ygc2VsZWN0ZWQgcm93CiAqIEBkZXNjcmlwdGlvbgogKiByZXR1cm4gbnVsbCBmb3IgZGVmYXVsdCBvciB0aGUgY3VycmVudCBpbmRleAogKiBAcmV0dXJuIHtudW1iZXJ9IC0gc2VsZWN0ZWRSb3cKICovCmZ1bmN0aW9uIGdldFNlbGVjdGVkUm93IChpbmRleCA9IG51bGwpIHsKCXJldHVybiBpbmRleDsKfQoKCg==</text>

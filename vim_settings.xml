@@ -247,11 +247,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/updateTier.spec.js" timestamp="1491582718041">
-        <mark key="[" line="76" column="48" />
-        <mark key="]" line="76" column="48" />
-        <mark key="^" line="75" column="98" />
-        <mark key="." line="76" column="80" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/updateTier.spec.js" timestamp="1491590668947">
+        <mark key="[" line="215" column="79" />
+        <mark key="]" line="215" column="79" />
+        <mark key="^" line="215" column="79" />
+        <mark key="." line="215" column="79" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.js" timestamp="1489097028785">
         <mark key="[" line="6" column="0" />
@@ -818,8 +818,8 @@
       <jump line="12" column="39" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/updateTier.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>prod</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -834,7 +834,7 @@
         <text encoding="base64">ICAgICAgICAgICAgLSBucG0gY29uZmlnIHNldCByZWdpc3RyeSBodHRwOi8vbnBtLnNlbGVjdHF1b3RlbGFicy5jb206ODA4MAogICAgICAgICAgICAtIG5wbSBpbnN0YWxsCiAgICAgICAgICAgIC0gbnBtIHJ1biBidWlsZDpwcm9kCiAgICAgICAgICAgIC0gbnBtIHRlc3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIEBmdW5jdGlvbiBnZXRTZWxlY3RlZFJvdwogKiBAcGFyYW0ge251bWJlcn0gaW5kZXggLSBudW1iZXIgb2Ygc2VsZWN0ZWQgcm93CiAqIEBkZXNjcmlwdGlvbgogKiByZXR1cm4gbnVsbCBmb3IgZGVmYXVsdCBvciB0aGUgY3VycmVudCBpbmRleAogKiBAcmV0dXJuIHtudW1iZXJ9IC0gc2VsZWN0ZWRSb3cKICovCmZ1bmN0aW9uIGdldFNlbGVjdGVkUm93IChpbmRleCA9IG51bGwpIHsKCXJldHVybiBpbmRleDsKfQoKCg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -846,28 +846,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJfQoJCQlpZiAoYWN0aW9uLnVwZGF0ZWRUaWVyICYmIGFjdGlvbi51cGRhdGVkVGllci50aWVyID09PSA0KSB7Cg==</text>
+        <text encoding="base64">CQl0LnBhc3MoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CX0gY2F0Y2goZXJyb3IpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCXQuc2FtZShhY3Rpb24udXBkYXRlZFRpZXIudGllciwgMik7Cg==</text>
+        <text encoding="base64">CQk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJaWYgKGFjdGlvbi51cGRhdGVkVGllciAmJiBhY3Rpb24udXBkYXRlZFRpZXIudGllciA9PT0gMikgewo=</text>
+        <text encoding="base64">CXRyeSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIEBmdW5jdGlvbiBnZXRTZWxlY3RlZFJvdwogKiBAcGFyYW0ge251bWJlcn0gaW5kZXggLSBudW1iZXIgb2Ygc2VsZWN0ZWQgcm93CiAqIEBkZXNjcmlwdGlvbgogKiByZXR1cm4gbnVsbCBmb3IgZGVmYXVsdCBvciB0aGUgY3VycmVudCBpbmRleAogKiBAcmV0dXJuIHtudW1iZXJ9IC0gc2VsZWN0ZWRSb3cKICovCmZ1bmN0aW9uIGdldFNlbGVjdGVkUm93IChpbmRleCA9IG51bGwpIHsKCXJldHVybiBpbmRleDsKfQoKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CQkJfQoJCQlpZiAoYWN0aW9uLnVwZGF0ZWRUaWVyICYmIGFjdGlvbi51cGRhdGVkVGllci50aWVyID09PSA0KSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGVzdCh0eXBlcy5VUERBVEVfVElFUiArICc7IHZhbGlkIHBhcmFtcyBvbiBtaWRkbGUgdGllcjsgc2hvdWxkIGRpc3BhdGNoIDMgdXBkYXRlZCB0aWVycycsICh0KSA9PiB7Cg==</text>
+        <text encoding="base64">CQkJCXQuc2FtZShhY3Rpb24udXBkYXRlZFRpZXIudGllciwgMik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>21</text>

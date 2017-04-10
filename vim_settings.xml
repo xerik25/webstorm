@@ -205,6 +205,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierData.spec.js" timestamp="1491843655523">
+        <mark key="[" line="16" column="3" />
+        <mark key="]" line="18" column="52" />
+        <mark key="." line="18" column="52" />
+        <mark key="^" line="18" column="52" />
+      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/QuoteForm.js" timestamp="1489091422633">
         <mark key="[" line="68" column="42" />
         <mark key="]" line="68" column="42" />
@@ -359,11 +365,11 @@
         <mark key="." line="57" column="35" />
         <mark key="^" line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/canEditTier.spec.js" timestamp="1491842595275">
-        <mark key="[" line="35" column="63" />
-        <mark key="]" line="35" column="67" />
-        <mark key="." line="35" column="67" />
-        <mark key="^" line="35" column="67" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/canEditTier.spec.js" timestamp="1491843568040">
+        <mark key="[" line="49" column="32" />
+        <mark key="]" line="49" column="42" />
+        <mark key="." line="49" column="42" />
+        <mark key="^" line="49" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/.eslintrc" timestamp="1491593286982">
         <mark key="[" line="36" column="0" />
@@ -827,13 +833,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>canEditTier</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>canEditTier</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>

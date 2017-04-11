@@ -87,7 +87,7 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/package.json" timestamp="1491839288756">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/package.json" timestamp="1491919990026">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -163,11 +163,11 @@
         <mark key="]" line="12" column="40" />
         <mark key="." line="12" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/bitbucket-pipelines.yml" timestamp="1491852729391">
-        <mark key="[" line="46" column="40" />
-        <mark key="]" line="46" column="89" />
-        <mark key="^" line="46" column="89" />
-        <mark key="." line="46" column="89" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/bitbucket-pipelines.yml" timestamp="1491920050948">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="15" column="33" />
+        <mark key="^" line="15" column="33" />
+        <mark key="." line="15" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/initialAppState.js" timestamp="1491575237978">
         <mark key="[" line="9" column="0" />
@@ -309,6 +309,11 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="2" />
         <mark key="." line="5" column="2" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1491878301608">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1491848554455">
         <mark key="[" line="0" column="0" />
@@ -453,22 +458,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Math.trunc(parseFloat(value) * 100) / 100</text>
+        <text>prod-env.zw42uk9qjn.us-east-2.elasticbeanstalk.com</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Math.trunc(parseFloat(value) * 100) / 100</text>
+        <text>prod-env.zw42uk9qjn.us-east-2.elasticbeanstalk.com</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CS8vIGV4cGVjdCB0byBjb21wbGV0ZSA0IHRlc3RzIHRvdGFsLiBUeXBlIHNob3VsZCB2YWxpZGF0ZSB0d2ljZSBhbmQgdGhlbiBvbmNlIGZvciBlYWNoIHRpZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBleHBvcnQgTk9ERV9FTlY9cHJvZHVjdGlvbgogICAgICAgICAgICAtIGV4cG9ydCBTT0NLRVRfU0VSVkVSPXByb2QtZW52Lnp3NDJ1azlxam4udXMtZWFzdC0yLmVsYXN0aWNiZWFuc3RhbGsuY29tCiAgICAgICAgICAgIC0gZXhwb3J0IFBPUlQ9ODAKICAgICAgICAgICAgLSBleHBvcnQgS0FGS0FfQ09NTUFORF9UT1BJQz0nZW50aXR5LmNvbW1hbmQnCiAgICAgICAgICAgIC0gZXhwb3J0IEtBRktBX0JST0tFUl9MSVNUPSdwcm9kLWVudi56dzQydWs5cWpuLnVzLWVhc3QtMi5lbGFzdGljYmVhbnN0YWxrLmNvbTo5MDkxJwogICAgICAgICAgICAtIGV4cG9ydCBNQVJLRVRJTkdfU0VSVkVSX1BPUlQ9MzAwMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">TWF0aC50cnVuYyhwYXJzZUZsb2F0KHZhbHVlKSAqIDEwMCkgLyAxMDAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -480,28 +485,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQljb25zdCByb3VuZFRvSHVuZHJlZHRocyA9IHZhbHVlID0+IE1hdGgudHJ1bmMocGFyc2VGbG9hdCh2YWx1ZSkgKiAxMDAgLyAxMDApOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQl9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQljb25zdCByb3VuZFRvSHVuZHJlZHRocyA9ICh2YWx1ZSkgPT4gewoJCX0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CWNvbnN0IHJvdW5kVG9IdW5kcmVkdGhzID0gKHZhbHVlKSB7Cgl9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">CQkK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQljb25zdCByb3VuZFRvSHVuZHJlZHRocyA9IHZhbHVlID0+IE1hdGgudHJ1bmMocGFyc2VGbG9hdCh2YWx1ZSkgKiAxMDAgLyAxMDApOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQl9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQljb25zdCByb3VuZFRvSHVuZHJlZHRocyA9ICh2YWx1ZSkgPT4gewoJCX0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CWNvbnN0IHJvdW5kVG9IdW5kcmVkdGhzID0gKHZhbHVlKSB7Cgl9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8vIGV4cGVjdCB0byBjb21wbGV0ZSA0IHRlc3RzIHRvdGFsCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIEFjdGlvbiB0eXBlIGZpcmVzIHRocmVlIHRpbWVzIGFuZCBvbmUgZm9yIGVhY2ggdmFsaWQgdGllcgo=</text>
+        <text encoding="base64">CS8vIGV4cGVjdCB0byBjb21wbGV0ZSA0IHRlc3RzIHRvdGFsCg==</text>
       </register>
       <register name=":" type="4">
         <text>84</text>

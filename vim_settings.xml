@@ -201,17 +201,18 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
+      <file name="/package.json" timestamp="1491945342521" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/.editorconfig" timestamp="1490972332569">
         <mark key="[" line="25" column="14" />
         <mark key="]" line="25" column="14" />
         <mark key="." line="25" column="14" />
         <mark key="^" line="25" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/package.json" timestamp="1491927060239">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="13" column="9" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/package.json" timestamp="1491945352603">
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="15" column="32" />
+        <mark key="^" line="15" column="32" />
+        <mark key="." line="15" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/.gitignore" timestamp="1490372049416">
         <mark key="[" line="39" column="4" />
@@ -310,6 +311,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="12" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/ModalContainer.js" timestamp="1491945166224" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/savedSelectedRow.js" timestamp="1491850926010">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -522,12 +524,6 @@
         <mark key="." line="12" column="34" />
         <mark key="^" line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/server/server.spec.js" timestamp="1491922420386">
-        <mark key="[" line="41" column="33" />
-        <mark key="]" line="41" column="35" />
-        <mark key="." line="41" column="35" />
-        <mark key="^" line="41" column="35" />
-      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/.babelrc" timestamp="1491942239600">
         <mark key="[" line="1" column="33" />
         <mark key="]" line="1" column="41" />
@@ -580,13 +576,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="3" column="32" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/Modal.js" timestamp="1491878281138">
-        <mark key="i" line="15" column="43" />
-        <mark key="[" line="43" column="26" />
-        <mark key="]" line="43" column="48" />
-        <mark key="." line="43" column="48" />
-        <mark key="^" line="43" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/tools/buildHtml.js" timestamp="1490306582921">
         <mark key="[" line="4" column="0" />
@@ -679,8 +668,10 @@
         <mark key="." line="16" column="60" />
         <mark key="^" line="16" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491942322431">
+      <file name="/Dummy.txt" timestamp="1491945189889">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/toggleEdit.js" timestamp="1490225069997">
         <mark key="[" line="8" column="0" />
@@ -709,12 +700,6 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="51" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/services/utilities.js" timestamp="1491878277523">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/containers/LegalTextContainer.js" timestamp="1489181290954">
         <mark key="[" line="8" column="5" />
@@ -865,14 +850,14 @@
       <jump line="0" column="41" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>paths</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>paths</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
@@ -881,7 +866,7 @@
         <text encoding="base64">CWlmIChPYmplY3QudmFsdWVzKHJvdXRlcykuaW5jbHVkZXMocmVxLnBhdGgpKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IExlYWRUaWVySW50ZXJmYWNlIGZyb20gJy4uL2NvbnRhaW5lcnMvTGVhZFRpZXJJbnRlcmZhY2UvTGVhZFRpZXJJbnRlcmZhY2VDb250YWluZXInOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -893,28 +878,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IEhvbWUgZnJvbSAnLi4vY29tcG9uZW50cy9ob21lL0hvbWUnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IExlYWRUaWVySW50ZXJmYWNlIGZyb20gJy4uL2NvbnRhaW5lcnMvTGVhZFRpZXJJbnRlcmZhY2UvTGVhZFRpZXJJbnRlcmZhY2VDb250YWluZXInOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEhvbWUgZnJvbSAnLi4vY29tcG9uZW50cy9ob21lL0hvbWUnOwo=</text>
+        <text encoding="base64">Ly8gaW1wb3J0IEhvbWUgZnJvbSAnLi4vY29tcG9uZW50cy9ob21lL0hvbWUnOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IExlYWRUaWVySW50ZXJmYWNlIGZyb20gJy4uL2NvbnRhaW5lcnMvTGVhZFRpZXJJbnRlcmZhY2UvTGVhZFRpZXJJbnRlcmZhY2VDb250YWluZXInOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gY29uc3Qgcm91dGVzID0gWwovLyAJewovLyAJCXBhdGg6ICcvJywKLy8gCQljb21wb25lbnQ6IEhvbWUKLy8gCX0sCi8vIAl7Ci8vIAkJcGF0aDogJy9sZWFkVGllckludGVyZmFjZScsCi8vIAkJY29tcG9uZW50OiBMZWFkVGllckludGVyZmFjZQovLyAJfQovLyBdOwoK</text>
+        <text encoding="base64">aW1wb3J0IEhvbWUgZnJvbSAnLi4vY29tcG9uZW50cy9ob21lL0hvbWUnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgkvLyA8Um91dGUgcGF0aD17cm91dGVzWzBdLnBhdGh9IGNvbXBvbmVudD17QXBwQ29udGFpbmVyfT4KCS8vIAk8SW5kZXhSb3V0ZSBjb21wb25lbnQ9e3JvdXRlc1swXS5jb21wb25lbnR9Lz4KCS8vIAl7cm91dGVzLm1hcCgocm91dGVPYmosIGluZGV4KSA9PgoJLy8gCQk8Um91dGUKCS8vIAkJCWtleT17aW5kZXh9CgkvLyAJCQlwYXRoPXtyb3V0ZU9iai5wYXRofQoJLy8gCQkJY29tcG9uZW50PXtyb3V0ZU9iai5jb21wb25lbnR9CgkvLyAJCS8+CgkvLyAJKX0KCS8vIDwvUm91dGU+Cg==</text>
+        <text encoding="base64">aW1wb3J0IExlYWRUaWVySW50ZXJmYWNlIGZyb20gJy4uL2NvbnRhaW5lcnMvTGVhZFRpZXJJbnRlcmZhY2UvTGVhZFRpZXJJbnRlcmZhY2VDb250YWluZXInOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8vIGNvbnNvbGUubG9nKCdyb3V0ZXMnLCByZXEucGF0aCk7Cg==</text>
+        <text encoding="base64">Ly8gY29uc3Qgcm91dGVzID0gWwovLyAJewovLyAJCXBhdGg6ICcvJywKLy8gCQljb21wb25lbnQ6IEhvbWUKLy8gCX0sCi8vIAl7Ci8vIAkJcGF0aDogJy9sZWFkVGllckludGVyZmFjZScsCi8vIAkJY29tcG9uZW50OiBMZWFkVGllckludGVyZmFjZQovLyAJfQovLyBdOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGlmIChyb3V0ZXMuT2JqZWN0LnZhbHVlcyhyb3V0ZXMpLmluY2x1ZGVzKHJlcS5wYXRoKSkgewo=</text>
+        <text encoding="base64">CgkvLyA8Um91dGUgcGF0aD17cm91dGVzWzBdLnBhdGh9IGNvbXBvbmVudD17QXBwQ29udGFpbmVyfT4KCS8vIAk8SW5kZXhSb3V0ZSBjb21wb25lbnQ9e3JvdXRlc1swXS5jb21wb25lbnR9Lz4KCS8vIAl7cm91dGVzLm1hcCgocm91dGVPYmosIGluZGV4KSA9PgoJLy8gCQk8Um91dGUKCS8vIAkJCWtleT17aW5kZXh9CgkvLyAJCQlwYXRoPXtyb3V0ZU9iai5wYXRofQoJLy8gCQkJY29tcG9uZW50PXtyb3V0ZU9iai5jb21wb25lbnR9CgkvLyAJCS8+CgkvLyAJKX0KCS8vIDwvUm91dGU+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>84</text>

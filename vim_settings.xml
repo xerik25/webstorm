@@ -171,11 +171,11 @@
         <mark key="." line="22" column="35" />
         <mark key="^" line="22" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/server/services/reactRouterMiddleware.js" timestamp="1491922854290">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="8" />
-        <mark key="^" line="4" column="55" />
-        <mark key="." line="4" column="8" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/server/services/reactRouterMiddleware.js" timestamp="1491938908037">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="33" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/server/storage/fetchCollection.js" timestamp="1490112771887">
         <mark key="[" line="20" column="0" />
@@ -253,11 +253,11 @@
         <mark key="." line="10" column="22" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/routes.js" timestamp="1491936175031">
-        <mark key="[" line="19" column="17" />
-        <mark key="]" line="19" column="41" />
-        <mark key="." line="19" column="41" />
-        <mark key="^" line="19" column="41" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/routes.js" timestamp="1491938940516">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/server/index.spec.js" timestamp="1490366025686">
         <mark key="[" line="7" column="0" />
@@ -449,6 +449,7 @@
         <mark key="." line="1" column="93" />
         <mark key="^" line="1" column="93" />
       </file>
+      <file name="/routes.js" timestamp="1491938743393" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/server/services/registerEventHandlers.spec.js" timestamp="1490369948726">
         <mark key="[" line="34" column="43" />
         <mark key="]" line="34" column="43" />
@@ -615,11 +616,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/clientRoutes.js" timestamp="1491936232655">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="27" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/clientRoutes.js" timestamp="1491938966579">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/server/.editorconfig" timestamp="1490976905284">
         <mark key="[" line="25" column="14" />
@@ -862,22 +862,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICogQHR5cGUge3tyb290OiBzdHJpbmcsIGxlYWRUaWVySW50ZXJmYWNlOiBzdHJpbmd9fQo=</text>
+        <text encoding="base64">aW1wb3J0IEhvbWUgZnJvbSAnLi4vY29tcG9uZW50cy9ob21lL0hvbWUnOwo=</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, routes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBleHBvcnQgTk9ERV9FTlY9cHJvZHVjdGlvbgogICAgICAgICAgICAtIGV4cG9ydCBTT0NLRVRfU0VSVkVSPXByb2QtZW52Lnp3NDJ1azlxam4udXMtZWFzdC0yLmVsYXN0aWNiZWFuc3RhbGsuY29tCiAgICAgICAgICAgIC0gZXhwb3J0IFBPUlQ9ODAKICAgICAgICAgICAgLSBleHBvcnQgS0FGS0FfQ09NTUFORF9UT1BJQz0nZW50aXR5LmNvbW1hbmQnCiAgICAgICAgICAgIC0gZXhwb3J0IEtBRktBX0JST0tFUl9MSVNUPSdwcm9kLWVudi56dzQydWs5cWpuLnVzLWVhc3QtMi5lbGFzdGljYmVhbnN0YWxrLmNvbTo5MDkxJwogICAgICAgICAgICAtIGV4cG9ydCBNQVJLRVRJTkdfU0VSVkVSX1BPUlQ9MzAwMAo=</text>
+        <text encoding="base64">CWlmIChPYmplY3QudmFsdWVzKHJvdXRlcykuaW5jbHVkZXMocmVxLnBhdGgpKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQHR5cGUge3tyb290OiBzdHJpbmcsIGxlYWRUaWVySW50ZXJmYWNlOiBzdHJpbmd9fQo=</text>
+        <text encoding="base64">aW1wb3J0IEhvbWUgZnJvbSAnLi4vY29tcG9uZW50cy9ob21lL0hvbWUnOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -889,28 +889,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">aW1wb3J0IExlYWRUaWVySW50ZXJmYWNlIGZyb20gJy4uL2NvbnRhaW5lcnMvTGVhZFRpZXJJbnRlcmZhY2UvTGVhZFRpZXJJbnRlcmZhY2VDb250YWluZXInOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgdG9kbwo=</text>
+        <text encoding="base64">Ly8gY29uc3Qgcm91dGVzID0gWwovLyAJewovLyAJCXBhdGg6ICcvJywKLy8gCQljb21wb25lbnQ6IEhvbWUKLy8gCX0sCi8vIAl7Ci8vIAkJcGF0aDogJy9sZWFkVGllckludGVyZmFjZScsCi8vIAkJY29tcG9uZW50OiBMZWFkVGllckludGVyZmFjZQovLyAJfQovLyBdOwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">TWF0aC50cnVuYyhwYXJzZUZsb2F0KHZhbHVlKSAqIDEwMCkgLyAxMDAK</text>
+        <text encoding="base64">CgkvLyA8Um91dGUgcGF0aD17cm91dGVzWzBdLnBhdGh9IGNvbXBvbmVudD17QXBwQ29udGFpbmVyfT4KCS8vIAk8SW5kZXhSb3V0ZSBjb21wb25lbnQ9e3JvdXRlc1swXS5jb21wb25lbnR9Lz4KCS8vIAl7cm91dGVzLm1hcCgocm91dGVPYmosIGluZGV4KSA9PgoJLy8gCQk8Um91dGUKCS8vIAkJCWtleT17aW5kZXh9CgkvLyAJCQlwYXRoPXtyb3V0ZU9iai5wYXRofQoJLy8gCQkJY29tcG9uZW50PXtyb3V0ZU9iai5jb21wb25lbnR9CgkvLyAJCS8+CgkvLyAJKX0KCS8vIDwvUm91dGU+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CS8vIGNvbnNvbGUubG9nKCdyb3V0ZXMnLCByZXEucGF0aCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgIC8vIGlmIChyb3V0ZXMuT2JqZWN0LnZhbHVlcyhyb3V0ZXMpLmluY2x1ZGVzKHJlcS5wYXRoKSkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQljb25zdCByb3VuZFRvSHVuZHJlZHRocyA9IHZhbHVlID0+IE1hdGgudHJ1bmMocGFyc2VGbG9hdCh2YWx1ZSkgKiAxMDAgLyAxMDApOwo=</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygndGVzdGluZycpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygndGVzdGluZycpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljb25zdCByb3VuZFRvSHVuZHJlZHRocyA9ICh2YWx1ZSkgPT4gewoJCX0K</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygndGVzdGluZycpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>84</text>

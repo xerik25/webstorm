@@ -95,10 +95,10 @@
         <mark key="^" line="14" column="19" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/.eslintrc" timestamp="1491578478139">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="12" />
-        <mark key="." line="14" column="12" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/.eslintrc" timestamp="1491947765881">
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="24" column="30" />
+        <mark key="." line="24" column="30" />
         <mark key="^" line="13" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/react-redux-boilerplate/src/components/reduxExample/ReduxExample.js" timestamp="1489164708575">
@@ -171,11 +171,11 @@
         <mark key="." line="22" column="35" />
         <mark key="^" line="22" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/server/services/reactRouterMiddleware.js" timestamp="1491941839966">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="33" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/server/services/reactRouterMiddleware.js" timestamp="1491948050382">
+        <mark key="[" line="1" column="47" />
+        <mark key="]" line="2" column="111" />
+        <mark key="." line="2" column="111" />
+        <mark key="^" line="2" column="111" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/server/storage/fetchCollection.js" timestamp="1490112771887">
         <mark key="[" line="20" column="0" />
@@ -208,11 +208,10 @@
         <mark key="." line="25" column="14" />
         <mark key="^" line="25" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/package.json" timestamp="1491945352603">
-        <mark key="[" line="15" column="34" />
-        <mark key="]" line="15" column="32" />
-        <mark key="^" line="15" column="32" />
-        <mark key="." line="15" column="32" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/package.json" timestamp="1491947932330">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/.gitignore" timestamp="1490372049416">
         <mark key="[" line="39" column="4" />
@@ -605,11 +604,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/clientRoutes.js" timestamp="1491943862684">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="21" />
-        <mark key="." line="4" column="21" />
-        <mark key="^" line="4" column="21" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/clientRoutes.js" timestamp="1491947635801">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/server/.editorconfig" timestamp="1490976905284">
         <mark key="[" line="25" column="14" />
@@ -668,7 +666,7 @@
         <mark key="." line="16" column="60" />
         <mark key="^" line="16" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491945189889">
+      <file name="/Dummy.txt" timestamp="1491947732097">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -746,6 +744,7 @@
         <mark key="." line="23" column="66" />
         <mark key="^" line="23" column="66" />
       </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/tools/startMessage.js" timestamp="1491947515154" />
     </filemarks>
     <jumps>
       <jump line="39" column="37" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/scriptTags/scode.js" />
@@ -850,23 +849,23 @@
       <jump line="0" column="41" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>../../client/src/constants/clientRoutes</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>../../client/src/constants/clientRoutes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWlmIChPYmplY3QudmFsdWVzKHJvdXRlcykuaW5jbHVkZXMocmVxLnBhdGgpKSB7Cg==</text>
+        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgKi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJwcmVidWlsZCI6ICJiYWJlbCBjbGllbnQvc3JjL2NvbnN0YW50cyAtZCBkaXN0L2NsaWVudC9zcmMvY29uc3RhbnRzIC0taWdub3JlIHNwZWMuanMiLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -878,28 +877,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgbm8tY29uc29sZSAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IExlYWRUaWVySW50ZXJmYWNlIGZyb20gJy4uL2NvbnRhaW5lcnMvTGVhZFRpZXJJbnRlcmZhY2UvTGVhZFRpZXJJbnRlcmZhY2VDb250YWluZXInOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IEhvbWUgZnJvbSAnLi4vY29tcG9uZW50cy9ob21lL0hvbWUnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IExlYWRUaWVySW50ZXJmYWNlIGZyb20gJy4uL2NvbnRhaW5lcnMvTGVhZFRpZXJJbnRlcmZhY2UvTGVhZFRpZXJJbnRlcmZhY2VDb250YWluZXInOwo=</text>
+        <text encoding="base64">ICAgICJiYWJlbC1jbGkiOiAiXjYuMjMuMCIsCiAgICAiYmFiZWwtbG9hZGVyIjogIl42LjQuMSIsCiAgICAiYmFiZWwtcGx1Z2luLXRyYW5zZm9ybS1ydW50aW1lIjogIl42LjIzLjAiLAogICAgImJhYmVsLXByZXNldC1sYXRlc3QiOiAiXjYuMjIuMCIsCiAgICAiYmFiZWwtcmVnaXN0ZXIiOiAiXjYuMjMuMCIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEhvbWUgZnJvbSAnLi4vY29tcG9uZW50cy9ob21lL0hvbWUnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IExlYWRUaWVySW50ZXJmYWNlIGZyb20gJy4uL2NvbnRhaW5lcnMvTGVhZFRpZXJJbnRlcmZhY2UvTGVhZFRpZXJJbnRlcmZhY2VDb250YWluZXInOwo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgcm91dGVzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gY29uc3Qgcm91dGVzID0gWwovLyAJewovLyAJCXBhdGg6ICcvJywKLy8gCQljb21wb25lbnQ6IEhvbWUKLy8gCX0sCi8vIAl7Ci8vIAkJcGF0aDogJy9sZWFkVGllckludGVyZmFjZScsCi8vIAkJY29tcG9uZW50OiBMZWFkVGllckludGVyZmFjZQovLyAJfQovLyBdOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgkvLyA8Um91dGUgcGF0aD17cm91dGVzWzBdLnBhdGh9IGNvbXBvbmVudD17QXBwQ29udGFpbmVyfT4KCS8vIAk8SW5kZXhSb3V0ZSBjb21wb25lbnQ9e3JvdXRlc1swXS5jb21wb25lbnR9Lz4KCS8vIAl7cm91dGVzLm1hcCgocm91dGVPYmosIGluZGV4KSA9PgoJLy8gCQk8Um91dGUKCS8vIAkJCWtleT17aW5kZXh9CgkvLyAJCQlwYXRoPXtyb3V0ZU9iai5wYXRofQoJLy8gCQkJY29tcG9uZW50PXtyb3V0ZU9iai5jb21wb25lbnR9CgkvLyAJCS8+CgkvLyAJKX0KCS8vIDwvUm91dGU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>84</text>

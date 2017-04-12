@@ -202,6 +202,12 @@
         <mark key="^" line="7" column="21" />
       </file>
       <file name="/package.json" timestamp="1491945342521" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/App.js" timestamp="1492015772249">
+        <mark key="[" line="47" column="85" />
+        <mark key="]" line="47" column="93" />
+        <mark key="." line="47" column="93" />
+        <mark key="^" line="47" column="93" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/.editorconfig" timestamp="1490972332569">
         <mark key="[" line="25" column="14" />
         <mark key="]" line="25" column="14" />
@@ -666,10 +672,8 @@
         <mark key="." line="16" column="60" />
         <mark key="^" line="16" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491947732097">
+      <file name="/Dummy.txt" timestamp="1492015478175">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/toggleEdit.js" timestamp="1490225069997">
         <mark key="[" line="8" column="0" />
@@ -850,22 +854,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>../../client/src/constants/clientRoutes</text>
+        <text>Lead Tier Interface</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>../../client/src/constants/clientRoutes</text>
+        <text>Lead Tier Interface</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgKi8K</text>
+        <text encoding="base64">CQkJCQk8TWVudUl0ZW0gb25DbGljaz17KCkgPT4gb25OYXZpZ2F0ZSgnL2xlYWRUaWVySW50ZXJmYWNlJywgZmFsc2UsIGZhbHNlKX0+TGVhZCBUaWVyIEludGVyZmFjZTwvTWVudUl0ZW0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJwcmVidWlsZCI6ICJiYWJlbCBjbGllbnQvc3JjL2NvbnN0YW50cyAtZCBkaXN0L2NsaWVudC9zcmMvY29uc3RhbnRzIC0taWdub3JlIHNwZWMuanMiLAo=</text>
+        <text encoding="base64">CQkJCQlkbwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -877,25 +881,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgbm8tY29uc29sZSAqLwo=</text>
+        <text encoding="base64">ICAgICJwcmVidWlsZCI6ICJiYWJlbCBjbGllbnQvc3JjL2NvbnN0YW50cyAtZCBkaXN0L2NsaWVudC9zcmMvY29uc3RhbnRzIC0taWdub3JlIHNwZWMuanMiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgbm8tY29uc29sZSAqLwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1jbGkiOiAiXjYuMjMuMCIsCiAgICAiYmFiZWwtbG9hZGVyIjogIl42LjQuMSIsCiAgICAiYmFiZWwtcGx1Z2luLXRyYW5zZm9ybS1ydW50aW1lIjogIl42LjIzLjAiLAogICAgImJhYmVsLXByZXNldC1sYXRlc3QiOiAiXjYuMjIuMCIsCiAgICAiYmFiZWwtcmVnaXN0ZXIiOiAiXjYuMjMuMCIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1jbGkiOiAiXjYuMjMuMCIsCiAgICAiYmFiZWwtbG9hZGVyIjogIl42LjQuMSIsCiAgICAiYmFiZWwtcGx1Z2luLXRyYW5zZm9ybS1ydW50aW1lIjogIl42LjIzLjAiLAogICAgImJhYmVsLXByZXNldC1sYXRlc3QiOiAiXjYuMjIuMCIsCiAgICAiYmFiZWwtcmVnaXN0ZXIiOiAiXjYuMjMuMCIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgcm91dGVzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgcm91dGVzOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

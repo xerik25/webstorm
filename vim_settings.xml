@@ -564,11 +564,11 @@
         <mark key="^" line="3" column="32" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/Modal.js" timestamp="1492541536480">
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
-        <mark key="^" line="142" column="24" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/Modal.js" timestamp="1492542591359">
+        <mark key="[" line="123" column="78" />
+        <mark key="]" line="123" column="80" />
+        <mark key="." line="123" column="80" />
+        <mark key="^" line="123" column="80" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/tools/buildHtml.js" timestamp="1490306582921">
         <mark key="[" line="4" column="0" />
@@ -642,10 +642,9 @@
         <mark key="." line="16" column="60" />
         <mark key="^" line="16" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492541419492">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="/Dummy.txt" timestamp="1492541662421">
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/toggleEdit.js" timestamp="1490225069997">
         <mark key="[" line="8" column="0" />
@@ -824,14 +823,14 @@
       <jump line="3" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CgkmX19hY2NlcHRCdXR0b24gewoJCWZsb2F0OiByaWdodDsKCQltYXJnaW4tbGVmdDogcHhUb1JlbSg1KTsKCX0KCgkmX19jYW5jZWxCdXR0b24gewoJCWZsb2F0OiByaWdodDsKCgkJLy9NYXRlcmlhbCBVSSBPdmVycmlkZQoJCWNvbG9yOiAkY2VydWxlYW4gIWltcG9ydGFudDsKCX0K</text>
+      <register name="&quot;" type="4">
+        <text>) ? minLowValue :</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>tierModal__cancelButton</text>
+        <text>) ? minLowValue :</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>

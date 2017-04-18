@@ -6,21 +6,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/server/configureStore.js" timestamp="1489594422565">
-        <mark key="[" line="9" column="1" />
-        <mark key="]" line="9" column="1" />
-        <mark key="^" line="9" column="1" />
-        <mark key="." line="9" column="1" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/server/configureStore.js" timestamp="1492556662670">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="6" column="38" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/closeTierModal.spec.js" timestamp="1491851220573">
         <mark key="[" line="4" column="32" />
         <mark key="]" line="4" column="32" />
         <mark key="." line="4" column="32" />
         <mark key="^" line="4" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" timestamp="1492451137723">
-        <mark key="'" line="17" column="7" />
-        <mark key="^" line="68" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/SetIsNotifying.js" timestamp="1491320397795">
         <mark key="[" line="3" column="13" />
@@ -81,6 +77,12 @@
         <mark key="]" line="5" column="66" />
         <mark key="^" line="5" column="66" />
         <mark key="." line="5" column="66" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/server/constants/eventTypes.js" timestamp="1492556869859">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="5" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/selectedRow.js" timestamp="1492195076435">
         <mark key="[" line="7" column="0" />
@@ -178,11 +180,11 @@
         <mark key="." line="22" column="35" />
         <mark key="^" line="22" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/server/services/reactRouterMiddleware.js" timestamp="1492126715325">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="36" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/server/services/reactRouterMiddleware.js" timestamp="1492557632797">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+        <mark key="^" line="12" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/server/storage/fetchCollection.js" timestamp="1490112771887">
         <mark key="[" line="20" column="0" />
@@ -214,7 +216,6 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="/package.json" timestamp="1491945342521" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/App.js" timestamp="1492541454051">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -298,11 +299,11 @@
         <mark key="." line="3" column="16" />
         <mark key="^" line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/server/constants/clientRoutes.js" timestamp="1492199025859">
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="10" column="34" />
-        <mark key="^" line="10" column="34" />
-        <mark key="." line="10" column="34" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/server/constants/clientRoutes.js" timestamp="1492557650012">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="17" />
+        <mark key="^" line="16" column="17" />
+        <mark key="." line="16" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/RowSelectionChanged.js" timestamp="1491258128774">
         <mark key="[" line="12" column="14" />
@@ -316,7 +317,6 @@
         <mark key="." line="4" column="42" />
         <mark key="^" line="4" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/ModalContainer.js" timestamp="1491945166224" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/savedSelectedRow.js" timestamp="1491850926010">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -364,6 +364,12 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
         <mark key="^" line="41" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/server/reducers/appReducer.js" timestamp="1492556813002">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="16" />
+        <mark key="." line="16" column="16" />
+        <mark key="^" line="16" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/AppContainer.js" timestamp="1492543652426">
         <mark key="[" line="12" column="11" />
@@ -431,22 +437,22 @@
         <mark key="." line="46" column="89" />
         <mark key="^" line="46" column="89" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/server/services/registerEventHandlers.js" timestamp="1490370119944">
-        <mark key="[" line="14" column="8" />
-        <mark key="]" line="14" column="8" />
-        <mark key="^" line="12" column="18" />
-        <mark key="." line="14" column="16" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/server/services/registerEventHandlers.js" timestamp="1492556966702">
+        <mark key="[" line="23" column="15" />
+        <mark key="]" line="23" column="16" />
+        <mark key="^" line="23" column="16" />
+        <mark key="." line="23" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/.elasticbeanstalk/config.yml" timestamp="1492457731303">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/server/server.js" timestamp="1492553659748">
-        <mark key="[" line="24" column="82" />
-        <mark key="]" line="24" column="85" />
-        <mark key="." line="24" column="85" />
-        <mark key="^" line="24" column="85" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/server/server.js" timestamp="1492556183146">
+        <mark key="[" line="2" column="49" />
+        <mark key="]" line="8" column="72" />
+        <mark key="." line="2" column="49" />
+        <mark key="^" line="8" column="72" />
       </file>
       <file name="$USER_HOME$/Projects/quote-form/client/src/actions/CheckIfFormIsReady.js" timestamp="1490315773620">
         <mark key="[" line="14" column="0" />
@@ -454,14 +460,12 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/openTierModal.js" timestamp="1492195369813" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/server/events/index.js" timestamp="1489794110168">
         <mark key="[" line="1" column="30" />
         <mark key="]" line="1" column="93" />
         <mark key="." line="1" column="93" />
         <mark key="^" line="1" column="93" />
       </file>
-      <file name="/routes.js" timestamp="1491938743393" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/server/services/registerEventHandlers.spec.js" timestamp="1490369948726">
         <mark key="[" line="34" column="43" />
         <mark key="]" line="34" column="43" />
@@ -473,11 +477,6 @@
         <mark key="]" line="22" column="28" />
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierFakeData.js" timestamp="1492439093689">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="20" />
-        <mark key="." line="3" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/initialAppState.js" timestamp="1489428381180">
         <mark key="[" line="67" column="73" />
@@ -515,11 +514,11 @@
         <mark key="." line="6" column="9" />
         <mark key="^" line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/server/reducers/rootReducer.js" timestamp="1489594931590">
-        <mark key="[" line="0" column="38" />
-        <mark key="]" line="1" column="37" />
-        <mark key="." line="1" column="37" />
-        <mark key="^" line="1" column="37" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/server/reducers/rootReducer.js" timestamp="1492556776249">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultsGrid.scss" timestamp="1489420445454">
         <mark key="[" line="30" column="0" />
@@ -527,11 +526,11 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="125" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/server/registerRoutes.js" timestamp="1491927050439">
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="34" />
-        <mark key="." line="12" column="34" />
-        <mark key="^" line="12" column="34" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/server/registerRoutes.js" timestamp="1492557563045">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="17" />
+        <mark key="." line="7" column="17" />
+        <mark key="^" line="7" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/.babelrc" timestamp="1491942239600">
         <mark key="[" line="1" column="33" />
@@ -659,7 +658,7 @@
         <mark key="." line="16" column="60" />
         <mark key="^" line="16" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492543573033">
+      <file name="/Dummy.txt" timestamp="1492553830117">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -736,7 +735,6 @@
         <mark key="." line="1" column="47" />
         <mark key="^" line="1" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/tools/startMessage.js" timestamp="1491947515154" />
     </filemarks>
     <jumps>
       <jump line="65" column="84" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/mobile/MobileQuoteBar.js" />
@@ -842,13 +840,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
@@ -857,7 +855,7 @@
         <text encoding="base64">CQkJCQkJCXByaW1hcnk9e3RydWV9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IGFwcFJlZHVjZXIgZnJvbSAnLi9hcHBSZWR1Y2VyJzsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -869,28 +867,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHtjb21iaW5lUmVkdWNlcnN9IGZyb20gJ3JlZHV4JzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFwcCBmcm9tICcuL3NlcnZlcic7Cg==</text>
+        <text encoding="base64">CS8vIHJldHVybiBjcmVhdGVTdG9yZShyb290UmVkdWNlciwgaW5pdGlhbFN0YXRlLCBjb25maWd1cmVkTWlkZGxld2FyZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQHJldHVybiB7dGh1bmt9IGZvciB0aGUgVVBEQVRFX1RJRVIgYWN0aW9uCg==</text>
+        <text encoding="base64">dmFyIGV4cHJlc3MyID0gX2ludGVyb3BSZXF1aXJlRGVmYXVsdChleHByZXNzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHtudW1iZXJ9IHByb3BzLm1pbkxvd1ZhbHVlIC0gVGhlIG1pbiB2YWx1ZSB5b3UgY2FuIHNldCBvbiBjdXJyZW50IHRpZXIgZnJvbSB0aGUgcHJldmlvdXMgdGllcnMgaGlnaGVzdCB2YWx1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TFMtNzMgLyBieSBhZGRpbmcgcHJpbWFyeT17dHJ1ZX0gSSByZW1vdmVkIGNhbmNlbCBidXR0b24gc3R5bGVzCgpBZnRlciBCcmV0dCBicm91Z2h0IHVwIHRoZSBjb21tZW50IG9uIHRoZSBwcmltYXJ5IGJ1dHRvbiBJIHdhcyBhbHNvCmFibGUgdG8gYWRkIHRoYXQgYXR0ciB0byBmaXggdGhlIGNhbmNlbCBidXR0b24gYW5kIHJlbW92ZSB0aGUgb3ZlcnJpZGVzCmFzIHdlbGwuCg==</text>
+        <text encoding="base64">Y29uc3QgZXhwcmVzcyA9ICdleHByZXNzJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgkmX19hY2NlcHRCdXR0b24gewoJCWZsb2F0OiByaWdodDsKCQltYXJnaW4tbGVmdDogcHhUb1JlbSg1KTsKCX0KCgkmX19jYW5jZWxCdXR0b24gewoJCWZsb2F0OiByaWdodDsKCgkJLy9NYXRlcmlhbCBVSSBPdmVycmlkZQoJCWNvbG9yOiAkY2VydWxlYW4gIWltcG9ydGFudDsKCX0K</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBzdG9yZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCTwvTXVpVGhlbWVQcm92aWRlcj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>84</text>

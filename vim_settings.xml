@@ -303,12 +303,12 @@
         <mark key="^" line="1" column="47" />
         <mark key="." line="1" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/bitbucket-pipelines.yml" timestamp="1492699458479">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/bitbucket-pipelines.yml" timestamp="1492701670048">
         <mark key="'" line="13" column="10" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="12" column="56" />
-        <mark key="." line="48" column="0" />
+        <mark key="[" line="33" column="39" />
+        <mark key="]" line="33" column="53" />
+        <mark key="^" line="33" column="53" />
+        <mark key="." line="33" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/felaTest/src/components/home/home.pcss" timestamp="1492693811422">
         <mark key="[" line="9" column="0" />
@@ -550,11 +550,11 @@
         <mark key="^" line="3" column="32" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/tools/buildHtml.js" timestamp="1492700621468">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/tools/buildHtml.js" timestamp="1492701330500">
+        <mark key="[" line="30" column="49" />
+        <mark key="]" line="30" column="49" />
         <mark key="^" line="4" column="24" />
-        <mark key="." line="4" column="0" />
+        <mark key="." line="30" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/RedirectTimeouts.js" timestamp="1489181586201">
         <mark key="[" line="6" column="0" />
@@ -622,9 +622,7 @@
         <mark key="." line="16" column="60" />
         <mark key="^" line="16" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492700312166">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="/Dummy.txt" timestamp="1492700980215" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/toggleEdit.js" timestamp="1490225069997">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -808,14 +806,14 @@
       <jump line="44" column="0" filename="$USER_HOME$/Projects/felaTest/webpack.config.dev.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtwb3J0fSBmcm9tICcuLi8uLi9zZXJ2ZXIvY29uc3RhbnRzL3BvcnQnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>$WEB_URL_PROD</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>') {port} from '</text>
+        <text>$WEB_URL_PROD</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>

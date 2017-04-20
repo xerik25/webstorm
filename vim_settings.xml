@@ -193,11 +193,11 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/felaTest/postcss.config.js" timestamp="1492682988402">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="13" column="16" />
+      <file name="$USER_HOME$/Projects/felaTest/postcss.config.js" timestamp="1492693297277">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
         <mark key="^" line="13" column="16" />
-        <mark key="." line="13" column="16" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/.editorconfig" timestamp="1490972332569">
         <mark key="[" line="25" column="14" />
@@ -314,11 +314,11 @@
         <mark key="^" line="12" column="56" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/felaTest/src/components/home/home.pcss" timestamp="1492682998578">
-        <mark key="[" line="16" column="17" />
-        <mark key="]" line="17" column="19" />
-        <mark key="^" line="17" column="19" />
-        <mark key="." line="17" column="19" />
+      <file name="$USER_HOME$/Projects/felaTest/src/components/home/home.pcss" timestamp="1492693811422">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="7" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/ChangeNotifcationMessage.js" timestamp="1491320319574">
         <mark key="[" line="3" column="13" />
@@ -512,6 +512,13 @@
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/felaTest/webpack.config.dev.js" timestamp="1492693421327">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="42" column="13" />
+        <mark key="^" line="42" column="13" />
+        <mark key="." line="43" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/ResultItem.js" timestamp="1489513481214">
         <mark key="[" line="10" column="51" />
         <mark key="]" line="11" column="24" />
@@ -680,6 +687,7 @@
         <mark key="." line="29" column="34" />
         <mark key="^" line="29" column="34" />
       </file>
+      <file name="/home.pcss" timestamp="1492693802634" />
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/AppTypes.js" timestamp="1488924101527">
         <mark key="[" line="22" column="83" />
         <mark key="]" line="23" column="66" />
@@ -694,8 +702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/com/formBuild.html" />
-      <jump line="91" column="0" filename="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/com/formBuild.html" />
       <jump line="4" column="5" filename="/Dummy.txt" />
       <jump line="13" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/services/addScrollToEvents.js" />
       <jump line="19" column="0" filename="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/js/components/formValidation/formValidation.js" />
@@ -794,16 +800,18 @@
       <jump line="54" column="0" filename="$USER_HOME$/Projects/sc-marketing-web/package.json" />
       <jump line="0" column="7" filename="/Dummy.txt" />
       <jump line="13" column="10" filename="$USER_HOME$/Projects/sc-marketing-web/bitbucket-pipelines.yml" />
+      <jump line="42" column="13" filename="$USER_HOME$/Projects/felaTest/webpack.config.dev.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/Projects/felaTest/webpack.config.dev.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlyZXF1aXJlKCdwb3N0Y3NzLWltcG9ydCcpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>clearfix</text>
+        <text>size '40px'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
@@ -812,7 +820,7 @@
         <text encoding="base64">CQljb2xvcjogdmFyKC0taGFydmVzdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlyZXF1aXJlKCdwb3N0Y3NzLWltcG9ydCcpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -824,28 +832,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlyZXF1aXJlKCdwb3N0Y3NzLW5lc3RlZCcpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlyZXF1aXJlKCdwb3N0Y3NzLWltcG9ydCcpLAo=</text>
+        <text encoding="base64">CQlAYXBwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBtaXhpbiBzaXplICc0MHB4JzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlAbWl4aW4gYWxvaGE7Cg==</text>
+        <text encoding="base64">CWhlaWdodDogJHNpemU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXdpZHRoOiAkc2l6ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvL2NvbG9yOiB2YXIoLS1oYXJ2ZXN0KTsK</text>
+        <text encoding="base64">LnRlc3RpbmcgewoJQG1peGluIGFsb2hhOwoJQG1peGluIGNsZWFyZml4OwoJQG1peGluIHNpemUgJzQwcHgnOwp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci8vQGRlZmluZS1taXhpbiBzaXplICRzaXplIHsKLy8Jd2lkdGg6ICRzaXplOwovLwloZWlnaHQ6ICRzaXplOwovL30KCi8vQGRlZmluZS1taXhpbiByZXNldCB7Ci8vCXBhZGRpbmc6IDA7Ci8vCW1hcmdpbjogMDsKLy99Cg==</text>
+        <text encoding="base64">QG1peGluIHNpemUgJzQwcHgnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvL0BtaXhpbiBzaXplOiAnNDBweCc7CgkJLy9AbWl4aW4gcmVzZXQ7Cg==</text>
+        <text encoding="base64">CQlyZXF1aXJlKCdwb3N0Y3NzLWltcG9ydCcpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>84</text>

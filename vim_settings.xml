@@ -3,7 +3,7 @@
     <option name="showingCurrentLine" value="false" />
   </component>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/closeTierModal.spec.js" timestamp="1492630500821">
@@ -89,6 +89,12 @@
         <mark key="]" line="24" column="30" />
         <mark key="." line="24" column="30" />
         <mark key="^" line="13" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/felaTest/src/styles/css/base/_base.pcss" timestamp="1492720574363">
+        <mark key="[" line="26" column="1" />
+        <mark key="]" line="26" column="3" />
+        <mark key="^" line="26" column="3" />
+        <mark key="." line="26" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/react-redux-boilerplate/src/components/reduxExample/ReduxExample.js" timestamp="1489164708575">
         <mark key="[" line="19" column="37" />
@@ -192,11 +198,11 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/felaTest/postcss.config.js" timestamp="1492693297277">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="13" column="16" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Projects/felaTest/postcss.config.js" timestamp="1492720704953">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="25" />
+        <mark key="^" line="9" column="25" />
+        <mark key="." line="9" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/.editorconfig" timestamp="1490972332569">
         <mark key="[" line="25" column="14" />
@@ -305,10 +311,10 @@
         <mark key="^" line="33" column="53" />
         <mark key="." line="33" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/felaTest/src/components/home/home.pcss" timestamp="1492693811422">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Projects/felaTest/src/components/home/home.pcss" timestamp="1492720438927">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
         <mark key="^" line="7" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/ChangeNotifcationMessage.js" timestamp="1491320319574">
@@ -503,12 +509,10 @@
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/felaTest/webpack.config.dev.js" timestamp="1492696078971">
-        <mark key="'" line="43" column="0" />
+      <file name="$USER_HOME$/Projects/felaTest/webpack.config.dev.js" timestamp="1492720103737">
         <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="4" />
-        <mark key="^" line="3" column="4" />
-        <mark key="." line="3" column="4" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/ResultItem.js" timestamp="1489513481214">
         <mark key="[" line="10" column="51" />
@@ -672,7 +676,7 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/felaTest/src/components/home/Home.js" timestamp="1492682655351">
+      <file name="$USER_HOME$/Projects/felaTest/src/components/home/Home.js" timestamp="1492720201479">
         <mark key="[" line="29" column="28" />
         <mark key="]" line="29" column="34" />
         <mark key="." line="29" column="34" />
@@ -796,22 +800,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$WEB_URL_PROD</text>
+        <text>define</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$WEB_URL_PROD</text>
+        <text>define</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQljb2xvcjogdmFyKC0taGFydmVzdCk7Cg==</text>
+        <text encoding="base64">CWNvbG9yOiByZWQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtwb3J0fSBmcm9tICcuLi8uLi9zZXJ2ZXIvY29uc3RhbnRzL3BvcnQnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -823,28 +827,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtwb3J0fSBmcm9tICcuLi8uLi8uLi9zZXJ2ZXIvY29uc3RhbnRzL3BvcnQnOwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgcG9ydCA9IHByb2Nlc3MuZW52LlBPUlQgfHwgMzAwMDsK</text>
+        <text encoding="base64">CQkJCWFsb2hhOiB7CgkJCQkJY29sb3I6ICdyZWQnCgkJCQl9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgcG9ydDsK</text>
+        <text encoding="base64">CWNvbG9yOiByZWQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Y29uc3QgcG9zdENTU0NvbmZpZyA9IHJlcXVpcmUoJy4vcG9zdGNzcy5jb25maWcnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgY29uZmlndXJlU3RvcmUgPSByZXF1aXJlKCcuL2NvbmZpZ3VyZVN0b3JlJyk7Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gcG9zdENTU0NvbmZpZzsK</text>
       </register>
       <register name=":" type="4">
         <text>84</text>

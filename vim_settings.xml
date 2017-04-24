@@ -461,10 +461,12 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierFakeData.js" timestamp="1492801847968">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierFakeData.js" timestamp="1493065173520">
+        <mark key="'" line="63" column="4" />
+        <mark key="[" line="94" column="1" />
+        <mark key="]" line="94" column="1" />
+        <mark key="." line="94" column="1" />
+        <mark key="^" line="94" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/sq-quote-engine-web/src/reducers/initialAppState.js" timestamp="1489428381180">
         <mark key="[" line="67" column="73" />
@@ -639,8 +641,10 @@
         <mark key="." line="16" column="60" />
         <mark key="^" line="16" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492807418082">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1493064984429">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/toggleEdit.js" timestamp="1490225069997">
         <mark key="[" line="8" column="0" />
@@ -727,15 +731,14 @@
         <mark key="." line="1" column="47" />
         <mark key="^" line="1" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/services/getLeadTierAverageService.js" timestamp="1493062203216">
-        <mark key="[" line="6" column="47" />
-        <mark key="]" line="6" column="82" />
-        <mark key="." line="6" column="82" />
-        <mark key="^" line="6" column="82" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/services/getLeadTierAverageService.js" timestamp="1493065215099">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="24" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/services/addScrollToEvents.js" />
       <jump line="19" column="0" filename="$USER_HOME$/Projects/landing-pages/debug.selectquotesafeco/app/js/components/formValidation/formValidation.js" />
       <jump line="31" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.js" />
       <jump line="0" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.js" />
@@ -835,16 +838,17 @@
       <jump line="42" column="13" filename="$USER_HOME$/Projects/felaTest/webpack.config.dev.js" />
       <jump line="44" column="0" filename="$USER_HOME$/Projects/felaTest/webpack.config.dev.js" />
       <jump line="36" column="12" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" />
+      <jump line="63" column="4" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierFakeData.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>thunk</text>
+        <text>fakeL</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>thunk</text>
+        <text>fakeL</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
@@ -853,7 +857,7 @@
         <text encoding="base64">ICogQHJldHVybiB7dGh1bmt9IEEgdGh1bmsgZm9yIHRoZSBPUEVOX1RJRVJfTU9EQUwgYWN0aW9uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQHJldHVybgo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -865,28 +869,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQHJldHVybgo=</text>
+        <text encoding="base64">CQl7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQHJldHVybiB7P29iamVjdH0gLSBBbiBvYmplY3Qgd2l0aCB0aGUgbGVhZFRpZXJBdmVyYWdlcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJfSwgMzAwMCk7Cg==</text>
+        <text encoding="base64">CQkJMTogewoJCQkJYXZlcmFnZTogJzEwMCcKCQkJfSwKCQkJMjogewoJCQkJYXZlcmFnZTogJzIwMCcKCQkJfSwKCQkJMzogewoJCQkJYXZlcmFnZTogJzMwMCcKCQkJfSwKCQkJNDogewoJCQkJYXZlcmFnZTogJzQwMCcKCQkJfSwKCQkJNTogewoJCQkJYXZlcmFnZTogJzUwMCcKCQkJfSwKCQkJNjogewoJCQkJYXZlcmFnZTogJzYwMCcKCQkJfSwKCQkJNzogewoJCQkJYXZlcmFnZTogJzcwMCcKCQkJfSwKCQkJODogewoJCQkJYXZlcmFnZTogJzgwMCcKCQkJfSwKCQkJOTogewoJCQkJYXZlcmFnZTogJzkwMCcKCQkJfSwKCQkJMTA6IHsKCQkJCWF2ZXJhZ2U6ICcxMDAwJwoJCQl9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJc2V0VGltZW91dCgoKSA9PiB7Cg==</text>
+        <text encoding="base64">SE9XOiBDaGFuZ2VkIGxlYWRUaWVySW50ZXJmYWNlIHRvIGJlIGEgc3RhdGVmdWwgY29tcG9uZW50IHNvIHRoYXQgaXQgY2FuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJLy9UT0RPOiBSZW1vdmUgdGltZW91dCBvbmNlIGFjdHVhbCBBUEkgY2FsbCBpcyBiZWluZyBtYWRlCg==</text>
+        <text encoding="base64">ICogQHJldHVybgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coJ2Vycm9yJywgZXJyb3IpOwo=</text>
+        <text encoding="base64">ICogQHJldHVybgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coJ3VoIG9oJyk7Cg==</text>
+        <text encoding="base64">ICogQHJldHVybiB7P29iamVjdH0gLSBBbiBvYmplY3Qgd2l0aCB0aGUgbGVhZFRpZXJBdmVyYWdlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJfSwgMzAwMCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>84</text>

@@ -12,12 +12,12 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" timestamp="1493067522325">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" timestamp="1493069988451">
         <mark key="'" line="112" column="0" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="41" column="53" />
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="12" />
+        <mark key="." line="20" column="12" />
+        <mark key="^" line="20" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/SetIsNotifying.js" timestamp="1491320397795">
         <mark key="[" line="3" column="13" />
@@ -436,6 +436,12 @@
         <mark key="." line="46" column="89" />
         <mark key="^" line="46" column="89" />
       </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierInterface.js" timestamp="1493070038653">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+      </file>
       <file name="$USER_HOME$/Projects/quote-form/client/src/actions/CheckIfFormIsReady.js" timestamp="1490315773620">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -480,11 +486,11 @@
         <mark key="." line="67" column="77" />
         <mark key="^" line="67" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierData.js" timestamp="1493066237021">
-        <mark key="[" line="20" column="40" />
-        <mark key="]" line="20" column="40" />
-        <mark key="^" line="20" column="40" />
-        <mark key="." line="20" column="40" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierData.js" timestamp="1493070157485">
+        <mark key="[" line="6" column="55" />
+        <mark key="]" line="6" column="58" />
+        <mark key="^" line="6" column="58" />
+        <mark key="." line="6" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/changeNotifcationMessage.js" timestamp="1491847919399">
         <mark key="[" line="7" column="22" />
@@ -847,20 +853,20 @@
       <jump line="112" column="0" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAxNjIxZWJiYTIyODIwMGI1NjE0YjhlY2E5NWJmNjk2ZjJlYTVkNjAzCg==</text>
+      <register name="&quot;" type="4">
+        <text>ier</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text />
+        <text>ier</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogQHJldHVybiB7dGh1bmt9IEEgdGh1bmsgZm9yIHRoZSBPUEVOX1RJRVJfTU9EQUwgYWN0aW9uCg==</text>
+        <text encoding="base64">ICogQHBhcmFtIHtmdW5jdGlvbn0gcHJvcHMub3BlblRpZXJNb2RhbCAtIERpc3BhdGNoZXMgdGhlIE9QRU5fVElFUl9NT0RBTCBhY3Rpb24K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Pj4+Pj4+PiAxNjIxZWJiYTIyODIwMGI1NjE0YjhlY2E5NWJmNjk2ZjJlYTVkNjAzCg==</text>

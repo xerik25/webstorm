@@ -234,12 +234,12 @@
         <mark key="^" line="10" column="47" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/felaTest/config/postcss.config.js" timestamp="1493215140091">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="31" column="30" />
+      <file name="$USER_HOME$/Projects/felaTest/config/postcss.config.js" timestamp="1493219273844">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+        <mark key="^" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/operations/Operations.js" timestamp="1492187745408">
         <mark key="[" line="4" column="16" />
@@ -800,8 +800,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="68" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/QuoteForm.js" />
-      <jump line="57" column="1" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/_resultItem.scss" />
       <jump line="92" column="41" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/BigQuoteBar.js" />
       <jump line="125" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/BigQuoteBar.js" />
       <jump line="84" column="12" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/bigQuoteBar/_orangeInputsContainer.scss" />
@@ -900,16 +898,18 @@
       <jump line="35" column="0" filename="$USER_HOME$/Projects/felaTest/config/postcss.config.js" />
       <jump line="7" column="40" filename="$USER_HOME$/Projects/felaTest/src/components/home/Home.js" />
       <jump line="13" column="16" filename="$USER_HOME$/Projects/felaTest/config/mixins.js" />
+      <jump line="7" column="26" filename="$USER_HOME$/Projects/felaTest/config/postcss.config.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/felaTest/config/postcss.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>z-index</text>
+        <text>({ /* your options */ })</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>z-index</text>
+        <text>({ /* your options */ })</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
@@ -918,7 +918,7 @@
         <text encoding="base64">CS8qRGVtbyBmdW5jdGlvbiBtaXhpbnMqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQlzdHlsZXM9e3t6LWluZGV4OiAnOTAwJ319Cg==</text>
+        <text encoding="base64">CX0pLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -930,28 +930,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlzdHlsZXM6IHsKCQkJJ3otaW5kZXgnOiAnOTk5OScKCQl9Cg==</text>
+        <text encoding="base64">CQldCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJJ3RleHQtYWxpZ24nOiAnY2VudGVyJwo=</text>
+        <text encoding="base64">CQlwbHVnaW5zOiBbCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJY29sb3I6ICdncmF5JywK</text>
+        <text encoding="base64">CQkJcmVxdWlyZSgic3R5bGVsaW50IikoeyAvKiB5b3VyIG9wdGlvbnMgKi8gfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJCQlzdHlsZXM9e3t6LWluZGV4OiAnOTAwJ319Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlzdHlsZXM6IHsKCQkJJ3otaW5kZXgnOiAnOTk5OScKCQl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQkJJ3RleHQtYWxpZ24nOiAnY2VudGVyJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJY29sb3I6ICdncmF5JywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -448,10 +448,10 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="16" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/felaTest/package.json" timestamp="1493259769866">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+      <file name="$USER_HOME$/Projects/felaTest/package.json" timestamp="1493264955828">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/quote-form/client/src/reducers/AppReducer.js" timestamp="1492729434059" />
       <file name="$USER_HOME$/Projects/felaTest/src/styles/css/base/variables/_breakpoints.pcss" timestamp="1493238401832">
@@ -718,7 +718,7 @@
         <mark key="." line="16" column="60" />
         <mark key="^" line="16" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493259189207">
+      <file name="/Dummy.txt" timestamp="1493264917772">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/toggleEdit.js" timestamp="1490225069997">
@@ -799,7 +799,7 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/felaTest/src/components/home/Home.js" timestamp="1493214457458">
+      <file name="$USER_HOME$/Projects/felaTest/src/components/home/Home.js" timestamp="1493263403572">
         <mark key="'" line="7" column="40" />
         <mark key="[" line="33" column="40" />
         <mark key="]" line="33" column="46" />
@@ -940,7 +940,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkvKkRlbW8gZnVuY3Rpb24gbWl4aW5zKi8KCQlAbWl4aW4gcHhUb1JlbSB3aWR0aCwgMjAwOwo=</text>
+        <text encoding="base64">ICAgICJwb3N0Y3NzLXJlcG9ydGVyIjogIl4zLjAuMCIsCg==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -955,7 +955,7 @@
         <text encoding="base64">CQkvKkRlbW8gY3NzTmV4dCovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvKkRlbW8gZnVuY3Rpb24gbWl4aW5zKi8KCQlAbWl4aW4gcHhUb1JlbSB3aWR0aCwgMjAwOwo=</text>
+        <text encoding="base64">ICAgICJwb3N0Y3NzLXJlcG9ydGVyIjogIl4zLjAuMCIsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -967,28 +967,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJwb3N0Y3NzLXNtYXJ0LWltcG9ydCI6ICJeMC42LjkiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCS8qRGVtbyBmdW5jdGlvbiBtaXhpbnMqLwoJCUBtaXhpbiBweFRvUmVtIHdpZHRoLCAyMDA7Cg==</text>
+        <text encoding="base64">CQkvKkRlbW8gZnVuY3Rpb24gbWl4aW5zKi8KCQlAbWl4aW4gcHhUb1JlbSB3aWR0aCwgMjAwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCS8qRGVtbyBmdW5jdGlvbiBtaXhpbnMqLwoJCUBtaXhpbiBweFRvUmVtIHdpZHRoLCAyMDA7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCS8qRGVtbyBmdW5jdGlvbiBtaXhpbnMqLwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQljb2xvcjogJGhhcnZlc3Q7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCS8qRGVtbyBmdW5jdGlvbiBtaXhpbnMqLwoJCUBtaXhpbiBweFRvUmVtIHdpZHRoLCAyMDA7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCS8qRGVtbyBmdW5jdGlvbiBtaXhpbnMqLwoJCUBtaXhpbiBweFRvUmVtIHdpZHRoLCAyMDA7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCS8qRGVtbyBmdW5jdGlvbiBtaXhpbnMqLwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gRXhwb3J0IHRoZSBQb3N0Q1NTIENvbmZpZyBmb3IgdXNhZ2UgaW4gd2VicGFjawo=</text>
+        <text encoding="base64">CQljb2xvcjogJGhhcnZlc3Q7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8qIGVuYWJsZXMgZnV0dXJlIGNzcyBzeW50YXggKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

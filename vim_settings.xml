@@ -13,11 +13,12 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="16" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" timestamp="1493336940129">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" timestamp="1493394087675">
         <mark key="'" line="11" column="64" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+        <mark key="[" line="84" column="62" />
+        <mark key="]" line="84" column="63" />
+        <mark key="." line="84" column="63" />
+        <mark key="^" line="84" column="129" />
       </file>
       <file name="$USER_HOME$/Projects/felaTest/package.json" timestamp="1493264955828">
         <mark key="[" line="80" column="0" />
@@ -85,18 +86,11 @@
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierFakeData.js" timestamp="1493336782621">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierFakeData.js" timestamp="1493392995742">
         <mark key="'" line="63" column="4" />
-        <mark key="[" line="65" column="17" />
-        <mark key="]" line="65" column="20" />
-        <mark key="." line="65" column="20" />
-        <mark key="^" line="65" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493337623316">
-        <mark key="'" line="0" column="54" />
+      <file name="/Dummy.txt" timestamp="1493393058305">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierData.js" timestamp="1493145079385">
         <mark key="[" line="6" column="55" />
@@ -299,23 +293,23 @@
       <jump line="42" column="5" filename="$USER_HOME$/Projects/sc-marketing-web/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAicXVvdGVzIjogMCwK</text>
+      <register name="&quot;" type="4">
+        <text>row.high.toFixed(2)</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>row.high.toFixed(2)</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkvKkRlbW8gY3NzTmV4dCovCg==</text>
+        <text encoding="base64">CQkJCQkJCQkJY29uc29sZS5sb2coJ3Rlc3RpbmcnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAicXVvdGVzIjogMCwK</text>
+        <text encoding="base64">CQkJCQkJCQkJey8qPFRhYmxlUm93Q29sdW1uPntyb3cuaGlnaCA9PT0gbnVsbCA/IHJvdy5oaWdoLnRvRml4ZWQoMikgOiA8SW5maW5pdHlJY29uLz59PC9UYWJsZVJvd0NvbHVtbj4qL30KCQkJCQkJCQkJey8qPFRhYmxlUm93Q29sdW1uPntyb3cuaGlnaCA/IHJvdy5oaWdoLnRvRml4ZWQoMikgOiAwLjAwfTwvVGFibGVSb3dDb2x1bW4+Ki99Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -327,31 +321,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlmb250LXdlaWdodDogdmFyKC0tbGlnaHQpOwo=</text>
+        <text encoding="base64">CQkJCQkJCQkJY29uc29sZS5sb2coJ3Rlc3RpbmcgMicpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlmb250LXdlaWdodDogdmFyKC0tbGlnaHQpOwo=</text>
+        <text encoding="base64">CQkJCQkJCQkJOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">b3V0Lwo=</text>
+        <text encoding="base64">CQkJCQkJCQkJY29uc29sZS5sb2coJ3Rlc3RpbmcnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aHR0cHM6Ly9iaXRidWNrZXQub3JnL1NlbGVjdFF1b3RlL3NjLW1hcmtldGluZy13ZWIvcHVsbC1yZXF1ZXN0cy8xNC9mZWF0dXJlLWxzLTYxLWFkZC1oaXN0b3JpY2FsLWNvbHVtbi10by9kaWZmI2NvbW1lbnQtMzU2NDkxOTIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>LS-61 / add TODO for error handling
-
-Requested by @bjharrop-sq
-https://bitbucket.org/SelectQuote/sc-marketing-web/pull-requests/14/feature-ls-61-add-historical-column-to/diff#comment-35649192</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCQlUT0RPOiBTaG93IGVycm9yIG1lc3NhZ2UK</text>
+        <text encoding="base64">CQkJCQkJCQk8VGFibGVSb3dDb2x1bW4+e3Jvdy5oaWdoID8gcm93LmhpZ2gudG9GaXhlZCgyKSA6IDAuMDB9PC9UYWJsZVJvd0NvbHVtbj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCQk8VGFibGVSb3dDb2x1bW4+eyFyb3cuYXZlcmFnZSA/IDxDaXJjdWxhclByb2dyZXNzIHNpemU9ezMwfSB0aGlja25lc3M9ezN9Lz4gOiByb3cuYXZlcmFnZX08L1RhYmxlUm93Q29sdW1uPgo=</text>
+        <text encoding="base64">CQkJCQkJCQl7Lyo8VGFibGVSb3dDb2x1bW4+e3Jvdy5oaWdoICE9PSBudWxsID8gcm93LmhpZ2gudG9GaXhlZCgyKSA6IDxJbmZpbml0eUljb24vPn08L1RhYmxlUm93Q29sdW1uPiovfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHtvYmplY3R9IHByb3BzIC0gcHJvcHMK</text>
+        <text encoding="base64">ICAgICAgICAicXVvdGVzIjogMCwK</text>
       </register>
       <register name=":" type="4">
         <text>41</text>

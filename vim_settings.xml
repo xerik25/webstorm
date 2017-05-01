@@ -63,6 +63,13 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/configureStore.js" timestamp="1493660458420">
+        <mark key="[" line="1" column="36" />
+        <mark key="]" line="1" column="46" />
+        <mark key="." line="1" column="46" />
+        <mark key="^" line="1" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/server/server.js" timestamp="1493653057938" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/.eslintrc" timestamp="1493391141442">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="8" />
@@ -163,6 +170,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="63" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/areTiersSetInDatabase.js" timestamp="1493660360718">
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="1" column="33" />
+        <mark key="." line="1" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/LeadTierInterface/ModalContainer.js" timestamp="1493396217671">
         <mark key="[" line="30" column="38" />
         <mark key="]" line="30" column="38" />
@@ -181,8 +193,8 @@
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493648978363">
-        <mark key="[" line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1493660085977">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
@@ -366,13 +378,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>: web2lead</text>
+        <text>index</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>: web2lead</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text>out</text>

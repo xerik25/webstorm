@@ -14,12 +14,12 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="16" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" timestamp="1493607169945">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" timestamp="1493648749275">
         <mark key="'" line="11" column="64" />
-        <mark key="[" line="32" column="60" />
-        <mark key="]" line="32" column="68" />
-        <mark key="^" line="32" column="68" />
-        <mark key="." line="32" column="68" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="^" line="32" column="54" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/felaTest/src/components/App.js" timestamp="1493215781490">
         <mark key="[" line="33" column="28" />
@@ -76,6 +76,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="6" column="50" />
       </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierInterfaceConsts.js" timestamp="1493648856015">
+        <mark key="[" line="4" column="63" />
+        <mark key="]" line="4" column="106" />
+        <mark key="." line="4" column="106" />
+        <mark key="^" line="4" column="106" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierFakeData.js" timestamp="1493418012860">
         <mark key="'" line="63" column="4" />
         <mark key="[" line="103" column="0" />
@@ -96,7 +102,7 @@
         <mark key="^" line="7" column="44" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/LeadTierInterface/LeadTierInterfaceContainer.js" timestamp="1493416489895">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/LeadTierInterface/LeadTierInterfaceContainer.js" timestamp="1493648887742">
         <mark key="[" line="70" column="47" />
         <mark key="]" line="70" column="47" />
         <mark key="." line="70" column="47" />
@@ -163,10 +169,10 @@
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493419157386">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
+      <file name="/Dummy.txt" timestamp="1493648978363">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/server/index.js" timestamp="1492700583828">
         <mark key="[" line="1" column="47" />
@@ -200,11 +206,11 @@
         <mark key="." line="28" column="13" />
         <mark key="^" line="28" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/areTiersSetInDatabase.js" timestamp="1493606811101">
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="12" column="29" />
-        <mark key="^" line="12" column="29" />
-        <mark key="." line="12" column="29" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/areTiersSetInDatabase.js" timestamp="1493648311206">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="12" column="95" />
+        <mark key="^" line="12" column="95" />
+        <mark key="." line="12" column="95" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierData.js" timestamp="1493419419497">
         <mark key="'" line="71" column="36" />
@@ -348,22 +354,26 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>colors</text>
+        <text>created separate actions for TIERS_SET and TIERS_UNSET
+
+Made sense to separate these so that you can see different actions</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>colors</text>
+        <text>or the leadTierInterface</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQljYXNlIHR5cGVzLlRJRVJTX1NFVDoK</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IHtzdHJpbmd9IHRhYmxlU3VidGl0bGUgLSBUaGUgc3VidGl0bGUgZm9yIHRoZSBsZWFkVGllckludGVyZmFjZQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CTE6IHsKCQlsb3c6IDE1NC42MSwKCQloaWdoOiBudWxsCgl9LAoJMjogewoJCWxvdzogMTI5LjUxLAoJCWhpZ2g6IDE1NC42MAoJfSwKCTM6IHsKCQlsb3c6IDExMy41MCwKCQloaWdoOiAxMjkuNTAKCX0sCgk0OiB7CgkJbG93OiAxMDIuNTMsCgkJaGlnaDogMTEzLjQ5Cgl9LAoJNTogewoJCWxvdzogOTEuNTIsCgkJaGlnaDogMTAyLjUyCgl9LAoJNjogewoJCWxvdzogNzguNTAsCgkJaGlnaDogOTEuNTEKCX0sCgk3OiB7CgkJbG93OiA2NS41MSwKCQloaWdoOiA3OC40OQoJfSwKCTg6IHsKCQlsb3c6IDQyLjUwLAoJCWhpZ2g6IDY1LjYwCgl9LAoJOTogewoJCWxvdzogMTQuNTAsCgkJaGlnaDogNDIuNDkKCX0sCgkxMDogewoJCWxvdzogMCwKCQloaWdoOiAxNC40OQoJfQo=</text>
+      <register name="1" type="4">
+        <text>created separate actions for TIERS_SET and TIERS_UNSET
+
+Made sense to separate these so that you can see different actions</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -375,12 +385,18 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CTE6IHsKCQlsb3c6IDE1NC42MSwKCQloaWdoOiBudWxsCgl9LAoJMjogewoJCWxvdzogMTI5LjUxLAoJCWhpZ2g6IDE1NC42MAoJfSwKCTM6IHsKCQlsb3c6IDExMy41MCwKCQloaWdoOiAxMjkuNTAKCX0sCgk0OiB7CgkJbG93OiAxMDIuNTMsCgkJaGlnaDogMTEzLjQ5Cgl9LAoJNTogewoJCWxvdzogOTEuNTIsCgkJaGlnaDogMTAyLjUyCgl9LAoJNjogewoJCWxvdzogNzguNTAsCgkJaGlnaDogOTEuNTEKCX0sCgk3OiB7CgkJbG93OiA2NS41MSwKCQloaWdoOiA3OC40OQoJfSwKCTg6IHsKCQlsb3c6IDQyLjUwLAoJCWhpZ2g6IDY1LjYwCgl9LAoJOTogewoJCWxvdzogMTQuNTAsCgkJaGlnaDogNDIuNDkKCX0sCgkxMDogewoJCWxvdzogMCwKCQloaWdoOiAxNC40OQoJfQo=</text>
+        <text encoding="base64">CWNoaWxkcmVuOiBSZWFjdC5Qcm9wVHlwZXMubm9kZSwK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CTE6IHsKCQlsb3c6IDE1NC42MSwKCQloaWdoOiBudWxsCgl9LAoJMjogewoJCWxvdzogMTI5LjUxLAoJCWhpZ2g6IDE1NC42MAoJfSwKCTM6IHsKCQlsb3c6IDExMy41MCwKCQloaWdoOiAxMjkuNTAKCX0sCgk0OiB7CgkJbG93OiAxMDIuNTMsCgkJaGlnaDogMTEzLjQ5Cgl9LAoJNTogewoJCWxvdzogOTEuNTIsCgkJaGlnaDogMTAyLjUyCgl9LAoJNjogewoJCWxvdzogNzguNTAsCgkJaGlnaDogOTEuNTEKCX0sCgk3OiB7CgkJbG93OiA2NS41MSwKCQloaWdoOiA3OC40OQoJfSwKCTg6IHsKCQlsb3c6IDQyLjUwLAoJCWhpZ2g6IDY1LjYwCgl9LAoJOTogewoJCWxvdzogMTQuNTAsCgkJaGlnaDogNDIuNDkKCX0sCgkxMDogewoJCWxvdzogMCwKCQloaWdoOiAxNC40OQoJfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CTE6IHsKCQlsb3c6IDE1NC42MSwKCQloaWdoOiBudWxsCgl9LAoJMjogewoJCWxvdzogMTI5LjUxLAoJCWhpZ2g6IDE1NC42MAoJfSwKCTM6IHsKCQlsb3c6IDExMy41MCwKCQloaWdoOiAxMjkuNTAKCX0sCgk0OiB7CgkJbG93OiAxMDIuNTMsCgkJaGlnaDogMTEzLjQ5Cgl9LAoJNTogewoJCWxvdzogOTEuNTIsCgkJaGlnaDogMTAyLjUyCgl9LAoJNjogewoJCWxvdzogNzguNTAsCgkJaGlnaDogOTEuNTEKCX0sCgk3OiB7CgkJbG93OiA2NS41MSwKCQloaWdoOiA3OC40OQoJfSwKCTg6IHsKCQlsb3c6IDQyLjUwLAoJCWhpZ2g6IDY1LjYwCgl9LAoJOTogewoJCWxvdzogMTQuNTAsCgkJaGlnaDogNDIuNDkKCX0sCgkxMDogewoJCWxvdzogMCwKCQloaWdoOiAxNC40OQoJfQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CWFyZVRpZXJzU2V0SW5EYXRhYmFzZTogYm9vbAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>Huge commit to setup mock data call for getLeadTiers
 
 I wanted to mock this out so that it was structured for a data call
@@ -388,20 +404,14 @@ in the future. While I added that action and reducer I also added
 another action to toggle a bool on if the DB returned values or not. 
 That way it will be easier to notify the user if no Tiers have been set</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICogQHR5cGUge3sxOiB7bG93OiBudW1iZXIsIGhpZ2g6IG51bGx9LCAyOiB7bG93OiBudW1iZXIsIGhpZ2g6IG51bWJlcn0sIDM6IHtsb3c6IG51bWJlciwgaGlnaDogbnVtYmVyfSwgNDoge2xvdzogbnVtYmVyLCBoaWdoOiBudW1iZXJ9LCA1OiB7bG93OiBudW1iZXIsIGhpZ2g6IG51bWJlcn0sIDY6IHtsb3c6IG51bWJlciwgaGlnaDogbnVtYmVyfSwgNzoge2xvdzogbnVtYmVyLCBoaWdoOiBudW1iZXJ9LCA4OiB7bG93OiBudW1iZXIsIGhpZ2g6IG51bWJlcn0sIDk6IHtsb3c6IG51bWJlciwgaGlnaDogbnVtYmVyfSwgMTA6IHtsb3c6IG51bWJlciwgaGlnaDogbnVtYmVyfX19Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICogQHR5cGUge3sxOiB7YXZlcmFnZTogbnVtYmVyfSwgMjoge2F2ZXJhZ2U6IG51bWJlcn0sIDM6IHthdmVyYWdlOiBudW1iZXJ9LCA0OiB7YXZlcmFnZTogbnVtYmVyfSwgNToge2F2ZXJhZ2U6IG51bWJlcn0sIDY6IHthdmVyYWdlOiBudW1iZXJ9LCA3OiB7YXZlcmFnZTogbnVtYmVyfSwgODoge2F2ZXJhZ2U6IG51bWJlcn0sIDk6IHthdmVyYWdlOiBudW1iZXJ9LCAxMDoge2F2ZXJhZ2U6IG51bWJlcn19fQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICogQHR5cGUge3sxOiB7dGllcjogbnVtYmVyLCBhdmVyYWdlOiBudWxsLCBsb3c6IG51bWJlciwgaGlnaDogbnVsbH0sIDI6IHt0aWVyOiBudW1iZXIsIGF2ZXJhZ2U6IG51bGwsIGxvdzogbnVtYmVyLCBoaWdoOiBudW1iZXJ9LCAzOiB7dGllcjogbnVtYmVyLCBhdmVyYWdlOiBudWxsLCBsb3c6IG51bWJlciwgaGlnaDogbnVtYmVyfSwgNDoge3RpZXI6IG51bWJlciwgYXZlcmFnZTogbnVsbCwgbG93OiBudW1iZXIsIGhpZ2g6IG51bWJlcn0sIDU6IHt0aWVyOiBudW1iZXIsIGF2ZXJhZ2U6IG51bGwsIGxvdzogbnVtYmVyLCBoaWdoOiBudW1iZXJ9LCA2OiB7dGllcjogbnVtYmVyLCBhdmVyYWdlOiBudWxsLCBsb3c6IG51bWJlciwgaGlnaDogbnVtYmVyfSwgNzoge3RpZXI6IG51bWJlciwgYXZlcmFnZTogbnVsbCwgbG93OiBudW1iZXIsIGhpZ2g6IG51bWJlcn0sIDg6IHt0aWVyOiBudW1iZXIsIGF2ZXJhZ2U6IG51bGwsIGxvdzogbnVtYmVyLCBoaWdoOiBudW1iZXJ9LCA5OiB7dGllcjogbnVtYmVyLCBhdmVyYWdlOiBudWxsLCBsb3c6IG51bWJlciwgaGlnaDogbnVtYmVyfSwgMTA6IHt0aWVyOiBudW1iZXIsIGF2ZXJhZ2U6IG51bGwsIGxvdzogbnVtYmVyLCBoaWdoOiBudW1iZXJ9fX0K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICogQHJldHVybiB7dGh1bmt9IC0gYSB0aHVuayBmb3IgdGhlIEdFVF9MRUFEX1RJRVJTIGFjdGlvbgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9UT0RPOiB1cGRhdGUgSlNEb2MK</text>
+        <text encoding="base64">ICogQHR5cGUge3sxOiB7dGllcjogbnVtYmVyLCBhdmVyYWdlOiBudWxsLCBsb3c6IG51bWJlciwgaGlnaDogbnVsbH0sIDI6IHt0aWVyOiBudW1iZXIsIGF2ZXJhZ2U6IG51bGwsIGxvdzogbnVtYmVyLCBoaWdoOiBudW1iZXJ9LCAzOiB7dGllcjogbnVtYmVyLCBhdmVyYWdlOiBudWxsLCBsb3c6IG51bWJlciwgaGlnaDogbnVtYmVyfSwgNDoge3RpZXI6IG51bWJlciwgYXZlcmFnZTogbnVsbCwgbG93OiBudW1iZXIsIGhpZ2g6IG51bWJlcn0sIDU6IHt0aWVyOiBudW1iZXIsIGF2ZXJhZ2U6IG51bGwsIGxvdzogbnVtYmVyLCBoaWdoOiBudW1iZXJ9LCA2OiB7dGllcjogbnVtYmVyLCBhdmVyYWdlOiBudWxsLCBsb3c6IG51bWJlciwgaGlnaDogbnVtYmVyfSwgNzoge3RpZXI6IG51bWJlciwgYXZlcmFnZTogbnVsbCwgbG93OiBudW1iZXIsIGhpZ2g6IG51bWJlcn0sIDg6IHt0aWVyOiBudW1iZXIsIGF2ZXJhZ2U6IG51bGwsIGxvdzogbnVtYmVyLCBoaWdoOiBudW1iZXJ9LCA5OiB7dGllcjogbnVtYmVyLCBhdmVyYWdlOiBudWxsLCBsb3c6IG51bWJlciwgaGlnaDogbnVtYmVyfSwgMTA6IHt0aWVyOiBudW1iZXIsIGF2ZXJhZ2U6IG51bGwsIGxvdzogbnVtYmVyLCBoaWdoOiBudW1iZXJ9fX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

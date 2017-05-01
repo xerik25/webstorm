@@ -6,6 +6,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/index.js" timestamp="1493652524468">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="9" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="5" column="9" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/closeTierModal.js" timestamp="1493416596069" />
       <file name="$USER_HOME$/Projects/felaTest/config/mixins.js" timestamp="1493390820602">
         <mark key="'" line="13" column="16" />
@@ -63,11 +69,11 @@
         <mark key="." line="25" column="8" />
         <mark key="^" line="25" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/rootReducer.js" timestamp="1493416333968">
-        <mark key="[" line="18" column="4" />
-        <mark key="]" line="18" column="21" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/rootReducer.js" timestamp="1493652570537">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="29" />
         <mark key="^" line="18" column="21" />
-        <mark key="." line="18" column="21" />
+        <mark key="." line="1" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/services/getLeadTiersService.js" timestamp="1493406039645">
         <mark key="'" line="10" column="4" />
@@ -113,6 +119,12 @@
         <mark key="]" line="32" column="78" />
         <mark key="." line="32" column="78" />
         <mark key="^" line="36" column="96" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/leadTierScoring/index.js" timestamp="1493652095027">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/felaTest/config/variables.js" timestamp="1493390725610">
         <mark key="[" line="6" column="22" />
@@ -354,15 +366,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>created separate actions for TIERS_SET and TIERS_UNSET
-
-Made sense to separate these so that you can see different actions</text>
+        <text>: web2lead</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>or the leadTierInterface</text>
+        <text>: web2lead</text>
       </register>
       <register name="/" type="4">
         <text>out</text>

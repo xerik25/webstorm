@@ -47,11 +47,11 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/Web2LeadContainer.js" timestamp="1493827641189">
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="157" column="23" />
-        <mark key="." line="157" column="23" />
-        <mark key="^" line="157" column="23" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/Web2LeadContainer.js" timestamp="1493832135198">
+        <mark key="[" line="45" column="34" />
+        <mark key="]" line="45" column="39" />
+        <mark key="." line="45" column="39" />
+        <mark key="^" line="45" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/server/constants/port.js" timestamp="1492700906518">
         <mark key="[" line="0" column="40" />
@@ -232,10 +232,10 @@
         <mark key="^" line="15" column="19" />
         <mark key="." line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/ScMarketingWeb.js" timestamp="1493830793806">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/ScMarketingWeb.js" timestamp="1493831893667">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/web2Lead/home/_home.scss" timestamp="1493741089606">
         <mark key="[" line="1" column="9" />
@@ -314,7 +314,7 @@
         <mark key="^" line="24" column="3" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/web2Lead/isFetchingRedirects.js" timestamp="1493666254558">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/web2Lead/isFetchingRedirects.js" timestamp="1493831293392">
         <mark key="[" line="11" column="1" />
         <mark key="]" line="11" column="1" />
         <mark key="^" line="11" column="1" />
@@ -501,7 +501,7 @@
         <mark key="." line="9" column="82" />
         <mark key="^" line="7" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493830249294">
+      <file name="/Dummy.txt" timestamp="1493831298948">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -694,14 +694,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierData.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdpc0ZldGNoaW5nUmVkaXJlY3RzJywgaXNGZXRjaGluZ1JlZGlyZWN0cyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>this.</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>this.</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
@@ -710,7 +710,7 @@
         <text encoding="base64">ICogQHBhcmFtIHtmdW5jdGlvbn0gcmVkaXJlY3RTZWxlY3Rpb25DaGFuZ2VkIC0gCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdpc0ZldGNoaW5nUmVkaXJlY3RzJywgaXNGZXRjaGluZ1JlZGlyZWN0cyk7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -722,33 +722,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VXBkYXRpbmcgUHJvcFR5cGUgc2hhcGUK</text>
+        <text encoding="base64">CQl0aGlzLnByb3BzLmlzTm90aWZ5aW5nKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CTE6IHsKCQlsb3c6IDE1NC42MSwKCQloaWdoOiBudWxsCgl9LAoJMjogewoJCWxvdzogMTI5LjUxLAoJCWhpZ2g6IDE1NC42MAoJfSwKCTM6IHsKCQlsb3c6IDExMy41MCwKCQloaWdoOiAxMjkuNTAKCX0sCgk0OiB7CgkJbG93OiAxMDIuNTMsCgkJaGlnaDogMTEzLjQ5Cgl9LAoJNTogewoJCWxvdzogOTEuNTIsCgkJaGlnaDogMTAyLjUyCgl9LAoJNjogewoJCWxvdzogNzguNTAsCgkJaGlnaDogOTEuNTEKCX0sCgk3OiB7CgkJbG93OiA2NS41MSwKCQloaWdoOiA3OC40OQoJfSwKCTg6IHsKCQlsb3c6IDQyLjUwLAoJCWhpZ2g6IDY1LjYwCgl9LAoJOTogewoJCWxvdzogMTQuNTAsCgkJaGlnaDogNDIuNDkKCX0sCgkxMDogewoJCWxvdzogMCwKCQloaWdoOiAxNC40OQoJfQo=</text>
+        <text encoding="base64">CQkJCXsvKlRPRE86IFVwZGF0ZSBTbmFja0JhciB0byBpbmNsdWRlIEZldGNoaW5nIFJlZGlyZWN0cyBzbyB3ZSBjYW4gZGVsZXRlIG9uZSBiZWxvdyovfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCS8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">CQkJCTxTbmFja2JhcgoJCQkJCW1lc3NhZ2U9eydGZXRjaGluZyByZWRpcmVjdHMhJ30KCQkJCQlvcGVuPXtpc0ZldGNoaW5nUmVkaXJlY3RzfQoJCQkJCWF1dG9IaWRlRHVyYXRpb249ezI1MDB9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>created route for web2Lead and resolving errors
-
-Now that I merged in branch from Pacman I worked through all console 
-errors. The Home component will now render on the /web2Lead route and
-I also updated the namespace and some of the conventions we now use for
-maptStateToProps and mapDispatchToProps</text>
+      <register name="6" type="2">
+        <text encoding="base64">CWNvbnNvbGUubG9nKCdpc0ZldGNoaW5nUmVkaXJlY3RzJywgaXNGZXRjaGluZ1JlZGlyZWN0cyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWxvZ291dDogJ2FwaS9sb2dvdXQnCg==</text>
+        <text encoding="base64">VXBkYXRpbmcgUHJvcFR5cGUgc2hhcGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXVzZXI6ICdhcGkvdXNlcicsCg==</text>
+        <text encoding="base64">CTE6IHsKCQlsb3c6IDE1NC42MSwKCQloaWdoOiBudWxsCgl9LAoJMjogewoJCWxvdzogMTI5LjUxLAoJCWhpZ2g6IDE1NC42MAoJfSwKCTM6IHsKCQlsb3c6IDExMy41MCwKCQloaWdoOiAxMjkuNTAKCX0sCgk0OiB7CgkJbG93OiAxMDIuNTMsCgkJaGlnaDogMTEzLjQ5Cgl9LAoJNTogewoJCWxvdzogOTEuNTIsCgkJaGlnaDogMTAyLjUyCgl9LAoJNjogewoJCWxvdzogNzguNTAsCgkJaGlnaDogOTEuNTEKCX0sCgk3OiB7CgkJbG93OiA2NS41MSwKCQloaWdoOiA3OC40OQoJfSwKCTg6IHsKCQlsb3c6IDQyLjUwLAoJCWhpZ2g6IDY1LjYwCgl9LAoJOTogewoJCWxvdzogMTQuNTAsCgkJaGlnaDogNDIuNDkKCX0sCgkxMDogewoJCWxvdzogMCwKCQloaWdoOiAxNC40OQoJfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWFwaUxvZ2luOiAnL2FwaS9sb2dpbicsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>27</text>

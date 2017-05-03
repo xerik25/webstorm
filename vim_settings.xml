@@ -29,13 +29,6 @@
         <mark key="^" line="12" column="93" />
         <mark key="." line="12" column="93" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/web2Lead/home/submissionInputFactory.js" timestamp="1493740957992">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="45" column="5" />
-        <mark key="]" line="45" column="5" />
-        <mark key="^" line="45" column="5" />
-        <mark key="." line="45" column="5" />
-      </file>
       <file name="$USER_HOME$/Projects/felaTest/src/components/App.js" timestamp="1493215781490">
         <mark key="[" line="33" column="28" />
         <mark key="]" line="33" column="33" />
@@ -54,10 +47,10 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/styles/scss/styles.scss" timestamp="1493741137117">
-        <mark key="]" line="6" column="44" />
-        <mark key="^" line="6" column="44" />
-        <mark key="." line="6" column="44" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/Web2LeadContainer.js" timestamp="1493825416999">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/server/constants/port.js" timestamp="1492700906518">
         <mark key="[" line="0" column="40" />
@@ -83,7 +76,7 @@
         <mark key="^" line="1" column="41" />
         <mark key="." line="1" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/leadTierScoring/AppContainer.js" timestamp="1493820819966">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/leadTierScoring/AppContainer.js" timestamp="1493821126058">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="71" column="6" />
         <mark key="." line="71" column="6" />
@@ -154,10 +147,10 @@
         <mark key="." line="1" column="63" />
         <mark key="^" line="1" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/LeadTierInterface/LeadTierInterfaceContainer.js" timestamp="1493663499928">
-        <mark key="[" line="6" column="43" />
-        <mark key="]" line="6" column="66" />
-        <mark key="." line="6" column="66" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/LeadTierInterface/LeadTierInterfaceContainer.js" timestamp="1493824014183">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="7" column="33" />
+        <mark key="." line="7" column="33" />
         <mark key="^" line="6" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/leadTierScoring/index.js" timestamp="1493676221686">
@@ -177,6 +170,11 @@
         <mark key="]" line="6" column="54" />
         <mark key="^" line="6" column="54" />
         <mark key="." line="6" column="54" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/web2Lead/App.js" timestamp="1493823395533">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/web2Lead/index.js" timestamp="1493771891275" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/web2Lead/addRedirect.spec.js" timestamp="1493676896415">
@@ -211,11 +209,11 @@
       </file>
       <file name="/HomeContainer.js" timestamp="1493766124268" />
       <file name="$USER_HOME$/Projects/web2lead-services/client/src/reducers/rootReducer.js" timestamp="1493662543033" />
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/routes.js" timestamp="1493819286756">
-        <mark key="[" line="49" column="35" />
-        <mark key="]" line="14" column="18" />
-        <mark key="^" line="14" column="18" />
-        <mark key="." line="49" column="38" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/routes.js" timestamp="1493824914572">
+        <mark key="[" line="51" column="20" />
+        <mark key="]" line="51" column="32" />
+        <mark key="^" line="51" column="32" />
+        <mark key="." line="51" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/actionTypes.js" timestamp="1493418778533">
         <mark key="[" line="14" column="24" />
@@ -230,6 +228,18 @@
         <mark key="." line="5" column="2" />
       </file>
       <file name="/areTiersSetInDatabase.js" timestamp="1493667633704" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/server/constants/clientRoutes.js" timestamp="1493824926166">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+        <mark key="^" line="21" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/ScMarketingWeb.js" timestamp="1493824588997">
+        <mark key="[" line="91" column="70" />
+        <mark key="]" line="91" column="77" />
+        <mark key="." line="91" column="77" />
+        <mark key="^" line="91" column="77" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/web2Lead/home/_home.scss" timestamp="1493741089606">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="1" column="11" />
@@ -241,13 +251,6 @@
         <mark key="]" line="1" column="47" />
         <mark key="^" line="1" column="47" />
         <mark key="." line="1" column="47" />
-      </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/bitbucket-pipelines.yml" timestamp="1492701670048">
-        <mark key="'" line="13" column="10" />
-        <mark key="[" line="33" column="39" />
-        <mark key="]" line="33" column="53" />
-        <mark key="^" line="33" column="53" />
-        <mark key="." line="33" column="53" />
       </file>
       <file name="/leadTierFakeData.js" timestamp="1493407897475" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/initialAppState.js" timestamp="1493409038361">
@@ -262,25 +265,18 @@
         <mark key="^" line="6" column="83" />
         <mark key="." line="6" column="83" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/AppContainer.js" timestamp="1493741934833" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/AppContainer.js" timestamp="1493823470502" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/areTiersSetInDatabase.js" timestamp="1493648311206">
         <mark key="[" line="11" column="29" />
         <mark key="]" line="12" column="95" />
         <mark key="^" line="12" column="95" />
         <mark key="." line="12" column="95" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierScoring/loginDialog/LoginDialog.js" timestamp="1493740711444">
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="22" />
-        <mark key="^" line="3" column="22" />
-        <mark key="." line="3" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierData.js" timestamp="1493419419497">
-        <mark key="'" line="71" column="36" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
-        <mark key="^" line="108" column="14" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierScoring/loginDialog/LoginDialog.js" timestamp="1493824850042">
+        <mark key="[" line="29" column="33" />
+        <mark key="]" line="29" column="40" />
+        <mark key="^" line="29" column="40" />
+        <mark key="." line="29" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/leadTierScoring/registerEvents.js" timestamp="1493676342957">
         <mark key="[" line="0" column="35" />
@@ -335,6 +331,11 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/web2Lead/_web2Lead.scss" timestamp="1493823953203">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+      </file>
       <file name="$USER_HOME$/Projects/web2lead-services/client/.babelrc" timestamp="1493665912073" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/selectedRow.js" timestamp="1493661543969">
         <mark key="[" line="1" column="33" />
@@ -347,7 +348,13 @@
         <mark key="." line="6" column="106" />
         <mark key="^" line="6" column="106" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/server/server.js" timestamp="1493653057938" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/server/server.js" timestamp="1493824735152" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierScoring/App.js" timestamp="1493823398463">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="120" column="18" />
+        <mark key="^" line="134" column="44" />
+        <mark key="." line="116" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/leadTierScoring/getLeadTierAverages.js" timestamp="1493676281167">
         <mark key="[" line="1" column="42" />
         <mark key="]" line="1" column="44" />
@@ -451,6 +458,7 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="30" column="49" />
       </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/ScMarketingWebContainer.js" timestamp="1493824146273" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/propTypeShapes.js" timestamp="1493396700890">
         <mark key="[" line="7" column="30" />
         <mark key="]" line="7" column="30" />
@@ -469,11 +477,11 @@
         <mark key="^" line="13" column="82" />
         <mark key="." line="13" column="82" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/clientRoutes.js" timestamp="1493819198408">
-        <mark key="[" line="17" column="15" />
-        <mark key="]" line="17" column="15" />
-        <mark key="." line="17" column="15" />
-        <mark key="^" line="16" column="24" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/clientRoutes.js" timestamp="1493824928875">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+        <mark key="^" line="15" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/savedSelectedRow.spec.js" timestamp="1493661538041">
         <mark key="[" line="2" column="33" />
@@ -487,13 +495,13 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/LeadTierInterface/ModalContainer.js" timestamp="1493675244618">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/LeadTierInterface/ModalContainer.js" timestamp="1493823909956">
+        <mark key="[" line="3" column="42" />
+        <mark key="]" line="3" column="42" />
+        <mark key="." line="3" column="42" />
         <mark key="^" line="3" column="76" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493772131897">
+      <file name="/Dummy.txt" timestamp="1493824701525">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -552,13 +560,6 @@
         <mark key="]" line="6" column="37" />
         <mark key="." line="6" column="37" />
         <mark key="^" line="36" column="54" />
-      </file>
-      <file name="$USER_HOME$/Projects/felaTest/src/components/home/Home.js" timestamp="1493263403572">
-        <mark key="'" line="7" column="40" />
-        <mark key="[" line="33" column="40" />
-        <mark key="]" line="33" column="46" />
-        <mark key="." line="33" column="46" />
-        <mark key="^" line="33" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/services/getLeadTierAverageService.js" timestamp="1493065215099">
         <mark key="[" line="0" column="24" />
@@ -681,23 +682,23 @@
       <jump line="180" column="0" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/web2Lead/HomeContainer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlpc0ZldGNoaW5nUmVkaXJlY3RzOiBzdGF0ZS5pc0ZldGNoaW5nUmVkaXJlY3RzCg==</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>redirectSelectionChanged</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXJlZGlyZWN0U2VsZWN0aW9uQ2hhbmdlZDogUmVhY3QuUHJvcFR5cGVzLmZ1bmMK</text>
+        <text encoding="base64">CQkJCQkJCQk8TGlzdEl0ZW0KCQkJCQkJCQkJa2V5PXsxfQoJCQkJCQkJCQlwcmltYXJ5VGV4dD0iTGVhZCBUaWVyIEludGVyZmFjZSIKCQkJCQkJCQkJbGVmdEljb249ezxWaWV3TGlzdCAvPn0KCQkJCQkJCQkJb25DbGljaz17KCkgPT4gb25OYXZpZ2F0ZSgnL21hcmtldGluZy9sZWFkVGllckludGVyZmFjZScsIGZhbHNlLCBmYWxzZSl9CgkJCQkJCQkJLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlpc0ZldGNoaW5nUmVkaXJlY3RzOiBzdGF0ZS5pc0ZldGNoaW5nUmVkaXJlY3RzCg==</text>
+        <text encoding="base64">CXdlYjJMZWFkOiAnL3dlYjJsZWFkJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -709,28 +710,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0MtMTM0IC8gaW5pdGlhbCBtaWdyYXRpb24gZm9yIGAvY29tcG9uZW50c2AgZnJvbSB3ZWIyTGVhZAoKSSBhbHNvIG1vdmVkIGFsbCBvZiB0aGUgY29tcG9uZW50cyBmb3IgbGVhZFRpZXJTY29yaW5nIGludG8gaXQncyBvd24gCmZvbGRlciwgYWxvbmcgd2l0aCBjb250YWluZXJzLiBBbHNvIHJlc29sdmVkIGFsbCBwYXRoIGVycm9ycyBhbmQgbGludGluZwplcnJvcnMuIEJ1aWxkIGlzIHN0aWxsIGJyb2tlbiB0aG91Z2ggdW50aWwgU0MtMTIxIGlzIHJlc29sdmVkIGFuZCBtZXJnZWQK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U0MtMTM0IC8gaW5pdGlhbCBtaWdyYXRpb24gZm9yIGAvY29tcG9uZW50c2AgZnJvbSB3ZWIyTGVhZAoKSSBhbHNvIG1vdmVkIGFsbCBvZiB0aGUgY29tcG9uZW50cyBmb3IgbGVhZFRpZXJTY29yaW5nIGludG8gaXQncyBvd24gCmZvbGRlciwgYWxvbmcgd2l0aCBjb250YWluZXJzLiBBbHNvIHJlc29sdmVkIGFsbCBwYXRoIGVycm9ycyBhbmQgbGludGluZwplcnJvcnMuIEJ1aWxkIGlzIHN0aWxsIGJyb2tlbiB0aG91Z2ggdW50aWwgU0MtMTIxIGlzIHJlc29sdmVkIGFuZCBtZXJnZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CX0pLAo=</text>
+        <text encoding="base64">Ly9UT0RPOiBCcmVhayB0aGlzIG91dCBpbnRvIHNlcGFyYXRlIHJvdXRlcyBpbiBTQy0xMjIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWFjdGlvbnM6IFJlYWN0LlByb3BUeXBlcy5zaGFwZSh7Cg==</text>
+        <text encoding="base64">CQkJCTxTbmFja2JhcgoJCQkJCW1lc3NhZ2U9eydGZXRjaGluZyByZWRpcmVjdHMhJ30KCQkJCQlvcGVuPXtpc0ZldGNoaW5nUmVkaXJlY3RzfQoJCQkJCWF1dG9IaWRlRHVyYXRpb249ezI1MDB9CgkJCQkvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXRvZ2cK</text>
+        <text encoding="base64">CQlpc0ZldGNoaW5nUmVkaXJlY3RzOiBzdGF0ZS5pc0ZldGNoaW5nUmVkaXJlY3RzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWNvbnN0ICA9IHByb3BlcnRpZXM7Cg==</text>
+        <text encoding="base64">U0MtMTM0IC8gaW5pdGlhbCBtaWdyYXRpb24gZm9yIGAvY29tcG9uZW50c2AgZnJvbSB3ZWIyTGVhZAoKSSBhbHNvIG1vdmVkIGFsbCBvZiB0aGUgY29tcG9uZW50cyBmb3IgbGVhZFRpZXJTY29yaW5nIGludG8gaXQncyBvd24gCmZvbGRlciwgYWxvbmcgd2l0aCBjb250YWluZXJzLiBBbHNvIHJlc29sdmVkIGFsbCBwYXRoIGVycm9ycyBhbmQgbGludGluZwplcnJvcnMuIEJ1aWxkIGlzIHN0aWxsIGJyb2tlbiB0aG91Z2ggdW50aWwgU0MtMTIxIGlzIHJlc29sdmVkIGFuZCBtZXJnZWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWFjdGlvbnM6IFJlYWN0LlByb3BUeXBlcy5vYmplY3QuaXNSZXF1aXJlZCwK</text>
+        <text encoding="base64">U0MtMTM0IC8gaW5pdGlhbCBtaWdyYXRpb24gZm9yIGAvY29tcG9uZW50c2AgZnJvbSB3ZWIyTGVhZAoKSSBhbHNvIG1vdmVkIGFsbCBvZiB0aGUgY29tcG9uZW50cyBmb3IgbGVhZFRpZXJTY29yaW5nIGludG8gaXQncyBvd24gCmZvbGRlciwgYWxvbmcgd2l0aCBjb250YWluZXJzLiBBbHNvIHJlc29sdmVkIGFsbCBwYXRoIGVycm9ycyBhbmQgbGludGluZwplcnJvcnMuIEJ1aWxkIGlzIHN0aWxsIGJyb2tlbiB0aG91Z2ggdW50aWwgU0MtMTIxIGlzIHJlc29sdmVkIGFuZCBtZXJnZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdIT01FJywgZWRpdG9yRGF0YSk7Cg==</text>
+        <text encoding="base64">CX0pLAo=</text>
       </register>
       <register name=":" type="4">
         <text>27</text>

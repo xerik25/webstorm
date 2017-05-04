@@ -6,12 +6,59 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/leadTierScoring/getLeadTiers.js" timestamp="1493676379446">
+        <mark key="[" line="2" column="65" />
+        <mark key="]" line="2" column="65" />
+        <mark key="^" line="2" column="65" />
+        <mark key="." line="2" column="65" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/index.js" timestamp="1493652524468">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="9" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="5" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/closeTierModal.js" timestamp="1493836439550">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="5" column="4" />
+        <mark key="." line="5" column="4" />
+        <mark key="^" line="5" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/felaTest/config/mixins.js" timestamp="1493842844404">
+        <mark key="'" line="13" column="16" />
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="15" column="28" />
+        <mark key="^" line="15" column="28" />
+        <mark key="." line="16" column="32" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" timestamp="1493836488969">
         <mark key="'" line="104" column="0" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="84" />
         <mark key="^" line="12" column="93" />
         <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/package.json" timestamp="1493927721306">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="12" column="22" />
+        <mark key="^" line="11" column="83" />
+      </file>
+      <file name="$USER_HOME$/Projects/felaTest/src/styles/css/styles.pcss" timestamp="1493237537427">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/web2Lead/AppContainer.js" timestamp="1493820666559">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/web2Lead/isFetchingRedirects.js" timestamp="1493831293392">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="11" column="1" />
+        <mark key="^" line="11" column="1" />
+        <mark key="." line="11" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/tiersSetInDatabase.js" timestamp="1493412534420">
         <mark key="[" line="4" column="11" />
@@ -43,7 +90,7 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/.eslintrc" timestamp="1493667314033">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/.eslintrc" timestamp="1493928088751">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="12" />
         <mark key="." line="14" column="12" />
@@ -54,194 +101,18 @@
         <mark key="^" line="7" column="2" />
         <mark key="." line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierInterfaceConsts.js" timestamp="1493648856015">
-        <mark key="[" line="4" column="63" />
-        <mark key="]" line="4" column="106" />
-        <mark key="." line="4" column="106" />
-        <mark key="^" line="4" column="106" />
-      </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/leadTierScoring/closeTierModal.spec.js" timestamp="1493676683552">
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="1" column="58" />
-        <mark key="." line="1" column="58" />
-        <mark key="^" line="1" column="58" />
-      </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/webpack.config.dev.js" timestamp="1493391306878">
-        <mark key="[" line="39" column="47" />
-        <mark key="]" line="39" column="48" />
-        <mark key="." line="39" column="48" />
-      </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/web2Lead/home/Home.js" timestamp="1493771966691">
-        <mark key="'" line="121" column="0" />
-        <mark key="[" line="117" column="50" />
-        <mark key="]" line="117" column="50" />
-        <mark key="^" line="117" column="50" />
-        <mark key="." line="117" column="50" />
-      </file>
-      <file name="$USER_HOME$/Projects/felaTest/src/styles/css/base/variables/_colors.pcss" timestamp="1493390746023" />
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/web2Lead/HomeContainer.js" timestamp="1493771886107">
-        <mark key="'" line="167" column="0" />
-        <mark key="[" line="79" column="19" />
-        <mark key="]" line="79" column="40" />
-        <mark key="^" line="79" column="40" />
-        <mark key="." line="79" column="40" />
-      </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/leadTierScoring/rowSelectionChanged.spec.js" timestamp="1493676722442">
-        <mark key="[" line="1" column="35" />
-        <mark key="]" line="1" column="63" />
-        <mark key="." line="1" column="63" />
-        <mark key="^" line="1" column="63" />
-      </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/LeadTierInterface/LeadTierInterfaceContainer.js" timestamp="1493829600659">
-        <mark key="[" line="66" column="60" />
-        <mark key="]" line="66" column="60" />
-        <mark key="." line="66" column="60" />
-        <mark key="^" line="6" column="66" />
-      </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/web2Lead/redirects.js" timestamp="1493667292468">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="6" column="60" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/web2lead-services/client/src/containers/AppContainer.js" timestamp="1493830248380" />
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/web2Lead/index.js" timestamp="1493771891275" />
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/getLeadTiers.js" timestamp="1493666199157">
-        <mark key="[" line="16" column="88" />
-        <mark key="]" line="16" column="88" />
-        <mark key="." line="16" column="88" />
-        <mark key="^" line="16" column="88" />
-      </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/notificationMessage.js" timestamp="1493676446939">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="14" />
-        <mark key="." line="5" column="14" />
-        <mark key="^" line="1" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/styles/scss/base/variables/variables.json" timestamp="1493666590460">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/felaTest/config/postcss.config.js" timestamp="1493390754043">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="63" column="4" />
-      </file>
-      <file name="/HomeContainer.js" timestamp="1493766124268" />
-      <file name="$USER_HOME$/Projects/web2lead-services/client/src/reducers/rootReducer.js" timestamp="1493662543033" />
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/routes.js" timestamp="1493824914572">
-        <mark key="[" line="51" column="20" />
-        <mark key="]" line="51" column="32" />
-        <mark key="^" line="51" column="32" />
-        <mark key="." line="51" column="32" />
-      </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/actionTypes.js" timestamp="1493418778533">
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="14" column="24" />
-        <mark key="." line="14" column="28" />
-        <mark key="^" line="14" column="14" />
-      </file>
-      <file name="/areTiersSetInDatabase.js" timestamp="1493667633704" />
-      <file name="$USER_HOME$/Projects/sc-marketing-web/server/constants/clientRoutes.js" timestamp="1493828226767">
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="15" column="19" />
-        <mark key="^" line="15" column="19" />
-        <mark key="." line="15" column="19" />
-      </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/ScMarketingWeb.js" timestamp="1493833688918">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="134" column="48" />
-        <mark key="]" line="134" column="46" />
-        <mark key="." line="134" column="46" />
-        <mark key="^" line="134" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/felaTest/src/components/home/home.pcss" timestamp="1493918524169">
-        <mark key="i" line="25" column="22" />
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="28" />
-        <mark key="^" line="13" column="28" />
-        <mark key="." line="13" column="28" />
-      </file>
-      <file name="/leadTierFakeData.js" timestamp="1493407897475" />
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/initialAppState.js" timestamp="1493409038361">
-        <mark key="[" line="13" column="6" />
-        <mark key="]" line="14" column="28" />
-        <mark key="^" line="14" column="28" />
-        <mark key="." line="14" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/AppContainer.js" timestamp="1493823470502" />
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/areTiersSetInDatabase.js" timestamp="1493648311206">
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="12" column="95" />
-        <mark key="^" line="12" column="95" />
-        <mark key="." line="12" column="95" />
-      </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierData.js" timestamp="1493829936291">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="^" line="108" column="14" />
-        <mark key="." line="112" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/leadTierScoring/getLeadTiers.js" timestamp="1493676379446">
-        <mark key="[" line="2" column="65" />
-        <mark key="]" line="2" column="65" />
-        <mark key="^" line="2" column="65" />
-        <mark key="." line="2" column="65" />
-      </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/index.js" timestamp="1493652524468">
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="5" column="9" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="5" column="9" />
-      </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/closeTierModal.js" timestamp="1493836439550">
-        <mark key="[" line="5" column="3" />
-        <mark key="]" line="5" column="4" />
-        <mark key="." line="5" column="4" />
-        <mark key="^" line="5" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/felaTest/config/mixins.js" timestamp="1493842844404">
-        <mark key="'" line="13" column="16" />
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="15" column="28" />
-        <mark key="^" line="15" column="28" />
-        <mark key="." line="16" column="32" />
-      </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/package.json" timestamp="1493397231044">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="24" column="3" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/felaTest/src/styles/css/styles.pcss" timestamp="1493237537427">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/web2Lead/AppContainer.js" timestamp="1493820666559">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/web2Lead/isFetchingRedirects.js" timestamp="1493831293392">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="11" column="1" />
-        <mark key="^" line="11" column="1" />
-        <mark key="." line="11" column="1" />
-      </file>
-      <file name="$USER_HOME$/Projects/web2lead-services/client/.babelrc" timestamp="1493665912073" />
-      <file name="$USER_HOME$/Projects/sc-marketing-web/server/server.js" timestamp="1493824735152" />
-      <file name="$USER_HOME$/Projects/react-redux-boilerplate/src/actions/showNotification.js" timestamp="1493832912367" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/services/getLeadTiersService.js" timestamp="1493406039645">
         <mark key="'" line="10" column="4" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="6" column="50" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierInterfaceConsts.js" timestamp="1493648856015">
+        <mark key="[" line="4" column="63" />
+        <mark key="]" line="4" column="106" />
+        <mark key="." line="4" column="106" />
+        <mark key="^" line="4" column="106" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierFakeData.js" timestamp="1493418012860">
         <mark key="'" line="63" column="4" />
@@ -256,6 +127,12 @@
         <mark key="^" line="24" column="109" />
         <mark key="." line="21" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/leadTierScoring/closeTierModal.spec.js" timestamp="1493676683552">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="58" />
+        <mark key="." line="1" column="58" />
+        <mark key="^" line="1" column="58" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/web2Lead/index.js" timestamp="1493667367405">
         <mark key="[" line="1" column="36" />
         <mark key="]" line="1" column="36" />
@@ -267,6 +144,11 @@
         <mark key="]" line="76" column="40" />
         <mark key="." line="76" column="40" />
         <mark key="^" line="76" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/webpack.config.dev.js" timestamp="1493927538824">
+        <mark key="[" line="39" column="47" />
+        <mark key="]" line="39" column="48" />
+        <mark key="." line="39" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/isNotifying.js" timestamp="1493676496180">
         <mark key="[" line="5" column="13" />
@@ -280,12 +162,39 @@
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/.babelrc" timestamp="1493673894212">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="25" />
-        <mark key="^" line="1" column="51" />
-        <mark key="." line="1" column="25" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/web2Lead/home/Home.js" timestamp="1493771966691">
+        <mark key="'" line="121" column="0" />
+        <mark key="[" line="117" column="50" />
+        <mark key="]" line="117" column="50" />
+        <mark key="^" line="117" column="50" />
+        <mark key="." line="117" column="50" />
       </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/web2Lead/HomeContainer.js" timestamp="1493771886107">
+        <mark key="'" line="167" column="0" />
+        <mark key="[" line="79" column="19" />
+        <mark key="]" line="79" column="40" />
+        <mark key="^" line="79" column="40" />
+        <mark key="." line="79" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/leadTierScoring/rowSelectionChanged.spec.js" timestamp="1493676722442">
+        <mark key="[" line="1" column="35" />
+        <mark key="]" line="1" column="63" />
+        <mark key="." line="1" column="63" />
+        <mark key="^" line="1" column="63" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/.babelrc" timestamp="1493928135467">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="43" />
+        <mark key="^" line="1" column="43" />
+        <mark key="." line="1" column="43" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/LeadTierInterface/LeadTierInterfaceContainer.js" timestamp="1493829600659">
+        <mark key="[" line="66" column="60" />
+        <mark key="]" line="66" column="60" />
+        <mark key="." line="66" column="60" />
+        <mark key="^" line="6" column="66" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/leadTierScoring/getUser.js" timestamp="1493926853281" />
       <file name="$USER_HOME$/Projects/felaTest/webpack.config.dev.js" timestamp="1493917891478">
         <mark key="[" line="32" column="110" />
         <mark key="]" line="32" column="12" />
@@ -297,6 +206,12 @@
         <mark key="]" line="2" column="17" />
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/web2Lead/redirects.js" timestamp="1493667292468">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="6" column="60" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/felaTest/config/variables.js" timestamp="1493847938090">
         <mark key="[" line="6" column="18" />
@@ -334,13 +249,54 @@
         <mark key="." line="15" column="19" />
         <mark key="^" line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/web2lead-services/client/src/components/App.js" timestamp="1493834013404" />
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/areTiersSetInDatabase.js" timestamp="1493674193063" />
+      <file name="$USER_HOME$/Projects/web2lead-services/client/.eslintrc" timestamp="1493928083523" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/getLeadTiers.js" timestamp="1493666199157">
+        <mark key="[" line="16" column="88" />
+        <mark key="]" line="16" column="88" />
+        <mark key="." line="16" column="88" />
+        <mark key="^" line="16" column="88" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/notificationMessage.js" timestamp="1493676446939">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="1" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/styles/scss/base/variables/variables.json" timestamp="1493666590460">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/felaTest/config/postcss.config.js" timestamp="1493390754043">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="63" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/LeadTierInterface/ModalContainer.js" timestamp="1493829460363">
         <mark key="[" line="9" column="67" />
         <mark key="]" line="7" column="42" />
         <mark key="." line="9" column="82" />
         <mark key="^" line="7" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/routes.js" timestamp="1493824914572">
+        <mark key="[" line="51" column="20" />
+        <mark key="]" line="51" column="32" />
+        <mark key="^" line="51" column="32" />
+        <mark key="." line="51" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/actionTypes.js" timestamp="1493418778533">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="28" />
+        <mark key="^" line="14" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/server/constants/clientRoutes.js" timestamp="1493828226767">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="19" />
+        <mark key="^" line="15" column="19" />
+        <mark key="." line="15" column="19" />
       </file>
       <file name="/Dummy.txt" timestamp="1493836464660">
         <mark key="'" line="0" column="60" />
@@ -354,6 +310,26 @@
         <mark key="^" line="26" column="5" />
         <mark key="." line="4" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/ScMarketingWeb.js" timestamp="1493833688918">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="134" column="48" />
+        <mark key="]" line="134" column="46" />
+        <mark key="." line="134" column="46" />
+        <mark key="^" line="134" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/felaTest/src/components/home/home.pcss" timestamp="1493918524169">
+        <mark key="i" line="25" column="22" />
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="28" />
+        <mark key="^" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/initialAppState.js" timestamp="1493409038361">
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="14" column="28" />
+        <mark key="^" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/tiersSetInDatabase.js" timestamp="1493836434803">
         <mark key="[" line="5" column="3" />
         <mark key="]" line="5" column="4" />
@@ -366,18 +342,29 @@
         <mark key="." line="20" column="5" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/react-redux-boilerplate/src/reducers/notificationMessage.js" timestamp="1493832215517" />
       <file name="$USER_HOME$/Projects/felaTest/src/components/home/_home.scss" timestamp="1493848670880">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="/rootReducer.js" timestamp="1493662063783" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/areTiersSetInDatabase.js" timestamp="1493648311206">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="12" column="95" />
+        <mark key="^" line="12" column="95" />
+        <mark key="." line="12" column="95" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/web2Lead/redirectSelectedIndex.js" timestamp="1493662881144">
         <mark key="[" line="0" column="33" />
         <mark key="]" line="0" column="41" />
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierData.js" timestamp="1493829936291">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="^" line="108" column="14" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/index.js" timestamp="1493667589791">
         <mark key="[" line="10" column="6" />
@@ -403,7 +390,7 @@
         <mark key="." line="6" column="37" />
         <mark key="^" line="36" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/initialAppState.js" timestamp="1493833049525" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/servicesConnection.js" timestamp="1493926940382" />
     </filemarks>
     <jumps>
       <jump line="61" column="0" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/actions/ResultsGridRequested.js" />
@@ -509,13 +496,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>blue</text>
+        <text encoding="base64">LXIg</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>blue</text>
+        <text encoding="base64">LXIg</text>
       </register>
       <register name="/" type="4">
         <text>out</text>

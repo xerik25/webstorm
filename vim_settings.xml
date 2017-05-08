@@ -76,12 +76,6 @@
         <mark key="]" line="39" column="48" />
         <mark key="." line="39" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/web2Lead/mode.spec.js" timestamp="1494263981652">
-        <mark key="[" line="1" column="20" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="23" />
-        <mark key="^" line="1" column="23" />
-      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/leadTierScoring/rowSelectionChanged.spec.js" timestamp="1493933198476">
         <mark key="[" line="1" column="62" />
         <mark key="]" line="1" column="81" />
@@ -183,11 +177,11 @@
         <mark key="^" line="12" column="95" />
         <mark key="." line="12" column="95" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/web2Lead/redirects.spec.js" timestamp="1494264011844">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="33" />
-        <mark key="." line="1" column="33" />
-        <mark key="^" line="1" column="33" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/web2Lead/redirects.spec.js" timestamp="1494278709048">
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="13" column="9" />
+        <mark key="^" line="13" column="9" />
+        <mark key="." line="13" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/servicesConnection.js" timestamp="1493926940382" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/web2Lead/RedirectTable.js" timestamp="1493992240018">
@@ -286,7 +280,7 @@
         <mark key="." line="1" column="10" />
         <mark key="^" line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/canEditTier.spec.js" timestamp="1494277494255" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/canEditTier.spec.js" timestamp="1494278393037" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/.babelrc" timestamp="1493931917512">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -355,12 +349,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="36" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/savedSelectedRow.spec.js" timestamp="1494276212329">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/savedSelectedRow.spec.js" timestamp="1494278841139">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/web2Lead/Web2Lead.js" timestamp="1493993550996">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/web2Lead/Web2Lead.js" timestamp="1494277983430">
         <mark key="[" line="36" column="12" />
         <mark key="]" line="36" column="107" />
         <mark key="." line="36" column="107" />
@@ -372,10 +366,10 @@
         <mark key="." line="11" column="1" />
         <mark key="^" line="11" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494272462756">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="36" />
-        <mark key="." line="0" column="36" />
+      <file name="/Dummy.txt" timestamp="1494277778311">
+        <mark key="[" line="0" column="43" />
+        <mark key="]" line="0" column="44" />
+        <mark key="." line="0" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/web2Lead/home/buttonFactory.js" timestamp="1493749609931">
         <mark key="[" line="4" column="13" />
@@ -547,13 +541,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>???</text>
+        <text>newState</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>???</text>
+        <text>newState</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
@@ -583,19 +577,19 @@
         <text encoding="base64">CXQuZXF1YWwobmV3U3RhdGUsIGZhbHNlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCd0ZXN0aW5nJywgaW5pdGFsU3RhdGUsIG5ld1N0YXRlKTsK</text>
+        <text encoding="base64">CXQuZG9lc05vdEVxdWFsKGluaXRhbFN0YXRlLCBuZXdTdGF0ZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXQuZXF1YWxzKG5ld1N0YXRlLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">CXQuZXF1YWwobmV3U3RhdGUsIGZhbHNlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCduZXdTdGF0ZScsIG5ld1N0YXRlKTsK</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCd0ZXN0aW5nJywgaW5pdGFsU3RhdGUsIG5ld1N0YXRlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCduZXdTdGF0ZScsIG5ld1N0YXRlKTsK</text>
+        <text encoding="base64">CXQuZXF1YWxzKG5ld1N0YXRlLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWNvbnN0IGluaXRhbFN0YXRlID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCduZXdTdGF0ZScsIG5ld1N0YXRlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

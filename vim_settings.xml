@@ -99,7 +99,7 @@
         <mark key="." line="66" column="60" />
         <mark key="^" line="6" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/notificationMessage.spec.js" timestamp="1494272446852">
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/notificationMessage.spec.js" timestamp="1494272460318">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -122,6 +122,11 @@
         <mark key="^" line="1" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/web2lead-services/client/.eslintrc" timestamp="1493928083523" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/web2Lead/addRedirect.spec.js" timestamp="1494273103497">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="28" />
+        <mark key="." line="1" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/getLeadTiers.js" timestamp="1493666199157">
         <mark key="[" line="16" column="88" />
         <mark key="]" line="16" column="88" />
@@ -170,7 +175,7 @@
         <mark key="^" line="14" column="28" />
         <mark key="." line="14" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/node_modules/whatwg-fetch/fetch.js" timestamp="1493932661678" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/node_modules/whatwg-fetch/fetch.js" timestamp="1494273002667" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/areTiersSetInDatabase.js" timestamp="1493648311206">
         <mark key="[" line="11" column="29" />
         <mark key="]" line="12" column="95" />
@@ -299,6 +304,11 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/leadTierScoring/getLeadTierAverages.spec.js" timestamp="1494274525824">
+        <mark key="[" line="9" column="61" />
+        <mark key="]" line="9" column="61" />
+        <mark key="." line="9" column="61" />
+      </file>
       <file name="$USER_HOME$/Projects/felaTest/config/variables.js" timestamp="1493847938090">
         <mark key="[" line="6" column="18" />
         <mark key="]" line="6" column="19" />
@@ -365,8 +375,8 @@
         <mark key="." line="11" column="1" />
         <mark key="^" line="11" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494270894887">
-        <mark key="[" line="0" column="25" />
+      <file name="/Dummy.txt" timestamp="1494272462756">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
       </file>
@@ -539,14 +549,14 @@
       <jump line="46" column="0" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/isNotifying.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCd0ZXN0aW5nJywgaW5pdGFsU3RhdGUsIG5ld1N0YXRlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>_SUCCESS</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Updated</text>
+        <text>_SUCCESS</text>
       </register>
       <register name="/" type="4">
         <text>out</text>

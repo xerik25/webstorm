@@ -123,6 +123,7 @@
         <mark key="." line="13" column="10" />
         <mark key="^" line="12" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/react-redux-boilerplate/package.json" timestamp="1494442959071" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/LeadTierInterface/LeadTierInterfaceContainer.js" timestamp="1494343436851">
         <mark key="[" line="66" column="60" />
         <mark key="]" line="66" column="60" />
@@ -178,7 +179,7 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="/package.json" timestamp="1493928944696" />
+      <file name="/package.json" timestamp="1494443016661" />
       <file name="$USER_HOME$/Projects/felaTest/config/postcss.config.js" timestamp="1493390754043">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="25" column="0" />
@@ -306,11 +307,11 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="16" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/package.json" timestamp="1493931224902">
-        <mark key="[" line="11" column="71" />
-        <mark key="]" line="11" column="71" />
-        <mark key="." line="11" column="71" />
-        <mark key="^" line="11" column="64" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/package.json" timestamp="1494443223506">
+        <mark key="[" line="11" column="38" />
+        <mark key="]" line="11" column="55" />
+        <mark key="^" line="11" column="55" />
+        <mark key="." line="11" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/web2Lead/isFetchingRedirects.js" timestamp="1493831293392">
         <mark key="[" line="11" column="1" />
@@ -484,11 +485,11 @@
         <mark key="." line="11" column="1" />
         <mark key="^" line="11" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494361734958">
+      <file name="/Dummy.txt" timestamp="1494361993327">
         <mark key="c" line="0" column="35" />
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/web2Lead/home/buttonFactory.js" timestamp="1493749609931">
         <mark key="[" line="4" column="13" />
@@ -686,14 +687,14 @@
       <jump line="2" column="0" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/user/data.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>action.user || state</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJ0ZXN0IjogIm55YyB0YXBlIC1yIGJhYmVsLXJlZ2lzdGVyICcuL3NyYy8qKi8qLnNwZWMuanMnIiwK</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>action.user || state</text>
+        <text>test/*.test.js</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
@@ -701,10 +702,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICogQHByb3BlcnR5IHtzdHJpbmd9IGxvZ2luRXJyb3IgLSBFcnJvciBtZXNzYWdlIGZvciBsb2dpbi4K</text>
       </register>
-      <register name="1" type="4">
-        <text>constants for login and logout
-
-Requested by @l</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICJ0ZXN0IjogIm55YyB0YXBlIC1yIGJhYmVsLXJlZ2lzdGVyICcuL3NyYy8qKi8qLnNwZWMuanMnIiwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -716,31 +715,30 @@ Requested by @l</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aHR0cHM6Ly9iaXRidWNrZXQub3JnL1NlbGVjdFF1b3RlL3NjLW1hcmtldGluZy13ZWIvcHVsbC1yZXF1ZXN0cy8yMy9mZWF0dXJlLXNjLTEzMC10ZXN0aW5nLWZvci1hbGwtY2xpZW50L2RpZmYjY29tbWVudC0zNjUxNDk0Nwo=</text>
+        <text encoding="base64">ICAgICJwcmV0ZXN0IjogInRhcGUgLXIgYmFiZWwtcmVnaXN0ZXIgJy4vc3JjLyoqLyouc3BlYy5qcycgfCB0YXAtc3VtbWFyeSIsCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>Removed broken test for isNotifying
-
-When I set it the initial state to undefined it broke the second test
-but really the second test was invalid anyway.</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJwcmV0ZXN0IjogInRhcGUgLXIgYmFiZWwtcmVnaXN0ZXIgJy4vc3JjLyoqLyouc3BlYy5qcycgfCB0YXAtc3VtbWFyeSIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQHR5cGUge3tsb2dpbkVycm9yOiBzdHJpbmcsIGxvZ291dEVycm9yOiBzdHJpbmd9fQo=</text>
+        <text encoding="base64">ICAgICJ0ZXN0IjogIm55YyB0YXBlIC1yIGJhYmVsLXJlZ2lzdGVyICcuL3NyYy8qKi8qLnNwZWMuanMnIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICJ0ZXN0IjogIm55YyB0YXBlIC1yIGJhYmVsLXJlZ2lzdGVyICcuL3NyYy8qKi8qLnNwZWMuanMnIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQHR5cGUge3tsb2dpbkVycm9yOiBzdHJpbmcsIGxvZ291dEVycm9yOiBzdHJpbmd9fQo=</text>
+        <text encoding="base64">aHR0cHM6Ly9iaXRidWNrZXQub3JnL1NlbGVjdFF1b3RlL3NjLW1hcmtldGluZy13ZWIvcHVsbC1yZXF1ZXN0cy8yMy9mZWF0dXJlLXNjLTEzMC10ZXN0aW5nLWZvci1hbGwtY2xpZW50L2RpZmYjY29tbWVudC0zNjUxNDUzNAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IExPR09VVF9FUlJPUl9NRVNTQUdFIGZyb20gJy4uLy4uLy4uL2NvbnN0YW50cy9sb2dvdXRFcnJvck1lc3NhZ2UnOwo=</text>
+      <register name="9" type="4">
+        <text>constants for login and logout
+
+Requested by @l</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

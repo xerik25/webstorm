@@ -155,11 +155,11 @@
         <mark key="." line="29" column="60" />
         <mark key="^" line="29" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/package.json" timestamp="1494445826873">
-        <mark key="[" line="11" column="39" />
-        <mark key="]" line="11" column="58" />
-        <mark key="." line="11" column="58" />
-        <mark key="^" line="11" column="58" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/package.json" timestamp="1494448817938">
+        <mark key="[" line="11" column="60" />
+        <mark key="]" line="11" column="78" />
+        <mark key="." line="11" column="78" />
+        <mark key="^" line="11" column="78" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/web2Lead/_web2Lead.scss" timestamp="1493936049236">
         <mark key="[" line="3" column="1" />
@@ -247,7 +247,7 @@
         <mark key="." line="36" column="107" />
         <mark key="^" line="36" column="107" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494443887578">
+      <file name="/Dummy.txt" timestamp="1494448978443">
         <mark key="c" line="0" column="35" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -402,13 +402,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-R --recursive</text>
+        <text>./src/**/*.spec.js</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>-R --recursive</text>
+        <text>./src/**/*.spec.js</text>
       </register>
       <register name="/" type="4">
         <text>out</text>

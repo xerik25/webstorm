@@ -157,11 +157,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/react-redux-boilerplate/webpack.config.dev.js" timestamp="1494540205529">
-        <mark key="[" line="28" column="12" />
-        <mark key="]" line="28" column="13" />
-        <mark key="^" line="5" column="54" />
-        <mark key="." line="28" column="13" />
+      <file name="$USER_HOME$/Projects/react-redux-boilerplate/webpack.config.dev.js" timestamp="1494617132388">
+        <mark key="[" line="4" column="67" />
+        <mark key="]" line="4" column="67" />
+        <mark key="^" line="4" column="47" />
+        <mark key="." line="4" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/leadTierScoring/index.js" timestamp="1493932099150">
         <mark key="[" line="5" column="0" />
@@ -362,17 +362,19 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="16" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/react-redux-boilerplate/webpack.config.prod.js" timestamp="1494540195259">
-        <mark key="[" line="35" column="29" />
-        <mark key="]" line="35" column="29" />
-        <mark key="." line="35" column="29" />
-        <mark key="^" line="34" column="45" />
+      <file name="$USER_HOME$/Projects/react-redux-boilerplate/webpack.config.prod.js" timestamp="1494617139826">
+        <mark key="[" line="5" column="46" />
+        <mark key="]" line="5" column="47" />
+        <mark key="." line="5" column="47" />
+        <mark key="^" line="5" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/react-redux-boilerplate/src/components/home/_home.scss" timestamp="1494527460869">
+      <file name="$USER_HOME$/Projects/react-redux-boilerplate/src/components/home/_home.scss" timestamp="1494616114010">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
+        <mark key="^" line="8" column="21" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/felaTest/package.json" timestamp="1494614813855" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/test/isFetching.test.js" timestamp="1494445140883">
         <mark key="[" line="29" column="48" />
         <mark key="]" line="29" column="60" />
@@ -496,7 +498,7 @@
         <mark key="]" line="5" column="52" />
         <mark key="." line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/felaTest/webpack.config.dev.js" timestamp="1493917891478">
+      <file name="$USER_HOME$/Projects/felaTest/webpack.config.dev.js" timestamp="1494614649243">
         <mark key="[" line="32" column="110" />
         <mark key="]" line="32" column="12" />
         <mark key="^" line="32" column="12" />
@@ -585,8 +587,14 @@
         <mark key="." line="72" column="58" />
         <mark key="^" line="72" column="67" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494540223387">
-        <mark key="[" line="0" column="8" />
+      <file name="$USER_HOME$/Projects/react-redux-boilerplate/postcss.config.js" timestamp="1494617004245">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="6" column="13" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1494617073706">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
@@ -643,6 +651,11 @@
         <mark key="]" line="6" column="34" />
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/react-redux-boilerplate/src/components/home/Home.js" timestamp="1494615121779">
+        <mark key="[" line="39" column="24" />
+        <mark key="]" line="39" column="25" />
+        <mark key="." line="39" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/web2Lead/redirectSelectedIndex.js" timestamp="1493662881144">
         <mark key="[" line="0" column="33" />
@@ -798,13 +811,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text>/*</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>/*</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
@@ -813,7 +826,7 @@
         <text encoding="base64">CQljb25zdCBuZXdTdGF0ZSA9ICgpID0+IGxlYWRUaWVyRGF0YShpbml0YWxTdGF0ZSwgYWN0aW9uKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQluZXcgU3R5bGVMaW50UGx1Z2luKCksCg==</text>
+        <text encoding="base64">aW1wb3J0IGF1dG9wcmVmaXhlciBmcm9tICdhdXRvcHJlZml4ZXInOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -825,28 +838,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGF1dG9wcmVmaXhlciBmcm9tICdhdXRvcHJlZml4ZXInOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgaW1wb3J0L2RlZmF1bHQgKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogIm1vY2hhIHRlc3Qvc2V0dXAvaW5kZXguanMgIC0tcmVjdXJzaXZlIC1SIHNwZWMgLi90ZXN0LyoqLyoudGVzdC5qcyIsCg==</text>
+        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgaW1wb3J0L2V4cG9ydCAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvLyBuZXdTdGF0ZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CX0pOwoK</text>
+        <text encoding="base64">CQlkaXNwbGF5OiBmbGV4Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQlmb250LXNpemU6IHB4VG9SZW0oMzYpOwoJCWZvbnQtd2VpZ2h0OiAkbGlnaHQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJLy9UT0RPOiBVcGRhdGUK</text>
+        <text encoding="base64">CQlkaXNwbGF5OiBmbGV4Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJLy8gQVNTRVJUCg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

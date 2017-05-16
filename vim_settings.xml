@@ -302,11 +302,11 @@
         <mark key="^" line="2" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/felaTest/package.json" timestamp="1494614813855" />
-      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/web2Lead/toggleAddMode.spec.js" timestamp="1494964872093">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="3" column="29" />
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/web2Lead/toggleAddMode.spec.js" timestamp="1494966054675">
+        <mark key="[" line="0" column="50" />
+        <mark key="]" line="0" column="62" />
+        <mark key="." line="0" column="62" />
+        <mark key="^" line="0" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/test/isFetching.test.js" timestamp="1494445140883">
         <mark key="[" line="29" column="48" />
@@ -702,13 +702,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>user.</text>
+        <text>toggleAddMode</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>user.</text>
+        <text>toggleAddMode</text>
       </register>
       <register name="/" type="4">
         <text>out</text>

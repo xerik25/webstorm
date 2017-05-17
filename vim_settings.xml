@@ -281,6 +281,7 @@
         <mark key="." line="134" column="46" />
         <mark key="^" line="134" column="46" />
       </file>
+      <file name="$USER_HOME$/Projects/srts-server/client/src/containers/ShellContainer.js" timestamp="1495055631768" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/web2Lead/modalFactory.js" timestamp="1493994119298">
         <mark key="[" line="14" column="16" />
         <mark key="]" line="14" column="31" />
@@ -592,6 +593,12 @@
         <mark key="." line="15" column="14" />
         <mark key="^" line="15" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/srts-server/README.md" timestamp="1495056153560">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="4" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="37" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/isNotifying.spec.js" timestamp="1494964009908">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="3" />
@@ -638,7 +645,7 @@
         <mark key="]" line="5" column="32" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494971414496">
+      <file name="/Dummy.txt" timestamp="1495055385636">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/web2Lead/home/buttonFactory.js" timestamp="1493749609931">
@@ -872,14 +879,14 @@
       <jump line="49" column="0" filename="$USER_HOME$/Projects/react-redux-boilerplate/src/containers/App.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ny4gSGF2aW5nIGlzc3Vlcz8gU2VlIGJlbG93Lgo=</text>
+      <register name="&quot;" type="4">
+        <text>Browse</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Boiler Plate for [Building SelectQuote Applications in React and Redux in ES6]</text>
+        <text>Browse</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
@@ -888,7 +895,7 @@
         <text encoding="base64">Ly8gZXNsaW50LWRpc2FibGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ny4gSGF2aW5nIGlzc3Vlcz8gU2VlIGJlbG93Lgo=</text>
+        <text encoding="base64">NS4gKipCcm93c2Ugb24gJ2h0dHA6Ly9sb2NhbGhvc3Q6MzAwMCcqKgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -900,28 +907,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Mi4gKipPcGVuIHRoZSAvY2xpZW50IGZvbGRlcioqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">W1NlZSBsYXRlc3QgbWFzdGVyIGJyYW5jaCBkZXBsb3llZCBoZXJlXShodHRwOi8vYm9pbGVycGxhdGUuc2VsZWN0cXVvdGVsYWJzLmNvbS8pCg==</text>
+        <text encoding="base64">MS4gKipTdGFydCB0aGUgbG9jYWwgc2VydmVyKiogLSBgbnBtIHJ1biBkZXZgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U2VsZWN0Q0FSRSBlY29zeXN0ZW0uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyMgSGF2aW5nIElzc3Vlcz8gVHJ5IHRoZWUgdGhpbmdzIGZpcnN0OgoxLiBSdW4gYG5wbSBpbnN0YWxsYCAtIElmIHlvdSBmb3JnZXQgdG8gZG8gdGhpcywgeW91J2xsIHNlZSB0aGlzOiBgYmFiZWwtbm9kZTogY29tbWFuZCBub3QgZm91bmRgLgoyLiBNYWtlIHN1cmUgdGhlIHBhdGggZG9lc24ndCBpbmNsdWRlIGFueSBzcGFjZXMsIG9yIGluc3RhbGwgdGhlIGxhdGVzdCB2ZXJzaW9uIG9mIGVzbGludC13YXRjaCB3aGljaCBhZGRzIHN1cHBvcnQgZm9yIHBhdGhzIGNvbnRhaW5pbmcgc3BhY2VzOiBgbnBtIGluc3RhbGwgZXNsaW50LXdhdGNoQDIuMS4xM2AKMy4gTWFrZSBzdXJlIHlvdSdyZSBydW5uaW5nIHRoZSBsYXRlc3QgdmVyc2lvbiBvZiBOb2RlLgo0LiBVc2UgW05vZGUgNS4xMi4wXShodHRwczovL25vZGVqcy5vcmcvZG93bmxvYWQvcmVsZWFzZS92NS4xMi4wLykgaWYgeW91J3JlIGhhdmluZyBpc3N1ZXMgb24gV2luZG93cy4gTm9kZSA2IGhhcyBpc3N1ZXMgb24gc29tZSBXaW5kb3dzIG1hY2hpbmVzLgo1LiBEb24ndCBydW4gdGhlIHByb2plY3QgZnJvbSBhIHN5bWJvbGljIGxpbmsuIEl0IHdpbGwgY2F1c2UgaXNzdWVzIHdpdGggZmlsZSB3YXRjaGVzLgoK</text>
+        <text encoding="base64">Ny4gSGF2aW5nIGlzc3Vlcz8gU2VlIGJlbG93Lgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyMjUHJvZHVjdGlvbiBEZXBlbmRlbmNpZXMKfCAqKkRlcGVuZGVuY3kqKiB8ICoqVXNlKiogfAp8LS0tLS0tLS0tLXwtLS0tLS0tfAp8bWF0ZXJpYWwtdWl8U3R5bGUvQ1NTIEZyYW1ld29ya3wKfHJlYWN0fFJlYWN0IGxpYnJhcnkgfAp8cmVhY3QtZG9tfFJlYWN0IGxpYnJhcnkgZm9yIERPTSByZW5kZXJpbmcgfAp8cmVhY3QtcmVkdXh8UmVkdXggbGlicmFyeSBmb3IgY29ubmVjdGluZyBSZWFjdCBjb21wb25lbnRzIHRvIFJlZHV4IHwKfHJlYWN0LXJvdXRlcnxSZWFjdCBsaWJyYXJ5IGZvciByb3V0aW5nIHwKfHJlYWN0LXJvdXRlci1yZWR1eHxLZWVwIFJlYWN0IFJvdXRlciBpbiBzeW5jIHdpdGggUmVkdXggYXBwbGljYXRpb24gc3RhdGV8CnxyZWR1eHxMaWJyYXJ5IGZvciB1bmlkaXJlY3Rpb25hbCBkYXRhIGZsb3dzIHwKfHJlYWN0LXRhcC1ldmVudC1wbHVnaW58RmFjZWJvb2sgc29sdmUgZm9yIG1vYmlsZSAzMDBtcyB0b3VjaAp8cmVkdXgtdGh1bmt8QXN5bmMgcmVkdXggbGlicmFyeXwKfHdoYXR3Zy1mZXRjaHxBIHdpbmRvdy5mZXRjaCBwb2x5ZmlsbHwKfHNvY2tldC5pb3xub2RlLmpzIHJlYWx0aW1lIGZyYW1ld29yayBzZXJ2ZXJ8CgojIyNEZXZlbG9wbWVudCBEZXBlbmRlbmNpZXMKfCAqKkRlcGVuZGVuY3kqKiB8ICoqVXNlKiogfAp8LS0tLS0tLS0tLXwtLS0tLS0tfAp8YmFiZWwtY2xpfEJhYmVsIENvbW1hbmQgbGluZSBpbnRlcmZhY2UgfAp8YmFiZWwtY29yZXxCYWJlbCBDb3JlIGZvciB0cmFuc3BpbGluZyB0aGUgbmV3IEphdmFTY3JpcHQgdG8gb2xkIHwKfGJhYmVsLWVzbGludHxDdXN0b20gcGFyc2VyIGZvciBFU0xpbnR8CnxiYWJlbC1sb2FkZXJ8QWRkcyBCYWJlbCBzdXBwb3J0IHRvIFdlYnBhY2sgfAp8YmFiZWwtcGx1Z2luLXJlYWN0LWRpc3BsYXktbmFtZXwgQWRkIGRpc3BsYXlOYW1lIHRvIFJlYWN0LmNyZWF0ZUNsYXNzIGNhbGxzIHwKfGJhYmVsLXBvbHlmaWxsfEVtdWxhdGUgYSBmdWxsIEVTMjAxNSBlbnZpcm9ubWVudCBhbmQgaXMgaW50ZW5kZWQgdG8gYmUgdXNlZCBpbiBhbiBhcHBsaWNhdGlvbiByYXRoZXIgdGhhbiBhIGxpYnJhcnkvdG9vbHwKfGJhYmVsLXByZXNldC1lczIwMTV8QmFiZWwgcHJlc2V0IGZvciBFUzIwMTV8CnxiYWJlbC1wcmVzZXQtcmVhY3R8IEFkZCBKU1ggc3VwcG9ydCB0byBCYWJlbCB8CnxiYWJlbC1wcmVzZXQtcmVhY3QtaG1yZXxIb3QgcmVsb2FkaW5nIHByZXNldCBmb3IgQmFiZWx8CnxiYWJlbC1yZWdpc3RlcnxSZWdpc3RlciBCYWJlbCB0byB0cmFuc3BpbGUgb3VyIE1vY2hhIHRlc3RzfAp8Y29sb3JzfGdldCBjb2xvcnMgaW4geW91ciBub2RlLmpzIGNvbnNvbGV8Cnxjb21wcmVzc2lvbnxOb2RlLmpzIGNvbXByZXNzaW9uIG1pZGRsZXdhcmV8Cnxjcm9zcy1lbnZ8Q3Jvc3MtZW52aXJvbm1lbnQgZnJpZW5kbHkgd2F5IHRvIGhhbmRsZSBlbnZpcm9ubWVudCB2YXJpYWJsZXN8Cnxjc3MtbG9hZGVyfEFkZCBDU1Mgc3VwcG9ydCB0byBXZWJwYWNrfAp8ZW56eW1lfFNpbXBsaWZpZWQgSmF2YVNjcmlwdCBUZXN0aW5nIHV0aWxpdGllcyBmb3IgUmVhY3R8Cnxlc2xpbnR8TGludHMgSmF2YVNjcmlwdHwKfGVzbGludC1wbHVnaW4taW1wb3J0fEFkdmFuY2VkIGxpbnRpbmcgb2YgRVM2IGltcG9ydHN8Cnxlc2xpbnQtcGx1Z2luLXJlYWN0fEFkZHMgYWRkaXRpb25hbCBSZWFjdC1yZWxhdGVkIHJ1bGVzIHRvIEVTTGludHwKfGVzbGludC13YXRjaHxBZGQgd2F0Y2ggZnVuY3Rpb25hbGl0eSB0byBFU0xpbnQgfAp8ZXZlbnRzb3VyY2UtcG9seWZpbGx8UG9seWZpbGwgdG8gc3VwcG9ydCBob3QgcmVsb2FkaW5nIGluIElFfAp8ZXhwZWN0fFdyaXRlIGJldHRlciBhc3NlcnRpb25zfAp8ZXhwcmVzc3xTZXJ2ZXMgZGV2ZWxvcG1lbnQgYW5kIHByb2R1Y3Rpb24gYnVpbGRzfAp8ZXh0cmFjdC10ZXh0LXdlYnBhY2stcGx1Z2lufCBFeHRyYWN0cyBDU1MgaW50byBzZXBhcmF0ZSBmaWxlIGZvciBwcm9kdWN0aW9uIGJ1aWxkIHwKfGZpbGUtbG9hZGVyfCBBZGRzIGZpbGUgbG9hZGluZyBzdXBwb3J0IHRvIFdlYnBhY2sgfAp8anNkb218SW4tbWVtb3J5IERPTSBmb3IgdGVzdGluZ3wKfG1vY2hhfCBKYXZhU2NyaXB0IHRlc3RpbmcgbGlicmFyeSB8Cnxub2NrfCBIVFRQIFNlcnZlciBtb2NraW5nIGZvciBOb2RlLmpzIHwKfG5wbS1ydW4tYWxsfCBEaXNwbGF5IHJlc3VsdHMgb2YgbXVsdGlwbGUgY29tbWFuZHMgb24gc2luZ2xlIGNvbW1hbmQgbGluZSB8CnxvcGVufE9wZW4gYXBwIGluIGRlZmF1bHQgYnJvd3NlcnwKfHJlYWN0LWFkZG9ucy10ZXN0LXV0aWxzfCBBZGRzIFJlYWN0IFRlc3RVdGlscyB8CnxyZWR1eC1pbW11dGFibGUtc3RhdGUtaW52YXJpYW50fFdhcm4gd2hlbiBSZWR1eCBzdGF0ZSBpcyBtdXRhdGVkfAp8cmVkdXgtbG9nZ2VyfExvZ2dlciBmb3IgcmVkdXh8CnxyZWR1eC1tb2NrLXN0b3JlfEEgbW9jayBzdG9yZSBmb3IgdGVzdGluZyB5b3VyIHJlZHV4IGFzeW5jIGFjdGlvbiBjcmVhdG9ycyBhbmQgbWlkZGxld2FyZS4gVGhlIG1vY2sgc3RvcmUgd2lsbCBzdG9yZSB0aGUgZGlzcGF0Y2hlZCBhY3Rpb25zIGluIGFuIGFycmF5IHRvIGJlIHVzZWQgaW4geW91ciB0ZXN0cy58CnxyaW1yYWZ8QSBkZWVwIGRlbGV0aW9uIG1vZHVsZSBmb3Igbm9kZSAobGlrZSBybSAtcmYpfAp8c3R5bGUtbG9hZGVyfCBBZGQgU3R5bGUgc3VwcG9ydCB0byBXZWJwYWNrIHwKfHVybC1sb2FkZXJ8dXJsIGxvYWRlciBtb2R1bGUgZm9yIHdlYnBhY2t8Cnx3ZWJwYWNrfCBCdW5kbGVyIHdpdGggcGx1Z2luIHN5c3RlbSBhbmQgaW50ZWdyYXRlZCBkZXZlbG9wbWVudCBzZXJ2ZXIgfAp8d2VicGFjay1kZXYtbWlkZGxld2FyZXwgQWRkcyBtaWRkbGV3YXJlIHN1cHBvcnQgdG8gd2VicGFjayB8Cnx3ZWJwYWNrLWhvdC1taWRkbGV3YXJlfCBBZGRzIGhvdCByZWxvYWRpbmcgdG8gd2VicGFjayB8Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJ0YXBlIjogIl40LjYuMyIsCg==</text>
+        <text encoding="base64">W1NlZSBsYXRlc3QgbWFzdGVyIGJyYW5jaCBkZXBsb3llZCBoZXJlXShodHRwOi8vYm9pbGVycGxhdGUuc2VsZWN0cXVvdGVsYWJzLmNvbS8pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQltYXJnaW4tdG9wOiBweFRvUmVtKDE1KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gZXNsaW50LWRpc2FibGUK</text>
+        <text encoding="base64">IyMgSGF2aW5nIElzc3Vlcz8gVHJ5IHRoZWUgdGhpbmdzIGZpcnN0OgoxLiBSdW4gYG5wbSBpbnN0YWxsYCAtIElmIHlvdSBmb3JnZXQgdG8gZG8gdGhpcywgeW91J2xsIHNlZSB0aGlzOiBgYmFiZWwtbm9kZTogY29tbWFuZCBub3QgZm91bmRgLgoyLiBNYWtlIHN1cmUgdGhlIHBhdGggZG9lc24ndCBpbmNsdWRlIGFueSBzcGFjZXMsIG9yIGluc3RhbGwgdGhlIGxhdGVzdCB2ZXJzaW9uIG9mIGVzbGludC13YXRjaCB3aGljaCBhZGRzIHN1cHBvcnQgZm9yIHBhdGhzIGNvbnRhaW5pbmcgc3BhY2VzOiBgbnBtIGluc3RhbGwgZXNsaW50LXdhdGNoQDIuMS4xM2AKMy4gTWFrZSBzdXJlIHlvdSdyZSBydW5uaW5nIHRoZSBsYXRlc3QgdmVyc2lvbiBvZiBOb2RlLgo0LiBVc2UgW05vZGUgNS4xMi4wXShodHRwczovL25vZGVqcy5vcmcvZG93bmxvYWQvcmVsZWFzZS92NS4xMi4wLykgaWYgeW91J3JlIGhhdmluZyBpc3N1ZXMgb24gV2luZG93cy4gTm9kZSA2IGhhcyBpc3N1ZXMgb24gc29tZSBXaW5kb3dzIG1hY2hpbmVzLgo1LiBEb24ndCBydW4gdGhlIHByb2plY3QgZnJvbSBhIHN5bWJvbGljIGxpbmsuIEl0IHdpbGwgY2F1c2UgaXNzdWVzIHdpdGggZmlsZSB3YXRjaGVzLgoK</text>
       </register>
       <register name=":" type="4">
         <text>68</text>

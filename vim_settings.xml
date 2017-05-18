@@ -189,6 +189,11 @@
         <mark key="." line="3" column="38" />
         <mark key="^" line="3" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/user/isFetching.spec.js" timestamp="1494963898389">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="4" column="32" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/leadTierScoring/openTierModal.js" timestamp="1494353628074">
         <mark key="[" line="11" column="32" />
         <mark key="]" line="11" column="47" />
@@ -433,7 +438,7 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/srts-server/client/src/components/CashReconciliation/ReconciliationAggregate.js" timestamp="1495118456975">
+      <file name="$USER_HOME$/Projects/srts-server/client/src/components/CashReconciliation/ReconciliationAggregate.js" timestamp="1495121741686">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="117" column="23" />
       </file>
@@ -468,6 +473,11 @@
         <mark key="]" line="105" column="27" />
         <mark key="^" line="105" column="27" />
         <mark key="." line="105" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/srts-server/client/src/components/CashReconciliation/ReconciliationTable.js" timestamp="1495122383668">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierData.js" timestamp="1493399487695">
         <mark key="[" line="21" column="9" />
@@ -661,7 +671,7 @@
         <mark key="]" line="5" column="32" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495057532945">
+      <file name="/Dummy.txt" timestamp="1495122934115">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/web2Lead/home/buttonFactory.js" timestamp="1493749609931">
@@ -702,11 +712,11 @@
         <mark key="^" line="8" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/test/actions/web2Lead/deleteRedirect.spec.js" timestamp="1494964619630" />
-      <file name="$USER_HOME$/Projects/sc-sales-web/client/src/components/Testing.js" timestamp="1495121070541">
-        <mark key="[" line="63" column="31" />
-        <mark key="]" line="63" column="32" />
-        <mark key="^" line="52" column="37" />
-        <mark key="." line="63" column="32" />
+      <file name="$USER_HOME$/Projects/sc-sales-web/client/src/components/Testing.js" timestamp="1495123238243">
+        <mark key="[" line="43" column="25" />
+        <mark key="]" line="43" column="41" />
+        <mark key="." line="43" column="41" />
+        <mark key="^" line="43" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/web2Lead/updateRedirect.spec.js" timestamp="1494963873492">
         <mark key="[" line="3" column="24" />
@@ -903,22 +913,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Notes</text>
+        <text encoding="base64">IGV4cGFuZGFibGU9e3RydWV9</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkvPgo=</text>
+        <text encoding="base64">CQkJCTwvQ2FyZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCXsvKk5vdGVzIHRhYiBjb250ZW50Ki99Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -930,28 +940,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCXsvKi9Ob3RlcyB0YWIgY29udGVudCovfQo=</text>
+        <text encoding="base64">CQkJCQk8Q2FyZEhlYWRlcgoJCQkJCQl0aXRsZT0iUmVjb25jaWxpYXRpb24gQWdncmVnYXRlIEluZm9ybWF0aW9uIgoJCQkJCQlzdWJ0aXRsZT0iT3ZlcmFsbCBTdW1tYXJ5IG9mIFJlY29uY2lsaWF0aW9uIgoJCQkJCQljbGFzc05hbWU9ImNhc2hSZWNvbmNpbGlhdGlvbl9fcmVtb3ZlQ2FyZEhlYWRlclRvcExlZnRQYWRkaW5nIgoJCQkJCQlhY3RBc0V4cGFuZGVyPXt0cnVlfQoJCQkJCQlzaG93RXhwYW5kYWJsZUJ1dHRvbj17dHJ1ZX0KCQkJCQkJZXhwYW5kYWJsZT17ZmFsc2V9CgkJCQkJLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCXsvKi9TJlAgdGFiIGNvbnRlbnQqL30K</text>
+        <text encoding="base64">CQkJCWFjdEFzRXhwYW5kZXI9e3RydWV9CgkJCQlzaG93RXhwYW5kYWJsZUJ1dHRvbj17dHJ1ZX0KCQkJCWV4cGFuZGFibGU9e2ZhbHNlfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCXsvKlMmUCB0YWIgY29udGVudCovfQo=</text>
+        <text encoding="base64">CQkJCXNob3dFeHBhbmRhYmxlQnV0dG9uPXt0cnVlfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCXsvKi9TdW1tYXJ5IHRhYiBjb250ZW50Ki99Cg==</text>
+        <text encoding="base64">CQkJCQkJCXsvKk5vdGVzIHRhYiBjb250ZW50Ki99Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCXsvKlN1bW1hcnkgdGFiIGNvbnRlbnQqL30K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">CQkJCQkJCXsvKi9Ob3RlcyB0YWIgY29udGVudCovfQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCQkJCXsvKi9TJlAgdGFiIGNvbnRlbnQqL30K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCTxDUk5vdGVzQ29udGFpbmVyLz4K</text>
+        <text encoding="base64">CQkJCQkJCXsvKlMmUCB0YWIgY29udGVudCovfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCS8+Cg==</text>
+        <text encoding="base64">CQkJCQkJCXsvKi9TdW1tYXJ5IHRhYiBjb250ZW50Ki99Cg==</text>
       </register>
       <register name=":" type="4">
         <text>68</text>

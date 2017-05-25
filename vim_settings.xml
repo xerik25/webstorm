@@ -421,10 +421,10 @@
         <mark key="." line="3" column="8" />
         <mark key="^" line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-sales-web/client/package.json" timestamp="1495666343324">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="17" column="29" />
-        <mark key="." line="17" column="29" />
+      <file name="$USER_HOME$/Projects/sc-sales-web/client/package.json" timestamp="1495728192469">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
         <mark key="^" line="17" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/CardWithTabsAndContent.js" timestamp="1495662589652">
@@ -611,11 +611,11 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-sales-web/client/src/components/common/CardWithCollapsibleContent.js" timestamp="1495666825023">
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="6" column="29" />
-        <mark key="." line="11" column="29" />
-        <mark key="^" line="6" column="29" />
+      <file name="$USER_HOME$/Projects/sc-sales-web/client/src/components/common/CardWithCollapsibleContent.js" timestamp="1495728179651">
+        <mark key="[" line="3" column="71" />
+        <mark key="]" line="3" column="92" />
+        <mark key="." line="3" column="92" />
+        <mark key="^" line="3" column="92" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/web2Lead/home/DetailsCard.js" timestamp="1493771150762">
         <mark key="[" line="13" column="53" />
@@ -692,7 +692,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495661492762">
+      <file name="/Dummy.txt" timestamp="1495728098358">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/web2Lead/home/buttonFactory.js" timestamp="1493749609931">
@@ -928,14 +928,14 @@
       <jump line="35" column="54" filename="$USER_HOME$/Projects/sc-sales-web/client/src/components/Testing.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJqc29uLWxvYWRlciI6ICJeMC41LjQiLAo=</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>'blue'</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
@@ -944,7 +944,7 @@
         <text encoding="base64">CQoJJl90aXRsZSB7Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAqIEBmdW5jdGlvbiB1cGRhdGVTbGlkZQo=</text>
+        <text encoding="base64">ICAgICJqc29uLWxvYWRlciI6ICJeMC41LjQiLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -956,18 +956,21 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vVE9ETzogVHJ5IGFkZGluZyBzb21lIGNhcmQgYWN0aW9ucwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">CSAqIEBmdW5jdGlvbiB1cGRhdGVTbGlkZQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CS8vVE9ETzogVHJ5IGFkZGluZyBzb21lIGNhcmQgYWN0aW9ucwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAqIEBmdW5jdGlvbiB0b2dnbGVDb250ZW50Cg==</text>
+        <text encoding="base64">CSAqIEBmdW5jdGlvbiB1cGRhdGVTbGlkZQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CSAqIEBmdW5jdGlvbiB0b2dnbGVDb250ZW50Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CSAqIEByZXR1cm4gdXBkYXRlZCBzdGF0ZQo=</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>param
 param
 param
@@ -976,9 +979,6 @@ param
 param
 param
 param</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQljb21wb25lbnQ9e2NvbGxhcHNpYmxlQ29udGVudH0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CQkJCQljb21wb25lbnQ9e2NvbGxhcHNpYmxlQ29udGVudH0K</text>

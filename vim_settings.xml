@@ -139,6 +139,7 @@
         <mark key="^" line="46" column="18" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/leadTierScoring/areTiersSetInDatabase.js" timestamp="1495824119096" />
       <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/CardWithTabsAndContent/CardWithTabsAndContent.style.js" timestamp="1495804607665">
         <mark key="[" line="2" column="34" />
         <mark key="]" line="2" column="34" />
@@ -337,6 +338,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/services/getLeadTiersService.js" timestamp="1495824937212">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="8" />
+        <mark key="^" line="1" column="77" />
+        <mark key="." line="1" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/web2Lead/redirects.spec.js" timestamp="1494963936787">
         <mark key="[" line="3" column="19" />
@@ -633,7 +640,7 @@
         <mark key="." line="36" column="107" />
         <mark key="^" line="36" column="107" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/components/leadTierInterface/LeadTierInterface.js" timestamp="1495823855006">
+      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/components/leadTierInterface/LeadTierInterface.js" timestamp="1495824085677">
         <mark key="[" line="35" column="52" />
         <mark key="]" line="36" column="73" />
         <mark key="^" line="36" column="73" />
@@ -651,7 +658,12 @@
         <mark key="." line="72" column="58" />
         <mark key="^" line="72" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/leadTierScoring/leadTierData.js" timestamp="1495823037724" />
+      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/leadTierScoring/leadTierData.js" timestamp="1495824925637">
+        <mark key="[" line="4" column="48" />
+        <mark key="]" line="4" column="89" />
+        <mark key="^" line="4" column="89" />
+        <mark key="." line="4" column="89" />
+      </file>
       <file name="$USER_HOME$/Projects/react-redux-boilerplate/postcss.config.js" timestamp="1494617004245">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="13" />
@@ -664,7 +676,7 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-sales-web/client/src/components/common/Basic.js" timestamp="1495664077304" />
-      <file name="/Dummy.txt" timestamp="1495823536823">
+      <file name="/Dummy.txt" timestamp="1495824086349">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -900,13 +912,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ZXZlbnRzLCByZXN1bHRzLCBjb21tYW5kcywg</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ZXZlbnRzLCByZXN1bHRzLCBjb21tYW5kcywg</text>
       </register>
       <register name="/" type="4">
         <text>out</text>

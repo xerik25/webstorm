@@ -18,11 +18,11 @@
         <mark key="." line="29" column="30" />
         <mark key="^" line="29" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/CardWithTabsAndContent.js" timestamp="1496335943086">
-        <mark key="[" line="61" column="49" />
-        <mark key="]" line="61" column="49" />
-        <mark key="^" line="55" column="51" />
-        <mark key="." line="61" column="51" />
+      <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/CardWithTabsAndContent.js" timestamp="1496347633208">
+        <mark key="[" line="34" column="38" />
+        <mark key="]" line="34" column="48" />
+        <mark key="." line="34" column="48" />
+        <mark key="^" line="34" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/sc-sales-web/client/src/components/common/CardWithSlidesAndContent.js" timestamp="1495570095904">
         <mark key="[" line="24" column="31" />
@@ -794,8 +794,8 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="37" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/_cardWithTabsAndContent.scss" timestamp="1496335834779">
-        <mark key="[" line="31" column="20" />
+      <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/_cardWithTabsAndContent.scss" timestamp="1496344864368">
+        <mark key="[" line="32" column="35" />
         <mark key="]" line="32" column="37" />
         <mark key="^" line="32" column="37" />
         <mark key="." line="32" column="37" />
@@ -875,7 +875,7 @@
         <mark key="]" line="5" column="32" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496274211594">
+      <file name="/Dummy.txt" timestamp="1496345232397">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1131,22 +1131,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>60</text>
+        <text>)</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>60</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlpZiAoZGlyZWN0aW9uID09PSAnbGVmdCcpIHsKCQl9Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIGFjYyArIHZhbDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkvLyB9LCAwKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1158,28 +1158,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJdGFyZ2V0LnN0eWxlLnJpZ2h0ID0gdGhpcy5zdGF0ZS5zbGlkZVZpZXcgKyAncHgnOwo=</text>
+        <text encoding="base64">CQkvLyAJcmV0dXJuIGFjYyArIHZhbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlpZiAoZGlyZWN0aW9uID09PSAncmlnaHQnKSB7Cg==</text>
+        <text encoding="base64">CQkvLyB2YXIgc3VtID0gWzAsIDEsIDIsIDNdLnJlZHVjZShmdW5jdGlvbihhY2MsIHZhbCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQlsZXQgdGFic1NpemUgPSB0YWJzLnJlZHVjZShmdW5jdGlvbihhY2MsIHZhbCkgewoJCQljb25zb2xlLmxvZygndmFsdWUnLCB2YWwpOwoJCQlyZXR1cm4gYWNjOwoJCX0sIDApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJ3ZhbHVlJywgdmFsKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpZiAoZGlyZWN0aW9uID09PSAnbGVmdCcpIHsK</text>
+        <text encoding="base64">CQl9LCAwKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJdGhpcy5zZXRTdGF0ZShwcmV2U3RhdGUgPT4gKHsKCQkJCXNsaWRlVmlldzogcHJldlN0YXRlLnNsaWRlVmlldyArIDIwCgkJCX0pKTsK</text>
+        <text encoding="base64">CQkJcmV0dXJuIGFjYyArIHZhbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJdGhpcy5zZXRTdGF0ZShwcmV2U3RhdGUgPT4gKHsKCQkJCXNsaWRlVmlldzogcHJldlN0YXRlLnNsaWRlVmlldyArIDIwCgkJCX0pKTsK</text>
+        <text encoding="base64">CQl2YXIgc3VtID0gWzAsIDEsIDIsIDNdLnJlZHVjZShmdW5jdGlvbihhY2MsIHZhbCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl0YXJnZXQuc3R5bGUubGVmdCA9IHRoaXMuc3RhdGUuc2xpZGVWaWV3ICsgJ3B4JzsKCQl0aGlzLnNldFN0YXRlKHByZXZTdGF0ZSA9PiAoewoJCQlzbGlkZVZpZXc6IHByZXZTdGF0ZS5zbGlkZVZpZXcgKyAyMAoJCX0pKTsK</text>
+        <text encoding="base64">CQkJdGFic1NpemUgPSB0YWJzU2l6ZSArIHBhcnNlSW50KHRhYi5vZmZzZXRXaWR0aCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>48</text>

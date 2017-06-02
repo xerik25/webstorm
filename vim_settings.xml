@@ -18,12 +18,12 @@
         <mark key="." line="29" column="30" />
         <mark key="^" line="29" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/CardWithTabsAndContent.js" timestamp="1496413202678">
-        <mark key="a" line="69" column="50" />
-        <mark key="[" line="130" column="20" />
-        <mark key="]" line="130" column="20" />
-        <mark key="." line="130" column="20" />
-        <mark key="^" line="130" column="20" />
+      <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/CardWithTabsAndContent.js" timestamp="1496419489901">
+        <mark key="a" line="64" column="50" />
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="33" column="12" />
+        <mark key="^" line="33" column="12" />
+        <mark key="." line="33" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/sc-sales-web/client/src/components/common/CardWithSlidesAndContent.js" timestamp="1495570095904">
         <mark key="[" line="24" column="31" />
@@ -349,7 +349,7 @@
         <mark key="^" line="5" column="93" />
         <mark key="." line="5" column="93" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/CardsWIthTabsAndContent.style.js" timestamp="1496332511440">
+      <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/CardsWIthTabsAndContent.style.js" timestamp="1496418447903">
         <mark key="[" line="17" column="18" />
         <mark key="]" line="17" column="18" />
         <mark key="." line="17" column="18" />
@@ -795,11 +795,11 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="37" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/_cardWithTabsAndContent.scss" timestamp="1496344864368">
-        <mark key="[" line="32" column="35" />
-        <mark key="]" line="32" column="37" />
-        <mark key="^" line="32" column="37" />
-        <mark key="." line="32" column="37" />
+      <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/_cardWithTabsAndContent.scss" timestamp="1496418467800">
+        <mark key="[" line="29" column="18" />
+        <mark key="]" line="29" column="18" />
+        <mark key="." line="29" column="18" />
+        <mark key="^" line="29" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/TabsAndContent/TabsAndContent.js" timestamp="1495810292483">
         <mark key="[" line="86" column="11" />
@@ -1132,13 +1132,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHJpZ2h0IA==</text>
+        <text>let</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJpZ2h0IA==</text>
+        <text>let</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
@@ -1147,7 +1147,7 @@
         <text encoding="base64">aW1wb3J0IEFycm93UmlnaHQgZnJvbSAnbWF0ZXJpYWwtdWkvc3ZnLWljb25zL2hhcmR3YXJlL2tleWJvYXJkLWFycm93LXJpZ2h0JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvLyB9LCAwKTsK</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygndGVzdFRhYnNpemUnLCB0YWJDb250YWluZXJTaXplKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1159,28 +1159,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvLyAJcmV0dXJuIGFjYyArIHZhbDsK</text>
+        <text encoding="base64">CQlsZXQgdGFic1NpemUgPSAwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkvLyB2YXIgc3VtID0gWzAsIDEsIDIsIDNdLnJlZHVjZShmdW5jdGlvbihhY2MsIHZhbCkgewo=</text>
+        <text encoding="base64">CQl9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlsZXQgdGFic1NpemUgPSB0YWJzLnJlZHVjZShmdW5jdGlvbihhY2MsIHZhbCkgewoJCQljb25zb2xlLmxvZygndmFsdWUnLCB2YWwpOwoJCQlyZXR1cm4gYWNjOwoJCX0sIDApOwo=</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJ3RhYnNTaXplJywgdGFic1NpemUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coJ3ZhbHVlJywgdmFsKTsK</text>
+        <text encoding="base64">CQkJdGFic1NpemUgPSB0YWJzU2l6ZSArIHBhcnNlSW50KHRhYi5vZmZzZXRXaWR0aCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl9LCAwKTsK</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJ3Rlc3RpbmcnLCB0YWIub2Zmc2V0V2lkdGgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIGFjYyArIHZhbDsK</text>
+        <text encoding="base64">CQl0YWJzLmZvckVhY2goKHRhYikgPT4gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl2YXIgc3VtID0gWzAsIDEsIDIsIDNdLnJlZHVjZShmdW5jdGlvbihhY2MsIHZhbCkgewo=</text>
+        <text encoding="base64">CQlsZXQgdGFicyA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3JBbGwoJy5jYXJkV2l0aFRhYnNBbmRDb250ZW50X190YWInKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJdGFic1NpemUgPSB0YWJzU2l6ZSArIHBhcnNlSW50KHRhYi5vZmZzZXRXaWR0aCk7Cg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygndGFic1NpemUnLCB0YWJzU2l6ZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>48</text>

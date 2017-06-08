@@ -41,6 +41,12 @@
         <mark key="." line="17" column="16" />
         <mark key="^" line="16" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/actions/leadTierScoring/updateTier.spec.js" timestamp="1496891287220">
+        <mark key="[" line="16" column="45" />
+        <mark key="]" line="16" column="79" />
+        <mark key="." line="16" column="79" />
+        <mark key="^" line="16" column="79" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/configureStore.js" timestamp="1493660458420">
         <mark key="[" line="1" column="36" />
         <mark key="]" line="1" column="46" />
@@ -517,6 +523,12 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="59" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/actions/web2Lead/addRedirect.spec.js" timestamp="1496891841174">
+        <mark key="[" line="17" column="40" />
+        <mark key="]" line="17" column="48" />
+        <mark key="^" line="17" column="48" />
+        <mark key="." line="17" column="48" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/leadTierScoring/selectedRow.js" timestamp="1496873193822">
         <mark key="[" line="6" column="61" />
         <mark key="]" line="6" column="62" />
@@ -528,7 +540,7 @@
         <mark key="]" line="5" column="32" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496874037376">
+      <file name="/Dummy.txt" timestamp="1496874376774">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="69" />
         <mark key="." line="0" column="69" />
@@ -892,6 +904,12 @@
         <mark key="]" line="10" column="2" />
         <mark key="." line="9" column="19" />
         <mark key="^" line="10" column="2" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/actions/web2Lead/addRedirect.js" timestamp="1496891985244">
+        <mark key="[" line="12" column="59" />
+        <mark key="]" line="13" column="37" />
+        <mark key="^" line="13" column="37" />
+        <mark key="." line="13" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/initialAppState.js" timestamp="1493409038361">
         <mark key="[" line="13" column="6" />
@@ -1336,13 +1354,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>onject</text>
+        <text>types.UPDATE_TIER</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>onject</text>
+        <text>types.UPDATE_TIER</text>
       </register>
       <register name="/" type="4">
         <text>out</text>

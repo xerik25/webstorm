@@ -238,10 +238,10 @@
         <mark key="^" line="51" column="32" />
         <mark key="." line="51" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/constants/leadTierData.js" timestamp="1495838352076">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/constants/leadTierData.js" timestamp="1496893886922">
+        <mark key="[" line="22" column="16" />
+        <mark key="]" line="22" column="17" />
+        <mark key="." line="22" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/domains/sales-web/src/containers/workflow/Workflow.js" timestamp="1496869113863">
         <mark key="[" line="34" column="29" />
@@ -525,10 +525,10 @@
         <mark key="^" line="59" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/actions/web2Lead/addRedirect.spec.js" timestamp="1496891841174">
-        <mark key="[" line="17" column="40" />
-        <mark key="]" line="17" column="48" />
-        <mark key="^" line="17" column="48" />
-        <mark key="." line="17" column="48" />
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="5" column="48" />
+        <mark key="^" line="5" column="48" />
+        <mark key="." line="5" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/leadTierScoring/selectedRow.js" timestamp="1496873193822">
         <mark key="[" line="6" column="61" />
@@ -603,6 +603,12 @@
         <mark key="]" line="0" column="41" />
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/leadTierScoring/leadTierData.spec.js" timestamp="1496893918661">
+        <mark key="[" line="102" column="55" />
+        <mark key="]" line="102" column="56" />
+        <mark key="^" line="98" column="74" />
+        <mark key="." line="102" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/index.js" timestamp="1494360558496">
         <mark key="[" line="7" column="24" />
@@ -1355,13 +1361,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>types.UPDATE_TIER</text>
+        <text>leadTierData</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>types.UPDATE_TIER</text>
+        <text>leadTierData</text>
       </register>
       <register name="/" type="4">
         <text>out</text>

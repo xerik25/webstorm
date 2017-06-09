@@ -290,10 +290,7 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/domains/sales-web/src/containers/workflow/dashboardSlides.js" timestamp="1497039622064">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
         <mark key="^" line="0" column="25" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/index.js" timestamp="1493652524468">
         <mark key="[" line="5" column="8" />
@@ -705,11 +702,11 @@
         <mark key="." line="29" column="30" />
         <mark key="^" line="29" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/CardWithTabsAndContent.js" timestamp="1497043219786">
-        <mark key="[" line="55" column="14" />
-        <mark key="]" line="55" column="27" />
-        <mark key="." line="55" column="27" />
-        <mark key="^" line="55" column="27" />
+      <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/CardWithTabsAndContent.js" timestamp="1497045558394">
+        <mark key="[" line="129" column="51" />
+        <mark key="]" line="129" column="60" />
+        <mark key="." line="129" column="60" />
+        <mark key="^" line="129" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/sc-sales-web/client/src/components/common/CardWithSlidesAndContent.js" timestamp="1495570095904">
         <mark key="[" line="24" column="31" />
@@ -970,11 +967,11 @@
         <mark key="]" line="21" column="43" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/services/moveTabs.js" timestamp="1497043029009">
-        <mark key="[" line="27" column="40" />
-        <mark key="]" line="27" column="40" />
-        <mark key="." line="27" column="40" />
-        <mark key="^" line="9" column="6" />
+      <file name="$USER_HOME$/Projects/sc-web/client/src/services/moveTabs.js" timestamp="1497045501587">
+        <mark key="[" line="28" column="76" />
+        <mark key="]" line="29" column="27" />
+        <mark key="." line="29" column="27" />
+        <mark key="^" line="29" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/react-redux-boilerplate/src/styles/scss/styles.scss" timestamp="1494523114485">
         <mark key="[" line="3" column="8" />
@@ -1413,22 +1410,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>totals</text>
+        <text>showArrows ? styles.tab : {}</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>totals</text>
+        <text>showArrows ? styles.tab : {}</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXsKCQlsYWJlbDogJ015IEFkbWluIFRvb2xzJywKCQljb21wb25lbnQ6IChpbmRleCkgPT4gPERhdGFDdXJyZW50bHlVbmF2YWlsYWJsZSBrZXk9e2luZGV4fS8+Cgl9LAo=</text>
+        <text encoding="base64">CQl0aGlzLnNldFRhYlN0YXRlID0gdGhpcy5zZXRUYWJTdGF0ZS5iaW5kKHRoaXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJdG90YWxUYWJzV2lkdGhzCg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygnc3RhdGUnLCB0aGlzLnN0YXRlKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1440,28 +1437,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygndGVzdGluZycsIHRvdGFsVGFic1dpZHRocyh0YWJXaWR0aHMpKTsK</text>
+        <text encoding="base64">CQl3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcigicmVzaXplIiwgbXlGdW5jdGlvbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygnc3RhdGUnLCB0aGlzLnN0YXRlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgbW92ZVRhYnM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygndmFsdWUnLCBNYXRoLmFicyhwcmV2aW91c1NsaWRlVmlldyksIHRvdGFsVGFic1dpZHRocyk7Cg==</text>
+        <text encoding="base64">CQkJdG90YWxUYWJzV2lkdGhzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWNvbnN0IHRvdGFsVGFic1dpZHRocyA9IHRhYldpZHRocy5yZWR1Y2UoKGFjYywgdGFiKSA9PiB7CgkJYWNjID0gYWNjICsgdGFiOwoJCXJldHVybiBhY2M7Cgl9LCAwKTsK</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygndGVzdGluZycsIHRvdGFsVGFic1dpZHRocyh0YWJXaWR0aHMpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CX0sIDApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlyZXR1cm4gYWNjOwo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgbW92ZVRhYnM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlhY2MgPSBhY2MgKyB0YWI7Cg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygndmFsdWUnLCBNYXRoLmFicyhwcmV2aW91c1NsaWRlVmlldyksIHRvdGFsVGFic1dpZHRocyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>48</text>

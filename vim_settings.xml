@@ -565,7 +565,7 @@
         <mark key="]" line="5" column="32" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497040154730">
+      <file name="/Dummy.txt" timestamp="1497040573214">
         <mark key="'" line="0" column="29" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
@@ -705,11 +705,11 @@
         <mark key="." line="29" column="30" />
         <mark key="^" line="29" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/CardWithTabsAndContent.js" timestamp="1497039850184">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="55" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="135" column="77" />
+      <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/CardWithTabsAndContent.js" timestamp="1497043219786">
+        <mark key="[" line="55" column="14" />
+        <mark key="]" line="55" column="27" />
+        <mark key="." line="55" column="27" />
+        <mark key="^" line="55" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/sc-sales-web/client/src/components/common/CardWithSlidesAndContent.js" timestamp="1495570095904">
         <mark key="[" line="24" column="31" />
@@ -970,11 +970,11 @@
         <mark key="]" line="21" column="43" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/services/moveTabs.js" timestamp="1497039524005">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="7" column="45" />
+      <file name="$USER_HOME$/Projects/sc-web/client/src/services/moveTabs.js" timestamp="1497043029009">
+        <mark key="[" line="27" column="40" />
+        <mark key="]" line="27" column="40" />
+        <mark key="." line="27" column="40" />
+        <mark key="^" line="9" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/react-redux-boilerplate/src/styles/scss/styles.scss" timestamp="1494523114485">
         <mark key="[" line="3" column="8" />
@@ -1412,14 +1412,14 @@
       <jump line="0" column="29" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCTxUYWJzQW5kQ29udGVudAoJCQkJCWNsYXNzTmFtZT0idGFic0FuZENvbnRlbnQiCgkJCQkJdGFiQ2xhc3M9InRhYkNsYXNzIgoJCQkJCXRhYnNDbGFzcz0idGFic0NsYXNzIgoJCQkJCXNob3VsZEFuaW1hdGVIZWlnaHQ9e3RydWV9CgkJCQkJY29udGVudD17ZGFzaGJvYXJkU2xpZGVzfQoJCQkJCWFkZEV4dHJhUGFkZGluZ1RvQm9keT17dHJ1ZX0KCQkJCQljb250ZW50Q2xhc3NOYW1lPSJ0YWJzQW5kQ29udGVudENsYXNzTmFtZSIKCQkJCS8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>totals</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>totals</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
@@ -1428,7 +1428,7 @@
         <text encoding="base64">CXsKCQlsYWJlbDogJ015IEFkbWluIFRvb2xzJywKCQljb21wb25lbnQ6IChpbmRleCkgPT4gPERhdGFDdXJyZW50bHlVbmF2YWlsYWJsZSBrZXk9e2luZGV4fS8+Cgl9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCTxUYWJzQW5kQ29udGVudAoJCQkJCWNsYXNzTmFtZT0idGFic0FuZENvbnRlbnQiCgkJCQkJdGFiQ2xhc3M9InRhYkNsYXNzIgoJCQkJCXRhYnNDbGFzcz0idGFic0NsYXNzIgoJCQkJCXNob3VsZEFuaW1hdGVIZWlnaHQ9e3RydWV9CgkJCQkJY29udGVudD17ZGFzaGJvYXJkU2xpZGVzfQoJCQkJCWFkZEV4dHJhUGFkZGluZ1RvQm9keT17dHJ1ZX0KCQkJCQljb250ZW50Q2xhc3NOYW1lPSJ0YWJzQW5kQ29udGVudENsYXNzTmFtZSIKCQkJCS8+Cg==</text>
+        <text encoding="base64">CQkJdG90YWxUYWJzV2lkdGhzCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1440,28 +1440,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygndGVzdGluZycsIHRvdGFsVGFic1dpZHRocyh0YWJXaWR0aHMpKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CS8qKgoJICogQHBhcmFtIHtzdHJpbmd9IGRpcmVjdGlvbiAtIHRoZSBkaXJlY3Rpb24geW91IHdhbnQgdGFicyB0byBtb3ZlCgkgKiBAZGVzY3JpcHRpb24KCSAqIE1vdmVzIHRoZSB0YWJzIG9uIGNsaWNrCgkgKi8=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgbW92ZVRhYnM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl0aGlzLnNldFRhYlN0YXRlID0gdGhpcy5zZXRUYWJTdGF0ZS5iaW5kKHRoaXMpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CXsKCQlsYWJlbDogJ015IEFkbWluIFRvb2xzJywKCQljb21wb25lbnQ6IChpbmRleCkgPT4gPERhdGFDdXJyZW50bHlVbmF2YWlsYWJsZSBrZXk9e2luZGV4fS8+Cgl9LAoJewoJCWxhYmVsOiAnTXkgQWRtaW4gVG9vbHMnLAoJCWNvbXBvbmVudDogKGluZGV4KSA9PiA8RGF0YUN1cnJlbnRseVVuYXZhaWxhYmxlIGtleT17aW5kZXh9Lz4KCX0sCgl7CgkJbGFiZWw6ICdNeSBBZG1pbiBUb29scycsCgkJY29tcG9uZW50OiAoaW5kZXgpID0+IDxEYXRhQ3VycmVudGx5VW5hdmFpbGFibGUga2V5PXtpbmRleH0vPgoJfSwK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">CQljb25zb2xlLmxvZygndmFsdWUnLCBNYXRoLmFicyhwcmV2aW91c1NsaWRlVmlldyksIHRvdGFsVGFic1dpZHRocyk7Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CWNvbnN0IHRvdGFsVGFic1dpZHRocyA9IHRhYldpZHRocy5yZWR1Y2UoKGFjYywgdGFiKSA9PiB7CgkJYWNjID0gYWNjICsgdGFiOwoJCXJldHVybiBhY2M7Cgl9LCAwKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CX0sIDApOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">CQlyZXR1cm4gYWNjOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogTW92ZXMgdGhlIHRhYnMgb24gY2xpY2sK</text>
+        <text encoding="base64">CQlhY2MgPSBhY2MgKyB0YWI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>48</text>

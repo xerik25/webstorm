@@ -42,11 +42,11 @@
         <mark key="." line="17" column="16" />
         <mark key="^" line="16" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/actions/leadTierScoring/updateTier.spec.js" timestamp="1497287135485">
-        <mark key="[" line="22" column="54" />
-        <mark key="]" line="22" column="54" />
-        <mark key="." line="22" column="54" />
-        <mark key="^" line="23" column="53" />
+      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/actions/leadTierScoring/updateTier.spec.js" timestamp="1497291531514">
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="216" column="0" />
+        <mark key="." line="216" column="0" />
+        <mark key="^" line="205" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/configureStore.js" timestamp="1493660458420">
         <mark key="[" line="1" column="36" />
@@ -153,9 +153,6 @@
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/package.json" timestamp="1497287366344">
         <mark key="[" line="19" column="4" />
-        <mark key="]" line="24" column="3" />
-        <mark key="." line="24" column="3" />
-        <mark key="^" line="24" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/web2Lead/redirectSelectedIndex.spec.js" timestamp="1494963940722">
         <mark key="[" line="3" column="31" />
@@ -562,7 +559,7 @@
         <mark key="]" line="5" column="32" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497040573214">
+      <file name="/Dummy.txt" timestamp="1497291919580">
         <mark key="'" line="0" column="29" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
@@ -1411,22 +1408,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CS8vIGNvbnNvbGUubG9nKCd0aWVyc1RvU2VuZCcsIHRpZXJzVG9TZW5kKTsK</text>
+        <text encoding="base64">CQkvLyB9Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>[2]</text>
+        <text>.only</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkvLyBleHBlY3QoYWN0aW9uLmJvZHkudGllcnNbMV0uaGlnaCkudG8uZXF1YWwoMyk7Cg==</text>
+        <text encoding="base64">CQljb25zdCBzdG9yZSA9IHsKCQkJZ2V0U3RhdGU6ICgpID0+IHtyZXR1cm4ge2xlYWRUaWVyU2NvcmluZzoge2xlYWRUaWVyRGF0YTogdGFibGVEYXRhfX07fSwKCQkJZGlzcGF0Y2g6IChhY3Rpb24pID0+IHsKCQkJCS8vIEFTU0VSVAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vIGNvbnNvbGUubG9nKCd0aWVyc1RvU2VuZCcsIHRpZXJzVG9TZW5kKTsK</text>
+        <text encoding="base64">CQkvLyB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1441,25 +1438,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWV4cGVjdChhY3Rpb24udHlwZSkudG8uZXF1YWwodHlwZXMuVVBEQVRFX1RJRVIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkvLyBleHBlY3QoYWN0aW9uLmJvZHkudGllcnNbMV0uaGlnaCkudG8uZXF1YWwoMyk7Cg==</text>
+        <text encoding="base64">CQkvLyBpZiAoYWN0aW9uLnR5cGUgPT09IHR5cGVzLlVQREFURV9USUVSKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQlleHBlY3QoYWN0aW9uLnR5cGUpLnRvLmVxdWFsKHR5cGVzLlVQREFURV9USUVSKTsK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWV4cGVjdChhY3Rpb24udHlwZSkudG8uZXF1YWwodHlwZXMuVVBEQVRFX1RJRVIpOwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWV4cGVjdChhY3Rpb24udHlwZSkudG8uZXF1YWwodHlwZXMuVVBEQVRFX1RJRVIpOwo=</text>
+        <text encoding="base64">CQlleHBlY3QoW3R5cGVzLlVQREFURV9USUVSLCBjb21tYW5kcy5NQVJLRVRJTkdfVElFUklOR19DT05GSUdVUkVdKS50by5pbmNsdWRlKGFjdGlvbi50eXBlKTsKCQlpZiAoYWN0aW9uLnR5cGUgPT09IGNvbW1hbmRzLk1BUktFVElOR19USUVSSU5HX0NPTkZJR1VSRSkgewoJCQlleHBlY3QodHlwZW9mIGFjdGlvbi5ib2R5LnRpZXJzWzBdLmhpZ2gpLnRvLmVxdWFsKCdudW1iZXInKTsKCQkJZXhwZWN0KHR5cGVvZiBhY3Rpb24uYm9keS50aWVyc1swXS5sb3cpLnRvLmVxdWFsKCdudW1iZXInKTsKCQkJZXhwZWN0KGFjdGlvbi5ib2R5LnRpZXJzWzFdLm51bWJlcikudG8uZXF1YWwodGFibGVEYXRhWzJdLnRpZXIpOwoJCX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWV4cGVjdChbdHlwZXMuVVBEQVRFX1RJRVIsIGNvbW1hbmRzLk1BUktFVElOR19USUVSSU5HX0NPTkZJR1VSRV0pLnRvLmluY2x1ZGUoYWN0aW9uLnR5cGUpOwo=</text>
+        <text encoding="base64">CQl9IGVsc2UgewoJCQlleHBlY3QodHlwZW9mIGFjdGlvbi51cGRhdGVkVGllci5oaWdoKS50by5lcXVhbCgnbnVtYmVyJyk7CgkJCWV4cGVjdCh0eXBlb2YgYWN0aW9uLnVwZGF0ZWRUaWVyLmxvdykudG8uZXF1YWwoJ251bWJlcicpOwoJCQlpZiAoYWN0aW9uLnVwZGF0ZWRUaWVyICYmIGFjdGlvbi51cGRhdGVkVGllci50aWVyID09PSB0aWVyKSB7CgkJCQlleHBlY3QoYWN0aW9uLnVwZGF0ZWRUaWVyLnRpZXIpLnRvLmVxdWFsKDMpOwoJCQl9CgkJCWlmIChhY3Rpb24udXBkYXRlZFRpZXIgJiYgYWN0aW9uLnVwZGF0ZWRUaWVyLnRpZXIgPT09IHRpZXIgLSAxKSB7CgkJCQlleHBlY3QoYWN0aW9uLnVwZGF0ZWRUaWVyLnRpZXIpLnRvLmVxdWFsKDIpOwoJCQl9CgkJCWlmIChhY3Rpb24udXBkYXRlZFRpZXIgJiYgYWN0aW9uLnVwZGF0ZWRUaWVyLnRpZXIgPT09IHRpZXIgKyAxKSB7CgkJCQlleHBlY3QoYWN0aW9uLnVwZGF0ZWRUaWVyLnRpZXIpLnRvLmVxdWFsKDQpOwoJCQl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWV4cGVjdChhY3Rpb24udHlwZSkudG8uZXF1YWwodHlwZXMuVVBEQVRFX1RJRVIpOwo=</text>
+        <text encoding="base64">CQl9IGVsc2UgewoJCQlleHBlY3QodHlwZW9mIGFjdGlvbi51cGRhdGVkVGllci5oaWdoKS50by5lcXVhbCgnbnVtYmVyJyk7CgkJCWV4cGVjdCh0eXBlb2YgYWN0aW9uLnVwZGF0ZWRUaWVyLmxvdykudG8uZXF1YWwoJ251bWJlcicpOwoJCQlpZiAoYWN0aW9uLnVwZGF0ZWRUaWVyICYmIGFjdGlvbi51cGRhdGVkVGllci50aWVyID09PSB0aWVyKSB7CgkJCQlleHBlY3QoYWN0aW9uLnVwZGF0ZWRUaWVyLnRpZXIpLnRvLmVxdWFsKDMpOwoJCQl9CgkJCWlmIChhY3Rpb24udXBkYXRlZFRpZXIgJiYgYWN0aW9uLnVwZGF0ZWRUaWVyLnRpZXIgPT09IHRpZXIgLSAxKSB7CgkJCQlleHBlY3QoYWN0aW9uLnVwZGF0ZWRUaWVyLnRpZXIpLnRvLmVxdWFsKDIpOwoJCQl9CgkJCWlmIChhY3Rpb24udXBkYXRlZFRpZXIgJiYgYWN0aW9uLnVwZGF0ZWRUaWVyLnRpZXIgPT09IHRpZXIgKyAxKSB7CgkJCQlleHBlY3QoYWN0aW9uLnVwZGF0ZWRUaWVyLnRpZXIpLnRvLmVxdWFsKDQpOwoJCQl9CgkJfQo=</text>
       </register>
       <register name=":" type="4">
         <text>48</text>

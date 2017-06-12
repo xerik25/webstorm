@@ -559,11 +559,11 @@
         <mark key="]" line="5" column="32" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497291919580">
+      <file name="/Dummy.txt" timestamp="1497300119291">
         <mark key="'" line="0" column="29" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/web2Lead/home/buttonFactory.js" timestamp="1493749609931">
         <mark key="[" line="4" column="13" />
@@ -628,10 +628,11 @@
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/leadTierScoring/leadTierData.spec.js" timestamp="1496932438348">
-        <mark key="[" line="95" column="6" />
-        <mark key="]" line="95" column="6" />
-        <mark key="." line="95" column="6" />
+      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/leadTierScoring/leadTierData.spec.js" timestamp="1497300653414">
+        <mark key="[" line="82" column="6" />
+        <mark key="]" line="82" column="10" />
+        <mark key="." line="82" column="10" />
+        <mark key="^" line="82" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/index.js" timestamp="1494360558496">
         <mark key="[" line="7" column="24" />
@@ -1407,14 +1408,14 @@
       <jump line="0" column="29" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkvLyB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'Cannot convert undefined or null to object'</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.only</text>
+        <text>'Cannot convert undefined or null to object'</text>
       </register>
       <register name="/" type="4">
         <text>out</text>

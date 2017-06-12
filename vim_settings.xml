@@ -307,10 +307,10 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="5" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/web2Lead/redirects.spec.js" timestamp="1497305895301">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/web2Lead/redirects.spec.js" timestamp="1497308312678">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/test/isFetching.test.js" timestamp="1494445140883">
         <mark key="[" line="29" column="48" />
@@ -552,10 +552,10 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="59" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/actions/web2Lead/addRedirect.spec.js" timestamp="1497305539934">
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="5" column="6" />
-        <mark key="." line="5" column="6" />
+      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/actions/web2Lead/addRedirect.spec.js" timestamp="1497308574928">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
         <mark key="^" line="21" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/leadTierScoring/selectedRow.js" timestamp="1496873193822">
@@ -568,12 +568,6 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="32" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1497305905522">
-        <mark key="'" line="0" column="29" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/web2Lead/home/buttonFactory.js" timestamp="1493749609931">
         <mark key="[" line="4" column="13" />
@@ -1429,7 +1423,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQlleHBlY3QoYWN0aW9uLnJlZGlyZWN0KS50by50aHJvdygpOwo=</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1444,7 +1438,7 @@
         <text encoding="base64">CQkJZ2V0U3RhdGU6ICgpID0+IHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQlleHBlY3QoYWN0aW9uLnJlZGlyZWN0KS50by50aHJvdygpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1456,28 +1450,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUZFVENIX1JFRElSRUNUU19GQUlMRUQ6J0ZFVENIX1JFRElSRUNUU19GQUlMRUQnLAo=</text>
+        <text encoding="base64">CQkvLyBleHBlY3QoYWN0aW9uLnJlZGlyZWN0KS50by50aHJvdygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUZFVENIX1JFRElSRUNUU19TVUNDRUVERUQ6J0ZFVENIX1JFRElSRUNUU19TVUNDRUVERUQnLAo=</text>
+        <text encoding="base64">QWRkZWQgSlNEb2MgZm9yIHdlYjJMZWFkIGFjdGlvbnMgdGhhdCB3ZXJlIG1pc3NpbmcgSlNEb2MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWl0Lm9ubHkoYCR7dHlwZXMuRkVUQ0hfUkVESVJFQ1RTX1NVQ0NFRURFRH0gYWN0aW9uOyByZXR1cm5zIHJlZGlyZWN0c2AsICgpID0+IHsKCQkvLyBBUlJBTkdFCgkJLy8gTm90IHN1cmUgd2hhdCByZWRpcmVjdHMgaXMgc3VwcG9zZWQgdG8gbG9vayBsaWtlCgkJY29uc3QgYWN0aW9uID0ge3R5cGU6IHR5cGVzLkZFVENIX1JFRElSRUNUU19TVUNDRUVERUQsIHJlZGlyZWN0czogeydyZWRpcmVjdCc6IDEsICd0ZXN0JzogMn19OwoKCQkvLyBBQ1QKCQljb25zdCBuZXdTdGF0ZSA9IHJlZGlyZWN0cyhpbml0aWFsU3RhdGUsIGFjdGlvbik7CgoJCS8vIEFTU0VSVAoJCWV4cGVjdChuZXdTdGF0ZSkudG8uZGVlcC5lcXVhbChhY3Rpb24ucmVkaXJlY3RzKTsKCX0pOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IHR5cGVzIGZyb20gJy4uLy4uL2FjdGlvbnMvd2ViMkxlYWQvYWN0aW9uVHlwZXMnOwo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CUZFVENIX1JFRElSRUNUU19GQUlMRUQ6J0ZFVENIX1JFRElSRUNUU19GQUlMRUQnLAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUZFVENIX1JFRElSRUNUU19TVUNDRUVERUQ6J0ZFVENIX1JFRElSRUNUU19TVUNDRUVERUQnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWl0Lm9ubHkoYCR7dHlwZXMuRkVUQ0hfUkVESVJFQ1RTX1NVQ0NFRURFRH0gYWN0aW9uOyByZXR1cm5zIGZhbHNlYCwgKCkgPT4gewoJCS8vIEFSUkFOR0UKCQljb25zdCBhY3Rpb24gPSB7dHlwZTogdHlwZXMuRkVUQ0hfUkVESVJFQ1RTX1NVQ0NFRURFRH07CgoJCS8vIEFDVAoJCWNvbnN0IG5ld1N0YXRlID0gaXNGZXRjaGluZ1JlZGlyZWN0cyhpbml0aWFsU3RhdGUsIGFjdGlvbik7CgoJCS8vIEFTU0VSVAoJCWV4cGVjdChuZXdTdGF0ZSkudG8uYmUuZmFsc2U7Cgl9KTsKCglpdChgJHt0eXBlcy5GRVRDSF9SRURJUkVDVFNfRkFJTEVEfSBhY3Rpb247IHJldHVybnMgZmFsc2VgLCAoKSA9PiB7CgkJLy8gQVJSQU5HRQoJCWNvbnN0IGFjdGlvbiA9IHt0eXBlOiB0eXBlcy5GRVRDSF9SRURJUkVDVFNfRkFJTEVEfTsKCgkJLy8gQUNUCgkJY29uc3QgbmV3U3RhdGUgPSBpc0ZldGNoaW5nUmVkaXJlY3RzKGluaXRpYWxTdGF0ZSwgYWN0aW9uKTsKCgkJLy8gQVNTRVJUCgkJZXhwZWN0KG5ld1N0YXRlKS50by5iZS5mYWxzZTsKCX0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CWl0Lm9ubHkoYCR7dHlwZXMuRkVUQ0hfUkVESVJFQ1RTX1NVQ0NFRURFRH0gYWN0aW9uOyByZXR1cm5zIHJlZGlyZWN0c2AsICgpID0+IHsKCQkvLyBBUlJBTkdFCgkJLy8gTm90IHN1cmUgd2hhdCByZWRpcmVjdHMgaXMgc3VwcG9zZWQgdG8gbG9vayBsaWtlCgkJY29uc3QgYWN0aW9uID0ge3R5cGU6IHR5cGVzLkZFVENIX1JFRElSRUNUU19TVUNDRUVERUQsIHJlZGlyZWN0czogeydyZWRpcmVjdCc6IDEsICd0ZXN0JzogMn19OwoKCQkvLyBBQ1QKCQljb25zdCBuZXdTdGF0ZSA9IHJlZGlyZWN0cyhpbml0aWFsU3RhdGUsIGFjdGlvbik7CgoJCS8vIEFTU0VSVAoJCWV4cGVjdChuZXdTdGF0ZSkudG8uZGVlcC5lcXVhbChhY3Rpb24ucmVkaXJlY3RzKTsKCX0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>48</text>

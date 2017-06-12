@@ -42,11 +42,11 @@
         <mark key="." line="17" column="16" />
         <mark key="^" line="16" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/actions/leadTierScoring/updateTier.spec.js" timestamp="1497285163076">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="22" column="44" />
+      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/actions/leadTierScoring/updateTier.spec.js" timestamp="1497287135485">
+        <mark key="[" line="22" column="54" />
+        <mark key="]" line="22" column="54" />
+        <mark key="." line="22" column="54" />
+        <mark key="^" line="23" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/configureStore.js" timestamp="1493660458420">
         <mark key="[" line="1" column="36" />
@@ -151,10 +151,11 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/package.json" timestamp="1496932145843">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Projects/sc-web/client/package.json" timestamp="1497287366344">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="24" column="3" />
+        <mark key="." line="24" column="3" />
+        <mark key="^" line="24" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/web2Lead/redirectSelectedIndex.spec.js" timestamp="1494963940722">
         <mark key="[" line="3" column="31" />
@@ -427,11 +428,10 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/actions/leadTierScoring/updateTier.js" timestamp="1497280758119">
-        <mark key="[" line="59" column="18" />
-        <mark key="]" line="59" column="97" />
-        <mark key="^" line="59" column="97" />
-        <mark key="." line="59" column="97" />
+      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/actions/leadTierScoring/updateTier.js" timestamp="1497287427640">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/react-redux-boilerplate/src/styles/scss/base/_fonts.scss" timestamp="1494523179471">
         <mark key="[" line="5" column="52" />
@@ -1301,10 +1301,10 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/package.json" timestamp="1495657600807">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Projects/sc-web/package.json" timestamp="1497287355778">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -1411,22 +1411,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCWV4cGVjdChhY3Rpb24udHlwZSkudG8uZXF1YWwodHlwZXMuVVBEQVRFX1RJRVIpOwo=</text>
+        <text encoding="base64">CS8vIGNvbnNvbGUubG9nKCd0aWVyc1RvU2VuZCcsIHRpZXJzVG9TZW5kKTsK</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.only</text>
+        <text>[2]</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCWV4cGVjdChbdHlwZXMuVVBEQVRFX1RJRVIsIGNvbW1hbmRzLk1BUktFVElOR19USUVSSU5HX0NPTkZJR1VSRV0pLnRvLmluY2x1ZGUoYWN0aW9uLnR5cGUpOwo=</text>
+        <text encoding="base64">CQkJCQkvLyBleHBlY3QoYWN0aW9uLmJvZHkudGllcnNbMV0uaGlnaCkudG8uZXF1YWwoMyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWV4cGVjdChhY3Rpb24udHlwZSkudG8uZXF1YWwodHlwZXMuVVBEQVRFX1RJRVIpOwo=</text>
+        <text encoding="base64">CS8vIGNvbnNvbGUubG9nKCd0aWVyc1RvU2VuZCcsIHRpZXJzVG9TZW5kKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1438,28 +1438,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWV4cGVjdChhY3Rpb24udHlwZSkudG8uZXF1YWwodHlwZXMuVVBEQVRFX1RJRVIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWV4cGVjdChbdHlwZXMuVVBEQVRFX1RJRVIsIGNvbW1hbmRzLk1BUktFVElOR19USUVSSU5HX0NPTkZJR1VSRV0pLnRvLmluY2x1ZGUoYWN0aW9uLnR5cGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCWV4cGVjdChhY3Rpb24udHlwZSkudG8uZXF1YWwodHlwZXMuVVBEQVRFX1RJRVIpOwo=</text>
+        <text encoding="base64">CQkJCQkvLyBleHBlY3QoYWN0aW9uLmJvZHkudGllcnNbMV0uaGlnaCkudG8uZXF1YWwoMyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdhY3Rpb24nLCBhY3Rpb24pOwo=</text>
+        <text encoding="base64">CQkJCQlleHBlY3QoYWN0aW9uLnR5cGUpLnRvLmVxdWFsKHR5cGVzLlVQREFURV9USUVSKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnYm9keScsIGFjdGlvbi5ib2R5LnRpZXJzWzFdLmhpZ2gpOwo=</text>
+        <text encoding="base64">CQkJCWV4cGVjdChhY3Rpb24udHlwZSkudG8uZXF1YWwodHlwZXMuVVBEQVRFX1RJRVIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQlleHBlY3QoYWN0aW9uLmJvZHkudGllcnNbMV0uaGlnaCkudG8uZXF1YWwoMyk7Cg==</text>
+        <text encoding="base64">CQkJCWV4cGVjdChhY3Rpb24udHlwZSkudG8uZXF1YWwodHlwZXMuVVBEQVRFX1RJRVIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnYm9keScsIGFjdGlvbi5ib2R5LnRpZXJzWzFdLmhpZ2gpOwo=</text>
+        <text encoding="base64">CQkJCWV4cGVjdChbdHlwZXMuVVBEQVRFX1RJRVIsIGNvbW1hbmRzLk1BUktFVElOR19USUVSSU5HX0NPTkZJR1VSRV0pLnRvLmluY2x1ZGUoYWN0aW9uLnR5cGUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdhY3Rpb24nLCBhY3Rpb24pOwo=</text>
+        <text encoding="base64">CQkJCWV4cGVjdChhY3Rpb24udHlwZSkudG8uZXF1YWwodHlwZXMuVVBEQVRFX1RJRVIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>48</text>

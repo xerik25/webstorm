@@ -43,10 +43,9 @@
         <mark key="^" line="16" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/actions/leadTierScoring/updateTier.spec.js" timestamp="1497452898723">
-        <mark key="[" line="216" column="0" />
-        <mark key="]" line="216" column="0" />
-        <mark key="." line="216" column="0" />
-        <mark key="^" line="205" column="16" />
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="186" column="0" />
+        <mark key="." line="186" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/configureStore.js" timestamp="1493660458420">
         <mark key="[" line="1" column="36" />
@@ -566,7 +565,7 @@
         <mark key="]" line="5" column="32" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497361229662">
+      <file name="/Dummy.txt" timestamp="1497456117983">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1041,10 +1040,10 @@
         <mark key="^" line="0" column="47" />
         <mark key="." line="0" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/actions/web2Lead/updateRedirect.spec.js" timestamp="1497456003820">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="22" />
-        <mark key="." line="1" column="22" />
+      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/actions/web2Lead/updateRedirect.spec.js" timestamp="1497456114205">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
         <mark key="^" line="1" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/leadTierScoring/getUser.spec.js" timestamp="1494963829973">
@@ -1442,13 +1441,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>action</text>
+        <text>Added JSDoc for web2Lead actions that were missing JSDoc</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>action</text>
+        <text>Added JSDoc for web2Lead actions that were missing JSDoc</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
@@ -1457,7 +1456,7 @@
         <text encoding="base64">CQkJCQlyb3dzOlt7d2ViU291cmNlOiduYWRhJyxzdWJtaXNzaW9uOiduYWRhJyxyZWRpcmVjdDonbm9uZSd9XSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCX0K</text>
+        <text encoding="base64">CQljb25zdCB1cGRhdGVkUmVkaXJlY3RzID0gW25ld1JlZGlyZWN0LCB7d2ViU291cmNlOiAnbmFkYScsIHN1Ym1pc3Npb246ICduYWRhJywgcmVkaXJlY3Q6ICdub25lJ31dOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1469,25 +1468,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQlleHBlY3QoYWN0aW9uLmJvZHkucmVkaXJlY3RzKS5lcXVhbHMudG8odXBkYXRlZFJlZGlyZWN0cyk7Cg==</text>
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWlmIChhY3Rpb24udHlwZSA9PT0gY29tbWFuZHMuTUFSS0VUSU5HX1JFRElSRUNUU19DT05GSUdVUkUpIHsK</text>
+        <text encoding="base64">CQkJCQlleHBlY3QoYWN0aW9uLmJvZHkucmVkaXJlY3RzKS5lcXVhbHMudG8odXBkYXRlZFJlZGlyZWN0cyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQlUT0RPCg==</text>
+        <text encoding="base64">CQkJCWlmIChhY3Rpb24udHlwZSA9PT0gY29tbWFuZHMuTUFSS0VUSU5HX1JFRElSRUNUU19DT05GSUdVUkUpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdteUFjdGlvbicsIGFjdGlvbik7Cg==</text>
+        <text encoding="base64">CQkJCQlUT0RPCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdteUFjdGlvbicsIGFjdGlvbik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHR5cGVzIGZyb20gJy4vYWN0aW9uVHlwZXMnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHR5cGVzIGZyb20gJy4vYWN0aW9uVHlwZXMnOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

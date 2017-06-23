@@ -132,7 +132,7 @@
         <mark key="^" line="11" column="47" />
         <mark key="." line="11" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/leadTierScoring/dataRequested.js" timestamp="1496871087119">
+      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/leadTierScoring/dataRequested.js" timestamp="1498240664278">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="7" column="38" />
         <mark key="^" line="7" column="38" />
@@ -294,6 +294,7 @@
         <mark key="^" line="8" column="67" />
         <mark key="." line="8" column="67" />
       </file>
+      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/sales-web/src/reducers/workflow/lead.js" timestamp="1498240686847" />
       <file name="$USER_HOME$/Projects/sc-web/client/src/domains/sales-web/src/reducers/workflow/index.js" timestamp="1496866470714">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="4" column="14" />
@@ -474,8 +475,10 @@
         <mark key="^" line="6" column="63" />
         <mark key="." line="6" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498231675716">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1498231986539">
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="0" column="42" />
+        <mark key="." line="0" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/web2Lead/home/buttonFactory.js" timestamp="1493749609931">
         <mark key="[" line="4" column="13" />
@@ -597,12 +600,7 @@
         <mark key="." line="29" column="30" />
         <mark key="^" line="29" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/CardWithTabsAndContent.js" timestamp="1498231478455">
-        <mark key="[" line="144" column="98" />
-        <mark key="]" line="144" column="98" />
-        <mark key="." line="144" column="98" />
-        <mark key="^" line="144" column="98" />
-      </file>
+      <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/CardWithTabsAndContent.js" timestamp="1498231478455" />
       <file name="$USER_HOME$/Projects/sc-sales-web/client/src/components/common/CardWithSlidesAndContent.js" timestamp="1495570095904">
         <mark key="[" line="24" column="31" />
         <mark key="]" line="24" column="36" />
@@ -819,11 +817,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/leadTierScoring/initialAppState.js" timestamp="1495838359923">
-        <mark key="[" line="15" column="18" />
-        <mark key="]" line="15" column="18" />
-        <mark key="." line="15" column="18" />
-        <mark key="^" line="14" column="32" />
+      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/leadTierScoring/initialAppState.js" timestamp="1498240721528">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="17" />
+        <mark key="." line="15" column="17" />
+        <mark key="^" line="15" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/server/constants/clientRoutes.js" timestamp="1493828226767">
         <mark key="[" line="15" column="19" />
@@ -1084,6 +1082,7 @@
         <mark key="^" line="36" column="73" />
         <mark key="." line="36" column="73" />
       </file>
+      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/leadTierScoring/leadTierData.js" timestamp="1498240669208" />
       <file name="$USER_HOME$/Projects/sc-web/client/src/domains/sales-web/src/containers/workflow/_index.scss" timestamp="1498167157002">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1242,8 +1241,8 @@
       <jump line="0" column="29" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>index</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWxlYWQ6IHt9Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1258,7 +1257,7 @@
         <text encoding="base64">ICogQHByb3BlcnR5IHtub2RlfSBbaWNvbl0gLSBpY29uIGZvciBjYXJkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQk8YnIgLz4K</text>
+        <text encoding="base64">CWxlYWQ6IHt9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1273,25 +1272,25 @@
         <text encoding="base64">CQkJCQk8YnIgLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RXhjbHVkZSBzcGVjIGZpbGVzIGZyb20gdGVzdHMK</text>
+        <text encoding="base64">CQkJCQk8YnIgLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAqLwo=</text>
+        <text encoding="base64">RXhjbHVkZSBzcGVjIGZpbGVzIGZyb20gdGVzdHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAqIGhpZGUgb3Igc2hvdyB0aGUgY29udGVudCBvZiB0aGUgc2xpZGUgaWYgdGhleSBjbGljayBvbiBoZWFkZXIgb3IgdGFiCg==</text>
+        <text encoding="base64">CSAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAqIEBkZXNjcmlwdGlvbgo=</text>
+        <text encoding="base64">CSAqIGhpZGUgb3Igc2hvdyB0aGUgY29udGVudCBvZiB0aGUgc2xpZGUgaWYgdGhleSBjbGljayBvbiBoZWFkZXIgb3IgdGFiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSB7Ym9vbGVhbn0gaXNUb2dnbGVkIC0gYm9vbCB0byBoaWRlIG9yIHNob3cgdGhlIGNvbnRlbnQK</text>
+        <text encoding="base64">CSAqIEBkZXNjcmlwdGlvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8qKgo=</text>
+        <text encoding="base64">CSAqIEBwYXJhbSB7Ym9vbGVhbn0gaXNUb2dnbGVkIC0gYm9vbCB0byBoaWRlIG9yIHNob3cgdGhlIGNvbnRlbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAqLwo=</text>
+        <text encoding="base64">CS8qKgo=</text>
       </register>
       <register name=":" type="4">
         <text>48</text>

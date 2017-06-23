@@ -572,7 +572,7 @@
         <mark key="]" line="5" column="32" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498168066408">
+      <file name="/Dummy.txt" timestamp="1498220379034">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -712,7 +712,12 @@
         <mark key="." line="29" column="30" />
         <mark key="^" line="29" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/CardWithTabsAndContent.js" timestamp="1498166089313" />
+      <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/CardWithTabsAndContent.js" timestamp="1498220305324">
+        <mark key="[" line="145" column="74" />
+        <mark key="]" line="145" column="74" />
+        <mark key="." line="145" column="74" />
+        <mark key="^" line="145" column="53" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-sales-web/client/src/components/common/CardWithSlidesAndContent.js" timestamp="1495570095904">
         <mark key="[" line="24" column="31" />
         <mark key="]" line="24" column="36" />
@@ -1048,9 +1053,6 @@
         <mark key="^" line="0" column="47" />
         <mark key="." line="0" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/actions/web2Lead/updateRedirect.spec.js" timestamp="1497456114205">
-        <mark key="^" line="1" column="22" />
-      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/leadTierScoring/getUser.spec.js" timestamp="1494963829973">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="25" />
@@ -1114,7 +1116,7 @@
         <mark key="]" line="23" column="27" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/tabsAndContent/TabsAndContent.js" timestamp="1497040335994">
+      <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/tabsAndContent/TabsAndContent.js" timestamp="1498220311749">
         <mark key="[" line="57" column="7" />
         <mark key="]" line="58" column="37" />
         <mark key="^" line="58" column="37" />
@@ -1454,14 +1456,14 @@
       <jump line="0" column="29" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>index</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>left</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
@@ -1470,7 +1472,7 @@
         <text encoding="base64">CQoJJl9fbGVmdENvbnRhaW5lciB7CgkJZmxleC1ncm93OiAxOwoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CQkJCQkJCQkpfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1482,25 +1484,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LndvcmtmbG93MiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQljb250ZW50LmNvbXBvbmVudChpbmRleCkpfQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LndvcmtmbG93X19sZWZ0Q29udGFpbmVyIHsK</text>
+        <text encoding="base64">LndvcmtmbG93MiB7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWZsZXgtc2hyaW5rOiAxOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlmbGV4LWdyb3c6IDE7Cg==</text>
+        <text encoding="base64">LndvcmtmbG93X19sZWZ0Q29udGFpbmVyIHsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

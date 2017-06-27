@@ -598,6 +598,9 @@
         <mark key="]" line="5" column="32" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1498515074618">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/web2Lead/home/buttonFactory.js" timestamp="1493749609931">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="13" />
@@ -927,6 +930,11 @@
         <mark key="]" line="5" column="61" />
         <mark key="." line="5" column="61" />
         <mark key="^" line="4" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/sc-web/client/src/domains/sales-web/package.json" timestamp="1498515657135">
+        <mark key="[" line="28" column="20" />
+        <mark key="]" line="28" column="20" />
+        <mark key="." line="28" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/CardWithTabsAndContent/CardHeaderWithAction.style.js" timestamp="1495804389969">
         <mark key="[" line="6" column="8" />
@@ -1485,13 +1493,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[</text>
+        <text>,</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
@@ -1500,7 +1508,7 @@
         <text encoding="base64">CSZfX2xlZnRDb250YWluZXIgewoJCWZsZXgtZ3JvdzogMTsKCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL0NhcmRXSXRoVGFic0FuZENvbnRlbnQuc3R5bGUnOwo=</text>
+        <text encoding="base64">ICAgICJzaW5vbiI6ICJeMi4zLjEiCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1512,28 +1520,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IEFycm93UmlnaHQgZnJvbSAnbWF0ZXJpYWwtdWkvc3ZnLWljb25zL2hhcmR3YXJlL2tleWJvYXJkLWFycm93LXJpZ2h0JzsK</text>
+        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL0NhcmRXSXRoVGFic0FuZENvbnRlbnQuc3R5bGUnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHNjc3NWYXJzIGZyb20gJ3NoYXJlZC9zdHlsZXMvc2Nzcy9iYXNlL3ZhcmlhYmxlcy92YXJpYWJsZXMuanNvbic7IC8vZXNsaW50LWRpc2FibGUtbGluZQo=</text>
+        <text encoding="base64">aW1wb3J0IEFycm93UmlnaHQgZnJvbSAnbWF0ZXJpYWwtdWkvc3ZnLWljb25zL2hhcmR3YXJlL2tleWJvYXJkLWFycm93LXJpZ2h0JzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygndmFsdWUnLCBNYXRoLmFicyhwcmV2aW91c1NsaWRlVmlldyksIHRvdGFsVGFic1dpZHRocyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjc3NWYXJzIGZyb20gJ3NoYXJlZC9zdHlsZXMvc2Nzcy9iYXNlL3ZhcmlhYmxlcy92YXJpYWJsZXMuanNvbic7IC8vZXNsaW50LWRpc2FibGUtbGluZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQk8L0NhcmRXaXRoVGFic0FuZENvbnRlbnQ+Cg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygndmFsdWUnLCBNYXRoLmFicyhwcmV2aW91c1NsaWRlVmlldyksIHRvdGFsVGFic1dpZHRocyk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">CQk8L0NhcmRXaXRoVGFic0FuZENvbnRlbnQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygndG9nZ2xlQ29udGVudCcsIGlzVG9nZ2xlZCk7Cg==</text>
+        <text encoding="base64">CQk8L0NhcmRXaXRoVGFic0FuZENvbnRlbnQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygndG9nZ2xlQ29udGVudCcsIGlzVG9nZ2xlZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>151</text>

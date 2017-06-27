@@ -738,7 +738,7 @@
         <mark key="." line="29" column="30" />
         <mark key="^" line="29" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/CardWithTabsAndContent.js" timestamp="1498591886419">
+      <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/CardWithTabsAndContent.js" timestamp="1498592551565">
         <mark key="[" line="101" column="40" />
         <mark key="]" line="101" column="40" />
         <mark key="." line="101" column="55" />
@@ -1020,11 +1020,11 @@
         <mark key="]" line="21" column="43" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/services/moveTabs.js" timestamp="1498590352074">
-        <mark key="[" line="24" column="68" />
-        <mark key="]" line="25" column="33" />
-        <mark key="." line="25" column="33" />
-        <mark key="^" line="25" column="33" />
+      <file name="$USER_HOME$/Projects/sc-web/client/src/services/moveTabs.js" timestamp="1498599037381">
+        <mark key="[" line="25" column="46" />
+        <mark key="]" line="25" column="65" />
+        <mark key="." line="25" column="65" />
+        <mark key="^" line="25" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/react-redux-boilerplate/src/styles/scss/styles.scss" timestamp="1494523114485">
         <mark key="[" line="3" column="8" />
@@ -1494,23 +1494,23 @@
       <jump line="0" column="29" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGZyYW1lYm9yZGVyPSJub25lIg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJ3NtYWxsJyk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGZyYW1lYm9yZGVyPSJub25lIg==</text>
+        <text>previousSlideView</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygndG90YWxUYWJXaWR0aHMnLCB0b3RhbFRhYldpZHRoU2l6ZSk7Cg==</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJ3NtYWxsJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJ3NtYWxsJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1522,28 +1522,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQljb24K</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygndGVzdGluZycpOwo=</text>
+        <text encoding="base64">CQljb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl0aGlzLnJlc2l6ZVRhYnMgPSB0aGlzLnJlc2l6ZVRhYnMuYmluZCh0aGlzKTsK</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygndGVzdGluZycpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcigicmVzaXplIiwgKCkgPT4gY29uc29sZS5sb2coJ3Rlc3RpbmcnKSk7Cg==</text>
+        <text encoding="base64">CQl0aGlzLnJlc2l6ZVRhYnMgPSB0aGlzLnJlc2l6ZVRhYnMuYmluZCh0aGlzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvL1RPRE86IHRoaXMgYWN0dWFsbHkgbmVlZHMgdG8gcnVuIG9uIHJlc2l6ZSBpbnN0ZWFkIG9mIGNvbXBvbmVudERpZE1vdW50Cg==</text>
+        <text encoding="base64">CQl3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcigicmVzaXplIiwgKCkgPT4gY29uc29sZS5sb2coJ3Rlc3RpbmcnKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkvL1RPRE86IHRoaXMgYWN0dWFsbHkgbmVlZHMgdG8gcnVuIG9uIHJlc2l6ZSBpbnN0ZWFkIG9mIGNvbXBvbmVudERpZE1vdW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvL1RPRE86IHRoaXMgYWN0dWFsbHkgbmVlZHMgdG8gcnVuIG9uIHJlc2l6ZSBpbnN0ZWFkIG9mIGNvbXBvbmVudERpZE1vdW50CgkJY29uc3QgdGFiQ29udGFpbmVyU2l6ZSA9IFJlYWN0RE9NLmZpbmRET01Ob2RlKHRoaXMudGFic0NvbnRhaW5lck5PREUpLmdldEJvdW5kaW5nQ2xpZW50UmVjdCgpLndpZHRoOwoJCWNvbnN0IHRhYldpZHRocyA9IHRoaXMudGFic05vZGVzLm1hcCgodGFiKSA9PiBSZWFjdERPTS5maW5kRE9NTm9kZSh0YWIpLmdldEJvdW5kaW5nQ2xpZW50UmVjdCgpLndpZHRoKTsKCQljb25zdCB0b3RhbFRhYldpZHRoU2l6ZSA9IHRhYldpZHRocy5yZWR1Y2UoKGFjYywgdmFsKSA9PiBhY2MgKyB2YWwsIDApOwoJCXRoaXMuc2V0VGFiU2l6ZXModGFiQ29udGFpbmVyU2l6ZSwgdGFiV2lkdGhzLCB0b3RhbFRhYldpZHRoU2l6ZSk7CgkJd2luZG93LmFkZEV2ZW50TGlzdGVuZXIoInJlc2l6ZSIsICgpID0+IGNvbnNvbGUubG9nKCd0ZXN0aW5nJykpOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IQo=</text>
+        <text encoding="base64">CQkvL1RPRE86IHRoaXMgYWN0dWFsbHkgbmVlZHMgdG8gcnVuIG9uIHJlc2l6ZSBpbnN0ZWFkIG9mIGNvbXBvbmVudERpZE1vdW50CgkJY29uc3QgdGFiQ29udGFpbmVyU2l6ZSA9IFJlYWN0RE9NLmZpbmRET01Ob2RlKHRoaXMudGFic0NvbnRhaW5lck5PREUpLmdldEJvdW5kaW5nQ2xpZW50UmVjdCgpLndpZHRoOwoJCWNvbnN0IHRhYldpZHRocyA9IHRoaXMudGFic05vZGVzLm1hcCgodGFiKSA9PiBSZWFjdERPTS5maW5kRE9NTm9kZSh0YWIpLmdldEJvdW5kaW5nQ2xpZW50UmVjdCgpLndpZHRoKTsKCQljb25zdCB0b3RhbFRhYldpZHRoU2l6ZSA9IHRhYldpZHRocy5yZWR1Y2UoKGFjYywgdmFsKSA9PiBhY2MgKyB2YWwsIDApOwoJCXRoaXMuc2V0VGFiU2l6ZXModGFiQ29udGFpbmVyU2l6ZSwgdGFiV2lkdGhzLCB0b3RhbFRhYldpZHRoU2l6ZSk7CgkJd2luZG93LmFkZEV2ZW50TGlzdGVuZXIoInJlc2l6ZSIsICgpID0+IGNvbnNvbGUubG9nKCd0ZXN0aW5nJykpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>151</text>

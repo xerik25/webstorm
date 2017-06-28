@@ -752,10 +752,10 @@
         <mark key="." line="29" column="30" />
         <mark key="^" line="29" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/CardWithTabsAndContent.js" timestamp="1498636139993">
-        <mark key="[" line="48" column="60" />
-        <mark key="]" line="49" column="25" />
-        <mark key="." line="49" column="25" />
+      <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/CardWithTabsAndContent.js" timestamp="1498638335941">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
         <mark key="^" line="49" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/sc-sales-web/client/src/components/common/CardWithSlidesAndContent.js" timestamp="1495570095904">
@@ -1523,7 +1523,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJewoJCQkJbGFiZWw6ICdQZW5kaW5nIFJlcXMnLAoJCQkJY29tcG9uZW50OiAoKSA9PiB7CgkJCQkJcmV0dXJuIDxEYXRhQ3VycmVudGx5VW5hdmFpbGFibGUgLz4KCQkJCX0KCQkJfSwK</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygncmVzaXplVGFicycpOwo=</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1538,7 +1538,7 @@
         <text encoding="base64">CQl3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcigicmVzaXplIiwgdGhpcy5wcm9wcy53aW5kb3dSZXNpemVkKHdpbmRvdy5pbm5lcldpZHRoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJewoJCQkJbGFiZWw6ICdQZW5kaW5nIFJlcXMnLAoJCQkJY29tcG9uZW50OiAoKSA9PiB7CgkJCQkJcmV0dXJuIDxEYXRhQ3VycmVudGx5VW5hdmFpbGFibGUgLz4KCQkJCX0KCQkJfSwK</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygncmVzaXplVGFicycpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1550,28 +1550,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJewoJCQkJbGFiZWw6ICdQZW5kaW5nIFJlcXMnLAoJCQkJY29tcG9uZW50OiAoKSA9PiB7CgkJCQkJcmV0dXJuIDxEYXRhQ3VycmVudGx5VW5hdmFpbGFibGUgLz4KCQkJCX0KCQkJfSwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CXVzZXI6IHN0YXRlLnJvb3QudXNlci5kYXRhCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWlzRmV0Y2hpbmdVc2VyOiBzdGF0ZS5yb290LnVzZXIuaXNGZXRjaGluZywK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgQ2FyZFdpdGhUYWJzQW5kQ29udGVudDsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CX0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkvLyBjb25zb2xlLmxvZygncHJvcHMnLCB0aGlzLnByb3BzLndpbmRvd1NpemUpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkvLyB3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcigicmVzaXplIiwgdGhpcy5yZXNpemVUYWJzKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkvL1RPRE86IHRoaXMgd2lsbCBydW4gb25jZSBmb3IgZWFjaCB0aW1lIHRoZSBjb21wb25lbnQgaXMgY2FsbGVkLiBOZWVkIHRvIG1ha2Ugc3VyZSBpdCBvbmx5IHJ1bnMgb25jZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkvLyB0aGlzLnJlc2l6ZVRhYnMoKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">CWNvbXBvbmVudERpZE1vdW50ICgpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXVzZXI6IFByb3BUeXBlcy5vYmplY3QsCg==</text>
+        <text encoding="base64">CQkvLyBjb25zb2xlLmxvZygncHJvcHNSRWNlaXZlZCcsIHRoaXMucHJvcHMud2luZG93U2l6ZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>151</text>

@@ -241,6 +241,12 @@
         <mark key="." line="29" column="30" />
         <mark key="^" line="29" column="30" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/website/package.json" timestamp="1501086394078">
+        <mark key="[" line="118" column="89" />
+        <mark key="]" line="118" column="99" />
+        <mark key="." line="118" column="99" />
+        <mark key="^" line="118" column="99" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierScoring/leadTierInterface/LeadTierInterface.js" timestamp="1493820078485">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="6" column="19" />
@@ -268,6 +274,12 @@
         <mark key="]" line="9" column="28" />
         <mark key="." line="9" column="28" />
         <mark key="^" line="6" column="27" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/website/debug.js" timestamp="1501086232803">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="29" />
+        <mark key="." line="3" column="29" />
+        <mark key="^" line="3" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/sc-sales-web/client/src/components/common/CardWithCollapsibleContent.js" timestamp="1495728179651">
         <mark key="[" line="3" column="71" />
@@ -590,7 +602,7 @@
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498762447523">
+      <file name="/Dummy.txt" timestamp="1501086076786">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -1529,20 +1541,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/Sites/amc/graph/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>30</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CXsKCQlsYWJlbDogJ05vdGVzJywKCQljb21wb25lbnQ6ICgpID0+IHsKCQkJcmV0dXJuIDxEYXRhQ3VycmVudGx5VW5hdmFpbGFibGUvPgoJCX0KCX0sCg==</text>
+      <register name="0" type="4">
+        <text>%npm_config_e%</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0K</text>

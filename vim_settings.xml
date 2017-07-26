@@ -12,6 +12,12 @@
         <mark key="^" line="20" column="8" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/website/start-dev.js" timestamp="1501083837010">
+        <mark key="[" line="25" column="20" />
+        <mark key="]" line="25" column="18" />
+        <mark key="." line="25" column="18" />
+        <mark key="^" line="25" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/leadTierData.js" timestamp="1494535166514">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -1247,6 +1253,9 @@
         <mark key="." line="12" column="27" />
         <mark key="^" line="12" column="27" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/graph/package.json" timestamp="1501078322144">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/customerContactInfo/_customerContactInfo.scss" timestamp="1498221824809">
         <mark key="[" line="1" column="26" />
         <mark key="]" line="2" column="16" />
@@ -1418,7 +1427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="55" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/AppContainer.js" />
       <jump line="47" column="40" filename="$USER_HOME$/Projects/sq-quote-engine-web/src/components/resultsGrid/ResultsGrid.js" />
       <jump line="29" column="3" filename="$USER_HOME$/Projects/sc-marketing-web/package.json" />
       <jump line="80" column="48" filename="$USER_HOME$/Projects/quote-form/client/src/components/resultsGrid/ResultsGrid.js" />
@@ -1518,10 +1526,11 @@
       <jump line="26" column="0" filename="$USER_HOME$/Projects/sc-web/client/src/domains/sales-web/src/containers/WorkFlow.js" />
       <jump line="0" column="29" filename="/Dummy.txt" />
       <jump line="80" column="8" filename="$USER_HOME$/Projects/sc-web/client/src/components/common/tabsAndContent/TabsAndContent.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/amc/graph/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ0dSQVBIJykK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1536,7 +1545,7 @@
         <text encoding="base64">CXsKCQlsYWJlbDogJ05vdGVzJywKCQljb21wb25lbnQ6ICgpID0+IHsKCQkJcmV0dXJuIDxEYXRhQ3VycmVudGx5VW5hdmFpbGFibGUvPgoJCX0KCX0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ0dSQVBIJykK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1548,28 +1557,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCQkJc3R5bGU9e3t3aWR0aDogJ2F1dG8nfX0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzdGRvdXQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXsKCQlsYWJlbDogJ05vdGVzJywKCQljb21wb25lbnQ6ICgpID0+IHsKCQkJcmV0dXJuIDxEYXRhQ3VycmVudGx5VW5hdmFpbGFibGUvPgoJCX0KCX0sCgl7CgkJbGFiZWw6ICdOb3RlcycsCgkJY29tcG9uZW50OiAoKSA9PiB7CgkJCXJldHVybiA8RGF0YUN1cnJlbnRseVVuYXZhaWxhYmxlLz4KCQl9Cgl9LAoJewoJCWxhYmVsOiAnTm90ZXMnLAoJCWNvbXBvbmVudDogKCkgPT4gewoJCQlyZXR1cm4gPERhdGFDdXJyZW50bHlVbmF2YWlsYWJsZS8+CgkJfQoJfSwKCXsKCQlsYWJlbDogJ05vdGVzJywKCQljb21wb25lbnQ6ICgpID0+IHsKCQkJcmV0dXJuIDxEYXRhQ3VycmVudGx5VW5hdmFpbGFibGUvPgoJCX0KCX0sCgl7CgkJbGFiZWw6ICdOb3RlcycsCgkJY29tcG9uZW50OiAoKSA9PiB7CgkJCXJldHVybiA8RGF0YUN1cnJlbnRseVVuYXZhaWxhYmxlLz4KCQl9Cgl9LAoJewoJCWxhYmVsOiAnTm90ZXMnLAoJCWNvbXBvbmVudDogKCkgPT4gewoJCQlyZXR1cm4gPERhdGFDdXJyZW50bHlVbmF2YWlsYWJsZS8+CgkJfQoJfSwK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXJyKSB0aHJvdyBlcnI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygndGVzdGluZycpOwo=</text>
+        <text encoding="base64">ICAgIChlcnIsIHN0ZG91dCkgPT4gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ0dSQVBIJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgVGFic0FuZENvbnRlbnQ7Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJc3R5bGU9e3t3aWR0aDogJ2F1dG8nfX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl0aGlzLnNldFRhYlNpemVzKHRhYkNvbnRhaW5lclNpemUsIHRhYldpZHRocyk7Cg==</text>
+        <text encoding="base64">CXsKCQlsYWJlbDogJ05vdGVzJywKCQljb21wb25lbnQ6ICgpID0+IHsKCQkJcmV0dXJuIDxEYXRhQ3VycmVudGx5VW5hdmFpbGFibGUvPgoJCX0KCX0sCgl7CgkJbGFiZWw6ICdOb3RlcycsCgkJY29tcG9uZW50OiAoKSA9PiB7CgkJCXJldHVybiA8RGF0YUN1cnJlbnRseVVuYXZhaWxhYmxlLz4KCQl9Cgl9LAoJewoJCWxhYmVsOiAnTm90ZXMnLAoJCWNvbXBvbmVudDogKCkgPT4gewoJCQlyZXR1cm4gPERhdGFDdXJyZW50bHlVbmF2YWlsYWJsZS8+CgkJfQoJfSwKCXsKCQlsYWJlbDogJ05vdGVzJywKCQljb21wb25lbnQ6ICgpID0+IHsKCQkJcmV0dXJuIDxEYXRhQ3VycmVudGx5VW5hdmFpbGFibGUvPgoJCX0KCX0sCgl7CgkJbGFiZWw6ICdOb3RlcycsCgkJY29tcG9uZW50OiAoKSA9PiB7CgkJCXJldHVybiA8RGF0YUN1cnJlbnRseVVuYXZhaWxhYmxlLz4KCQl9Cgl9LAoJewoJCWxhYmVsOiAnTm90ZXMnLAoJCWNvbXBvbmVudDogKCkgPT4gewoJCQlyZXR1cm4gPERhdGFDdXJyZW50bHlVbmF2YWlsYWJsZS8+CgkJfQoJfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQljb25zdCB0YWJXaWR0aHMgPSB0aGlzLnRhYnNOb2Rlcy5tYXAoKHRhYikgPT4gUmVhY3RET00uZmluZERPTU5vZGUodGFiKS5nZXRCb3VuZGluZ0NsaWVudFJlY3QoKS53aWR0aCk7Cg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygndGVzdGluZycpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljb25zdCB0YWJDb250YWluZXJTaXplID0gUmVhY3RET00uZmluZERPTU5vZGUodGhpcy50YWJzQ29udGFpbmVyTk9ERSkuZ2V0Qm91bmRpbmdDbGllbnRSZWN0KCkud2lkdGg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>151</text>

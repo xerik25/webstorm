@@ -12,11 +12,11 @@
         <mark key="^" line="20" column="8" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/website/start-dev.js" timestamp="1501100584050">
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="9" column="21" />
-        <mark key="^" line="9" column="21" />
+      <file name="$USER_HOME$/Sites/amc/website/start-dev.js" timestamp="1501104963229">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="66" />
+        <mark key="." line="8" column="66" />
+        <mark key="^" line="8" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/leadTierData.js" timestamp="1494535166514">
         <mark key="[" line="11" column="0" />
@@ -141,11 +141,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/website/start-debug.js" timestamp="1501101020425">
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="2" column="29" />
+      <file name="$USER_HOME$/Sites/amc/website/start-debug.js" timestamp="1501104269887">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="30" />
         <mark key="^" line="7" column="29" />
-        <mark key="." line="2" column="29" />
+        <mark key="." line="7" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/sc-sales-web/client/README.md" timestamp="1495050132659">
         <mark key="[" line="8" column="0" />
@@ -247,10 +247,10 @@
         <mark key="." line="29" column="30" />
         <mark key="^" line="29" column="30" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/website/package.json" timestamp="1501098291500">
-        <mark key="[" line="117" column="64" />
-        <mark key="]" line="117" column="64" />
-        <mark key="." line="117" column="64" />
+      <file name="$USER_HOME$/Sites/amc/website/package.json" timestamp="1501105002887">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
         <mark key="^" line="118" column="55" />
       </file>
       <file name="$USER_HOME$/Sites/amc/graph/configs/devweb01.json" timestamp="1501095435156">
@@ -366,7 +366,7 @@
         <mark key="^" line="38" column="1" />
         <mark key="." line="38" column="1" />
       </file>
-      <file name="/start-dev.js" timestamp="1501100250169" />
+      <file name="/start-dev.js" timestamp="1501101618435" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/web2Lead/isFetchingRedirects.js" timestamp="1493831293392">
         <mark key="[" line="11" column="1" />
         <mark key="]" line="11" column="1" />
@@ -390,10 +390,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/website/gulpfile.babel.js" timestamp="1501101301259">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Sites/amc/website/gulpfile.babel.js" timestamp="1501104542027">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="37" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/web2Lead/_web2Lead.scss" timestamp="1493936049236">
         <mark key="[" line="3" column="1" />
@@ -615,7 +616,7 @@
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501101607012">
+      <file name="/Dummy.txt" timestamp="1501104546566">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/leadTierScoring/index.js" timestamp="1496872686868">
@@ -1586,23 +1587,23 @@
       <jump line="0" column="0" filename="$USER_HOME$/Sites/amc/graph/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC0tZW52aXJvbm1lbnQ9JHtlbnZpcm9ubWVudH1g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJkZWJ1Zzpwcm9kIjogInNldCBcIlNFQ1VSRT10cnVlXCIgJiYgc2V0IFwiR1JBUEg9aHR0cHM6Ly9ncmFwaC5hbWN0aGVhdHJlcy5jb20vXCIgJiYgbnBtIHJ1biBidWlsZC1lbnYgJiYgZ3VscCBzdGFydC1kZXYgLS1pbnNwZWN0IHRydWUgLS1zZXJ2ZXJFbnYgcHJvZCIsCg==</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0tZW52aXJvbm1lbnQ9JHtlbnZpcm9ubWVudH1g</text>
+        <text encoding="base64">IC0taW5zcGVjdCB0cnVl</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW5kZW50X3N0eWxlID0gc3BhY2UK</text>
+      <register name="0" type="4">
+        <text>gutil.env.inspect</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJzdGFydC1kZXYtb3N4IjogIm5wbSBydW4gYnVpbGQ6Y29udGVudCAmJiBOT0RFX0VOVj1kZXZlbG9wbWVudDsgZXhwb3J0IE5PREVfRU5WICYmIGd1bHAgc3RhcnQtZGV2IiwK</text>
+        <text encoding="base64">ICAgICJkZWJ1Zzpwcm9kIjogInNldCBcIlNFQ1VSRT10cnVlXCIgJiYgc2V0IFwiR1JBUEg9aHR0cHM6Ly9ncmFwaC5hbWN0aGVhdHJlcy5jb20vXCIgJiYgbnBtIHJ1biBidWlsZC1lbnYgJiYgZ3VscCBzdGFydC1kZXYgLS1pbnNwZWN0IHRydWUgLS1zZXJ2ZXJFbnYgcHJvZCIsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1614,28 +1615,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3NlcnZlckVudicsIHNlcnZlckVudik7Cg==</text>
+        <text encoding="base64">ICAgICJkZWJ1ZzpyZW1vdGUiOiAic2V0IFwiU0VDVVJFPXRydWVcIiAmJiBzZXQgXCJHUkFQSD1odHRwczovL2dyYXBoLiVucG1fY29uZmlnX2UlLmFtY3RoZWF0cmVzLmNvbS9cIiAmJiBzZXQgXCJOT0RFX0VOVj1kZXZlbG9wbWVudFwiICYmIG5wbSBydW4gYnVpbGQtZW52ICYmIGd1bHAgc3RhcnQtZGV2IC0taW5zcGVjdCB0cnVlIC0tc2VydmVyRW52ICVucG1fY29uZmlnX2UlIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgaXNEZWJ1ZyA9IGRlYnVnID8gZGVidWcuaW5jbHVkZXMoJ2RlYnVnJykgOiBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICJkZWJ1Zzpsb2NhbCI6ICJzZXQgXCJTRUNVUkU9ZmFsc2VcIiAmJiBzZXQgXCJHUkFQSD1odHRwOi8vZ3JhcGgubG9jYWxob3N0LiVucG1fY29uZmlnX2UlLmFtY3RoZWF0cmVzLmNvbS9cIiAmJiBzZXQgXCJOT0RFX0VOVj1kZXZlbG9wbWVudFwiICYmIG5wbSBydW4gYnVpbGQtZW52ICYmIGd1bHAgc3RhcnQtZGV2IC0taW5zcGVjdCB0cnVlIC0tc2VydmVyRW52ICVucG1fY29uZmlnX2UlIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgY29tbWFuZCA9IGBucG0gcnVuIHN0YXJ0LWRldiAke2lzRGVidWcgPyAnLS1pbnNwZWN0IHRydWUnIDogJyd9YDsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coJ2luc3BlY3RpbmcnLCBndXRpbC5lbnYuaW5zcGVjdCk7Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ3Rlc3RpbmcnLCBpc1NlY3VyZSwgaXNEZWJ1ZywgY29tbWFuZCk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgaXNEZWJ1ZyA9IGRlYnVnID8gZGVidWcuaW5jbHVkZXMoJ2RlYnVnJykgOiBmYWxzZTsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2FyZ3MnLCBwcm9jZXNzLmFyZ3YpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJzdGFydC1kZWJ1ZyI6ICJucG0gcnVuIGJ1aWxkLWVudiAmJiBndWxwIHN0YXJ0LWRldiAlbnBtX2NvbmZpZ19pbnNwZWN0JSAtLXNlcnZlckVudiAlbnBtX2NvbmZpZ19lbnZpcm9ubWVudCUiLAo=</text>
+        <text encoding="base64">Y29uc3QgY29tbWFuZCA9IGBucG0gcnVuIHN0YXJ0LWRldiAke2lzRGVidWcgPyAnLS1pbnNwZWN0IHRydWUnIDogJyd9YDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3NlcnZlckVudicsIHNlcnZlckVudiwgcHJvY2Vzcy5lbnYuRU5WSVJPTk1FTlQpOwo=</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gY29uc3Qgc2VydmVyRW52ID0gZ3V0aWwuZW52LnNlcnZlckVudiB8fCAnbG9jYWwnOwo=</text>
+        <text encoding="base64">ICAgICJzdGFydC1kZXYtb3N4IjogIm5wbSBydW4gYnVpbGQ6Y29udGVudCAmJiBOT0RFX0VOVj1kZXZlbG9wbWVudDsgZXhwb3J0IE5PREVfRU5WICYmIGd1bHAgc3RhcnQtZGV2IiwK</text>
       </register>
       <register name=":" type="4">
         <text>151</text>

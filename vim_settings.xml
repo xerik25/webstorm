@@ -12,11 +12,11 @@
         <mark key="^" line="20" column="8" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/website/start-dev.js" timestamp="1501088095436">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="65" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="20" />
+      <file name="$USER_HOME$/Sites/amc/website/start-dev.js" timestamp="1501089825818">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+        <mark key="^" line="10" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/leadTierData.js" timestamp="1494535166514">
         <mark key="[" line="11" column="0" />
@@ -385,11 +385,11 @@
         <mark key="^" line="104" column="98" />
         <mark key="." line="104" column="98" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/website/gulpfile.babel.js" timestamp="1501088545379">
-        <mark key="[" line="34" column="49" />
-        <mark key="]" line="35" column="35" />
-        <mark key="^" line="35" column="35" />
-        <mark key="." line="35" column="35" />
+      <file name="$USER_HOME$/Sites/amc/website/gulpfile.babel.js" timestamp="1501089885368">
+        <mark key="[" line="35" column="18" />
+        <mark key="]" line="35" column="40" />
+        <mark key="^" line="35" column="40" />
+        <mark key="." line="35" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/web2Lead/_web2Lead.scss" timestamp="1493936049236">
         <mark key="[" line="3" column="1" />
@@ -1548,22 +1548,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>--inspect true</text>
+        <text>gutil.env.serverEnv</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>--inspect true</text>
+        <text>gutil.env.serverEnv</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJkZWJ1ZyI6ICJucG0gcnVuIGJ1aWxkLWVudiAmJiBndWxwIHN0YXJ0LWRldiAtLWluc3BlY3QgdHJ1ZSAtLXNlcnZlckVudiAlbnBtX2NvbmZpZ19lbnZpcm9ubWVudCUiLAo=</text>
+        <text encoding="base64">Y29uc3Qgc2VydmVyRW52ID0gZ3V0aWwuZW52LnNlcnZlckVudiB8fCAnbG9jYWwnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgY29tbWFuZCA9IGBucG0gcnVuIHN0YXJ0LWRldiAtLWVudmlyb25tZW50PSR7ZW52aXJvbm1lbnR9YDsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3NlcnZlckVudicsIHNlcnZlckVudik7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1575,28 +1575,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWYgKCFlbnZpcm9ubWVudCkgdGhyb3cgbmV3IEVycm9yKCdmYWlsZWQgdG8gcGFzcyBlbnZpcm9ubWVudCBhcmd1bWVudCcpOwo=</text>
+        <text encoding="base64">Y29uc3QgY29tbWFuZCA9IGBucG0gcnVuIHN0YXJ0LWRldiAtLWVudmlyb25tZW50PSR7ZW52aXJvbm1lbnR9YDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aWYgKCFlbnZpcm9ubWVudCkgdGhyb3cgbmV3IEVycm9yKCdmYWlsZWQgdG8gcGFzcyBlbnZpcm9ubWVudCBhcmd1bWVudCcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzdGRvdXQpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXJyKSB0aHJvdyBlcnI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzdGRvdXQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIChlcnIsIHN0ZG91dCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXJyKSB0aHJvdyBlcnI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ0dSQVBIJykK</text>
+        <text encoding="base64">ICAgIChlcnIsIHN0ZG91dCkgPT4gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCQkJc3R5bGU9e3t3aWR0aDogJ2F1dG8nfX0K</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ0dSQVBIJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXsKCQlsYWJlbDogJ05vdGVzJywKCQljb21wb25lbnQ6ICgpID0+IHsKCQkJcmV0dXJuIDxEYXRhQ3VycmVudGx5VW5hdmFpbGFibGUvPgoJCX0KCX0sCgl7CgkJbGFiZWw6ICdOb3RlcycsCgkJY29tcG9uZW50OiAoKSA9PiB7CgkJCXJldHVybiA8RGF0YUN1cnJlbnRseVVuYXZhaWxhYmxlLz4KCQl9Cgl9LAoJewoJCWxhYmVsOiAnTm90ZXMnLAoJCWNvbXBvbmVudDogKCkgPT4gewoJCQlyZXR1cm4gPERhdGFDdXJyZW50bHlVbmF2YWlsYWJsZS8+CgkJfQoJfSwKCXsKCQlsYWJlbDogJ05vdGVzJywKCQljb21wb25lbnQ6ICgpID0+IHsKCQkJcmV0dXJuIDxEYXRhQ3VycmVudGx5VW5hdmFpbGFibGUvPgoJCX0KCX0sCgl7CgkJbGFiZWw6ICdOb3RlcycsCgkJY29tcG9uZW50OiAoKSA9PiB7CgkJCXJldHVybiA8RGF0YUN1cnJlbnRseVVuYXZhaWxhYmxlLz4KCQl9Cgl9LAoJewoJCWxhYmVsOiAnTm90ZXMnLAoJCWNvbXBvbmVudDogKCkgPT4gewoJCQlyZXR1cm4gPERhdGFDdXJyZW50bHlVbmF2YWlsYWJsZS8+CgkJfQoJfSwK</text>
+        <text encoding="base64">CQkJCQkJCQkJc3R5bGU9e3t3aWR0aDogJ2F1dG8nfX0K</text>
       </register>
       <register name=":" type="4">
         <text>151</text>

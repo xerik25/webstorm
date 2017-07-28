@@ -588,10 +588,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/payment/start-dev.js" timestamp="1501250852392">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Sites/amc/payment/start-dev.js" timestamp="1501252359609">
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="7" />
+        <mark key="." line="25" column="7" />
+        <mark key="^" line="25" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/selectedRow.spec.js" timestamp="1494963923267">
         <mark key="[" line="3" column="21" />
@@ -611,7 +612,7 @@
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501246186491">
+      <file name="/Dummy.txt" timestamp="1501252402967">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/leadTierScoring/index.js" timestamp="1496872686868">
@@ -1613,14 +1614,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Sites/amc/content/src/features/personality-portal/components/AboutMe/AboutMe.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFtdLAo=</text>
+      <register name="&quot;" type="4">
+        <text>[],</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>[],</text>
       </register>
       <register name="/" type="4">
         <text>out</text>

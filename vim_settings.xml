@@ -615,8 +615,10 @@
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501516217289">
+      <file name="/Dummy.txt" timestamp="1501534129342">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/leadTierScoring/index.js" timestamp="1496872686868">
         <mark key="[" line="12" column="0" />
@@ -1053,6 +1055,12 @@
         <mark key="^" line="51" column="32" />
         <mark key="." line="51" column="32" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/features/core/widgets/Header.js" timestamp="1501534358599">
+        <mark key="[" line="19" column="39" />
+        <mark key="]" line="20" column="36" />
+        <mark key="^" line="20" column="36" />
+        <mark key="." line="20" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/CardWithCollapsibleContent/CardWithCollapsibleContent.js" timestamp="1495810561254">
         <mark key="[" line="32" column="64" />
         <mark key="]" line="32" column="68" />
@@ -1286,11 +1294,11 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/core/widgets/addToCalendar.js" timestamp="1501270670943">
+      <file name="$USER_HOME$/Sites/amc/content/src/features/core/widgets/addToCalendar.js" timestamp="1501533311250">
         <mark key="'" line="0" column="19" />
-        <mark key="[" line="310" column="5" />
-        <mark key="]" line="310" column="5" />
-        <mark key="." line="310" column="5" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/quote-form/client/package.json" timestamp="1493929706444">
@@ -1637,13 +1645,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdhJwo=</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Error</text>
+        <text>missing semicolo</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
@@ -1652,7 +1660,7 @@
         <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgKi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdhJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1664,28 +1672,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzLmV4aXQoLTEpCg==</text>
+        <text encoding="base64">aW1wb3J0ICdhZGRUb0NhbGVuZGFyL2FkZCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBFcnJvcihlcnIpCg==</text>
+        <text encoding="base64">aW1wb3J0ICcnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFkZFRvQ2FsIGZyb20gJy4vYWRkVG9DYWxlbmRhcic7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3RhcnREZXZQcm9jZXNzLnN0ZG91dC5vbignZGF0YScsIGRhdGEgPT4gY29uc29sZS5sb2coZGF0YS50b1N0cmluZygpKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3RhcnREZXZQcm9jZXNzLnN0ZGVyci5vbignZGF0YScsIGRhdGEgPT4gY29uc29sZS5sb2coZGF0YS50b1N0cmluZygpKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdCAzJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdCAxJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3RhcnREZXZQcm9jZXNzLnN0ZG91dC5vbignZGF0YScsIGRhdGEgPT4gY29uc29sZS5sb2coZGF0YS50b1N0cmluZygpKSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0IDInKTsK</text>
       </register>
       <register name=":" type="4">
         <text>151</text>

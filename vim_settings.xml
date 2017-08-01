@@ -618,11 +618,6 @@
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501598820986">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/leadTierScoring/index.js" timestamp="1496872686868">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -802,11 +797,11 @@
         <mark key="." line="31" column="38" />
         <mark key="^" line="31" column="38" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/website/README.md" timestamp="1501598621564">
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="20" column="19" />
-        <mark key="." line="20" column="19" />
-        <mark key="^" line="20" column="19" />
+      <file name="$USER_HOME$/Sites/amc/website/README.md" timestamp="1501599923839">
+        <mark key="[" line="35" column="17" />
+        <mark key="]" line="35" column="17" />
+        <mark key="." line="35" column="18" />
+        <mark key="^" line="35" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/web2Lead/AppContainer.js" timestamp="1493820666559">
         <mark key="[" line="27" column="0" />
@@ -877,11 +872,11 @@
         <mark key="." line="71" column="6" />
         <mark key="^" line="71" column="6" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/payment/README.md" timestamp="1501598630867">
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="20" column="19" />
-        <mark key="." line="20" column="19" />
-        <mark key="^" line="20" column="19" />
+      <file name="$USER_HOME$/Sites/amc/payment/README.md" timestamp="1501599967087">
+        <mark key="[" line="28" column="17" />
+        <mark key="]" line="28" column="17" />
+        <mark key="." line="28" column="18" />
+        <mark key="^" line="28" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/components/leadTierInterface/LeadTierInterface.js" timestamp="1496412767946">
         <mark key="[" line="35" column="52" />
@@ -1050,11 +1045,11 @@
         <mark key="." line="76" column="40" />
         <mark key="^" line="76" column="40" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/graph/README.md" timestamp="1501598639772">
-        <mark key="[" line="16" column="18" />
-        <mark key="]" line="16" column="19" />
-        <mark key="^" line="16" column="19" />
-        <mark key="." line="16" column="19" />
+      <file name="$USER_HOME$/Sites/amc/graph/README.md" timestamp="1501599863247">
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="24" column="19" />
+        <mark key="^" line="24" column="19" />
+        <mark key="." line="24" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/routes.js" timestamp="1493935038921">
         <mark key="[" line="51" column="20" />
@@ -1651,14 +1646,14 @@
       <jump line="94" column="78" filename="$USER_HOME$/Sites/amc/website/Jenkinsfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LSBgLWRgIGZvciBkZWJ1ZyBtb2RlCg==</text>
+      <register name="&quot;" type="4">
+        <text>${flags}</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Example command:</text>
+        <text>${flags}</text>
       </register>
       <register name="/" type="4">
         <text>start</text>

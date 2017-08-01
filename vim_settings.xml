@@ -481,11 +481,11 @@
         <mark key="." line="6" column="59" />
         <mark key="^" line="6" column="67" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/AddToCalendar/_addToCalendar.scss" timestamp="1501616234608">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="26" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="10" column="19" />
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/AddToCalendar/_addToCalendar.scss" timestamp="1501617967116">
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="12" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/web2Lead/redirects.spec.js" timestamp="1494963936787">
         <mark key="[" line="3" column="19" />
@@ -625,7 +625,7 @@
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501614877878">
+      <file name="/Dummy.txt" timestamp="1501616884791">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/leadTierScoring/index.js" timestamp="1496872686868">
@@ -785,11 +785,11 @@
         <mark key="^" line="88" column="0" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/AddToCalendar/AddToCalendar.js" timestamp="1501616376112">
-        <mark key="[" line="38" column="87" />
-        <mark key="]" line="39" column="23" />
-        <mark key="." line="39" column="23" />
-        <mark key="^" line="39" column="23" />
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/AddToCalendar/AddToCalendar.js" timestamp="1501618051964">
+        <mark key="[" line="37" column="63" />
+        <mark key="]" line="38" column="31" />
+        <mark key="." line="38" column="31" />
+        <mark key="^" line="38" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/react-redux-boilerplate/src/styles/scss/module/_margin-and-padding.scss" timestamp="1494525814181">
         <mark key="[" line="45" column="0" />
@@ -1692,13 +1692,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>/somelink</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>/somelink</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
@@ -1707,7 +1707,7 @@
         <text encoding="base64">LkFkZFRvQ2FsZW5kYXIge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IHRhbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1719,28 +1719,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiBibGFjazsK</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IHRhbjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Rlc3RpbmcnLCBwcmV2U3RhdGUpOwo=</text>
+        <text encoding="base64">ICAgIGNvbG9yOiBibGFjazsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdGluZycsIHByZXZTdGF0ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Rlc3RpbmcnLCBwcmV2U3RhdGUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdGluZycsIHByZXZTdGF0ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9nZ2xlZDogc2hvd0NvbnRlbnQK</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9nZ2xlZDogc2hvd0NvbnRlbnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzaG93Q29udGVudCA9IHRvZ2dsZSA/ICF0aGlzLnN0YXRlLmNvbnRlbnRWaWV3IDogdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudERpZE1vdW50KCkgewogICAgICAgIGFkZFRvQ2FsKHdpbmRvdywgZG9jdW1lbnQpOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzaG93Q29udGVudCA9IHRvZ2dsZSA/ICF0aGlzLnN0YXRlLmNvbnRlbnRWaWV3IDogdHJ1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>151</text>

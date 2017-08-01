@@ -622,7 +622,7 @@
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501602599843">
+      <file name="/Dummy.txt" timestamp="1501608388448">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/leadTierScoring/index.js" timestamp="1496872686868">
@@ -744,6 +744,7 @@
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="19" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/AccountModal/AccountModal.js" timestamp="1501608621722" />
       <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/web2Lead/mode.js" timestamp="1496873621521">
         <mark key="[" line="6" column="11" />
         <mark key="]" line="6" column="16" />
@@ -774,12 +775,11 @@
         <mark key="." line="5" column="63" />
         <mark key="^" line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/styles/base/_accordion.scss" timestamp="1501179600800">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="^" line="88" column="0" />
-        <mark key="." line="89" column="0" />
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/AddToCalendar/AddToCalendar.js" timestamp="1501608807103">
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="12" column="41" />
+        <mark key="^" line="12" column="41" />
+        <mark key="." line="12" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/react-redux-boilerplate/src/styles/scss/module/_margin-and-padding.scss" timestamp="1494525814181">
         <mark key="[" line="45" column="0" />
@@ -792,6 +792,11 @@
         <mark key="]" line="32" column="12" />
         <mark key="^" line="32" column="12" />
         <mark key="." line="32" column="12" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/graph/configs/local-stage.json" timestamp="1501529265085">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/srts-server/client/src/components/CashReconciliation/ReconciliationTable.js" timestamp="1495464874490">
         <mark key="[" line="31" column="34" />
@@ -885,6 +890,11 @@
         <mark key="]" line="36" column="73" />
         <mark key="^" line="36" column="73" />
         <mark key="." line="36" column="73" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/features/core/components/Header/HeaderBranding.js" timestamp="1501608319423">
+        <mark key="[" line="54" column="3" />
+        <mark key="]" line="54" column="3" />
+        <mark key="." line="54" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/leadTierScoring/getUser.spec.js" timestamp="1494963829973">
         <mark key="[" line="2" column="27" />
@@ -1068,11 +1078,11 @@
         <mark key="^" line="51" column="32" />
         <mark key="." line="51" column="32" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/core/widgets/Header.js" timestamp="1501602597823">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="36" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/core/widgets/Header.js" timestamp="1501608877124">
+        <mark key="[" line="100" column="37" />
+        <mark key="]" line="101" column="35" />
+        <mark key="^" line="101" column="35" />
+        <mark key="." line="101" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/CardWithCollapsibleContent/CardWithCollapsibleContent.js" timestamp="1495810561254">
         <mark key="[" line="32" column="64" />
@@ -1305,13 +1315,6 @@
         <mark key="]" line="5" column="14" />
         <mark key="." line="5" column="14" />
         <mark key="^" line="1" column="21" />
-      </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/core/widgets/addToCalendar.js" timestamp="1501533311250">
-        <mark key="'" line="0" column="19" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="1" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/quote-form/client/package.json" timestamp="1493929706444">
         <mark key="[" line="12" column="0" />
@@ -1664,13 +1667,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>${flags}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>${flags}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
@@ -1679,7 +1682,7 @@
         <text encoding="base64">Y29uc29sZS5sb2coJ2Vudmlyb25tZW50JywgZW52aXJvbm1lbnQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSBgLWRgIGZvciBkZWJ1ZyBtb2RlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1691,28 +1694,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2Vudmlyb25tZW50JywgZW52aXJvbm1lbnQpOwpjb25zb2xlLmxvZygnZmxhZ3MnLCBmbGFncyk7CmNvbnNvbGUubG9nKCdjb21tYW5kJywgY29tbWFuZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlcnJvck1lc3NhZ2U6IG51bGwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2Vudmlyb25tZW50JywgZW52aXJvbm1lbnQpOwpjb25zb2xlLmxvZygnZmxhZ3MnLCBmbGFncyk7CmNvbnNvbGUubG9nKCdjb21tYW5kJywgY29tbWFuZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWx1ZTogJycsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3NlY3VyZScsIHByb2Nlc3MuZW52LlNFQ1VSRSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoYXNFcnJvcjogZmFsc2UsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2Vudmlyb25tZW50JywgZW52aXJvbm1lbnQpOwpjb25zb2xlLmxvZygnZmxhZ3MnLCBmbGFncyk7CmNvbnNvbGUubG9nKCdjb21tYW5kJywgY29tbWFuZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3N3b3JkOiB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VGhlIGZpcnN0IGFyZ3VtZW50IGZvciBlbnZpcm9ubWVudCBpcyByZXF1aXJlZC4gQWZ0ZXIgdGhhdCB5b3UgY2FuIHBhc3Mgb3B0aW9uYWwgZmxhZ3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlcnJvck1lc3NhZ2U6IG51bGwK</text>
       </register>
       <register name=":" type="4">
         <text>151</text>

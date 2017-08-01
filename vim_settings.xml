@@ -778,18 +778,11 @@
         <mark key="." line="5" column="63" />
         <mark key="^" line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/styles/base/_accordion.scss" timestamp="1501179600800">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="^" line="88" column="0" />
-        <mark key="." line="89" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/AddToCalendar/AddToCalendar.js" timestamp="1501618051964">
-        <mark key="[" line="37" column="63" />
-        <mark key="]" line="38" column="31" />
-        <mark key="." line="38" column="31" />
-        <mark key="^" line="38" column="31" />
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/AddToCalendar/AddToCalendar.js" timestamp="1501622480014">
+        <mark key="[" line="32" column="44" />
+        <mark key="]" line="32" column="48" />
+        <mark key="." line="32" column="48" />
+        <mark key="^" line="32" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/react-redux-boilerplate/src/styles/scss/module/_margin-and-padding.scss" timestamp="1494525814181">
         <mark key="[" line="45" column="0" />
@@ -1327,13 +1320,6 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/core/widgets/addToCalendar.js" timestamp="1501533311250">
-        <mark key="'" line="0" column="19" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="1" column="22" />
-      </file>
       <file name="$USER_HOME$/Projects/quote-form/client/package.json" timestamp="1493929706444">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -1488,9 +1474,6 @@
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components.scss" timestamp="1501613880767">
         <mark key="'" line="89" column="29" />
         <mark key="[" line="99" column="50" />
-        <mark key="]" line="100" column="50" />
-        <mark key="^" line="100" column="50" />
-        <mark key="." line="100" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/web2Lead/entityID.js" timestamp="1496871115118">
         <mark key="[" line="9" column="18" />
@@ -1692,22 +1675,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/somelink</text>
+        <text>!this.state.toggled</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>/somelink</text>
+        <text>!this.state.toggled</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LkFkZFRvQ2FsZW5kYXIge30K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKCgpID0+ICh7IHRvZ2dsZWQ6ICF0aGlzLnN0YXRlLnRvZ2dsZWQgfSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ1lvdSBjbGlja2VkIG91dHNpZGUgb2YgbWUhJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1719,28 +1702,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IHRhbjsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQWxlcnQgaWYgY2xpY2tlZCBvbiBvdXRzaWRlIG9mIGVsZW1lbnQKICAgICAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiBibGFjazsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogU2V0IHRoZSB3cmFwcGVyIHJlZgogICAgICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Rlc3RpbmcnLCBwcmV2U3RhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbGxhcHNlID0gdGhpcy5jb2xsYXBzZS5iaW5kKHRoaXMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdGluZycsIHByZXZTdGF0ZSkK</text>
+        <text encoding="base64">ICAgIGNvbGxhcHNlKCkgewogICAgICAgIGNvbnNvbGUubG9nKCdjb2xsYXBzZWQnKTsKICAgICAgICB0aGlzLnNldFN0YXRlKCgpID0+ICh7IHRvZ2dsZWQ6IGZhbHNlIH0pKTsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9nZ2xlZDogc2hvd0NvbnRlbnQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzaG93Q29udGVudCA9IHRvZ2dsZSA/ICF0aGlzLnN0YXRlLmNvbnRlbnRWaWV3IDogdHJ1ZTsK</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IHRhbjsK</text>
       </register>
       <register name=":" type="4">
         <text>151</text>

@@ -430,6 +430,12 @@
         <mark key="." line="5" column="2" />
         <mark key="^" line="5" column="2" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/graph/src/defaultAssetsConfig.js" timestamp="1501772990715">
+        <mark key="[" line="50" column="32" />
+        <mark key="]" line="51" column="42" />
+        <mark key="." line="51" column="42" />
+        <mark key="^" line="51" column="42" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/styles/scss/styles.scss" timestamp="1493936025447">
         <mark key="[" line="13" column="35" />
         <mark key="]" line="13" column="45" />
@@ -1394,14 +1400,14 @@
       <jump line="92" column="0" filename="$USER_HOME$/Sites/amc/content/src/presentation/components/AddToCalendar/AddToCalendar.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>:token/</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>:token/</text>
       </register>
       <register name="/" type="4">
         <text>start</text>

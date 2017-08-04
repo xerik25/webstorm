@@ -54,12 +54,12 @@
         <mark key="." line="88" column="77" />
         <mark key="^" line="88" column="77" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/graph/src/connectors/AssetsConnector.js" timestamp="1501869658385">
+      <file name="$USER_HOME$/Sites/amc/graph/src/connectors/AssetsConnector.js" timestamp="1501871451506">
         <mark key="'" line="151" column="22" />
-        <mark key="[" line="184" column="12" />
-        <mark key="]" line="183" column="41" />
-        <mark key="." line="183" column="41" />
-        <mark key="^" line="183" column="41" />
+        <mark key="[" line="155" column="37" />
+        <mark key="]" line="155" column="37" />
+        <mark key="." line="155" column="37" />
+        <mark key="^" line="155" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/loginErrorMessage.js" timestamp="1494351631579">
         <mark key="[" line="7" column="47" />
@@ -1407,20 +1407,20 @@
       <jump line="151" column="22" filename="$USER_HOME$/Sites/amc/graph/src/connectors/AssetsConnector.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBpY3NFdmVudCA9IGAKICAgICAgICAgICAgQkVHSU46VkNBTEVOREFSCiAgICAgICAgICAgIFZFUlNJT046Mi4wCiAgICAgICAgICAgIFBST0RJRDoKICAgICAgICAgICAgWC1QVUJMSVNIRUQtVFRMOlAxVwogICAgICAgICAgICBCRUdJTjpWRVZFTlQKICAgICAgICAgICAgVUlEOjU5N2Y5ZmZmZTZkZjEKICAgICAgICAgICAgRFRTVEFSVDoke2RhdGVTdGFydH0KICAgICAgICAgICAgU0VRVUVOQ0U6MAogICAgICAgICAgICBUUkFOU1A6T1BBUVVFCiAgICAgICAgICAgIERURU5EOiR7ZGF0ZUVuZH0KICAgICAgICAgICAgTE9DQVRJT046JHtsb2NhdGlvbn0KICAgICAgICAgICAgU1VNTUFSWToke3RpdGxlfQogICAgICAgICAgICBDTEFTUzpQVUJMSUMKICAgICAgICAgICAgREVTQ1JJUFRJT046JHtkZXNjcmlwdGlvbn0KICAgICAgICAgICAgT1JHQU5JWkVSOiR7b3JnYW5pemVyfSA8JHtvcmdhbml6ZXJFbWFpbH0+CiAgICAgICAgICAgIERUU1RBTVA6MTEKICAgICAgICAgICAgRU5EOlZFVkVOVAogICAgICAgICAgICBFTkQ6VkNBTEVOREFSYDsK</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>: body</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBpY3NFdmVudCA9IGAKICAgICAgICAgICAgQkVHSU46VkNBTEVOREFSCiAgICAgICAgICAgIFZFUlNJT046Mi4wCiAgICAgICAgICAgIFBST0RJRDoKICAgICAgICAgICAgWC1QVUJMSVNIRUQtVFRMOlAxVwogICAgICAgICAgICBCRUdJTjpWRVZFTlQKICAgICAgICAgICAgVUlEOjU5N2Y5ZmZmZTZkZjEKICAgICAgICAgICAgRFRTVEFSVDoke2RhdGVTdGFydH0KICAgICAgICAgICAgU0VRVUVOQ0U6MAogICAgICAgICAgICBUUkFOU1A6T1BBUVVFCiAgICAgICAgICAgIERURU5EOiR7ZGF0ZUVuZH0KICAgICAgICAgICAgTE9DQVRJT046JHtsb2NhdGlvbn0KICAgICAgICAgICAgU1VNTUFSWToke3RpdGxlfQogICAgICAgICAgICBDTEFTUzpQVUJMSUMKICAgICAgICAgICAgREVTQ1JJUFRJT046JHtkZXNjcmlwdGlvbn0KICAgICAgICAgICAgT1JHQU5JWkVSOiR7b3JnYW5pemVyfSA8JHtvcmdhbml6ZXJFbWFpbH0+CiAgICAgICAgICAgIERUU1RBTVA6MTEKICAgICAgICAgICAgRU5EOlZFVkVOVAogICAgICAgICAgICBFTkQ6VkNBTEVOREFSYDsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBpY3NFdmVudCA9CiAgICAgICAgICAgIGBCRUdJTjpWQ0FMRU5EQVJccmAgKwogICAgICAgICAgICBgVkVSU0lPTjoyLjBccmAgKwogICAgICAgICAgICBgUFJPRElEOlxyYCArCiAgICAgICAgICAgIGBYLVBVQkxJU0hFRC1UVEw6UDFXXHJgICsKICAgICAgICAgICAgYEJFR0lOOlZFVkVOVFxyYCArCiAgICAgICAgICAgIGBVSUQ6NTk3ZjlmZmZlNmRmMVxyYCArCiAgICAgICAgICAgIGBEVFNUQVJUOiR7ZGF0ZVN0YXJ0fVxyYCArCiAgICAgICAgICAgIGBTRVFVRU5DRTowXHJgICsKICAgICAgICAgICAgYFRSQU5TUDpPUEFRVUVccmAgKwogICAgICAgICAgICBgRFRFTkQ6JHtkYXRlRW5kfVxyYCArCiAgICAgICAgICAgIGBMT0NBVElPTjoke2xvY2F0aW9ufVxyYCArCiAgICAgICAgICAgIGBTVU1NQVJZOiR7dGl0bGV9XHJgICsKICAgICAgICAgICAgYENMQVNTOlBVQkxJQ1xyYCArCiAgICAgICAgICAgIGBERVNDUklQVElPTjoke2Rlc2NyaXB0aW9ufVxyYCArCiAgICAgICAgICAgIGBPUkdBTklaRVI6JHtvcmdhbml6ZXJ9IDwke29yZ2FuaXplckVtYWlsfT5ccmAgKwogICAgICAgICAgICBgRFRTVEFNUDoxMVxyYCArCiAgICAgICAgICAgIGBFTkQ6VkVWRU5UXHJgICsKICAgICAgICAgICAgYEVORDpWQ0FMRU5EQVJgOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>

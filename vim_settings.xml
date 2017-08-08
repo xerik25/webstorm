@@ -526,7 +526,7 @@
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502141288015">
+      <file name="/Dummy.txt" timestamp="1502220536590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/leadTierScoring/index.js" timestamp="1496872686868">
@@ -674,12 +674,12 @@
         <mark key="." line="5" column="63" />
         <mark key="^" line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/AddToCalendar/AddToCalendar.js" timestamp="1502217775591">
-        <mark key="'" line="95" column="0" />
-        <mark key="[" line="86" column="23" />
-        <mark key="]" line="86" column="23" />
-        <mark key="." line="86" column="23" />
-        <mark key="^" line="45" column="39" />
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/AddToCalendar/AddToCalendar.js" timestamp="1502220696439">
+        <mark key="'" line="97" column="0" />
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="13" column="43" />
+        <mark key="." line="13" column="43" />
+        <mark key="^" line="13" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/react-redux-boilerplate/src/styles/scss/module/_margin-and-padding.scss" timestamp="1494525814181">
         <mark key="[" line="45" column="0" />
@@ -906,11 +906,11 @@
         <mark key="^" line="51" column="32" />
         <mark key="." line="51" column="32" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/core/widgets/Header.js" timestamp="1501623899550">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="45" column="3" />
-        <mark key="^" line="45" column="3" />
-        <mark key="." line="45" column="3" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/core/widgets/Header.js" timestamp="1502220816177">
+        <mark key="[" line="53" column="10" />
+        <mark key="]" line="53" column="10" />
+        <mark key="^" line="53" column="10" />
+        <mark key="." line="53" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/CardWithCollapsibleContent/CardWithCollapsibleContent.js" timestamp="1495810561254">
         <mark key="[" line="32" column="64" />
@@ -1400,13 +1400,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>: organizerEmail</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>: organizerEmail</text>
       </register>
       <register name="/" type="4">
         <text>dist</text>
@@ -1415,7 +1415,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlcS5xdWVyeS50eXBlID09PSAnZ29vZ2xlJykgewogICAgICAgICAgICAgICAgcmV0dXJuIHJlcy5yZWRpcmVjdChgaHR0cHM6Ly9jYWxlbmRhci5nb29nbGUuY29tL2NhbGVuZGFyL3JlbmRlcj9hY3Rpb249VEVNUExBVEUmZGF0ZXM9JHtkYXRlU3RhcnR9LyR7ZGF0ZUVuZH0mbG9jYXRpb249JHtsb2NhdGlvbn0mdGV4dD0ke3RpdGxlfSZkZXRhaWxzPSR7ZGVzY3JpcHRpb259I2V2ZW50cGFnZV82YCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbW9tZW50KGRhdGUpLmZvcm1hdCgnWVlZWU1NRERUSEhtbXNzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3JnYW5pemVyRW1haWw9IiIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1427,28 +1427,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gcmVzb2x2ZUJ1ZmZlcihyZXEsIHJlcywgY29uZmlnLCBhc3luYyBjb250ZXh0ID0+IHsKICAgICAgICAvLyAgICAgY29uc3QgYm9keSA9IGF3YWl0IGNvbnRleHQuY29ubmVjdG9ycy5hc3NldHMub3JkZXJQZXJmb3JtYW5jZUljcyhyZXEucGFyYW1zLnRva2VuLCByZXEucGFyYW1zLnNrdSwgcmVxLnF1ZXJ5KQogICAgICAgIC8vICAgICAgICAgLnRoZW4ocmVzcG9uc2UgPT4gcmVzcG9uc2UpOwogICAgICAgIC8vICAgICByZXR1cm4gewogICAgICAgIC8vICAgICAgICAgc3RhdHVzQ29kZTogMjAwLAogICAgICAgIC8vICAgICAgICAgYm9keSwKICAgICAgICAvLyAgICAgICAgIGhlYWRlcnM6IHsKICAgICAgICAvLyAgICAgICAgICAgICAnY29udGVudC10eXBlJzogJ3RleHQvY2FsZW5kYXInCiAgICAgICAgLy8gICAgICAgICB9CiAgICAgICAgLy8gICAgIH07CiAgICAgICAgLy8gfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3JnYW5pemVyPSIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHsgZGF0ZVN0YXJ0LCBkYXRlRW5kLCB0aW1lem9uZSwgdGl0bGUsIGRlc2NyaXB0aW9uLCBsb2NhdGlvbiwgb3JnYW5pemVyLCBvcmdhbml6ZXJFbWFpbCB9ID0gcmVxLnF1ZXJ5Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9jYXRpb249IiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVzY3JpcHRpb249IiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gcmVzLnJlZGlyZWN0KCdodHRwczovL2NhbGVuZGFyLmdvb2dsZS5jb20vY2FsZW5kYXIvcmVuZGVyP2FjdGlvbj1URU1QTEFURSZkYXRlcz0yMDE3MDgwOFQxMjAwMDAvMjAxNzA4MDhUMTgwMDAwJmxvY2F0aW9uPVRhdG9vaW5lJnRleHQ9U3RhciUyMFdhcnMlMjBEYXklMjBQYXJ0eSZkZXRhaWxzPU1heSUyMHRoZSUyMGZvcmNlJTIwYmUlMjB3aXRoJTIweW91I2V2ZW50cGFnZV82Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU9IiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhyZWY6ICcvaWNzJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGltZXpvbmU9IiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGF0ZUVuZD0iMjAxNy0wOC0wOCAxODowMDowMCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0ZVN0YXJ0OiB0aGlzLmZvcm1hdERhdGUoZXZlbnREYXRhLmRhdGVTdGFydCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGF0ZVN0YXJ0PSIyMDE3LTA4LTA4IDEyOjAwOjAwIiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IERhdGUoZGF0ZSkudG9JU09TdHJpbmcoKS5yZXBsYWNlKC8tfDp8XC5bMC05XXszfS9nLCAnJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>151</text>

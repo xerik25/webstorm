@@ -684,11 +684,11 @@
         <mark key="." line="5" column="63" />
         <mark key="^" line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/AddToCalendar/AddToCalendar.js" timestamp="1502291330926">
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/AddToCalendar/AddToCalendar.js" timestamp="1502292360879">
         <mark key="'" line="97" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="52" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="34" />
+        <mark key="." line="8" column="34" />
         <mark key="^" line="4" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/react-redux-boilerplate/src/styles/scss/module/_margin-and-padding.scss" timestamp="1494525814181">
@@ -1413,14 +1413,14 @@
       <jump line="37" column="0" filename="$USER_HOME$/Sites/amc/graph/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gQ2hlY2tib3gucHJvcFR5cGVzID0gewo=</text>
+      <register name="&quot;" type="4">
+        <text>.isRequired</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>event</text>
+        <text>.isRequired</text>
       </register>
       <register name="/" type="4">
         <text>dist</text>

@@ -544,7 +544,12 @@
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502316776107" />
+      <file name="/Dummy.txt" timestamp="1502378622250">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="42" />
+        <mark key="." line="0" column="42" />
+        <mark key="o" line="0" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/leadTierScoring/index.js" timestamp="1496872686868">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -603,6 +608,12 @@
         <mark key="]" line="4" column="13" />
         <mark key="^" line="26" column="5" />
         <mark key="." line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/Confirmation.js" timestamp="1502378642201">
+        <mark key="[" line="53" column="110" />
+        <mark key="]" line="54" column="37" />
+        <mark key="^" line="54" column="37" />
+        <mark key="." line="54" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/leadTierScoring/setisNotifying.spec.js" timestamp="1494963847772">
         <mark key="[" line="3" column="35" />
@@ -800,10 +811,10 @@
         <mark key="^" line="71" column="6" />
       </file>
       <file name="$USER_HOME$/Sites/amc/payment/README.md" timestamp="1502141229103">
-        <mark key="[" line="29" column="85" />
-        <mark key="]" line="29" column="86" />
-        <mark key="." line="29" column="86" />
-        <mark key="^" line="29" column="85" />
+        <mark key="[" line="18" column="85" />
+        <mark key="]" line="18" column="86" />
+        <mark key="." line="18" column="86" />
+        <mark key="^" line="18" column="85" />
       </file>
       <file name="$USER_HOME$/Sites/amc/graph/src/schema/types/showtimes/ShowtimeType.js" timestamp="1502303506645">
         <mark key="[" line="4" column="0" />
@@ -1454,13 +1465,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb21lbnRcPg==</text>

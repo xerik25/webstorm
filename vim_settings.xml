@@ -741,11 +741,11 @@
         <mark key="." line="31" column="38" />
         <mark key="^" line="31" column="38" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/graph/src/resolvers/queries/showtime/Showtime.js" timestamp="1502465581420">
-        <mark key="[" line="78" column="21" />
-        <mark key="]" line="78" column="27" />
-        <mark key="^" line="78" column="27" />
-        <mark key="." line="78" column="27" />
+      <file name="$USER_HOME$/Sites/amc/graph/src/resolvers/queries/showtime/Showtime.js" timestamp="1502466482212">
+        <mark key="[" line="78" column="24" />
+        <mark key="]" line="78" column="29" />
+        <mark key="^" line="78" column="29" />
+        <mark key="." line="78" column="29" />
       </file>
       <file name="$USER_HOME$/Sites/amc/website/README.md" timestamp="1502141186158">
         <mark key="[" line="18" column="13" />
@@ -1457,13 +1457,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>testing</text>
+        <text>context.connectors.showtimes.getCalendarCtas(source)</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>testing</text>
+        <text>context.connectors.showtimes.getCalendarCtas(source)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb21lbnRcPg==</text>

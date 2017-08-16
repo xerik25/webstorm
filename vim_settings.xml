@@ -157,6 +157,9 @@
         <mark key="." line="51" column="11" />
         <mark key="^" line="51" column="11" />
       </file>
+      <file name="/GraphQL.variables.json" timestamp="1502806792842">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/services/moveTabs.js" timestamp="1498746906342">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -243,7 +246,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="27" column="56" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/website/configs/js/local-codev/base.json" timestamp="1502827459613" />
+      <file name="$USER_HOME$/Sites/amc/website/configs/js/local-codev/base.json" timestamp="1502831912823" />
       <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/CardWithTabsAndContent/_cardWithTabsAndContent.scss" timestamp="1495807638923">
         <mark key="[" line="26" column="13" />
         <mark key="]" line="29" column="30" />
@@ -287,6 +290,9 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="6" column="27" />
       </file>
+      <file name="/GraphQL.result.json" timestamp="1502806750173">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-sales-web/client/src/components/common/CardWithCollapsibleContent.js" timestamp="1495728179651">
         <mark key="[" line="3" column="71" />
         <mark key="]" line="3" column="92" />
@@ -316,6 +322,12 @@
         <mark key="]" line="8" column="31" />
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/widgets/CheckoutConfirmationMessage.js" timestamp="1502833680796">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="37" />
+        <mark key="^" line="29" column="37" />
+        <mark key="." line="29" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/package.json" timestamp="1494962216246">
         <mark key="[" line="11" column="25" />
@@ -570,6 +582,9 @@
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
+      <file name="/Dummy.txt" timestamp="1502833632343">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/leadTierScoring/index.js" timestamp="1496872686868">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -678,7 +693,7 @@
         <mark key="." line="11" column="1" />
         <mark key="^" line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/graph/configs/test03.json" timestamp="1502825538236" />
+      <file name="$USER_HOME$/Sites/amc/graph/configs/test03.json" timestamp="1502831261492" />
       <file name="$USER_HOME$/Sites/amc/graph/configs/local-test03.json" timestamp="1502829130482">
         <mark key="[" line="6" column="53" />
         <mark key="]" line="6" column="53" />
@@ -1069,6 +1084,7 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/website/configs/js/cotest/base.json" timestamp="1502831942172" />
       <file name="$USER_HOME$/Sites/amc/graph/configs/local.json" timestamp="1502827268139">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -1503,13 +1519,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>${domain}.</text>
+        <text>{} } = user</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>${domain}.</text>
+        <text>{} } = user</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb21lbnRcPg==</text>

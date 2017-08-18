@@ -596,8 +596,10 @@
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503014380571">
+      <file name="/Dummy.txt" timestamp="1503014509686">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/leadTierScoring/index.js" timestamp="1496872686868">
         <mark key="[" line="12" column="0" />
@@ -1560,14 +1562,14 @@
       <jump line="6" column="41" filename="$USER_HOME$/Sites/amc/graph/src/resolvers/queries/account/AccountEvent.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRvbWFpbiA9IGVudmlyb25tZW50LnN1YnN0cmluZyhlbnZpcm9ubWVudC5pbmRleE9mKCctJykgKyAxKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Updating build step in jenkins file</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXN5bmMg</text>
+        <text>Updating build step in jenkins file</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb21lbnRcPg==</text>

@@ -331,11 +331,11 @@
         <mark key="^" line="21" column="15" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/AddToCalendar/AddToCalendar.js" timestamp="1503683300013">
-        <mark key="[" line="57" column="55" />
-        <mark key="]" line="57" column="55" />
-        <mark key="^" line="1" column="34" />
-        <mark key="." line="57" column="55" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/AddToCalendar/AddToCalendar.js" timestamp="1503936024198">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="21" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="11" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/package.json" timestamp="1494962216246">
         <mark key="[" line="11" column="25" />
@@ -586,7 +586,7 @@
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503684009882">
+      <file name="/Dummy.txt" timestamp="1503935580441">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/leadTierScoring/index.js" timestamp="1496872686868">
@@ -854,11 +854,11 @@
         <mark key="^" line="36" column="73" />
         <mark key="." line="36" column="73" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/AddToCalendar/AddToCalendarList.js" timestamp="1503679889310">
-        <mark key="[" line="1" column="34" />
-        <mark key="]" line="1" column="34" />
-        <mark key="." line="1" column="34" />
-        <mark key="^" line="1" column="34" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/AddToCalendar/AddToCalendarList.js" timestamp="1503935411835">
+        <mark key="[" line="4" column="45" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+        <mark key="^" line="5" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/leadTierScoring/getUser.spec.js" timestamp="1494963829973">
         <mark key="[" line="2" column="27" />
@@ -1215,9 +1215,9 @@
         <mark key="^" line="93" column="45" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/AddToCalendar/AddToCalendarLink.js" timestamp="1502912525938">
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="14" column="36" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/AddToCalendar/AddToCalendarLink.js" timestamp="1503933916254">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="8" column="12" />
         <mark key="." line="14" column="36" />
         <mark key="^" line="14" column="36" />
       </file>
@@ -1359,12 +1359,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/test/unit/features/addToCalendar/AddToCalendar.spec.js" timestamp="1503932016984">
-        <mark key="'" line="6" column="8" />
-        <mark key="[" line="18" column="8" />
-        <mark key="]" line="18" column="12" />
-        <mark key="^" line="18" column="12" />
-        <mark key="." line="18" column="12" />
+      <file name="$USER_HOME$/Sites/amc/content/test/unit/features/addToCalendar/AddToCalendar.spec.js" timestamp="1503938157404">
+        <mark key="'" line="36" column="8" />
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="77" column="12" />
+        <mark key="." line="19" column="12" />
+        <mark key="^" line="77" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/closeTierModal.js" timestamp="1493836439550">
         <mark key="[" line="5" column="3" />
@@ -1470,14 +1470,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="54" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/components/App.js" />
-      <jump line="73" column="0" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/components/App.js" />
-      <jump line="12" column="39" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/updateTier.spec.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/constants/leadTierFakeData.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" />
-      <jump line="93" column="0" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" />
-      <jump line="17" column="7" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" />
-      <jump line="30" column="18" filename="$USER_HOME$/Projects/sc-marketing-web/package.json" />
       <jump line="62" column="0" filename="$USER_HOME$/Projects/sc-marketing-web/package.json" />
       <jump line="12" column="71" filename="$USER_HOME$/Projects/sc-marketing-web/package.json" />
       <jump line="52" column="0" filename="$USER_HOME$/Projects/sc-marketing-web/package.json" />
@@ -1570,10 +1562,18 @@
       <jump line="58" column="12" filename="$USER_HOME$/Sites/amc/content/test/unit/features/addToCalendar/AddToCalendar.spec.js" />
       <jump line="76" column="0" filename="$USER_HOME$/Sites/amc/content/test/unit/features/addToCalendar/AddToCalendar.spec.js" />
       <jump line="6" column="8" filename="$USER_HOME$/Sites/amc/content/test/unit/features/addToCalendar/AddToCalendar.spec.js" />
+      <jump line="53" column="52" filename="$USER_HOME$/Sites/amc/content/test/unit/features/addToCalendar/AddToCalendar.spec.js" />
+      <jump line="60" column="0" filename="$USER_HOME$/Sites/amc/content/test/unit/features/addToCalendar/AddToCalendar.spec.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/Sites/amc/content/test/unit/features/addToCalendar/AddToCalendar.spec.js" />
+      <jump line="57" column="12" filename="$USER_HOME$/Sites/amc/content/test/unit/features/addToCalendar/AddToCalendar.spec.js" />
+      <jump line="61" column="0" filename="$USER_HOME$/Sites/amc/content/test/unit/features/addToCalendar/AddToCalendar.spec.js" />
+      <jump line="4" column="70" filename="$USER_HOME$/Sites/amc/content/test/unit/features/addToCalendar/AddToCalendar.spec.js" />
+      <jump line="49" column="28" filename="$USER_HOME$/Sites/amc/content/test/unit/features/addToCalendar/AddToCalendar.spec.js" />
+      <jump line="36" column="8" filename="$USER_HOME$/Sites/amc/content/test/unit/features/addToCalendar/AddToCalendar.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbW9ja0xpbmtzID0gWwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHRleHQ6ICdHb29nbGUnLAogICAgICAgICAgICAgICAgICAgIGhyZWY6ICdnb29nbGUuY29tJywKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdGV4dDogJ1lhaG9vJywKICAgICAgICAgICAgICAgICAgICBocmVmOiAneWFob28uY29tJywKICAgICAgICAgICAgICAgIH0sCgogICAgICAgICAgICBdOwo=</text>
+      <register name="&quot;" type="4">
+        <text>.only</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1585,10 +1585,10 @@
         <text encoding="base64">XDxtb21lbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbW9ja0xpbmtzID0gWwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHRleHQ6ICdHb29nbGUnLAogICAgICAgICAgICAgICAgICAgIGhyZWY6ICdnb29nbGUuY29tJywKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdGV4dDogJ1lhaG9vJywKICAgICAgICAgICAgICAgICAgICBocmVmOiAneWFob28uY29tJywKICAgICAgICAgICAgICAgIH0sCgogICAgICAgICAgICBdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FsZW5kYXJMaXN0LnByb3AoJ2xpbmtzJylbMF0udGV4dC5zaG91bGQuZXF1YWwobW9ja0xpbmtzWzBdLnRleHQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbW9ja0xpbmtzID0gWwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHRleHQ6ICdHb29nbGUnLAogICAgICAgICAgICAgICAgICAgIGhyZWY6ICdnb29nbGUuY29tJywKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdGV4dDogJ1lhaG9vJywKICAgICAgICAgICAgICAgICAgICBocmVmOiAneWFob28uY29tJywKICAgICAgICAgICAgICAgIH0sCgogICAgICAgICAgICBdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgY2FsZW5kYXJMaXN0ID0gd3JhcHBlci5maW5kKEFkZFRvQ2FsZW5kYXJMaXN0KTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1600,28 +1600,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbW9ja0xpbmtzID0gWwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHRleHQ6ICdHb29nbGUnLAogICAgICAgICAgICAgICAgICAgIGhyZWY6ICdnb29nbGUuY29tJywKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdGV4dDogJ1lhaG9vJywKICAgICAgICAgICAgICAgICAgICBocmVmOiAneWFob28uY29tJywKICAgICAgICAgICAgICAgIH0sCgogICAgICAgICAgICBdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgY2FsZW5kYXJMaXN0ID0gd3JhcHBlci5maW5kKEFkZFRvQ2FsZW5kYXJMaXN0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbW9ja0xpbmtzID0gWwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHRleHQ6ICdHb29nbGUnLAogICAgICAgICAgICAgICAgICAgIGhyZWY6ICdnb29nbGUuY29tJywKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdGV4dDogJ1lhaG9vJywKICAgICAgICAgICAgICAgICAgICBocmVmOiAneWFob28uY29tJywKICAgICAgICAgICAgICAgIH0sCgogICAgICAgICAgICBdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc29sZS5sb2coJ3Rlc3RpbmcnLCB3cmFwcGVyLmZpbmQoQWRkVG9DYWxlbmRhckxpc3QpLnByb3AoJ2xpbmtzJykpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Rlc3RpbmcnLCB3cmFwcGVyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbW9ja0xpbmtzID0gWwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHRleHQ6ICdHb29nbGUnLAogICAgICAgICAgICAgICAgICAgIGhyZWY6ICdnb29nbGUuY29tJywKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdGV4dDogJ1lhaG9vJywKICAgICAgICAgICAgICAgICAgICBocmVmOiAneWFob28uY29tJywKICAgICAgICAgICAgICAgIH0sCgogICAgICAgICAgICBdOwo=</text>
+        <text encoding="base64">ICAgICAgICBpdCgnJywgKCkgPT4gewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgZXhwZWN0ID0gY2hhaS5leHBlY3Q7Cg==</text>
+        <text encoding="base64">ICAgIGRlc2NyaWJlKCdObyBsaW5rczsgcmV0dXJucyBudWxsIGFuZCBkb2VzIG5vdCByZW5kZXIgY29tcG9uZW50JywgKCkgPT4gewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNoYWkgZnJvbSAnY2hhaSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2FkZENhbCcsIHdyYXBwZXIuZmluZChBZGRUb0NhbGVuZGFyTGlzdCkuZXhpc3RzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB3cmFwcGVyID0gc2hhbGxvdyg8QWRkVG9DYWxlbmRhckxpc3QvPik7CiAgICAgICAgd3JhcHBlci5jaGlsZHJlbigpLmxlbmd0aC5zaG91bGQuZXF1YWwoMCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZXhwZWN0KHdyYXBwZXIuZmluZChBZGRUb0NhbGVuZGFyTGlzdCkuZXhpc3RzKCkpLnRvLmJlKGZhbHNlKTsK</text>
+        <text encoding="base64">CiAgICAgICAgaXQoJ05vIGxpbmtzOyByZXR1cm5zIG51bGwgYW5kIGRvZXMgbm90IHJlbmRlciBjb21wb25lbnQnLCAoKSA9PiB7CiAgICAgICAgICAgIGNvbnN0IHdyYXBwZXIgPSBzaGFsbG93KDxBZGRUb0NhbGVuZGFyTGlzdC8+KTsKICAgICAgICAgICAgd3JhcHBlci5jaGlsZHJlbigpLmxlbmd0aC5zaG91bGQuZXF1YWwoMCk7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

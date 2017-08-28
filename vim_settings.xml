@@ -114,6 +114,7 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="13" />
       </file>
+      <file name="/AddToCalendar.spec.js" timestamp="1503954665656" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/isNotifying.spec.js" timestamp="1494964009908">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="3" />
@@ -295,6 +296,7 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="6" column="27" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/content/test/unit/features/gift-cards/components/GiftCardBalance.spec.js" timestamp="1503954223577" />
       <file name="$USER_HOME$/Projects/sc-sales-web/client/src/components/common/CardWithCollapsibleContent.js" timestamp="1495728179651">
         <mark key="[" line="3" column="71" />
         <mark key="]" line="3" column="92" />
@@ -391,9 +393,6 @@
         <mark key="]" line="6" column="62" />
         <mark key="^" line="6" column="63" />
         <mark key="." line="6" column="62" />
-      </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/CheckoutConfirmationSummary/CheckoutConfirmationSummary.js" timestamp="1503509858983">
-        <mark key="[" line="226" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/actions/actionTypes.js" timestamp="1498633460634">
         <mark key="[" line="36" column="5" />
@@ -586,10 +585,10 @@
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503948569853">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1503954670076">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/leadTierScoring/index.js" timestamp="1496872686868">
         <mark key="[" line="12" column="0" />
@@ -1361,12 +1360,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/test/unit/features/addToCalendar/AddToCalendar.spec.js" timestamp="1503948545126">
+      <file name="$USER_HOME$/Sites/amc/content/test/unit/features/addToCalendar/AddToCalendar.spec.js" timestamp="1503955206138">
         <mark key="'" line="36" column="8" />
-        <mark key="[" line="53" column="8" />
-        <mark key="]" line="53" column="8" />
-        <mark key="." line="53" column="8" />
-        <mark key="^" line="64" column="30" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="50" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/closeTierModal.js" timestamp="1493836439550">
         <mark key="[" line="5" column="3" />
@@ -1574,23 +1573,23 @@
       <jump line="36" column="8" filename="$USER_HOME$/Sites/amc/content/test/unit/features/addToCalendar/AddToCalendar.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Removed .only on my tests and removed hasClass checks</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FsZW5kYXJMaXN0LmV4aXN0cygpLnNob3VsZC5lcXVhbCh0cnVlKTsK</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Removed .only on my tests and removed hasClass checks</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb21lbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vZGUucHJvcCgndGV4dCcpLnNob3VsZC5lcXVhbChtb2NrTGlua3NbaV0udGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChub2RlLnByb3AoJ3RleHQnKSkudG8uZXF1YWwobW9ja0xpbmtzW2ldLnRleHQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aHR0cHM6Ly9iaXRidWNrZXQub3JnL2FtY3RoZWF0cmVzL2NvbnRlbnQvY29tbWl0cy84ZWI1ODFmZWNlNzQwN2I3Y2VkMjUxYWIyZTdkNjFhNDAxZDA0YjgwI2NvbW1lbnQtNTE0NzY4Mwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FsZW5kYXJMaXN0LmV4aXN0cygpLnNob3VsZC5lcXVhbCh0cnVlKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1602,28 +1601,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aHR0cHM6Ly9iaXRidWNrZXQub3JnL2FtY3RoZWF0cmVzL2NvbnRlbnQvY29tbWl0cy84ZWI1ODFmZWNlNzQwN2I3Y2VkMjUxYWIyZTdkNjFhNDAxZDA0YjgwI2NvbW1lbnQtNTE0NzY5MAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd3JhcHBlci5wcm9wKCdocmVmJykuc2hvdWxkLmVxdWFsKG1vY2tMaW5rc1swXS5ocmVmKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdGVzdGluZyA9IHdyYXBwZXIuZmluZChBZGRUb0NhbGVuZGFyTGluayk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd3JhcHBlci5jaGlsZHJlbigpLmxlbmd0aC5zaG91bGQuZXF1YWwoMCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3dyYXBwZXInLCB3cmFwcGVyLmRlYnVnKCkpOwogICAgICAgICAgICBjb25zb2xlLmxvZygndGVzdGluZycsIHRlc3RpbmcuZGVidWcoKSk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCd0ZXN0aW5nMicsIHdyYXBwZXIuY29udGFpbnMoPEFkZFRvQ2FsZW5kYXJMaW5rIGxpbms9Imdvb2dsZS5jb20iIHRleHQ9Ikdvb2dsZSIgLz4pKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vZGUucHJvcCgnbGluaycpLnNob3VsZC5lcXVhbChtb2NrTGlua3NbaV0uaHJlZik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc3QgcmVzdWx0ID0gd3JhcHBlci5jb250YWluc01hdGNoaW5nRWxlbWVudCgKICAgICAgICAgICAgICAgIHsvKjx1bCBjbGFzc05hbWU9IkFkZFRvQ2FsZW5kYXJfX2xpc3QiPiovfQogICAgICAgICAgICAgICAgICAgIHsvKjxBZGRUb0NhbGVuZGFyTGluayBsaW5rPSJnb29nbGUuY29tIiB0ZXh0PSJHb29nbGUiIC8+Ki99CiAgICAgICAgICAgICAgICAgICAgey8qPEFkZFRvQ2FsZW5kYXJMaW5rIGxpbms9InlhaG9vLmNvbSIgdGV4dD0iWWFob28iIC8+Ki99CiAgICAgICAgICAgICAgICAvLyA8L3VsPgogICAgICAgICAgICAvLyApOwogICAgICAgICAgICAvLyByZXN1bHQuc2hvdWxkLmVxdWFsKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vZGUucHJvcCgndGV4dCcpLnNob3VsZC5lcXVhbChtb2NrTGlua3NbaV0udGV4dCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCd0ZXN0aW5nMycsIG5vZGUucHJvcCgndGV4dCcpLCBpLCBub2RlLnByb3AoJ2xpbmsnKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmsuaHJlZi5zaG91bGQuZXF1YWwobW9ja0xpbmtzW2ldLmhyZWYpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdub2RlJywgbm9kZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmsudGV4dC5zaG91bGQuZXF1YWwobW9ja0xpbmtzW2ldLnRleHQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc29sZS5sb2coJ3Rlc3RpbmczJywgdGVzdGluZy5wcm9wKCd0ZXh0JykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gd3JhcHBlci5jaGlsZHJlbigpLmxlbmd0aC5zaG91bGQuZXF1YWwoMCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChub2RlLmhhc0NsYXNzKCdmb28nKSkudG8uZXF1YWwodHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gd3JhcHBlci5jaGlsZHJlbigpLmxlbmd0aC5zaG91bGQuZXF1YWwoMCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

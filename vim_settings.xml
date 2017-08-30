@@ -556,11 +556,11 @@
         <mark key="." line="17" column="8" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/CheckoutHeader.js" timestamp="1504106093374">
-        <mark key="[" line="67" column="20" />
-        <mark key="]" line="68" column="55" />
-        <mark key="^" line="68" column="55" />
-        <mark key="." line="68" column="55" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/CheckoutHeader.js" timestamp="1504107331352">
+        <mark key="[" line="62" column="33" />
+        <mark key="]" line="62" column="41" />
+        <mark key="." line="62" column="41" />
+        <mark key="^" line="62" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/TabsAndContent/TabsAndContent.js" timestamp="1495810292483">
         <mark key="[" line="86" column="11" />
@@ -1623,22 +1623,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>remainingMs</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>remainingMs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb21lbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy50aWNrKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2V4cCcsIHJlbWFpbmluZ01zKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVzdGFydFRpbWVyJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1650,28 +1650,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3JlbWFpbmluZ01zJywgcmVtYWluaW5nTXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbm9wZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3JlbWFpbmluZ01zJywgcmVtYWluaW5nTXMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmlyc3QgdGVzdCcsIHRlc3RpbmcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbm9wZScpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdGVzdGluZyA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

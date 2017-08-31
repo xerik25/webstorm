@@ -1013,11 +1013,11 @@
         <mark key="^" line="7" column="58" />
         <mark key="." line="7" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/graph/src/schema/mutations/MutationType.js" timestamp="1504193478698">
-        <mark key="[" line="15" column="22" />
-        <mark key="]" line="15" column="22" />
-        <mark key="." line="15" column="22" />
-        <mark key="^" line="15" column="13" />
+      <file name="$USER_HOME$/Sites/amc/graph/src/schema/mutations/MutationType.js" timestamp="1504195656388">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+        <mark key="^" line="15" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/sc-sales-web/client/src/components/common/CardWithSlidesAndContent.js" timestamp="1495570095904">
         <mark key="[" line="24" column="31" />
@@ -1442,6 +1442,12 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="9" column="18" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/graph/src/resolvers/mutations/orders/orderInput.js" timestamp="1504195020511">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="20" />
+        <mark key="^" line="2" column="25" />
+        <mark key="." line="12" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/verticalCard/VerticalCard.style.js" timestamp="1498222437165">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1667,13 +1673,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Fulfill</text>
+        <text>Input</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Fulfill</text>
+        <text>Input</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb21lbnRcPg==</text>

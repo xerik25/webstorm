@@ -572,11 +572,11 @@
         <mark key="." line="17" column="8" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/CheckoutHeader.js" timestamp="1504625573992">
+      <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/CheckoutHeader.js" timestamp="1504631187607">
         <mark key="[" line="16" column="31" />
-        <mark key="]" line="16" column="34" />
-        <mark key="." line="16" column="34" />
-        <mark key="^" line="16" column="34" />
+        <mark key="]" line="16" column="35" />
+        <mark key="." line="16" column="35" />
+        <mark key="^" line="16" column="35" />
       </file>
       <file name="$USER_HOME$/Sites/amc/website/configs/js/local-test01/base.json" timestamp="1504128017657">
         <mark key="[" line="4" column="35" />
@@ -636,6 +636,9 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="18" column="11" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1504626556896">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/leadTierScoring/changeNotificationMessage.spec.js" timestamp="1494963805472">
         <mark key="[" line="3" column="46" />
@@ -1669,14 +1672,14 @@
       <jump line="47" column="43" filename="$USER_HOME$/Sites/amc/content/src/features/checkout/components/CheckoutHeader.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdGluZycsIG9yZGVyLl9saW5rc1snaHR0cHM6Ly9hcGkuYW1jdGhlYXRyZXMuY29tL3JlbHMvdjMvb3JkZXItcmVmcmVzaC1leHBpcmF0aW9uJ10uaHJlZik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>`${order._links.self.href}/refresh-expiration`</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb21lbnRcPg==</text>

@@ -360,12 +360,12 @@
         <mark key="^" line="21" column="15" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/AddToCalendar/AddToCalendar.js" timestamp="1504724835516">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="35" />
-        <mark key="^" line="0" column="35" />
-        <mark key="." line="0" column="35" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/AddToCalendar/AddToCalendar.js" timestamp="1504729310887">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="58" column="91" />
+        <mark key="]" line="58" column="91" />
+        <mark key="^" line="59" column="28" />
+        <mark key="." line="58" column="91" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/package.json" timestamp="1494962216246">
         <mark key="[" line="11" column="25" />
@@ -646,7 +646,7 @@
         <mark key="^" line="18" column="11" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504721504159">
+      <file name="/Dummy.txt" timestamp="1504728967326">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -859,7 +859,7 @@
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/static/icons/_generated/icons.data.svg.css" timestamp="1504719895375" />
+      <file name="$USER_HOME$/Sites/amc/content/static/icons/_generated/icons.data.svg.css" timestamp="1504728035401" />
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/user/data.spec.js" timestamp="1494963885033">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="26" />
@@ -1692,17 +1692,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Updates to AddToCalendar from Amanda Dennis
-
-- Add theatre name to title in calendar event
-- Add &quot;Add to calendar&quot; text to component
-- Moved position of icon and component</text>
+        <text encoding="base64">IEFkZFRvQ2FsZW5kYXJfX3RleHQ=</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, PropTypes</text>
+        <text encoding="base64">IEFkZFRvQ2FsZW5kYXJfX3RleHQ=</text>
       </register>
       <register name="/" type="4">
         <text>pointer</text>
@@ -1710,12 +1706,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8SWNvbiBjbGFzc05hbWU9IkFkZFRvQ2FsZW5kYXJfX2ljb24gaWNvbiBpY29uX2NhbGVuZGFyIi8+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>Updates to AddToCalendar from Amanda Dennis
-
-- Add theatre name to title in calendar event
-- Add &quot;Add to calendar&quot; text to component
-- Moved position of icon and component</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IExpbmsgZnJvbSAnLi4vLi4vcHJlc2VudGF0aW9uL2NvbXBvbmVudHMvVUkvTGluayc7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1727,28 +1719,32 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8SWNvbiBjbGFzc05hbWU9IkFkZFRvQ2FsZW5kYXJfX2ljb24gaWNvbiBpY29uX2NhbGVuZGFyIi8+Cg==</text>
+      <register name="3" type="4">
+        <text>Updates to AddToCalendar from Amanda Dennis
+
+- Add theatre name to title in calendar event
+- Add &quot;Add to calendar&quot; text to component
+- Moved position of icon and component</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8SWNvbiBjbGFzc05hbWU9IkFkZFRvQ2FsZW5kYXJfX2ljb24gaWNvbiBpY29uX2FkZFRvQ2FsZW5kYXIiLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8SWNvbiBjbGFzc05hbWU9IkFkZFRvQ2FsZW5kYXJfX2ljb24gaWNvbiBpY29uX2NhbGVuZGFyIi8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8SWNvbiBjbGFzc05hbWU9IkFkZFRvQ2FsZW5kYXJfX2ljb24gaWNvbiBpY29uX2FkZFRvQ2FsZW5kYXIiLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgey8qPEljb24gY2xhc3NOYW1lPSJBZGRUb0NhbGVuZGFyX19pY29uIGljb24gaWNvbl9hZGRUb0NhbGVuZGFyIi8+Ki99Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3RoZWF0cmVUZXN0JywgdGhlYXRyZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ21vdmllVGVzdCcsIG1vdmllKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgey8qPEljb24gY2xhc3NOYW1lPSJBZGRUb0NhbGVuZGFyX19pY29uIGljb24gaWNvbl9hZGRUb0NhbGVuZGFyIi8+Ki99Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

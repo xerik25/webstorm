@@ -238,11 +238,11 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/widgets/CheckoutOrderSummary.js" timestamp="1504715924067">
-        <mark key="[" line="159" column="105" />
-        <mark key="]" line="159" column="109" />
-        <mark key="^" line="159" column="109" />
-        <mark key="." line="159" column="109" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/widgets/CheckoutOrderSummary.js" timestamp="1504735290007">
+        <mark key="[" line="153" column="39" />
+        <mark key="]" line="154" column="59" />
+        <mark key="^" line="154" column="59" />
+        <mark key="." line="154" column="59" />
       </file>
       <file name="$USER_HOME$/Sites/amc/graph/configs/local-test02.json" timestamp="1504731044518">
         <mark key="[" line="16" column="0" />
@@ -427,6 +427,12 @@
         <mark key="]" line="6" column="62" />
         <mark key="^" line="6" column="63" />
         <mark key="." line="6" column="62" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/CheckoutConfirmationSummary/CheckoutConfirmationSummary.js" timestamp="1504735215973">
+        <mark key="[" line="234" column="42" />
+        <mark key="]" line="234" column="48" />
+        <mark key="." line="234" column="48" />
+        <mark key="^" line="234" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/actions/actionTypes.js" timestamp="1498633460634">
         <mark key="[" line="36" column="5" />
@@ -637,6 +643,11 @@
         <mark key="^" line="18" column="11" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1504731242888">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/actions/leadTierScoring/changeNotificationMessage.spec.js" timestamp="1494963805472">
         <mark key="[" line="3" column="46" />
         <mark key="]" line="3" column="52" />
@@ -696,6 +707,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="3" column="41" />
         <mark key="^" line="3" column="33" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/graph/src/connectors/ShowtimesConnector.js" timestamp="1504713592063">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="^" line="119" column="38" />
+        <mark key="." line="120" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/domains/marketing-web/src/reducers/leadTierScoring/savedSelectedRow.js" timestamp="1496870296724">
         <mark key="[" line="6" column="54" />
@@ -1672,14 +1689,14 @@
       <jump line="78" column="0" filename="$USER_HOME$/Sites/amc/content/src/features/AddToCalendar/AddToCalendar.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgImdyYXBoIjogewogICAgImJhc2VVcmkiOiAiaHR0cDovL2dyYXBoLnRlc3QwNC5hbWN0aGVhdHJlcy5jb20iCiAgfSwK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEFkZFRvQ2FsZW5kYXJfX3RleHQ=</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>pointer</text>

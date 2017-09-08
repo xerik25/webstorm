@@ -609,11 +609,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/CheckoutHeader.js" timestamp="1504809473545">
+      <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/CheckoutHeader.js" timestamp="1504887836604">
         <mark key="[" line="16" column="31" />
-        <mark key="]" line="16" column="35" />
-        <mark key="^" line="16" column="35" />
-        <mark key="." line="16" column="35" />
+        <mark key="]" line="16" column="34" />
+        <mark key="^" line="16" column="34" />
+        <mark key="." line="16" column="34" />
       </file>
       <file name="$USER_HOME$/Sites/amc/website/configs/js/local-test01/base.json" timestamp="1504128017657">
         <mark key="[" line="4" column="35" />
@@ -1753,13 +1753,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rel=&quot;noopener noreferrer&quot;</text>
+        <text>false</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>rel=&quot;noopener noreferrer&quot;</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>

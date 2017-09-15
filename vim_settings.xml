@@ -393,10 +393,10 @@
         <mark key="^" line="6" column="63" />
         <mark key="." line="6" column="62" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/UI/MovieRuntimeToolTip.js" timestamp="1505488379631">
-        <mark key="[" line="64" column="28" />
-        <mark key="]" line="64" column="28" />
-        <mark key="." line="64" column="28" />
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/UI/MovieRuntimeToolTip.js" timestamp="1505489356225">
+        <mark key="[" line="50" column="62" />
+        <mark key="]" line="50" column="62" />
+        <mark key="." line="50" column="62" />
         <mark key="^" line="64" column="35" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/MoviePosters/_movie-posters.scss" timestamp="1505247481523">
@@ -1632,13 +1632,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text>, 'hover'</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>, 'hover'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>

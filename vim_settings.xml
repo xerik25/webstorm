@@ -293,7 +293,7 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="6" column="27" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1505318792470">
+      <file name="/GraphQL.result.json" timestamp="1505749895571">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-sales-web/client/src/components/common/CardWithCollapsibleContent.js" timestamp="1495728179651">
@@ -500,7 +500,6 @@
         <mark key="^" line="45" column="47" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/MyAMC/QRMovieTitleHeader/QRMovieTitleHeader.js" timestamp="1505491347000" />
       <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/CardsWIthTabsAndContent.style.js" timestamp="1496700617433">
         <mark key="[" line="3" column="3" />
         <mark key="]" line="5" column="2" />
@@ -537,11 +536,11 @@
         <mark key="." line="7" column="24" />
         <mark key="^" line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/CheckoutHeader.js" timestamp="1505321562152">
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="16" column="35" />
-        <mark key="." line="16" column="35" />
-        <mark key="^" line="16" column="35" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/CheckoutHeader.js" timestamp="1505757267646">
+        <mark key="[" line="64" column="92" />
+        <mark key="]" line="70" column="44" />
+        <mark key="." line="70" column="44" />
+        <mark key="^" line="70" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/TabsAndContent/TabsAndContent.js" timestamp="1495810292483">
         <mark key="[" line="86" column="11" />
@@ -1616,14 +1615,14 @@
       <jump line="111" column="8" filename="$USER_HOME$/Sites/amc/content/src/presentation/components/MovieTitleHeader/_movie.title.header.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGN1cnNvcjogcG9pbnRlcjsK</text>
+      <register name="&quot;" type="4">
+        <text>This I/E is dependent</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, { PropTypes }</text>
+        <text>This I/E is dependent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
@@ -1632,7 +1631,7 @@
         <text encoding="base64">ICAgIGN1cnNvcjogcG9pbnRlcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IHVuY29tbWVudCB3aGVuIHN1YnNjcmlwdGlvbnMgcm9sbCBvdXQuCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1644,28 +1643,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IHNob3dFeHBpcmVkTW9kYWwsIHNob3dNb3JlVGltZU1vZGFsLCByZW1haW5pbmcgfSA9IHRoaXMuc3RhdGU7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdGluZycsIG9yZGVyKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IHNob3dFeHBpcmVkTW9kYWwsIHNob3dNb3JlVGltZU1vZGFsLCByZW1haW5pbmcgfSA9IHRoaXMuc3RhdGU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdGluZycsIG9yZGVyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Lk1vdmllUG9zdGVyc0dyaWQtcnVudGltZUljb24gewogICAgbWFyZ2luOiAwIDAgcmVtKDZweCkgcmVtKDVweCk7CiAgICBoZWlnaHQ6IDE4cHg7CiAgICB3aWR0aDogMThweDsKfQoKLk1vdmllUG9zdGVyc0dyaWQtcnVudGltZSB7CiAgICBkaXNwbGF5OiBpbmxpbmUtZmxleDsK</text>
+        <text encoding="base64">ICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LlNob3d0aW1lcy1ydW50aW1lSWNvbiB7CiAgICBtYXJnaW46IDAgMCByZW0oM3B4KSByZW0oNXB4KTsKICAgIGhlaWdodDogMTZweDsKICAgIHdpZHRoOiAxNnB4Owp9Cg==</text>
+        <text encoding="base64">Lk1vdmllUG9zdGVyc0dyaWQtcnVudGltZUljb24gewogICAgbWFyZ2luOiAwIDAgcmVtKDZweCkgcmVtKDVweCk7CiAgICBoZWlnaHQ6IDE4cHg7CiAgICB3aWR0aDogMThweDsKfQoKLk1vdmllUG9zdGVyc0dyaWQtcnVudGltZSB7CiAgICBkaXNwbGF5OiBpbmxpbmUtZmxleDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LlNob3d0aW1lcy1ydW50aW1lSWNvbiB7CiAgICBtYXJnaW46IDAgMCByZW0oM3B4KSByZW0oNXB4KTsKICAgIGhlaWdodDogMTZweDsKICAgIHdpZHRoOiAxNnB4Owp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Lk1vdmllVGl0bGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

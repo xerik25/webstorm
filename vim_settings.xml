@@ -386,10 +386,10 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/graph/src/resolvers/queries/Viewer.js" timestamp="1505855431562">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="42" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/Sites/amc/graph/src/resolvers/queries/Viewer.js" timestamp="1505857224530">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sc-marketing-web/client/src/components/web2Lead/_web2Lead.scss" timestamp="1493936049236">
         <mark key="[" line="3" column="1" />
@@ -613,7 +613,7 @@
         <mark key="^" line="18" column="11" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505854922918">
+      <file name="/Dummy.txt" timestamp="1505855592452">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/styles/base/_icons.scss" timestamp="1505499840197">
@@ -1053,7 +1053,7 @@
         <mark key="." line="83" column="0" />
         <mark key="^" line="19" column="96" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/graph/src/schema/types/ViewerType.js" timestamp="1505853578472" />
+      <file name="$USER_HOME$/Sites/amc/graph/src/schema/types/ViewerType.js" timestamp="1505856234785" />
       <file name="$USER_HOME$/Projects/sc-web/client/src/components/common/CardWithCollapsibleContent/CardWithCollapsibleContent.js" timestamp="1495810561254">
         <mark key="[" line="32" column="64" />
         <mark key="]" line="32" column="68" />
@@ -1649,13 +1649,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdhc2RmJywgaXRlbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdmZHNhJywgaW5mbyk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>item.node.theatres.edges[0].node.name</text>
+        <text>context</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
@@ -1664,7 +1664,7 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYXNkZicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdhc2RmJywgaXRlbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdmZHNhJywgaW5mbyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1676,28 +1676,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYXNkZicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdhc2RmJywgaXRlbSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhc2RmYXNkZicpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYXNkZicpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGl0bGVvJywgc291cmNlKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhc2RmYXNkZicpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbGFuZG9uJywgdGl0bGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGl0bGVvJywgc291cmNlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvcHMnLCBwcm9wcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbGFuZG9uJywgdGl0bGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3RoZWF0cmVGcmFnbWVudCcsIHRoZWF0cmVGcmFnbWVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvcHMnLCBwcm9wcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbGFuZG9uJywgdXJpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3RoZWF0cmVGcmFnbWVudCcsIHRoZWF0cmVGcmFnbWVudCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZGF0YScsIGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbGFuZG9uJywgdXJpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

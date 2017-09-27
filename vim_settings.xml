@@ -6,11 +6,41 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1506097054932">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/features/gift-cards/components/GiftCardBalance.js" timestamp="1506546604561">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="6" />
+        <mark key="." line="36" column="6" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1506545625075">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/theatres/widgets/FindATheatreLocationsModal.js" timestamp="1505852685163">
         <mark key="[" line="13" column="37" />
         <mark key="]" line="13" column="46" />
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/CheckoutHeader.js" timestamp="1505757267646">
+        <mark key="[" line="64" column="92" />
+        <mark key="]" line="70" column="44" />
+        <mark key="." line="70" column="44" />
+        <mark key="^" line="70" column="44" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/graph/src/connectors/TheatresConnector.js" timestamp="1505933284362">
+        <mark key="[" line="32" column="33" />
+        <mark key="]" line="32" column="33" />
+        <mark key="." line="32" column="33" />
+        <mark key="^" line="32" column="33" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/website/gulpfile.babel.js" timestamp="1506543145535">
+        <mark key="[" line="291" column="0" />
+        <mark key="]" line="291" column="4" />
+        <mark key="." line="291" column="4" />
       </file>
       <file name="$USER_HOME$/Sites/amc/graph/src/connectors/LocationsConnector.js" timestamp="1505933400703">
         <mark key="[" line="10" column="28" />
@@ -18,55 +48,17 @@
         <mark key="." line="10" column="30" />
         <mark key="^" line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/gift-cards/components/GiftCardBalance.js" timestamp="1506544979620">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="1" column="34" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/amc/website/node_modules/prettier/README.md" timestamp="1506543444097" />
-      <file name="$USER_HOME$/Sites/amc/website/package.json" timestamp="1506536997516">
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1506536667565">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/amc/website/gulpfile.babel.js" timestamp="1506543145535">
-        <mark key="[" line="291" column="0" />
-        <mark key="]" line="291" column="4" />
-        <mark key="." line="291" column="4" />
-      </file>
-      <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/package.json" timestamp="1506432099135" />
-      <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/CheckoutHeader.js" timestamp="1505757267646">
-        <mark key="[" line="64" column="92" />
-        <mark key="]" line="70" column="44" />
-        <mark key="." line="70" column="44" />
-        <mark key="^" line="70" column="44" />
-      </file>
-      <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieList/components/MovieListEdit.js" timestamp="1506008061277" />
       <file name="$USER_HOME$/Sites/amc/graph/src/resolvers/queries/location/Location.js" timestamp="1505940158175">
         <mark key="[" line="28" column="12" />
         <mark key="]" line="28" column="16" />
         <mark key="." line="28" column="16" />
         <mark key="^" line="28" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506097054932">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Sites/amc/website/package.json" timestamp="1506536997516">
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/graph/src/schema/types/ViewerType.js" timestamp="1505856234785" />
-      <file name="$USER_HOME$/Sites/amc/graph/src/utils/caching/createLruCache.js" timestamp="1506445007444" />
-      <file name="$USER_HOME$/Sites/amc/graph/src/instrumentation.js" timestamp="1505838467998" />
-      <file name="$USER_HOME$/Sites/amc/graph/src/connectors/TheatresConnector.js" timestamp="1505933284362">
-        <mark key="[" line="32" column="33" />
-        <mark key="]" line="32" column="33" />
-        <mark key="." line="32" column="33" />
-        <mark key="^" line="32" column="33" />
-      </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/theatres/widgets/FindATheatre.js" timestamp="1505931290917" />
     </filemarks>
     <jumps>
       <jump line="36" column="12" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/components/leadTierInterface/LeadTierInterface.js" />

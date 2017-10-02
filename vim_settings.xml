@@ -6,7 +6,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1506973131978">
+      <file name="/Dummy.txt" timestamp="1506974629459">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -18,10 +18,11 @@
         <mark key="[" line="294" column="0" />
         <mark key="]" line="296" column="16" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/modals/components/PasswordResetModal.js" timestamp="1506973168835">
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/modals/components/PasswordResetModal.js" timestamp="1506975167405">
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="19" column="27" />
+        <mark key="." line="21" column="26" />
+        <mark key="^" line="19" column="27" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/theatres/widgets/FindATheatreLocationsModal.js" timestamp="1505852685163">
         <mark key="[" line="13" column="37" />
@@ -51,6 +52,12 @@
         <mark key="]" line="104" column="67" />
         <mark key="." line="104" column="67" />
         <mark key="^" line="104" column="67" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/modals.js" timestamp="1506974987690">
+        <mark key="[" line="392" column="0" />
+        <mark key="]" line="393" column="33" />
+        <mark key="^" line="393" column="33" />
+        <mark key="." line="393" column="33" />
       </file>
       <file name="$USER_HOME$/Sites/amc/graph/src/connectors/LocationsConnector.js" timestamp="1505933400703">
         <mark key="[" line="10" column="28" />
@@ -178,23 +185,23 @@
       <jump line="111" column="8" filename="$USER_HOME$/Sites/amc/content/src/presentation/components/MovieTitleHeader/_movie.title.header.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICA8YSBjbGFzc05hbWU9IkxvZ2luLUZvcmdvdFBhc3N3b3JkIExpbmsgTGluay0tcmV2ZXJzZWQiCiAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBvcGVuTW9kYWwoJ1Bhc3N3b3JkUmVzZXRNb2RhbCcsIHt9LCB0aGlzLmNvbnRleHQubG9jYXRpb24sIHRoaXMuY29udGV4dC5yb3V0ZXIpfT4KICAgICAgICAgICAgICAgICAgICBGb3Jnb3QgcGFzc3dvcmQ/CiAgICAgICAgICAgICAgICA8L2E+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>disable</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>handleSetView</text>
+        <text>disable</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgY2xhc3NOYW1lPSJMb2dpbi1Gb3Jnb3RQYXNzd29yZCBMaW5rIExpbmstLXJldmVyc2VkIiBvbkNsaWNrPXsoKSA9PiB0aGlzLmhhbmRsZVNldFZpZXcoJ0ZvcmdvdFBhc3N3b3JkJyl9PgogICAgICAgICAgICAgICAgRm9yZ290IHBhc3N3b3JkPwogICAgICAgICAgICA8L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBlc2xpbnQtZGlzYWJsZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICA8YSBjbGFzc05hbWU9IkxvZ2luLUZvcmdvdFBhc3N3b3JkIExpbmsgTGluay0tcmV2ZXJzZWQiCiAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBvcGVuTW9kYWwoJ1Bhc3N3b3JkUmVzZXRNb2RhbCcsIHt9LCB0aGlzLmNvbnRleHQubG9jYXRpb24sIHRoaXMuY29udGV4dC5yb3V0ZXIpfT4KICAgICAgICAgICAgICAgICAgICBGb3Jnb3QgcGFzc3dvcmQ/CiAgICAgICAgICAgICAgICA8L2E+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwYXJhbXMnLCBwYXJhbXMpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -206,28 +213,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7Lyo8QnV0dG9uIG9uQ2xpY2s9eygpID0+IHRoaXMuKCdMb2dpbicpfT5CYWNrIHRvIExvZ2luPC9CdXR0b24+Ki99Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA8YSBjbGFzc05hbWU9IkxvZ2luLUZvcmdvdFBhc3N3b3JkIExpbmsgTGluay0tcmV2ZXJzZWQiCiAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBvcGVuTW9kYWwoJ1Bhc3N3b3JkUmVzZXRNb2RhbCcsIHt9LCB0aGlzLmNvbnRleHQubG9jYXRpb24sIHRoaXMuY29udGV4dC5yb3V0ZXIpfT4KICAgICAgICAgICAgICAgICAgICBGb3Jnb3QgcGFzc3dvcmQ/CiAgICAgICAgICAgICAgICA8L2E+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7Lyo8QnV0dG9uIG9uQ2xpY2s9eygpID0+IHRoaXMuKCdMb2dpbicpfT5CYWNrIHRvIExvZ2luPC9CdXR0b24+Ki99Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aDI+RnJlZSBXaS1GaTwvaDI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aDI+RnJlZSBXaS1GaTwvaDI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aDI+RnJlZSBXaS1GaTwvaDI+Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q2FwaXRhbGl6ZSBBTUMgaW4gc2VhcmNoIHJlc3VsdHMgZm9yIHRoZWF0cmVzCgpCZWZvcmUgcmV0dXJuaW5nIHRpdGxlIGZyb20gQVBJIHJ1biBhIGNoZWNrIHRvIHNlZSBpZiBBTUMgaXMgaW4gdGhlIAp0aXRsZSBhbmQgY2FwaXRhbGl6ZSBpdAo=</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRpdGxlOwo=</text>
+        <text encoding="base64">Q2FwaXRhbGl6ZSBBTUMgaW4gc2VhcmNoIHJlc3VsdHMgZm9yIHRoZWF0cmVzCgpCZWZvcmUgcmV0dXJuaW5nIHRpdGxlIGZyb20gQVBJIHJ1biBhIGNoZWNrIHRvIHNlZSBpZiBBTUMgaXMgaW4gdGhlIAp0aXRsZSBhbmQgY2FwaXRhbGl6ZSBpdAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

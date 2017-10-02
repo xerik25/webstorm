@@ -18,11 +18,11 @@
         <mark key="[" line="294" column="0" />
         <mark key="]" line="296" column="16" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/modals/components/PasswordResetModal.js" timestamp="1506977447700">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="27" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/modals/components/PasswordResetModal.js" timestamp="1506979372434">
+        <mark key="[" line="97" column="71" />
+        <mark key="]" line="97" column="72" />
+        <mark key="." line="97" column="72" />
+        <mark key="^" line="97" column="72" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/theatres/widgets/FindATheatreLocationsModal.js" timestamp="1505852685163">
         <mark key="[" line="13" column="37" />
@@ -186,22 +186,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text>;</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxpbmtUby5xdWVyeSA9IGxvY2F0aW9uLnF1ZXJ5Owo=</text>
+        <text encoding="base64">ICAgICAgICAvKiBlc2xpbnQtZGlzYWJsZSAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAvKiBlc2xpbnQtZW5hYmxlICovCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -213,28 +213,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeTogeyBwYXJhbTE6ICdzb21ldGhpbmcnIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbG9jYWx0aW9uJywgdGhpcy5wcm9wcy5sb2NhdGlvbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRobmFtZTogJy9hbWMtc3R1YnMtd2lmaS9zaWduaW4nLAo=</text>
+        <text encoding="base64">ICAgICAgICAvKiBlc2xpbnQtZGlzYWJsZSAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJvdXRlci5wdXNoKHsK</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxpbmtUby5xdWVyeS5zb21ldGhpbmcgPSBwYXJhbXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeTogeyBwYXJhbTE6ICdzb21ldGhpbmcnIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxpbmtUby5xdWVyeSA9IGxvY2F0aW9uLnF1ZXJ5Owo=</text>
+        <text encoding="base64">ICAgICAgICBwYXRobmFtZTogJy9hbWMtc3R1YnMtd2lmaS9zaWduaW4nLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvKiBlc2xpbnQtZW5hYmxlICovCg==</text>
+        <text encoding="base64">ICAgIHJvdXRlci5wdXNoKHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdGluZycsIHByb3BzLnN0YXRlKTsK</text>
+        <text encoding="base64">ICAgIGxpbmtUby5xdWVyeS5zb21ldGhpbmcgPSBwYXJhbXM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvKiBlc2xpbnQtZGlzYWJsZSAqLwo=</text>
+        <text encoding="base64">ICAgIGxpbmtUby5xdWVyeSA9IGxvY2F0aW9uLnF1ZXJ5Owo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

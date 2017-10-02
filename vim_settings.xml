@@ -6,13 +6,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/wifi/components/LoginForm.js" timestamp="1506961217280">
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="27" column="5" />
-        <mark key="." line="27" column="5" />
-        <mark key="^" line="27" column="5" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1506952832007">
+      <file name="/Dummy.txt" timestamp="1506961358154">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -24,17 +18,10 @@
         <mark key="[" line="294" column="0" />
         <mark key="]" line="296" column="16" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/graph/src/connectors/LocationsConnector.js" timestamp="1505933400703">
-        <mark key="[" line="10" column="28" />
-        <mark key="]" line="10" column="30" />
-        <mark key="." line="10" column="30" />
-        <mark key="^" line="10" column="30" />
-      </file>
-      <file name="$USER_HOME$/Sites/amc/graph/src/resolvers/queries/location/Location.js" timestamp="1505940158175">
-        <mark key="[" line="28" column="12" />
-        <mark key="]" line="28" column="16" />
-        <mark key="." line="28" column="16" />
-        <mark key="^" line="28" column="16" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/modals/components/PasswordResetModal.js" timestamp="1506962330456">
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/theatres/widgets/FindATheatreLocationsModal.js" timestamp="1505852685163">
         <mark key="[" line="13" column="37" />
@@ -48,16 +35,6 @@
         <mark key="." line="70" column="44" />
         <mark key="^" line="70" column="44" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/website/package.json" timestamp="1506536997516">
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/wifi/components/Wifi.js" timestamp="1506959011014">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/amc/graph/src/connectors/TheatresConnector.js" timestamp="1505933284362">
         <mark key="[" line="32" column="33" />
         <mark key="]" line="32" column="33" />
@@ -68,6 +45,34 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/features/wifi/components/LoginForm.js" timestamp="1506961319370">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="27" column="5" />
+        <mark key="." line="27" column="5" />
+        <mark key="^" line="27" column="5" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/graph/src/connectors/LocationsConnector.js" timestamp="1505933400703">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="30" />
+        <mark key="." line="10" column="30" />
+        <mark key="^" line="10" column="30" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/graph/src/resolvers/queries/location/Location.js" timestamp="1505940158175">
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="28" column="16" />
+        <mark key="." line="28" column="16" />
+        <mark key="^" line="28" column="16" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/website/package.json" timestamp="1506536997516">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/features/wifi/components/Wifi.js" timestamp="1506959011014">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -174,13 +179,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7Lyo8QnV0dG9uIG9uQ2xpY2s9eygpID0+IHRoaXMuKCdMb2dpbicpfT5CYWNrIHRvIExvZ2luPC9CdXR0b24+Ki99Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>handleSetView</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
@@ -189,7 +194,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPGEgY2xhc3NOYW1lPSJMb2dpbi1Gb3Jnb3RQYXNzd29yZCBMaW5rIExpbmstLXJldmVyc2VkIiBvbkNsaWNrPXsoKSA9PiB0aGlzLmhhbmRsZVNldFZpZXcoJ0ZvcmdvdFBhc3N3b3JkJyl9PgogICAgICAgICAgICAgICAgRm9yZ290IHBhc3N3b3JkPwogICAgICAgICAgICA8L2E+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7Lyo8QnV0dG9uIG9uQ2xpY2s9eygpID0+IHRoaXMuKCdMb2dpbicpfT5CYWNrIHRvIExvZ2luPC9CdXR0b24+Ki99Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -201,28 +206,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aDI+RnJlZSBXaS1GaTwvaDI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aDI+RnJlZSBXaS1GaTwvaDI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aDI+RnJlZSBXaS1GaTwvaDI+Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Q2FwaXRhbGl6ZSBBTUMgaW4gc2VhcmNoIHJlc3VsdHMgZm9yIHRoZWF0cmVzCgpCZWZvcmUgcmV0dXJuaW5nIHRpdGxlIGZyb20gQVBJIHJ1biBhIGNoZWNrIHRvIHNlZSBpZiBBTUMgaXMgaW4gdGhlIAp0aXRsZSBhbmQgY2FwaXRhbGl6ZSBpdAo=</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRpdGxlOwo=</text>
+        <text encoding="base64">Q2FwaXRhbGl6ZSBBTUMgaW4gc2VhcmNoIHJlc3VsdHMgZm9yIHRoZWF0cmVzCgpCZWZvcmUgcmV0dXJuaW5nIHRpdGxlIGZyb20gQVBJIHJ1biBhIGNoZWNrIHRvIHNlZSBpZiBBTUMgaXMgaW4gdGhlIAp0aXRsZSBhbmQgY2FwaXRhbGl6ZSBpdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRpdGxlLmluY2x1ZGVzKCdBbWMnKSkgdGl0bGUgPSB0aXRsZS5yZXBsYWNlKCdBbWMnLCAnQU1DJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRpdGxlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYCR7Zmlyc3RQYXJ0fSAke2xhc3RQYXJ0fWA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRpdGxlLmluY2x1ZGVzKCdBbWMnKSkgdGl0bGUgPSB0aXRsZS5yZXBsYWNlKCdBbWMnLCAnQU1DJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

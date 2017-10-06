@@ -123,6 +123,7 @@
         <mark key="." line="88" column="45" />
         <mark key="^" line="88" column="45" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/features/my-amc/components/Wallet/GiftCardList.js" timestamp="1507212961374" />
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/forms/renderFormField.js" timestamp="1507134702807">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="1" column="34" />
@@ -230,6 +231,7 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="0" column="25" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/actions.js" timestamp="1507134003618" />
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/List.js" timestamp="1507134338833">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="25" />
@@ -469,6 +471,7 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
+      <file name="/webpack.config.build.js" timestamp="1507299980919" />
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/SortableItem.js" timestamp="1507134436504">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="25" />
@@ -510,6 +513,7 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
+      <file name="/GiftCardList.js" timestamp="1507212953889" />
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/Content/editors/carousel/Hero.js" timestamp="1507135102452">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="34" />
@@ -679,6 +683,7 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/website/index.js" timestamp="1507144901418" />
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/Content/editors/core/Html.js" timestamp="1507135098654">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="34" />
@@ -707,10 +712,10 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/CheckoutHeader.js" timestamp="1505757267646">
-        <mark key="[" line="64" column="92" />
-        <mark key="]" line="70" column="44" />
-        <mark key="." line="70" column="44" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/CheckoutHeader.js" timestamp="1507303092794">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
         <mark key="^" line="70" column="44" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieList/components/MovieListCreate.js" timestamp="1507135293912">
@@ -795,7 +800,7 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507231965915">
+      <file name="/Dummy.txt" timestamp="1507298658807">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieMedia/components/VideoViewDialog.js" timestamp="1507135435004">
@@ -958,8 +963,8 @@
       <jump line="120" column="0" filename="$USER_HOME$/Sites/amc/content/src/features/wifi/components/LoginForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c3RvcmVEaXNuZXlSZXdhcmRzQ2FyZCwg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogVGVtcEJsb2NrIC0gdW5jb21tZW50IHdoZW4gbGltaXRsZXNzIHJvbGwgb3V0LiBXYWl0aW5nIG9uIGFuIEFQSSB1cGRhdGUgZm9yIGAvb3JkZXItcmVmcmVzaC1leHBpcmF0aW9uYAo=</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -974,7 +979,7 @@
         <text encoding="base64">ICAgICAgICAgICAgeyBuYW1lOiAnZW5hYmxlV2lmaScsIGlzUmVxdWlyZWQ6IGZhbHNlIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWRpdENhbGxiYWNrLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogVGVtcEJsb2NrIC0gdW5jb21tZW50IHdoZW4gbGltaXRsZXNzIHJvbGwgb3V0LiBXYWl0aW5nIG9uIGFuIEFQSSB1cGRhdGUgZm9yIGAvb3JkZXItcmVmcmVzaC1leHBpcmF0aW9uYAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -986,28 +991,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdENoYW5nZWQsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFJhZGlvIGZyb20gJy4uLy4uLy4uLy4uL3ByZXNlbnRhdGlvbi9jb21wb25lbnRzL1VJL0Zvcm0vUmFkaW8nOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBpc0dpZnRDYXJkID0gdHlwZSA9PT0gJ2dpZnQnOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZWRpdENhbGxiYWNrLAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdENoYW5nZWQsCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IFJhZGlvIGZyb20gJy4uLy4uLy4uLy4uL3ByZXNlbnRhdGlvbi9jb21wb25lbnRzL1VJL0Zvcm0vUmFkaW8nOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBpc0dpZnRDYXJkID0gdHlwZSA9PT0gJ2dpZnQnOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWRpdENhbGxiYWNrLAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICcuLi8uLi8uLi9jb25maWcnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdENoYW5nZWQsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICcuLi8uLi8uLi8uLi9wcmVzZW50YXRpb24vY29tcG9uZW50cy9VSS9CdXR0b24nOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICcuLi8uLi8uLi9jb25maWcnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFJhZGlvIGZyb20gJy4uLy4uLy4uLy4uL3ByZXNlbnRhdGlvbi9jb21wb25lbnRzL1VJL0Zvcm0vUmFkaW8nOwo=</text>
+        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICcuLi8uLi8uLi8uLi9wcmVzZW50YXRpb24vY29tcG9uZW50cy9VSS9CdXR0b24nOwo=</text>
       </register>
       <register name=":" type="4">
         <text>67</text>

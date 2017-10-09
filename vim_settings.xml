@@ -500,6 +500,12 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/graph/configs/local.json" timestamp="1507587480777">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="37" />
+        <mark key="." line="11" column="37" />
+        <mark key="^" line="11" column="37" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/FileExplorer/Replace.js" timestamp="1507134640816">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="34" />
@@ -575,6 +581,12 @@
         <mark key="]" line="2" column="12" />
         <mark key="^" line="3" column="34" />
         <mark key="." line="2" column="12" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/graph/configs/local-test04.json" timestamp="1507586661507">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="47" />
+        <mark key="." line="6" column="47" />
+        <mark key="^" line="6" column="47" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieList/components/MovieLists.js" timestamp="1507135289048">
         <mark key="[" line="0" column="41" />
@@ -686,6 +698,7 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/graph/configs/local-codev.json" timestamp="1507586652712" />
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/forms/ValidatedField.js" timestamp="1507134692161">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
@@ -802,7 +815,7 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/website/configs/js/local-test04/base.json" timestamp="1507583481682">
+      <file name="$USER_HOME$/Sites/amc/website/configs/js/local-test04/base.json" timestamp="1507583604990">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="3" column="0" />
@@ -970,14 +983,14 @@
       <jump line="120" column="0" filename="$USER_HOME$/Sites/amc/content/src/features/wifi/components/LoginForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJjb250ZW50QXBpVXJsQmFzZSI6ICJodHRwczovL2NvbnRlbnQuY29kZXYuYW1jdGhlYXRyZXMuY29tIiwK</text>
+      <register name="&quot;" type="4">
+        <text>codev</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>90000</text>
+        <text>codev</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>

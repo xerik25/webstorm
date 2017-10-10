@@ -464,11 +464,11 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/graph/src/connectors/OrdersConnector.js" timestamp="1507649502267">
-        <mark key="[" line="404" column="63" />
-        <mark key="]" line="404" column="64" />
-        <mark key="." line="404" column="64" />
-        <mark key="^" line="404" column="49" />
+      <file name="$USER_HOME$/Sites/amc/graph/src/connectors/OrdersConnector.js" timestamp="1507656436181">
+        <mark key="[" line="404" column="37" />
+        <mark key="]" line="404" column="38" />
+        <mark key="." line="404" column="38" />
+        <mark key="^" line="404" column="63" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/SortableItem.js" timestamp="1507134436504">
         <mark key="[" line="0" column="25" />
@@ -704,11 +704,11 @@
         <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/Sites/amc/graph/configs/local-codev.json" timestamp="1507586652712" />
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/CheckoutHeader/checkout.header.scss" timestamp="1507651826884">
-        <mark key="[" line="88" column="9" />
-        <mark key="]" line="88" column="20" />
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/CheckoutHeader/checkout.header.scss" timestamp="1507656343872">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
         <mark key="^" line="88" column="20" />
-        <mark key="." line="88" column="20" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/forms/ValidatedField.js" timestamp="1507134692161">
         <mark key="[" line="0" column="12" />
@@ -726,6 +726,12 @@
         <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/CheckoutHeader.js" timestamp="1507656510491">
+        <mark key="[" line="62" column="36" />
+        <mark key="]" line="62" column="36" />
+        <mark key="." line="62" column="36" />
+        <mark key="^" line="62" column="36" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieList/components/MovieListCreate.js" timestamp="1507135293912">
         <mark key="[" line="0" column="41" />
@@ -814,7 +820,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507651953705">
+      <file name="/Dummy.txt" timestamp="1507655091917">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieMedia/components/VideoViewDialog.js" timestamp="1507135435004">
@@ -978,13 +984,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>60</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>60</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
@@ -993,7 +999,7 @@
         <text encoding="base64">ICAgICAgICAgICAgLy8gOiA8cD4gV2Ugd2lsbCBzb29uIHJlbGVhc2UgdGhlIHRpY2tldHMgeW91IHJlc2VydmVkLiBEbyB5b3UgbmVlZCBtb3JlIHRpbWUgdG8gY29tcGxldGUgeW91ciBwdXJjaGFzZT88L3A+Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gOiA8cD4gV2Ugd2lsbCBzb29uIHJlbGVhc2UgdGhlIHRpY2tldHMgeW91IHJlc2VydmVkLiBEbyB5b3UgbmVlZCBtb3JlIHRpbWUgdG8gY29tcGxldGUgeW91ciBwdXJjaGFzZT88L3A+Owo=</text>
+        <text encoding="base64">ICAgIGZsb2F0OiBsZWZ0Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1005,28 +1011,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gOiA8cD4gV2Ugd2lsbCBzb29uIHJlbGVhc2UgdGhlIHRpY2tldHMgeW91IHJlc2VydmVkLiBEbyB5b3UgbmVlZCBtb3JlIHRpbWUgdG8gY29tcGxldGUgeW91ciBwdXJjaGFzZT88L3A+Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgPyA8ZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gPC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCB0aW1lck1vZGFsTWVzc2FnZSA9IHRoaXMuc3RhdGUuZmFpbGVkVG9VcGRhdGVUaW1lcgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgPyA8ZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsvKiA8c3Bhbj4gV2Ugd2lsbCBzb29uIHJlbGVhc2UgdGhlIHRpY2tldHMgeW91IHJlc2VydmVkLiBEbyB5b3UgbmVlZCBtb3JlIHRpbWUgdG8gY29tcGxldGUgeW91ciBwdXJjaGFzZT88L3NwYW4+Ki99CiAgICAgICAgICAgICAgICB7LyogPHNwYW4gY2xhc3NOYW1lPScnIHN0eWxlPXt7IGNvbG9yOiAncmVkJyB9fT4gRmFpbGVkIHRvIHVwZGF0ZWQgcGxlYXNlIHRyeSBhZ2Fpbjwvc3Bhbj4qL30K</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zdCB0aW1lck1vZGFsTWVzc2FnZSA9IHRoaXMuc3RhdGUuZmFpbGVkVG9VcGRhdGVUaW1lcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsvKiA8c3Bhbj4gV2Ugd2lsbCBzb29uIHJlbGVhc2UgdGhlIHRpY2tldHMgeW91IHJlc2VydmVkLiBEbyB5b3UgbmVlZCBtb3JlIHRpbWUgdG8gY29tcGxldGUgeW91ciBwdXJjaGFzZT88L3NwYW4+Ki99CiAgICAgICAgICAgICAgICB7LyogPHNwYW4gY2xhc3NOYW1lPScnIHN0eWxlPXt7IGNvbG9yOiAncmVkJyB9fT4gRmFpbGVkIHRvIHVwZGF0ZWQgcGxlYXNlIHRyeSBhZ2Fpbjwvc3Bhbj4qL30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmFpbGVkVG9VcGRhdGUnLCB0aGlzLnN0YXRlLmZhaWxlZFRvVXBkYXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3JlbWFpbmluZ01TJywgcmVtYWluaW5nTXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmFpbGVkVG9VcGRhdGUnLCB0aGlzLnN0YXRlLmZhaWxlZFRvVXBkYXRlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>67</text>

@@ -480,7 +480,7 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507838845899">
+      <file name="/Dummy.txt" timestamp="1507840668924">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieMedia/components/VideoViewDialog.js" timestamp="1507135435004">
@@ -506,7 +506,7 @@
         <mark key="]" line="81" column="25" />
         <mark key="." line="81" column="25" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/graph/src/connectors/ShowtimesConnector.js" timestamp="1507731599639" />
+      <file name="$USER_HOME$/Sites/amc/graph/src/connectors/ShowtimesConnector.js" timestamp="1507908050974" />
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/forms/AvailabilitySelector.js" timestamp="1507134707888">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="34" />
@@ -568,6 +568,12 @@
         <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/graph/src/resolvers/queries/showtime/Showtime.js" timestamp="1507908388434">
+        <mark key="[" line="71" column="34" />
+        <mark key="]" line="71" column="34" />
+        <mark key="^" line="70" column="18" />
+        <mark key="." line="71" column="38" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/FileExplorer/DeleteForm.js" timestamp="1507134567700">
         <mark key="[" line="2" column="25" />
@@ -1121,13 +1127,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHJvbGU9Imxpc3QtaXRlbSI=</text>
+        <text>test</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJvbGU9Imxpc3QtaXRlbSI=</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>

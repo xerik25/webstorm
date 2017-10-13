@@ -1022,11 +1022,11 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/graph/src/resolvers/queries/showtime/ShowtimeAttributeGroup.js" timestamp="1507912348462">
-        <mark key="[" line="35" column="135" />
-        <mark key="]" line="35" column="135" />
-        <mark key="." line="35" column="135" />
-        <mark key="^" line="35" column="135" />
+      <file name="$USER_HOME$/Sites/amc/graph/src/resolvers/queries/showtime/ShowtimeAttributeGroup.js" timestamp="1507914845631">
+        <mark key="[" line="36" column="58" />
+        <mark key="]" line="36" column="58" />
+        <mark key="." line="36" column="58" />
+        <mark key="^" line="36" column="66" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/TheatreMedia/components/TheatreMediaDetail.js" timestamp="1507135630535">
         <mark key="[" line="0" column="41" />
@@ -1143,14 +1143,14 @@
       <jump line="120" column="0" filename="$USER_HOME$/Sites/amc/content/src/features/wifi/components/LoginForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbGFuZG9uJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.edges</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>landon</text>
+        <text>.edges</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
@@ -1159,7 +1159,7 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbGFuZG9uJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbGFuZG9uJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdHRycy50aGVuKGNvbnNvbGUubG9nKCdzaG93dGltZUF0dHJUZXN0JywgYXR0cnMpKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1171,31 +1171,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2xpbmUnKTsK</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY29ubmVjdGlvblRlc3QnLCBjb25uZWN0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICBhdHRycy50aGVuKGNvbnNvbGUubG9nKCdsYW5kb25jJywgKSkK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbGFuZG9uJyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2xpbmUnKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY29ubmVjdGlvblRlc3QnLCBjb25uZWN0aW9uKTsK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdGluZycpOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>Merge branch 'ie/main' into ie/movies-with-runtime-0
 
 # Conflicts:
 #	src/presentation/components/UI/MovieRuntimeToolTip.js</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG1vdmllLnJ1blRpbWUgPSAwOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG1vdmllLnJ1blRpbWUgPSAwOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gYXJpYS1sYWJlbD17Ym9keVRleHR9IHRhYkluZGV4PSIwIj4KICAgICAgICAgICAgICAgIDxPdmVybGF5VHJpZ2dlciB7Li4ucGFzc2VkUHJvcHN9IG92ZXJsYXk9e3Rvb2x0aXB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJpZ2dlcj17ZGVidWcgPyAnY2xpY2snIDogdHJpZ2dlck1vZGV9PgogICAgICAgICAgICAgICAgICAgIHtjaGlsZHJlbn0KICAgICAgICAgICAgICAgIDwvT3ZlcmxheVRyaWdnZXI+CiAgICAgICAgICAgIDwvc3Bhbj4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIG1vdmllLnJ1blRpbWUgPSAwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>67</text>

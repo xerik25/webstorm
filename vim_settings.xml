@@ -303,6 +303,12 @@
         <mark key="." line="70" column="16" />
         <mark key="^" line="70" column="16" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/graph/src/resolvers/common/attributeConnectionResolver.js" timestamp="1507911606499">
+        <mark key="[" line="3" column="44" />
+        <mark key="]" line="3" column="48" />
+        <mark key="^" line="3" column="48" />
+        <mark key="." line="3" column="48" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/TheatreMedia/components/forms/AddImageForm.js" timestamp="1507135672525">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="34" />
@@ -480,7 +486,7 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507840668924">
+      <file name="/Dummy.txt" timestamp="1507911829930">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieMedia/components/VideoViewDialog.js" timestamp="1507135435004">
@@ -569,11 +575,11 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/graph/src/resolvers/queries/showtime/Showtime.js" timestamp="1507910847741">
-        <mark key="[" line="72" column="28" />
-        <mark key="]" line="72" column="29" />
-        <mark key="." line="72" column="29" />
-        <mark key="^" line="70" column="31" />
+      <file name="$USER_HOME$/Sites/amc/graph/src/resolvers/queries/showtime/Showtime.js" timestamp="1507911773610">
+        <mark key="[" line="73" column="15" />
+        <mark key="]" line="73" column="19" />
+        <mark key="." line="73" column="19" />
+        <mark key="^" line="73" column="19" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/FileExplorer/DeleteForm.js" timestamp="1507134567700">
         <mark key="[" line="2" column="25" />
@@ -1006,10 +1012,21 @@
         <mark key="^" line="79" column="44" />
         <mark key="." line="79" column="44" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/graph/src/resolvers/queries/showtime/ShowtimeAttributeGroupConnection.js" timestamp="1507912102729">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Modals/GenericModal/GenericModal.js" timestamp="1507219675327">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/graph/src/resolvers/queries/showtime/ShowtimeAttributeGroup.js" timestamp="1507912348462">
+        <mark key="[" line="35" column="135" />
+        <mark key="]" line="35" column="135" />
+        <mark key="." line="35" column="135" />
+        <mark key="^" line="35" column="135" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/TheatreMedia/components/TheatreMediaDetail.js" timestamp="1507135630535">
         <mark key="[" line="0" column="41" />
@@ -1126,23 +1143,23 @@
       <jump line="120" column="0" filename="$USER_HOME$/Sites/amc/content/src/features/wifi/components/LoginForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>attributes</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbGFuZG9uJyk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>attributes</text>
+        <text>landon</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbmRleCcsIHByb3BzLnN5bm9wc2lzKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbGFuZG9uJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdGluZycpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbGFuZG9uJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1153,32 +1170,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2xpbmUnKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY29ubmVjdGlvblRlc3QnLCBjb25uZWN0aW9uKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdGluZycpOwo=</text>
+      </register>
+      <register name="5" type="4">
         <text>Merge branch 'ie/main' into ie/movies-with-runtime-0
 
 # Conflicts:
 #	src/presentation/components/UI/MovieRuntimeToolTip.js</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIG1vdmllLnJ1blRpbWUgPSAwOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vdmllLnJ1blRpbWUgPSAwOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gYXJpYS1sYWJlbD17Ym9keVRleHR9IHRhYkluZGV4PSIwIj4KICAgICAgICAgICAgICAgIDxPdmVybGF5VHJpZ2dlciB7Li4ucGFzc2VkUHJvcHN9IG92ZXJsYXk9e3Rvb2x0aXB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJpZ2dlcj17ZGVidWcgPyAnY2xpY2snIDogdHJpZ2dlck1vZGV9PgogICAgICAgICAgICAgICAgICAgIHtjaGlsZHJlbn0KICAgICAgICAgICAgICAgIDwvT3ZlcmxheVRyaWdnZXI+CiAgICAgICAgICAgIDwvc3Bhbj4K</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIG1vdmllLnJ1blRpbWUgPSAwOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgIG1vdmllLnJ1blRpbWUgPSAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoaWxkcmVuID8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gYXJpYS1sYWJlbD17Ym9keVRleHR9IHRhYkluZGV4PSIwIj4KICAgICAgICAgICAgICAgIDxPdmVybGF5VHJpZ2dlciB7Li4ucGFzc2VkUHJvcHN9IG92ZXJsYXk9e3Rvb2x0aXB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJpZ2dlcj17ZGVidWcgPyAnY2xpY2snIDogdHJpZ2dlck1vZGV9PgogICAgICAgICAgICAgICAgICAgIHtjaGlsZHJlbn0KICAgICAgICAgICAgICAgIDwvT3ZlcmxheVRyaWdnZXI+CiAgICAgICAgICAgIDwvc3Bhbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiBhcmlhLWxhYmVsPXtib2R5VGV4dH0gdGFiSW5kZXg9IjAiPgogICAgICAgICAgICAgICAgICAgICAgICA8T3ZlcmxheVRyaWdnZXIgey4uLnBhc3NlZFByb3BzfSBvdmVybGF5PXt0b29sdGlwfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJpZ2dlcj17ZGVidWcgPyAnY2xpY2snIDogdHJpZ2dlck1vZGV9PgogICAgICAgICAgICAgICAgICAgICAgICAgICAge2NoaWxkcmVufQogICAgICAgICAgICAgICAgICAgICAgICA8L092ZXJsYXlUcmlnZ2VyPgogICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>67</text>

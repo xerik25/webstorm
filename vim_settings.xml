@@ -164,6 +164,12 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/graph/src/resolvers/mutations/orders/orderCreate.js" timestamp="1508263854489">
+        <mark key="[" line="2" column="84" />
+        <mark key="]" line="3" column="38" />
+        <mark key="^" line="3" column="38" />
+        <mark key="." line="3" column="38" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieMedia/components/MovieMedia.js" timestamp="1507135455436">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="34" />
@@ -250,11 +256,11 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/graph/src/connectors/OrdersConnector.js" timestamp="1507656436181">
-        <mark key="[" line="399" column="37" />
-        <mark key="]" line="399" column="38" />
-        <mark key="." line="399" column="38" />
-        <mark key="^" line="399" column="63" />
+      <file name="$USER_HOME$/Sites/amc/graph/src/connectors/OrdersConnector.js" timestamp="1508264276246">
+        <mark key="[" line="100" column="39" />
+        <mark key="]" line="100" column="42" />
+        <mark key="." line="100" column="42" />
+        <mark key="^" line="100" column="42" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/ContentPreview/routes/getContentPreview.js" timestamp="1507663051510">
         <mark key="[" line="6" column="31" />
@@ -488,7 +494,7 @@
         <mark key="^" line="97" column="66" />
         <mark key="." line="97" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508262170677">
+      <file name="/Dummy.txt" timestamp="1508263682088">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieMedia/components/VideoViewDialog.js" timestamp="1507135435004">
@@ -995,6 +1001,7 @@
         <mark key="^" line="128" column="3" />
         <mark key="." line="128" column="3" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/mutations/CreateOrderMutation.js" timestamp="1508263655764" />
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/Content/components/ContentTypeList.js" timestamp="1507134962722">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="34" />
@@ -1052,11 +1059,11 @@
         <mark key="^" line="38" column="80" />
         <mark key="." line="38" column="80" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/showtimes/components/TicketSelection.js" timestamp="1508262680245">
-        <mark key="[" line="123" column="62" />
-        <mark key="]" line="124" column="34" />
-        <mark key="^" line="124" column="34" />
-        <mark key="." line="124" column="34" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/showtimes/components/TicketSelection.js" timestamp="1508263370378">
+        <mark key="[" line="110" column="21" />
+        <mark key="]" line="110" column="25" />
+        <mark key="^" line="110" column="25" />
+        <mark key="." line="110" column="25" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/TheatreMedia/components/TheatreMediaDetail.js" timestamp="1507135630535">
         <mark key="[" line="0" column="41" />
@@ -1174,22 +1181,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>uri</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text />
+        <text>uri</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHRtbElkOiAnYWdlLXBvbGljeS1ub3RpZmljYXRpb24nCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY3JlYXRlT3JkZXJVcmknLCB1cmkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmbGF0dGVuZWRXYXJuaW5ncycsIGZsYXR0ZW5lZFdhcm5pbmdzKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY3JlYXRlT3JkZXInLCB1cmkpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1201,28 +1208,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdnZXRXYXJuaW5nJywgZ3JvdXBBdHRyaWJ1dGVzKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY3JlYXRlT3JkZXInLCB1cmkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmbGF0dGVuZWRXYXJuaW5ncycsIGZsYXR0ZW5lZFdhcm5pbmdzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkaXNjcmltaW5hdGVEYm94JywgYXR0cmlidXRlKTsK</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdnZXRXYXJuaW5nJywgZ3JvdXBBdHRyaWJ1dGVzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkaXNjcmltaW5hdGVEYm94JywgYXR0cmlidXRlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2U6ICcnCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGhlYWRsaW5lOiAnJywK</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkbGluZTogJ0QtQm94IE1vdGlvbiBTZWF0cyBOb3RpY2UnLAogICAgICAgIG1lc3NhZ2U6ICdELUJPWCBNb3Rpb24gU3lzdGVtIG1heSBiZSBoYXJtZnVsIHRvIHdvbWVuIHdobyBhcmUgcHJlZ25hbnQsIHRoZSBlbGRlcmx5LCBwZW9wbGUgd2l0aCBoZWFydCBjb25kaXRpb25zLCBiYWNrLCBoZWFkIG9yIG5lY2sgY29uZGl0aW9ucywgaW5qdXJpZXMgb3IgcHJlLWV4aXN0aW5nIG1lZGljYWwgY29uZGl0aW9ucy7CoCBDaGlsZHJlbiB1bmRlciB0ZW4gKDEwKSB5ZWFycyBvZiBhZ2Ugb3IgdW5kZXIgNDVsYnMgYXJlIG5vdCByZWNvbW1lbmRlZCB0byBwYXJ0aWNpcGF0ZS7CoCBBdm9pZCB1c2luZyBob3QgbGlxdWlkcyBpbiB0aGUgdmljaW5pdHkgb2YgdGhlIEQtQk9YIHNlYXRzLsKgIEQtQk9YIFRlY2hub2xvZ2llcyBJbmMuIGFuZCB0aGlzIG1vdmllIHRoZWF0cmUgYXJlIGluIG5vIHdheSByZXNwb25zaWJsZSBmb3IgYW55IGRhbWFnZXMgb2YgYW55IGtpbmQgYXJpc2luZyBmcm9tIHRoZSB1c2Ugb2YgdGhlIEQtQk9YIE1vdGlvbiBTeXN0ZW0uJwo=</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2U6ICcnCg==</text>
       </register>
       <register name=":" type="4">
         <text>67</text>

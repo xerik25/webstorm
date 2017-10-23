@@ -386,8 +386,10 @@
         <mark key="^" line="97" column="66" />
         <mark key="." line="65" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508787956911">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1508788773970">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="34" />
+        <mark key="." line="0" column="34" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieMedia/components/VideoViewDialog.js" timestamp="1507135435004">
         <mark key="[" line="0" column="41" />
@@ -883,11 +885,11 @@
         <mark key="^" line="110" column="25" />
         <mark key="." line="110" column="25" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Footer/Footer.js" timestamp="1508787408465">
-        <mark key="[" line="49" column="66" />
-        <mark key="]" line="49" column="82" />
-        <mark key="^" line="49" column="82" />
-        <mark key="." line="49" column="82" />
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Footer/Footer.js" timestamp="1508791102986">
+        <mark key="[" line="28" column="57" />
+        <mark key="]" line="28" column="66" />
+        <mark key="^" line="28" column="66" />
+        <mark key="." line="28" column="66" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/TheatreMedia/components/TheatreMediaDetail.js" timestamp="1507135630535">
         <mark key="[" line="0" column="41" />
@@ -999,14 +1001,14 @@
       <jump line="39" column="0" filename="$USER_HOME$/Sites/amc/content/src/features/my-amc/components/Wallet/DisneyRewardsCard.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>menu</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;Menu&quot;</text>
+        <text>menu</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>

@@ -494,6 +494,12 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="0" column="29" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/features/movies/components/TitleHeader/DescriptorList.js" timestamp="1508873525716">
+        <mark key="[" line="24" column="67" />
+        <mark key="]" line="24" column="67" />
+        <mark key="." line="24" column="67" />
+        <mark key="^" line="24" column="76" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/App/components/MainMenu.js" timestamp="1507134816406">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="16" />
@@ -634,11 +640,10 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/movies/components/TitleHeader.js" timestamp="1508870409316">
-        <mark key="[" line="7" column="98" />
-        <mark key="]" line="8" column="37" />
-        <mark key="^" line="8" column="37" />
-        <mark key="." line="8" column="37" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/movies/components/TitleHeader.js" timestamp="1508872735190">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/Showtimes/ShowtimesByMovie.js" timestamp="1508785380318">
         <mark key="[" line="19" column="45" />
@@ -1029,13 +1034,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>aria-label</text>
+        <text>'</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>aria-label</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
@@ -1044,7 +1049,7 @@
         <text encoding="base64">ICAgICAgICAgICAgYXJpYS1sYWJlbD0iU2lnbiBpbiB3aXRoIFR3aXR0ZXIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCd2YWx1ZXMnLCB2YWx1ZXMpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1056,28 +1061,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtjb25zb2xlLmxvZygnaXRlbScsIGl0ZW0pfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtYXliZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnaXRlbScsIGl0ZW0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gdGVzdCgpIHsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjaGlsZHJlbicsIGNoaWxkcmVuKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtYXliZScpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFyaWEtbGFiZWw9ImJhbmRkbmVyIgo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gdGVzdCgpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFyaWEtcm9sZWRlc2NyaXB0aW9uPSJ0ZXN0aW5nIgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>235</text>

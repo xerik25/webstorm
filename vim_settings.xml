@@ -245,6 +245,12 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="0" column="25" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/SeatingCheckout/SeatingLayout.js" timestamp="1508963472496">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="176" column="50" />
+        <mark key="." line="116" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/graph/src/connectors/LocationsConnector.js" timestamp="1505933400703">
         <mark key="[" line="10" column="28" />
         <mark key="]" line="10" column="30" />
@@ -275,6 +281,7 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
+      <file name="/Seat.js" timestamp="1508961224283" />
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/TheatreSearch/components/TheatreSearchBar.js" timestamp="1507135718133">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="34" />
@@ -639,11 +646,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/SeatingCheckout/Seat.js" timestamp="1508960255402">
-        <mark key="[" line="163" column="54" />
-        <mark key="]" line="163" column="66" />
-        <mark key="." line="163" column="66" />
-        <mark key="^" line="163" column="66" />
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/SeatingCheckout/Seat.js" timestamp="1508962776162">
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
+        <mark key="^" line="126" column="47" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/package.json" timestamp="1507660878752">
         <mark key="[" line="5" column="23" />
@@ -1035,23 +1042,23 @@
       <jump line="1" column="14" filename="$USER_HOME$/Sites/amc/content/src/presentation/components/Counter/Counter.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>props.column</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgaXNIaWRkZW4gPSBpICE9PSB0aGlzLnN0YXRlLnJvd0luZGV4Owo=</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>props.column</text>
+        <text>isHidden</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFiSW5kZXg6IHByb3BzLmlzSGlkZGVuID8gJy0xJyA6ICcwJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgaXNIaWRkZW4gPSBpICE9PSB0aGlzLnN0YXRlLnJvd0luZGV4Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZygndGlja2V0VHlwZScsIHRpY2tldFR5cGUudHlwZSk7CiAgICAgICAgICAgICAgICAgICAgLy8gY29uc29sZS5sb2coJ3RpY2tldEFnZScsIHRpY2tldFR5cGUuYWdlUG9saWN5KTsKICAgICAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZygncHJpY2VGb3JtYXR0ZWQnLCBwcmljZUZvcm1hdHRlZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgaXNIaWRkZW4gPSBpICE9PSB0aGlzLnN0YXRlLnJvd0luZGV4Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1063,28 +1070,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0IH0gZnJvbSAnbG9kYXNoJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2V2YWxJc0hpZGRlbicsIGksIHRoaXMuc3RhdGUucm93SW5kZXgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGlja2V0VHlwZScsIHRpY2tldFR5cGUudHlwZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzZWF0VHlwZScsIGRhdGEudHlwZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGlja2V0SW5mbycsIGAke3RpY2tldFR5cGV9ICR7dGlja2V0QWdlfSAke3RpY2tldFByaWNlfWApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB0YWJJbmRleD0iMCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBoYXJkZW4gb2JqZWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InNyLW9ubHkiPnttZXNzYWdlfTwvc3Bhbj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBjbG9zZUxpbmsgPSBnZXQodGhpcy5wcm9wcywgJ25hdmlnYXRlLnJldHVybkJ1dHRvbicsIHsgaHJlZjogJy8nIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcmlhLWV4cGFuZGVkPXshaXNIaWRkZW59Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCB0aWNrZXRQcmljZSA9IHRoaXMucHJvcHMuY2hpbGRyZW5bMl0ucHJvcHMuY2hpbGRyZW47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InNyLW9ubHkiPnttZXNzYWdlfTwvc3Bhbj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0IH0gIGZyb20gJ2xvZGFzaCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcmlhLWV4cGFuZGVkPXshaXNIaWRkZW59Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0IH0gIGZyb20gJ2xvZGFzaCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>235</text>

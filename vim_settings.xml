@@ -646,11 +646,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/SeatingCheckout/Seat.js" timestamp="1508962776162">
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="0" />
-        <mark key="." line="142" column="0" />
-        <mark key="^" line="126" column="47" />
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/SeatingCheckout/Seat.js" timestamp="1508968650053">
+        <mark key="[" line="141" column="46" />
+        <mark key="]" line="141" column="58" />
+        <mark key="." line="141" column="58" />
+        <mark key="^" line="141" column="58" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/package.json" timestamp="1507660878752">
         <mark key="[" line="5" column="23" />
@@ -867,7 +867,7 @@
         <mark key="^" line="79" column="44" />
         <mark key="." line="79" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508956888915">
+      <file name="/Dummy.txt" timestamp="1508963722082">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
@@ -1042,14 +1042,14 @@
       <jump line="1" column="14" filename="$USER_HOME$/Sites/amc/content/src/presentation/components/Counter/Counter.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgaXNIaWRkZW4gPSBpICE9PSB0aGlzLnN0YXRlLnJvd0luZGV4Owo=</text>
+      <register name="&quot;" type="4">
+        <text>'0'</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>isHidden</text>
+        <text>'0'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>

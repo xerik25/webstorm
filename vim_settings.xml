@@ -639,6 +639,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/SeatingCheckout/Seat.js" timestamp="1508956950778">
+        <mark key="[" line="143" column="27" />
+        <mark key="]" line="143" column="31" />
+        <mark key="." line="143" column="31" />
+        <mark key="^" line="143" column="31" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/package.json" timestamp="1507660878752">
         <mark key="[" line="5" column="23" />
         <mark key="]" line="5" column="23" />
@@ -854,10 +860,10 @@
         <mark key="^" line="79" column="44" />
         <mark key="." line="79" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508952787466">
+      <file name="/Dummy.txt" timestamp="1508956888915">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieMedia/components/VideoViewDialog.js" timestamp="1507135435004">
         <mark key="[" line="0" column="41" />
@@ -1029,20 +1035,20 @@
       <jump line="1" column="14" filename="$USER_HOME$/Sites/amc/content/src/presentation/components/Counter/Counter.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZygndGlja2V0VHlwZScsIHRpY2tldFR5cGUudHlwZSk7CiAgICAgICAgICAgICAgICAgICAgLy8gY29uc29sZS5sb2coJ3RpY2tldEFnZScsIHRpY2tldFR5cGUuYWdlUG9saWN5KTsKICAgICAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZygncHJpY2VGb3JtYXR0ZWQnLCBwcmljZUZvcm1hdHRlZCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>props.isHidden</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>props.isHidden</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBpbmNyZW1lbnRMYWJlbCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFiSW5kZXg6IHByb3BzLmlzSGlkZGVuID8gJy0xJyA6ICcwJywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZygndGlja2V0VHlwZScsIHRpY2tldFR5cGUudHlwZSk7CiAgICAgICAgICAgICAgICAgICAgLy8gY29uc29sZS5sb2coJ3RpY2tldEFnZScsIHRpY2tldFR5cGUuYWdlUG9saWN5KTsKICAgICAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZygncHJpY2VGb3JtYXR0ZWQnLCBwcmljZUZvcm1hdHRlZCk7Cg==</text>

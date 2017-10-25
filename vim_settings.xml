@@ -639,11 +639,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/SeatingCheckout/Seat.js" timestamp="1508956950778">
-        <mark key="[" line="143" column="27" />
-        <mark key="]" line="143" column="31" />
-        <mark key="." line="143" column="31" />
-        <mark key="^" line="143" column="31" />
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/SeatingCheckout/Seat.js" timestamp="1508960255402">
+        <mark key="[" line="163" column="54" />
+        <mark key="]" line="163" column="66" />
+        <mark key="." line="163" column="66" />
+        <mark key="^" line="163" column="66" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/package.json" timestamp="1507660878752">
         <mark key="[" line="5" column="23" />
@@ -1036,13 +1036,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>props.isHidden</text>
+        <text>props.column</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>props.isHidden</text>
+        <text>props.column</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>

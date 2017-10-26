@@ -365,11 +365,11 @@
         <mark key="^" line="39" column="46" />
         <mark key="." line="39" column="46" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/FoodDrinkMenuItem/FoodDrinkMenuItem.js" timestamp="1509040021228">
-        <mark key="[" line="108" column="78" />
-        <mark key="]" line="108" column="78" />
-        <mark key="^" line="93" column="39" />
-        <mark key="." line="108" column="78" />
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/FoodDrinkMenuItem/FoodDrinkMenuItem.js" timestamp="1509051126396">
+        <mark key="[" line="109" column="33" />
+        <mark key="]" line="109" column="33" />
+        <mark key="^" line="107" column="87" />
+        <mark key="." line="109" column="33" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieList/routes/getMovieListEdit.js" timestamp="1507673271057">
         <mark key="[" line="5" column="45" />
@@ -609,7 +609,7 @@
         <mark key="." line="49" column="30" />
         <mark key="^" line="49" column="30" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/CheckoutOrderDetails/CheckoutOrderDetails.js" timestamp="1509048687577">
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/CheckoutOrderDetails/CheckoutOrderDetails.js" timestamp="1509050645027">
         <mark key="[" line="248" column="51" />
         <mark key="]" line="249" column="54" />
         <mark key="." line="249" column="54" />
@@ -882,8 +882,8 @@
         <mark key="^" line="79" column="44" />
         <mark key="." line="79" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509042232140">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1509051195764">
+        <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
@@ -1063,13 +1063,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>labels for search, FB / twitter login buttons for mobile</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>labels for search, FB / twitter login buttons for mobile</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
@@ -1114,7 +1114,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3JlbmRlciBsaW5rJywgdGhpcy5wcm9wcy5wYXNzZWRDb21wb25lbnQpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>235</text>
+        <text>59</text>
       </register>
     </registers>
     <search>
@@ -1160,7 +1160,6 @@
         <entry>50</entry>
         <entry>151</entry>
         <entry>q</entry>
-        <entry>59</entry>
         <entry>104</entry>
         <entry>129</entry>
         <entry>180</entry>
@@ -1170,6 +1169,7 @@
         <entry>72</entry>
         <entry>67</entry>
         <entry>235</entry>
+        <entry>59</entry>
       </history-cmd>
       <history-expr />
       <history-input />

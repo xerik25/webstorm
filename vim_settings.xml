@@ -276,6 +276,7 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/payment/src/shared/components/PaymentInfo/DisneyRewardsUnauthenticated.js" timestamp="1509396228837" />
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/TheatreSearch/components/TheatreSearchBar.js" timestamp="1507135718133">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="34" />
@@ -526,11 +527,11 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/concessions/Footer.js" timestamp="1509395496186">
-        <mark key="[" line="57" column="27" />
-        <mark key="]" line="57" column="27" />
-        <mark key="^" line="56" column="41" />
-        <mark key="." line="57" column="27" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/concessions/Footer.js" timestamp="1509398810652">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="55" column="23" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/Notifications/components/Notifications.js" timestamp="1507135553465">
         <mark key="[" line="0" column="41" />
@@ -784,6 +785,7 @@
         <mark key="." line="2" column="34" />
         <mark key="^" line="2" column="34" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/payment/src/shared/components/PaymentInfo/NewDisneyRewardsForm.js" timestamp="1509398360676" />
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieList/components/MovieListCreate.js" timestamp="1507135293912">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="34" />
@@ -886,7 +888,7 @@
         <mark key="^" line="79" column="44" />
         <mark key="." line="79" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509395274944">
+      <file name="/Dummy.txt" timestamp="1509398801509">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
@@ -1073,8 +1075,8 @@
       <jump line="1" column="14" filename="$USER_HOME$/Sites/amc/content/src/presentation/components/Counter/Counter.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1088,10 +1090,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXY+dGVzdGluZzwvZGl2Pgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>Added tabIndex to showtimes header
-
-Otherwise user can't go back or close</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1102,29 +1102,31 @@ Otherwise user can't go back or close</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGFiSW5kZXg9IjAiCg==</text>
+      <register name="2" type="4">
+        <text>Added tabIndex to showtimes header
+
+Otherwise user can't go back or close</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcmlhLWxhYmVsPXtvcmRlci50b3RhbH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGFiSW5kZXg9IjAiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcm9sZT0iYnV0dG9uIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc2FibGVkPXshY2FuQ29udGludWV9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXJpYS1sYWJlbD17b3JkZXIudG90YWx9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJCdG4gQnRuLS1zZWNvbmRhcnkgQ2hlY2tvdXRGb290ZXItQ29uZmlybSB0ZXN0IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhyZWY9e2NvbmZpZy5wYXltZW50VXJsLnJlcGxhY2UoJyR7dG9rZW59Jywgb3JkZXIudG9rZW4pfSAvLyBlc2xpbnQtZGlzYWJsZS1saW5lIG5vLXRlbXBsYXRlLWN1cmx5LWluLXN0cmluZwogICAgICAgICAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtjb250aW51ZVRleHR9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcmlhLWxhYmVsPXtvcmRlci50b3RhbH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0YWJJbmRleAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcm9sZT0iYnV0dG9uIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc2FibGVkPXshY2FuQ29udGludWV9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXJpYS1sYWJlbD17b3JkZXIudG90YWx9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJCdG4gQnRuLS1zZWNvbmRhcnkgQ2hlY2tvdXRGb290ZXItQ29uZmlybSB0ZXN0IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhyZWY9e2NvbmZpZy5wYXltZW50VXJsLnJlcGxhY2UoJyR7dG9rZW59Jywgb3JkZXIudG9rZW4pfSAvLyBlc2xpbnQtZGlzYWJsZS1saW5lIG5vLXRlbXBsYXRlLWN1cmx5LWluLXN0cmluZwogICAgICAgICAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtjb250aW51ZVRleHR9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2E+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QXJpYSBsYW5kbWFya3M6IGxhYmVscyBmb3Igc2VhcmNoLCBGQiAvIHR3aXR0ZXIgbG9naW4gYnV0dG9ucyBmb3IgbW9iaWxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0YWJJbmRleAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IExpbmsgZnJvbSAnLi4vLi4vVUkvTGluayc7Cg==</text>
+        <text encoding="base64">QXJpYSBsYW5kbWFya3M6IGxhYmVscyBmb3Igc2VhcmNoLCBGQiAvIHR3aXR0ZXIgbG9naW4gYnV0dG9ucyBmb3IgbW9iaWxlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygndGVzdGluZycsIHNlY3Rpb25FZGl0LCBzZWN0aW9uVGl0bGUpOwo=</text>
+        <text encoding="base64">aW1wb3J0IExpbmsgZnJvbSAnLi4vLi4vVUkvTGluayc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcm9wcy5wYXNzZWRDb21wb25lbnQucHJvcHMuYXJpYUxhYmVsID0gJ3Rlc3QnOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygndGVzdGluZycsIHNlY3Rpb25FZGl0LCBzZWN0aW9uVGl0bGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>59</text>

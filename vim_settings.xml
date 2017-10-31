@@ -54,7 +54,11 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/graph/configs/local-stage.json" timestamp="1509462402065" />
+      <file name="$USER_HOME$/Sites/amc/graph/configs/local-stage.json" timestamp="1509465760009">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/FileExplorer/CreateFolderForm.js" timestamp="1507134529484">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="25" />
@@ -115,6 +119,7 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="1" column="12" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" timestamp="1509463811537" />
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/AttributeDisplay/components/AttributeDisplayEdit.js" timestamp="1507134828478">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="29" />
@@ -127,6 +132,7 @@
         <mark key="." line="88" column="45" />
         <mark key="^" line="88" column="45" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/graph/src/schema/types/showtimes/ShowtimeType.js" timestamp="1509464052007" />
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/forms/renderFormField.js" timestamp="1507134702807">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="1" column="34" />
@@ -694,6 +700,7 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/graph/configs/stage.json" timestamp="1509465074706" />
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/ApiForm.js" timestamp="1507134300411">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="25" />
@@ -772,7 +779,7 @@
         <mark key="^" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/graph/configs/prod.json" timestamp="1509462387724" />
+      <file name="$USER_HOME$/Sites/amc/graph/configs/prod.json" timestamp="1509465733480" />
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/forms/ValidatedField.js" timestamp="1507134692161">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
@@ -910,7 +917,7 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/graph/src/connectors/ShowtimesConnector.js" timestamp="1509460766340" />
+      <file name="$USER_HOME$/Sites/amc/graph/src/connectors/ShowtimesConnector.js" timestamp="1509465092443" />
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/forms/AvailabilitySelector.js" timestamp="1507134707888">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="34" />
@@ -1076,13 +1083,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">eCBmb3IgIm5vIHRoYW5rcyIgYnV0dG9uIE0mTSBtb2RhbA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">eCBmb3IgIm5vIHRoYW5rcyIgYnV0dG9uIE0mTSBtb2RhbA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
@@ -1129,7 +1136,7 @@ Otherwise user can't go back or close</text>
         <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygndGVzdGluZycsIHNlY3Rpb25FZGl0LCBzZWN0aW9uVGl0bGUpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>59</text>
+        <text>96</text>
       </register>
     </registers>
     <search>
@@ -1165,7 +1172,6 @@ Otherwise user can't go back or close</text>
         <entry encoding="base64">PGE=</entry>
       </history-search>
       <history-cmd>
-        <entry>41</entry>
         <entry>13</entry>
         <entry>27</entry>
         <entry>w</entry>
@@ -1185,6 +1191,7 @@ Otherwise user can't go back or close</text>
         <entry>67</entry>
         <entry>235</entry>
         <entry>59</entry>
+        <entry>96</entry>
       </history-cmd>
       <history-expr />
       <history-input />

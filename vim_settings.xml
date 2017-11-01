@@ -499,11 +499,11 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/AddToCalendar/AddToCalendar.js" timestamp="1509554544385">
-        <mark key="[" line="59" column="105" />
-        <mark key="]" line="59" column="105" />
-        <mark key="^" line="59" column="105" />
-        <mark key="." line="59" column="105" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/AddToCalendar/AddToCalendar.js" timestamp="1509565136870">
+        <mark key="[" line="56" column="87" />
+        <mark key="]" line="56" column="92" />
+        <mark key="^" line="56" column="92" />
+        <mark key="." line="56" column="92" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/showtimes/components/SeatSelection.js" timestamp="1508262069785">
         <mark key="[" line="45" column="56" />
@@ -535,10 +535,11 @@
         <mark key="^" line="116" column="30" />
         <mark key="." line="116" column="30" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/movies/components/TitleHeader/DescriptorList.js" timestamp="1509560684379">
-        <mark key="[" line="24" column="35" />
-        <mark key="]" line="24" column="35" />
-        <mark key="." line="24" column="35" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/movies/components/TitleHeader/DescriptorList.js" timestamp="1509565588516">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="15" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/App/components/MainMenu.js" timestamp="1507134816406">
         <mark key="[" line="0" column="16" />
@@ -612,11 +613,11 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/CheckoutConfirmationSummary/CheckoutConfirmationSummary.js" timestamp="1509560980500">
-        <mark key="[" line="232" column="115" />
-        <mark key="]" line="232" column="120" />
-        <mark key="^" line="232" column="120" />
-        <mark key="." line="232" column="120" />
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/CheckoutConfirmationSummary/CheckoutConfirmationSummary.js" timestamp="1509567641605">
+        <mark key="[" line="246" column="83" />
+        <mark key="]" line="246" column="83" />
+        <mark key="^" line="246" column="89" />
+        <mark key="." line="246" column="83" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/TheatreMedia/components/forms/AddImageForm.js" timestamp="1507135672525">
         <mark key="[" line="0" column="41" />
@@ -938,7 +939,7 @@
         <mark key="^" line="79" column="44" />
         <mark key="." line="79" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509560838008">
+      <file name="/Dummy.txt" timestamp="1509567325987">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
         <mark key="." line="0" column="37" />
@@ -949,11 +950,21 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/content/static/icons/svg/icon_addToCalendar.svg" timestamp="1509564792534">
+        <mark key="[" line="0" column="105" />
+        <mark key="]" line="0" column="105" />
+        <mark key="." line="0" column="105" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/UrlRewrites/components/UrlRewrites.js" timestamp="1507135743932">
         <mark key="[" line="2" column="41" />
         <mark key="]" line="3" column="34" />
         <mark key="." line="3" column="34" />
         <mark key="^" line="3" column="34" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/Confirmation.js" timestamp="1509567303387">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/App/Container.js" timestamp="1507134799605">
         <mark key="[" line="0" column="25" />
@@ -1132,13 +1143,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>value.time</text>
+        <text>ledby</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>value.time</text>
+        <text>ledby</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
@@ -1147,7 +1158,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXY+dGVzdGluZzwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9saT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aXRsZT5DaGVja291dCBQYWdlPC90aXRsZT4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1159,30 +1170,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzTmFtZT0iQWRkVG9DYWxlbmRhcl9fbGlzdEl0ZW0iPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7c3VifQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcmlhLWxhYmVsPSJ0ZXN0aW5nIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9saT4K</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzTmFtZT0iQWRkVG9DYWxlbmRhcl9fbGlzdEl0ZW0iPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcmlhLWxhYmVsPSJ0ZXN0aW5nIgo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>Added tabIndex to showtimes header
 
 Otherwise user can't go back or close</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGFiSW5kZXg9IjAiCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcmlhLWxhYmVsPXtvcmRlci50b3RhbH0K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcm9sZT0iYnV0dG9uIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc2FibGVkPXshY2FuQ29udGludWV9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXJpYS1sYWJlbD17b3JkZXIudG90YWx9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJCdG4gQnRuLS1zZWNvbmRhcnkgQ2hlY2tvdXRGb290ZXItQ29uZmlybSB0ZXN0IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhyZWY9e2NvbmZpZy5wYXltZW50VXJsLnJlcGxhY2UoJyR7dG9rZW59Jywgb3JkZXIudG9rZW4pfSAvLyBlc2xpbnQtZGlzYWJsZS1saW5lIG5vLXRlbXBsYXRlLWN1cmx5LWluLXN0cmluZwogICAgICAgICAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtjb250aW51ZVRleHR9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2E+Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0YWJJbmRleAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcmlhLWxhYmVsPXtvcmRlci50b3RhbH0K</text>
       </register>
       <register name=":" type="4">
         <text>96</text>

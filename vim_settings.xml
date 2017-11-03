@@ -71,6 +71,11 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/features/my-amc/components/MyAMCHeroGuest.js" timestamp="1509722689355">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/theatres/widgets/FindATheatreLocationsModal.js" timestamp="1505852685163">
         <mark key="[" line="13" column="37" />
         <mark key="]" line="13" column="46" />
@@ -148,11 +153,12 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/core/components/Header/HeaderBranding.js" timestamp="1509640936086">
-        <mark key="[" line="28" column="119" />
-        <mark key="]" line="28" column="118" />
-        <mark key="^" line="28" column="118" />
-        <mark key="." line="28" column="118" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/core/components/Header/HeaderBranding.js" timestamp="1509723456422">
+        <mark key="'" line="43" column="20" />
+        <mark key="[" line="51" column="92" />
+        <mark key="]" line="51" column="99" />
+        <mark key="." line="51" column="99" />
+        <mark key="^" line="51" column="99" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/AddToCalendar/AddToCalendarList.js" timestamp="1509557790819">
         <mark key="[" line="7" column="43" />
@@ -184,9 +190,9 @@
         <mark key="." line="4" column="64" />
         <mark key="^" line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/core/components/Header/HeaderMeta.js" timestamp="1509721950917">
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="11" column="30" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/core/components/Header/HeaderMeta.js" timestamp="1509723295064">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="75" />
         <mark key="." line="11" column="30" />
         <mark key="^" line="11" column="30" />
       </file>
@@ -754,6 +760,10 @@
         <mark key="." line="39" column="43" />
         <mark key="^" line="39" column="43" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/features/core/components/Header/Heros/JoinStubsHero.js" timestamp="1509722973140">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="57" column="2" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/SeatingCheckout/Seat.js" timestamp="1508968650053">
         <mark key="[" line="141" column="46" />
         <mark key="]" line="141" column="58" />
@@ -994,7 +1004,7 @@
         <mark key="^" line="79" column="44" />
         <mark key="." line="79" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509659761994">
+      <file name="/Dummy.txt" timestamp="1509722767238">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieMedia/components/VideoViewDialog.js" timestamp="1507135435004">
@@ -1098,9 +1108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="40" filename="$USER_HOME$/Projects/felaTest/src/components/home/Home.js" />
-      <jump line="13" column="16" filename="$USER_HOME$/Projects/felaTest/config/mixins.js" />
-      <jump line="7" column="26" filename="$USER_HOME$/Projects/felaTest/config/postcss.config.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/felaTest/config/postcss.config.js" />
       <jump line="13" column="2" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/containers/LeadTierInterface/LeadTierInterfaceContainer.js" />
       <jump line="3" column="54" filename="/Dummy.txt" />
@@ -1198,25 +1205,28 @@
       <jump line="4" column="29" filename="$USER_HOME$/Sites/amc/content/src/presentation/components/Counter/Counter.js" />
       <jump line="256" column="0" filename="$USER_HOME$/Sites/amc/content/src/presentation/components/Counter/Counter.js" />
       <jump line="1" column="14" filename="$USER_HOME$/Sites/amc/content/src/presentation/components/Counter/Counter.js" />
+      <jump line="61" column="0" filename="$USER_HOME$/Sites/amc/content/src/features/core/components/Header/HeaderBranding.js" />
+      <jump line="33" column="33" filename="$USER_HOME$/Sites/amc/content/src/features/core/components/Header/HeaderBranding.js" />
+      <jump line="43" column="20" filename="$USER_HOME$/Sites/amc/content/src/features/core/components/Header/HeaderBranding.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{0}</text>
+        <text>, router</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>{0}</text>
+        <text>, router</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygneWVzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvbktleURvd249eyhldmVudCkgPT4gb3BlblNlYXJjaChldmVudCwgb25TaG93U2VhcmNoKX0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGFiSW5kZXg9IjAiCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1228,28 +1238,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb25LZXlQcmVzcz17KCkgPT4gfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygneWVzJywgZXZlbnQua2V5KTsK</text>
+        <text encoding="base64">ICAgICAgICBzZWFyY2goKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdubycsIGV2ZW50LmtleSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbmF2ID0gbnVsbDsK</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsgY3RhRWxlbWVudCB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygneWVzJywgZXZlbnQua2V5KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsgcG9zdGVyQ29udGVudCB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdubycsIGV2ZW50LmtleSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>59</text>

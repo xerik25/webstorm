@@ -491,10 +491,10 @@
         <mark key="^" line="97" column="66" />
         <mark key="." line="65" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509987372571">
-        <mark key="[" line="0" column="36" />
-        <mark key="]" line="0" column="36" />
-        <mark key="." line="0" column="36" />
+      <file name="/Dummy.txt" timestamp="1509994595535">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/modals/components/NewAccountForm.js" timestamp="1509747016188">
         <mark key="[" line="45" column="55" />
@@ -702,6 +702,12 @@
         <mark key="^" line="274" column="40" />
         <mark key="." line="274" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/MovieCastCrew/MovieCastCrew.js" timestamp="1509994639302">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="28" column="110" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/Content/components/ContentTypeEdit.js" timestamp="1507134967344">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="34" />
@@ -876,11 +882,11 @@
         <mark key="^" line="16" column="35" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Promotion/Promotion.js" timestamp="1509656448950">
-        <mark key="[" line="72" column="44" />
-        <mark key="]" line="72" column="86" />
-        <mark key="." line="72" column="86" />
-        <mark key="^" line="72" column="86" />
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Promotion/Promotion.js" timestamp="1509994626996">
+        <mark key="[" line="64" column="40" />
+        <mark key="]" line="64" column="40" />
+        <mark key="." line="64" column="40" />
+        <mark key="^" line="64" column="40" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieMedia/components/MovieVideos.js" timestamp="1507135443940">
         <mark key="[" line="0" column="41" />
@@ -1266,14 +1272,14 @@
       <jump line="15" column="30" filename="$USER_HOME$/Sites/amc/content/src/features/movies/components/TitleHeader/DescriptorList.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ide mobile btn / header tabIndex</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdGlsbmcnLCB0aGlzLnByb3BzLmNhc3RDcmV3KTsK</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>ide mobile btn / header tabIndex</text>
+        <text>.image</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
@@ -1282,7 +1288,7 @@
         <text encoding="base64">ICAgIGNvbnN0IGlzTG9nZ2VkSW4gPSBnZXQodmlld2VyLCAndXNlci5hY2NvdW50Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXJpYS1sYWJlbD0iT3BlbiBPcmRlciBUb3RhbCIK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdGlsbmcnLCB0aGlzLnByb3BzLmNhc3RDcmV3KTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1294,28 +1300,35 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGFiSW5kZXg9IjAiCg==</text>
+        <text encoding="base64">aHR0cHM6Ly9iaXRidWNrZXQub3JnL2FtY3RoZWF0cmVzL2NvbnRlbnQvcHVsbC1yZXF1ZXN0cy8yNTAvaWUtYWRhLW5hbWluZy1sYW5kbWFya3MvYWN0aXZpdHkjY29tbWVudC00ODg0NDEwNQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXJpYS1sYWJlbD17YE9yZGVyIFRvdGFsICR7b3JkZXIudG90YWx9YH0K</text>
+        <text encoding="base64">aHR0cHM6Ly9iaXRidWNrZXQub3JnL2FtY3RoZWF0cmVzL2NvbnRlbnQvcHVsbC1yZXF1ZXN0cy8yNTAvaWUtYWRhLW5hbWluZy1sYW5kbWFya3MvYWN0aXZpdHkjY29tbWVudC00ODg0MzQ0Ngo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGFiSW5kZXg9IjAiCg==</text>
+      <register name="4" type="4">
+        <text>pdate PropType, change to screen-reader-only, verify
+search is func, rename func, change keyCode
+
+Requested by @amc-aedwards
+https://bitbucket.org/amctheatres/content/pull-requests/250/ie-ada-naming-landmarks/activity#comment-48844035
+https://bitbucket.org/amctheatres/content/pull-requests/250/ie-ada-naming-landmarks/activity#comment-48846561
+https://bitbucket.org/amctheatres/content/pull-requests/250/ie-ada-naming-landmarks/activity#comment-48844280
+https://bitbucket.org/amctheatres/content/pull-requests/250/ie-ada-naming-landmarks/activity#comment-48843795</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXJpYS1sYWJlbD0iT3BlbiBPcmRlciBUb3RhbCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChldmVudCAmJiBldmVudC5rZXkgPT09IDEzKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGFiSW5kZXg9IjAiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXJpYS1sYWJlbD17YE9yZGVyIFRvdGFsICR7b3JkZXIudG90YWx9YH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGFiSW5kZXg9IjAiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaWduSW5Pck15QWNjb3VudChldmVudCwgcm91dGVyLCBpc0xvZ2dlZEluKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>42</text>

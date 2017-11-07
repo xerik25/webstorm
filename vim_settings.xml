@@ -511,7 +511,7 @@
         <mark key="^" line="97" column="66" />
         <mark key="." line="65" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510079131773">
+      <file name="/Dummy.txt" timestamp="1510083534422">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -1321,7 +1321,11 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>index</text>
+        <text>Update so that you can press space to expand seats
+
+With a larger theatre it might take awhile to tab through every seat
+so I added the ability to press &quot;space&quot; on a row so that you can then
+tab through individual seats.</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
@@ -1335,8 +1339,12 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1vdmllOiBSZWFjdC5Qcm9wVHlwZXMub2JqZWN0Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBpbmRleCA9IGRvY3VtZW50LmFjdGl2ZUVsZW1lbnQuZ2V0QXR0cmlidXRlKCdkYXRhLWluZGV4Jyk7Cg==</text>
+      <register name="1" type="4">
+        <text>Update so that you can press space to expand seats
+
+With a larger theatre it might take awhile to tab through every seat
+so I added the ability to press &quot;space&quot; on a row so that you can then
+tab through individual seats.</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1348,25 +1356,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBib3RoID0gYXJpYW0gKyBwcmljZXN0cmluZzsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBpbmRleCA9IGRvY3VtZW50LmFjdGl2ZUVsZW1lbnQuZ2V0QXR0cmlidXRlKCdkYXRhLWluZGV4Jyk7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBib3RoID0gYXJpYW0gKyBwcmljZXN0cmluZzsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2lzUm93RXhwYW5kZWQnLCB0aGlzLnN0YXRlLnJvd0luZGV4KTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">dmFyaW91cyB1cGRhdGVzIHRvIGhlbHAgd2l0aCBkZW1vCgotIGFkZCB0YWJJbmRleCB0byBmb3Jnb3QgcGFzc3dvcmQKLSBhZGQgdGFiSW5kZXggYmFjayB0byB0aXRsZSBzbyBvbiBzaG93dGltZXMgdGhleSBoYXZlIG1vdmllIGNvbnRleHQKLSBhZGQgaXRlbSBkZXNjcmlwdGlvbiB0byBidXR0b24gaW4gZm9vZCAmIGRyaW5rcyBmb3IgY29udGV4dAotIHJlbW92ZSBhcmlhLWhpZGRlbiBmcm9tIHByb21vIHBpY3R1cmVz</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Jvd0luZGV4JywgdGhpcy5zdGF0ZS5yb3dJbmRleCk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb25Sb3dQcmVzcycsIGV2ZW50LnRhcmdldCwgZG9jdW1lbnQuYWN0aXZlRWxlbWVudCwgaXNGb2N1c2VkLCBkb2N1bWVudC5hY3RpdmVFbGVtZW50LmdldEF0dHJpYnV0ZSgnZGF0YS1pbmRleCcpKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Jvd0lzRXhwYW5kZWQnLCBpLCB0aGlzLnN0YXRlLnJvd0luZGV4LCByb3dJc0V4cGFuZGVkKTsK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb25Sb3dQcmVzcycsIGV2ZW50LnRhcmdldCwgZG9jdW1lbnQuYWN0aXZlRWxlbWVudCwgaXNGb2N1c2VkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Jvd0lzRXhwYW5kZWQnLCBpLCB0aGlzLnN0YXRlLnJvd0luZGV4LCByb3dJc0V4cGFuZGVkKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb25Sb3dQcmVzcycsIGV2ZW50LnRhcmdldCwgZG9jdW1lbnQuYWN0aXZlRWxlbWVudCwgaXNGb2N1c2VkKTsK</text>

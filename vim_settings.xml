@@ -118,11 +118,11 @@
         <mark key="." line="4" column="64" />
         <mark key="^" line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/core/components/Header/HeaderMeta.js" timestamp="1509984790439">
-        <mark key="[" line="31" column="31" />
-        <mark key="]" line="31" column="36" />
-        <mark key="." line="31" column="36" />
-        <mark key="^" line="31" column="36" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/core/components/Header/HeaderMeta.js" timestamp="1510092336795">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="11" column="32" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/movies/components/MovieReviewsContainer.js" timestamp="1510003713947">
         <mark key="[" line="41" column="38" />
@@ -403,6 +403,12 @@
         <mark key="^" line="5" column="23" />
         <mark key="." line="5" column="23" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Header/_header.meta.scss" timestamp="1510092180330">
+        <mark key="[" line="104" column="12" />
+        <mark key="]" line="104" column="16" />
+        <mark key="^" line="104" column="16" />
+        <mark key="." line="104" column="16" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/ContentPreview/components/ContentPreview.js" timestamp="1507135241898">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="34" />
@@ -463,6 +469,12 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Header/_header.mobilenav.scss" timestamp="1510092151081">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="80" column="19" />
+        <mark key="." line="80" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/UrlRewrites/components/UrlRewriteEdit.js" timestamp="1507135747532">
         <mark key="[" line="1" column="41" />
         <mark key="]" line="2" column="34" />
@@ -511,8 +523,8 @@
         <mark key="^" line="97" column="66" />
         <mark key="." line="65" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510083534422">
-        <mark key="[" line="0" column="6" />
+      <file name="/Dummy.txt" timestamp="1510092125993">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
@@ -1320,18 +1332,14 @@
       <jump line="45" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Update so that you can press space to expand seats
-
-With a larger theatre it might take awhile to tab through every seat
-so I added the ability to press &quot;space&quot; on a row so that you can then
-tab through individual seats.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ic2NyZWVuLXJlYWRlci1vbmx5Ij5TZWFyY2ggdGhlIEFNQyB3ZWJzaXRlPC9zcGFuPgo=</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>cccccccccccccccc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
@@ -1339,12 +1347,8 @@ tab through individual seats.</text>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1vdmllOiBSZWFjdC5Qcm9wVHlwZXMub2JqZWN0Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>Update so that you can press space to expand seats
-
-With a larger theatre it might take awhile to tab through every seat
-so I added the ability to press &quot;space&quot; on a row so that you can then
-tab through individual seats.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ic2NyZWVuLXJlYWRlci1vbmx5Ij5TZWFyY2ggdGhlIEFNQyB3ZWJzaXRlPC9zcGFuPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1356,28 +1360,32 @@ tab through individual seats.</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBpbmRleCA9IGRvY3VtZW50LmFjdGl2ZUVsZW1lbnQuZ2V0QXR0cmlidXRlKCdkYXRhLWluZGV4Jyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBib3RoID0gYXJpYW0gKyBwcmljZXN0cmluZzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2lzUm93RXhwYW5kZWQnLCB0aGlzLnN0YXRlLnJvd0luZGV4KTsK</text>
+      <register name="4" type="4">
+        <text>Update so that you can press space to expand seats
+
+With a larger theatre it might take awhile to tab through every seat
+so I added the ability to press &quot;space&quot; on a row so that you can then
+tab through individual seats.</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">dmFyaW91cyB1cGRhdGVzIHRvIGhlbHAgd2l0aCBkZW1vCgotIGFkZCB0YWJJbmRleCB0byBmb3Jnb3QgcGFzc3dvcmQKLSBhZGQgdGFiSW5kZXggYmFjayB0byB0aXRsZSBzbyBvbiBzaG93dGltZXMgdGhleSBoYXZlIG1vdmllIGNvbnRleHQKLSBhZGQgaXRlbSBkZXNjcmlwdGlvbiB0byBidXR0b24gaW4gZm9vZCAmIGRyaW5rcyBmb3IgY29udGV4dAotIHJlbW92ZSBhcmlhLWhpZGRlbiBmcm9tIHByb21vIHBpY3R1cmVz</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBpbmRleCA9IGRvY3VtZW50LmFjdGl2ZUVsZW1lbnQuZ2V0QXR0cmlidXRlKCdkYXRhLWluZGV4Jyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Jvd0luZGV4JywgdGhpcy5zdGF0ZS5yb3dJbmRleCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBib3RoID0gYXJpYW0gKyBwcmljZXN0cmluZzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb25Sb3dQcmVzcycsIGV2ZW50LnRhcmdldCwgZG9jdW1lbnQuYWN0aXZlRWxlbWVudCwgaXNGb2N1c2VkLCBkb2N1bWVudC5hY3RpdmVFbGVtZW50LmdldEF0dHJpYnV0ZSgnZGF0YS1pbmRleCcpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2lzUm93RXhwYW5kZWQnLCB0aGlzLnN0YXRlLnJvd0luZGV4KTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Jvd0lzRXhwYW5kZWQnLCBpLCB0aGlzLnN0YXRlLnJvd0luZGV4LCByb3dJc0V4cGFuZGVkKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">dmFyaW91cyB1cGRhdGVzIHRvIGhlbHAgd2l0aCBkZW1vCgotIGFkZCB0YWJJbmRleCB0byBmb3Jnb3QgcGFzc3dvcmQKLSBhZGQgdGFiSW5kZXggYmFjayB0byB0aXRsZSBzbyBvbiBzaG93dGltZXMgdGhleSBoYXZlIG1vdmllIGNvbnRleHQKLSBhZGQgaXRlbSBkZXNjcmlwdGlvbiB0byBidXR0b24gaW4gZm9vZCAmIGRyaW5rcyBmb3IgY29udGV4dAotIHJlbW92ZSBhcmlhLWhpZGRlbiBmcm9tIHByb21vIHBpY3R1cmVz</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb25Sb3dQcmVzcycsIGV2ZW50LnRhcmdldCwgZG9jdW1lbnQuYWN0aXZlRWxlbWVudCwgaXNGb2N1c2VkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Jvd0luZGV4JywgdGhpcy5zdGF0ZS5yb3dJbmRleCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>42</text>

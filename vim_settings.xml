@@ -511,7 +511,7 @@
         <mark key="^" line="97" column="66" />
         <mark key="." line="65" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510003714988">
+      <file name="/Dummy.txt" timestamp="1510069861907">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="51" />
         <mark key="." line="0" column="51" />
@@ -710,6 +710,11 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/features/wifi/components/LoginForm.js" timestamp="1510069859100">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/website/configs/webpack/webpack.config.build.js" timestamp="1507153327945">
         <mark key="[" line="32" column="25" />
         <mark key="]" line="32" column="23" />
@@ -793,11 +798,11 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/modals/components/LoginModal.js" timestamp="1509382190006">
-        <mark key="[" line="346" column="0" />
-        <mark key="]" line="346" column="0" />
-        <mark key="." line="346" column="0" />
-        <mark key="^" line="37" column="25" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/modals/components/LoginModal.js" timestamp="1510069876288">
+        <mark key="[" line="317" column="67" />
+        <mark key="]" line="317" column="78" />
+        <mark key="." line="317" column="78" />
+        <mark key="^" line="317" column="78" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/Pagination/PageHeader.js" timestamp="1507134757478">
         <mark key="[" line="0" column="26" />
@@ -1314,8 +1319,8 @@
       <jump line="45" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWJJbmRleD0iMCIK</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
@@ -1329,8 +1334,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1vdmllOiBSZWFjdC5Qcm9wVHlwZXMub2JqZWN0Cg==</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">KzUgLTMgTSAKKzQgLTQgTSAKKzEgLTEgTSAKKzEgLTAgTSAKKzcgLTEgTSAKKzggLTQgTSAKKzMgLTIgTSAKKzI3IC00IE0KKzExIC0yIE0KKzIgLTIgTSAKKzEgLTAgTSAKKzcgLTYgTSAKKzEgLTEgTSAKKzQgLTMgTSAKKzIgLTIgTSAKKzYgLTQgTSAKKzEgLTEgTSAKKzEgLTEgTSAKKzMgLTAgTSAKKzIgLTEgTSAKKzMgLTAgTSAKKzIgLTEgTSAKKzEgLTEgTSAKKzIwIC0xOCAKKzEgLTEgTSAKKzEgLTAgTSAKKzEgLTEgTSAKKzIgLTAgTSAKKzMgLTIgTSAKKzEgLTEgTSAKKzEwIC0zIE0KKzE3IC0xMyAKKzEgLTEgTSAKKzMgLTggTSAKKzIgLTQgTSAKKzEgLTEgTSAKKzYgLTIgTSAKKzMgLTMgTSAKKzMgLTMgTSAKKzQgLTQgTSAKKzEgLTEgTSAKKzQgLTIgTSAKKzIgLTIgTSAKKzEgLTAgTSAKKzEgLTEgTSAKKzcgLTAgTSA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWJJbmRleD0iMCIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1342,28 +1347,28 @@
         </keys>
       </register>
       <register name="2" type="8">
+        <text encoding="base64">KzUgLTMgTSAKKzQgLTQgTSAKKzEgLTEgTSAKKzEgLTAgTSAKKzcgLTEgTSAKKzggLTQgTSAKKzMgLTIgTSAKKzI3IC00IE0KKzExIC0yIE0KKzIgLTIgTSAKKzEgLTAgTSAKKzcgLTYgTSAKKzEgLTEgTSAKKzQgLTMgTSAKKzIgLTIgTSAKKzYgLTQgTSAKKzEgLTEgTSAKKzEgLTEgTSAKKzMgLTAgTSAKKzIgLTEgTSAKKzMgLTAgTSAKKzIgLTEgTSAKKzEgLTEgTSAKKzIwIC0xOCAKKzEgLTEgTSAKKzEgLTAgTSAKKzEgLTEgTSAKKzIgLTAgTSAKKzMgLTIgTSAKKzEgLTEgTSAKKzEwIC0zIE0KKzE3IC0xMyAKKzEgLTEgTSAKKzMgLTggTSAKKzIgLTQgTSAKKzEgLTEgTSAKKzYgLTIgTSAKKzMgLTMgTSAKKzMgLTMgTSAKKzQgLTQgTSAKKzEgLTEgTSAKKzQgLTIgTSAKKzIgLTIgTSAKKzEgLTAgTSAKKzEgLTEgTSAKKzcgLTAgTSA=</text>
+      </register>
+      <register name="3" type="8">
         <text encoding="base64">KzIgLTEgTSAKKzMgLTAgTSAKKzIgLTAgTSAKKzMgLTMgTSAKKzIgLTAgTSAKKzIgLTEgTSAKKzEgLTEgTSA=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ21vdmllJywgaS5ub2RlKTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVybAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWUK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtb3ZpZScsIG1vdmllKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWUK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvbW8gcHJvcHMnLCB0aGlzLnByb3BzKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdNb3ZpZVByb21vdGlvbnMnLCBtb3ZpZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvbW8gcHJvcHMnLCB0aGlzLnByb3BzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>42</text>

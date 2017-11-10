@@ -210,7 +210,7 @@
         <mark key="^" line="95" column="103" />
         <mark key="." line="95" column="103" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1509977252734">
+      <file name="/GraphQL.result.json" timestamp="1510346893459">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/AttributeDisplay/components/AttributeDisplayList.js" timestamp="1507134837180">
@@ -507,7 +507,7 @@
         <mark key="^" line="97" column="66" />
         <mark key="." line="65" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510268634823">
+      <file name="/Dummy.txt" timestamp="1510349554299">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/modals/components/NewAccountForm.js" timestamp="1509747016188">
@@ -527,6 +527,12 @@
         <mark key="]" line="3" column="34" />
         <mark key="." line="3" column="34" />
         <mark key="^" line="3" column="34" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/UI/ModalWrapper.js" timestamp="1510350511310">
+        <mark key="[" line="93" column="86" />
+        <mark key="]" line="93" column="97" />
+        <mark key="^" line="93" column="97" />
+        <mark key="." line="93" column="97" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/App/Container.js" timestamp="1507134799605">
         <mark key="[" line="0" column="25" />
@@ -768,11 +774,11 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/modals/components/LoginModal.js" timestamp="1510069876288">
-        <mark key="[" line="317" column="67" />
-        <mark key="]" line="317" column="78" />
-        <mark key="." line="317" column="78" />
-        <mark key="^" line="317" column="78" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/modals/components/LoginModal.js" timestamp="1510349581129">
+        <mark key="[" line="15" column="84" />
+        <mark key="]" line="15" column="85" />
+        <mark key="." line="15" column="85" />
+        <mark key="^" line="15" column="85" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/Pagination/PageHeader.js" timestamp="1507134757478">
         <mark key="[" line="0" column="26" />
@@ -925,7 +931,7 @@
         <mark key="." line="7" column="64" />
         <mark key="^" line="7" column="64" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/components/LoadingIndicator.js" timestamp="1510269509745">
+      <file name="$USER_HOME$/Sites/amc/content/src/components/LoadingIndicator.js" timestamp="1510269693679">
         <mark key="[" line="9" column="61" />
         <mark key="]" line="9" column="72" />
         <mark key="^" line="9" column="72" />
@@ -1294,13 +1300,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>aria-hidden={true}</text>
+        <text>&quot;1234&quot;</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>aria-hidden={true}</text>
+        <text>&quot;1234&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
@@ -1309,7 +1315,7 @@
         <text encoding="base64">ICAgIG1vdmllOiBSZWFjdC5Qcm9wVHlwZXMub2JqZWN0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2l0ZW0nLCBpdGVtKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGlkPSJhc2RmIj50aGlzIGlzIGEgdGVzdDwvc3Bhbj4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1321,32 +1327,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2l0ZW0nLCBpdGVtKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ic2NyZWVuLXJlYWRlci1vbmx5Ij5TZWFyY2ggdGhlIEFNQyB3ZWJzaXRlPC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ic2NyZWVuLXJlYWRlci1vbmx5Ij5TZWFyY2ggdGhlIEFNQyB3ZWJzaXRlPC9zcGFuPgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>Update so that you can press space to expand seats
-
-With a larger theatre it might take awhile to tab through every seat
-so I added the ability to press &quot;space&quot; on a row so that you can then
-tab through individual seats.</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>42</text>

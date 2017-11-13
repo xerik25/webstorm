@@ -186,6 +186,7 @@
         <mark key="^" line="51" column="41" />
         <mark key="." line="51" column="41" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/utils/CheckoutUtils.js" timestamp="1510600069846" />
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/forms/AutoCompleteField.js" timestamp="1507134713352">
         <mark key="[" line="4" column="26" />
         <mark key="]" line="5" column="34" />
@@ -572,6 +573,9 @@
         <mark key="." line="4" column="64" />
         <mark key="^" line="4" column="64" />
       </file>
+      <file name="/fragment.js2" timestamp="1510600003535">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/Router.js" timestamp="1507135830770">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
@@ -794,6 +798,7 @@
         <mark key="." line="35" column="34" />
         <mark key="^" line="35" column="34" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/utils/enums/ProductType.js" timestamp="1510600080916" />
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/ShowtimesInfo/ShowtimesInfo.js" timestamp="1507732041776">
         <mark key="[" line="39" column="39" />
         <mark key="]" line="39" column="46" />
@@ -981,10 +986,10 @@
         <mark key="^" line="84" column="57" />
         <mark key="." line="84" column="57" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/payment/src/shared/components/Purchase.js" timestamp="1510599305328">
+      <file name="$USER_HOME$/Sites/amc/payment/src/shared/components/Purchase.js" timestamp="1510600168478">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
-        <mark key="^" line="58" column="35" />
+        <mark key="^" line="61" column="40" />
         <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/LoadingIcon.js" timestamp="1507134365826">
@@ -1083,6 +1088,7 @@
         <mark key="^" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/payment/node_modules/@amctheatres/content/lib/features/checkout/utils/CheckoutUtils.js" timestamp="1510599817784" />
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/ShowtimesActionBar/ShowtimesActionBarItem.js" timestamp="1509641297515">
         <mark key="[" line="70" column="59" />
         <mark key="]" line="70" column="76" />
@@ -1308,13 +1314,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>announce</text>
+        <text>ProductType.RESERVED_SEATING_TICKET</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
@@ -1323,7 +1329,7 @@
         <text encoding="base64">ICAgIG1vdmllOiBSZWFjdC5Qcm9wVHlwZXMub2JqZWN0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1335,28 +1341,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGlkPSJhc2RmIj50aGlzIGlzIGEgdGVzdDwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2l0ZW0nLCBpdGVtKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ09OQ0VTU0lPTlM6ICdDT05DRVNTSU9OUycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTkVXX1ZJUlRVQUxfR0lGVENBUkQ6ICdHSUZUQ0FSRC1WSVJUVUFMLU5FVycsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUkVMT0FEX0dJRlRDQVJEOiAnR0lGVENBUkQtUkVMT0FEJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTkVXX1BIWVNJQ0FMX0dJRlRDQVJEOiAnR0lGVENBUkQtTkVXJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUkVTRVJWRURfU0VBVElOR19USUNLRVQ6ICdUSUNLRVQtUlMnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ic2NyZWVuLXJlYWRlci1vbmx5Ij5TZWFyY2ggdGhlIEFNQyB3ZWJzaXRlPC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgR0VORVJBTF9BRE1JU1NJT05fVElDS0VUOiAnVElDS0VULUdBJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9ZQUxUWV9MSU1JVExFU1M6ICdMT1lBTFRZLUxJTUlUTEVTUycsCg==</text>
       </register>
       <register name=":" type="4">
         <text>42</text>

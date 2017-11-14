@@ -513,7 +513,7 @@
         <mark key="^" line="97" column="66" />
         <mark key="." line="65" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510684693058">
+      <file name="/Dummy.txt" timestamp="1510692162661">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="50" />
         <mark key="." line="0" column="50" />
@@ -713,11 +713,11 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/SeatingCheckout/SeatingLayout.js" timestamp="1510689402950">
-        <mark key="[" line="84" column="30" />
-        <mark key="]" line="84" column="33" />
-        <mark key="^" line="84" column="33" />
-        <mark key="." line="84" column="33" />
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/SeatingCheckout/SeatingLayout.js" timestamp="1510692304286">
+        <mark key="[" line="87" column="28" />
+        <mark key="]" line="87" column="56" />
+        <mark key="^" line="87" column="56" />
+        <mark key="." line="87" column="56" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/carousel/components/HeroContent.js" timestamp="1510095402280">
         <mark key="[" line="6" column="48" />
@@ -912,6 +912,7 @@
         <mark key="." line="85" column="56" />
         <mark key="^" line="64" column="46" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/utils/osDetection.js" timestamp="1510692144546" />
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieMedia/components/MovieVideos.js" timestamp="1507135443940">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="34" />
@@ -1121,6 +1122,10 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/features/my-amc/settings/getAppStoreButtons.js" timestamp="1510692169266">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="62" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/Content/components/ContentTypeSelect.js" timestamp="1507134957889">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="34" />
@@ -1321,22 +1326,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>showBoth</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>showBoth</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdpc1NlYXRIaWRkZW4nLCBpc1NlYXRIaWRkZW4pOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgaXNJT1MsIGlzQW5kcm9pZCB9IGZyb20gJy4uLy4uLy4uL3V0aWxzL29zRGV0ZWN0aW9uJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb25Sb3dQcmVzcycsIGV2ZW50LCByb3csIHRoaXMuc3RhdGUucm93SW5kZXgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1348,28 +1353,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdpc1NlYXRIaWRkZW4nLCBpc1NlYXRIaWRkZW4sIGlzTW9iaWxlQ2hlY2ssICFpc1Jvd0V4cGFuZGVkKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb25Sb3dQcmVzcycsIGV2ZW50LCByb3csIHRoaXMuc3RhdGUucm93SW5kZXgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2lzUm93RXhwYW5kZWQnLCBpc1Jvd0V4cGFuZGVkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdpc1NlYXRIaWRkZW4nLCBpc1NlYXRIaWRkZW4sIGlzTW9iaWxlQ2hlY2ssICFpc1Jvd0V4cGFuZGVkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb25Sb3dQcmVzcycsIGV2ZW50LCByb3cpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2lzUm93RXhwYW5kZWQnLCBpc1Jvd0V4cGFuZGVkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb25Sb3dQcmVzcycsIGV2ZW50LCByb3cpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhlIHVzZSBvZiB0aGUgRC1CT1ggTW90aW9uIFN5c3RlbS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRC1CT1ggVGVjaG5vbG9naWVzIEluYy4gYW5kIHRoaXMgbW92aWUgdGhlYXRyZSBhcmUgaW4gbm8gd2F5IHJlc3BvbnNpYmxlIGZvciBhbnkgZGFtYWdlcyBvZiBhbnkga2luZCBhcmlzaW5nIGZyb20K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhlIHVzZSBvZiB0aGUgRC1CT1ggTW90aW9uIFN5c3RlbS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3IgdW5kZXIgNDVsYnMgYXJlIG5vdCByZWNvbW1lbmRlZCB0byBwYXJ0aWNpcGF0ZS7CoCBBdm9pZCB1c2luZyBob3QgbGlxdWlkcyBpbiB0aGUgdmljaW5pdHkgb2YgdGhlIEQtQk9YIHNlYXRzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRC1CT1ggVGVjaG5vbG9naWVzIEluYy4gYW5kIHRoaXMgbW92aWUgdGhlYXRyZSBhcmUgaW4gbm8gd2F5IHJlc3BvbnNpYmxlIGZvciBhbnkgZGFtYWdlcyBvZiBhbnkga2luZCBhcmlzaW5nIGZyb20K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFjaywgaGVhZCBvciBuZWNrIGNvbmRpdGlvbnMsIGluanVyaWVzIG9yIHByZS1leGlzdGluZyBtZWRpY2FsIGNvbmRpdGlvbnMuwqAgQ2hpbGRyZW4gdW5kZXIgdGVuICgxMCkgeWVhcnMgb2YgYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3IgdW5kZXIgNDVsYnMgYXJlIG5vdCByZWNvbW1lbmRlZCB0byBwYXJ0aWNpcGF0ZS7CoCBBdm9pZCB1c2luZyBob3QgbGlxdWlkcyBpbiB0aGUgdmljaW5pdHkgb2YgdGhlIEQtQk9YIHNlYXRzLgo=</text>
       </register>
       <register name=":" type="4">
         <text>42</text>

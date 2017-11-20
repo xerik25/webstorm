@@ -196,12 +196,6 @@
         <mark key="^" line="73" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/MoviePosters/index.js" timestamp="1511192189136">
-        <mark key="[" line="205" column="41" />
-        <mark key="]" line="205" column="51" />
-        <mark key="^" line="205" column="51" />
-        <mark key="." line="205" column="51" />
-      </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/forms/AutoCompleteField.js" timestamp="1507134713352">
         <mark key="[" line="4" column="26" />
         <mark key="]" line="5" column="34" />
@@ -216,6 +210,12 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.js" timestamp="1510775395292">
         <mark key="'" line="1618" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/UI/TabBar.js" timestamp="1511195443756">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="17" column="57" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/Media/components/Media.js" timestamp="1507135252706">
         <mark key="[" line="0" column="41" />
@@ -960,11 +960,11 @@
         <mark key="." line="7" column="64" />
         <mark key="^" line="7" column="64" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/components/LoadingIndicator.js" timestamp="1510950564459">
-        <mark key="[" line="8" column="43" />
-        <mark key="]" line="9" column="99" />
-        <mark key="^" line="9" column="99" />
-        <mark key="." line="9" column="99" />
+      <file name="$USER_HOME$/Sites/amc/content/src/components/LoadingIndicator.js" timestamp="1511193993607">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="93" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/Content/editors/carousel/Hero.js" timestamp="1507135102452">
         <mark key="[" line="0" column="41" />
@@ -1343,22 +1343,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB0YWJzID0gdGhpcy5wcm9wcy50YWJzOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2hpbGRyZW4nLCB0aGlzLnByb3BzLmNoaWxkcmVuKTsK</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>'}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXQ6IFNlYXRpbmdMYXlvdXQucHJvcFR5cGVzLmxheW91dCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNjcmVlbi1yZWFkZXItb25seSIgcm9sZT0iYWxlcnQiIHRhYkluZGV4PSItMSI+TG9hZGluZyBuZXcgY29udGVudDwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB0YWJzID0gdGhpcy5wcm9wcy50YWJzOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2hpbGRyZW4nLCB0aGlzLnByb3BzLmNoaWxkcmVuKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1370,28 +1370,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHRtbElkLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ic2NyZWVuLXJlYWRlci1vbmx5IiBhcmlhLWxpdmU9InBvbGl0ZSIgYXJpYS1hdG9taWM9InRydWUiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt0YWJJbmRleCA9PT0gMCA/ICdOb3cgUGxheWluZycgOiAnQ29taW5nIFNvb24nfSBDdXJyZW50bHkgU2VsZWN0ZWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHRtbElkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aDQgY2xhc3NOYW1lPSJuby1tYXJnaW4tYm90dG9tIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNjcmVlbi1yZWFkZXItb25seSIgcm9sZT0iYWxlcnQiIHRhYkluZGV4PSItMSI+dGhpcyBpcyBqdXN0IGEgdGVzdDwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1haW5MaW5rID0gbGlua1JlZiA/IDxhIGhyZWY9e2xpbmtSZWZ9IGNsYXNzTmFtZT0iSGVyb0NvbnRlbnRfX21haW5MaW5rIj48L2E+IDogbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InNjcmVlbi1yZWFkZXItb25seSIgYXJpYS1saXZlPSJwb2xpdGUiPnt0YWJJbmRleCA9PT0gMCA/ICdOb3cgUGxheWluZycgOiAnQ29taW5nIFNvb24nfTwvc3Bhbj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2lzTW9iaWxlJywgaXNNb2JpbGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB0YWJzID0gdGhpcy5wcm9wcy50YWJzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXQ6IFNlYXRpbmdMYXlvdXQucHJvcFR5cGVzLmxheW91dCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaHRtbElkLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXQ6IFByb3BUeXBlcy5hbnksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaHRtbElkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXQ6IFNlYXRpbmdMYXlvdXQucHJvcFR5cGVzLmFueSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aDQgY2xhc3NOYW1lPSJuby1tYXJnaW4tYm90dG9tIj4K</text>
       </register>
       <register name=":" type="4">
         <text>100</text>

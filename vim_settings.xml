@@ -196,6 +196,12 @@
         <mark key="^" line="73" column="0" />
         <mark key="." line="77" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/MoviePosters/index.js" timestamp="1511192189136">
+        <mark key="[" line="205" column="41" />
+        <mark key="]" line="205" column="51" />
+        <mark key="^" line="205" column="51" />
+        <mark key="." line="205" column="51" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/forms/AutoCompleteField.js" timestamp="1507134713352">
         <mark key="[" line="4" column="26" />
         <mark key="]" line="5" column="34" />
@@ -532,7 +538,7 @@
         <mark key="^" line="97" column="66" />
         <mark key="." line="65" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510955905136">
+      <file name="/Dummy.txt" timestamp="1511191900294">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="50" />
         <mark key="." line="0" column="50" />
@@ -1336,8 +1342,8 @@
       <jump line="25" column="10" filename="$USER_HOME$/Sites/amc/content/src/presentation/components/UI/MovieRuntimeToolTip.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCB0YWJzID0gdGhpcy5wcm9wcy50YWJzOwo=</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
@@ -1352,7 +1358,7 @@
         <text encoding="base64">ICAgICAgICBsYXlvdXQ6IFNlYXRpbmdMYXlvdXQucHJvcFR5cGVzLmxheW91dCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHRtbElkLAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB0YWJzID0gdGhpcy5wcm9wcy50YWJzOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1364,28 +1370,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHRtbElkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaHRtbElkLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aDQgY2xhc3NOYW1lPSJuby1tYXJnaW4tYm90dG9tIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaHRtbElkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1haW5MaW5rID0gbGlua1JlZiA/IDxhIGhyZWY9e2xpbmtSZWZ9IGNsYXNzTmFtZT0iSGVyb0NvbnRlbnRfX21haW5MaW5rIj48L2E+IDogbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aDQgY2xhc3NOYW1lPSJuby1tYXJnaW4tYm90dG9tIj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2lzTW9iaWxlJywgaXNNb2JpbGUpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1haW5MaW5rID0gbGlua1JlZiA/IDxhIGhyZWY9e2xpbmtSZWZ9IGNsYXNzTmFtZT0iSGVyb0NvbnRlbnRfX21haW5MaW5rIj48L2E+IDogbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXQ6IFNlYXRpbmdMYXlvdXQucHJvcFR5cGVzLmxheW91dCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2lzTW9iaWxlJywgaXNNb2JpbGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXQ6IFByb3BUeXBlcy5hbnksCg==</text>
+        <text encoding="base64">ICAgICAgICBsYXlvdXQ6IFNlYXRpbmdMYXlvdXQucHJvcFR5cGVzLmxheW91dCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXQ6IFNlYXRpbmdMYXlvdXQucHJvcFR5cGVzLmFueSwK</text>
+        <text encoding="base64">ICAgICAgICBsYXlvdXQ6IFByb3BUeXBlcy5hbnksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb3JkZXInLCBvcmRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsYXlvdXQ6IFNlYXRpbmdMYXlvdXQucHJvcFR5cGVzLmFueSwK</text>
       </register>
       <register name=":" type="4">
         <text>100</text>

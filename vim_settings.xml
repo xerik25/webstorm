@@ -794,6 +794,12 @@
         <mark key="^" line="152" column="100" />
         <mark key="." line="152" column="100" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/summary/DateSummaryContainer.js" timestamp="1511369084351">
+        <mark key="[" line="90" column="20" />
+        <mark key="]" line="90" column="23" />
+        <mark key="." line="90" column="23" />
+        <mark key="^" line="90" column="23" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/ImageViewDialog.js" timestamp="1507134329419">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="25" />
@@ -1402,22 +1408,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.only</text>
+        <text>text</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>.only</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcmlhLXJlcXVpcmVkPXt0aGlzLnByb3BzLnJlcXVpcmVkfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXh0OiBQcm9wVHlwZXMuc3RyaW5nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvcmRlcicsIG9yZGVyKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1429,31 +1435,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG15QWxlcnQgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdwJyk7CiAgICBteUFsZXJ0LnNldEF0dHJpYnV0ZSgncm9sZScsICdhbGVydCcpOwogICAgY29uc3QgbXlBbGVydFRleHQgPSBkb2N1bWVudC5jcmVhdGVUZXh0Tm9kZShtZXNzYWdlKTsKICAgIG15QWxlcnQuYXBwZW5kQ2hpbGQobXlBbGVydFRleHQpOwogICAgZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChteUFsZXJ0KTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjYWxlbmRhckxpbmtzJywgY2FsZW5kYXJMaW5rcyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdncm91cCcsIGdyb3VwKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgUm9sZUFsZXJ0ID0gbWVzc2FnZSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNhbGVuZGFyTGlua3MgPSBnZXQoZ3JvdXAsICdzaG93dGltZS5jYWxlbmRhckxpbmtzJykgfHwgbnVsbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHtjYWxlbmRhckxpbmtzICYmIDxBZGRUb0NhbGVuZGFyIGxpbmtzPXtjYWxlbmRhckxpbmtzfSBzaG93VGV4dD17dHJ1ZX0gLz59Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgUm9sZUFsZXJ0Owo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNhbGVuZGFyTGlua3MgPSBnZXQob3JkZXIsICdncm91cHNbMF0uc2hvd3RpbWUuY2FsZW5kYXJMaW5rcycpIHx8IG51bGw7CiAgICBjb25zb2xlLmxvZygnY2FsZW5kYXJMaW5rcycsIGNhbGVuZGFyTGlua3MpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2U6IFByb3BUeXBlcy5zdHJpbmcsCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNhbGVuZGFyTGlua3MgPSBudWxsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Um9sZUFsZXJ0LnByb3BUeXBlcyA9IHsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjYWxlbmRhckxpbmtzJywgY2FsZW5kYXJMaW5rcyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>100</text>
+        <text>234</text>
       </register>
     </registers>
     <search>
@@ -1489,7 +1495,6 @@
         <entry encoding="base64">PGE=</entry>
       </history-search>
       <history-cmd>
-        <entry>48</entry>
         <entry>49</entry>
         <entry>50</entry>
         <entry>151</entry>
@@ -1509,6 +1514,7 @@
         <entry>42</entry>
         <entry>99</entry>
         <entry>100</entry>
+        <entry>234</entry>
       </history-cmd>
       <history-expr />
       <history-input />

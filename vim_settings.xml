@@ -233,6 +233,9 @@
         <mark key="^" line="95" column="103" />
         <mark key="." line="95" column="103" />
       </file>
+      <file name="/GraphQL.result.json" timestamp="1511304753793">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/AttributeDisplay/components/AttributeDisplayList.js" timestamp="1507134837180">
         <mark key="[" line="1" column="29" />
         <mark key="]" line="1" column="29" />
@@ -263,11 +266,11 @@
         <mark key="^" line="5" column="112" />
         <mark key="." line="5" column="112" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/core/components/RoleAlert.js" timestamp="1511303750407">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="7" column="54" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/core/components/RoleAlert.js" timestamp="1511306192652">
+        <mark key="[" line="16" column="32" />
+        <mark key="]" line="16" column="32" />
+        <mark key="^" line="16" column="32" />
+        <mark key="." line="16" column="32" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieMedia/components/EditVideo.js" timestamp="1507135469859">
         <mark key="[" line="0" column="41" />
@@ -1248,12 +1251,12 @@
         <mark key="^" line="5" column="36" />
         <mark key="." line="5" column="36" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/components/forms/Login.js" timestamp="1511303717833">
-        <mark key="[" line="49" column="26" />
-        <mark key="]" line="49" column="48" />
-        <mark key="^" line="49" column="48" />
-        <mark key="." line="49" column="48" />
+      <file name="$USER_HOME$/Sites/amc/content/src/components/forms/Login.js" timestamp="1511305665455">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/features/core/components/ModalWrapper.js" timestamp="1511305779008" />
       <file name="$USER_HOME$/Sites/amc/graph/src/resolvers/queries/showtime/ShowtimeAttributeGroup.js" timestamp="1507920479955">
         <mark key="[" line="38" column="77" />
         <mark key="]" line="38" column="80" />
@@ -1400,14 +1403,14 @@
       <jump line="25" column="10" filename="$USER_HOME$/Sites/amc/content/src/presentation/components/UI/MovieRuntimeToolTip.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>message</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>'You must agree with our terms of service to create an account.'</text>
+        <text>message</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
@@ -1428,28 +1431,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgbWVzc2FnZSB9ID0gcHJvcHM7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IG15QWxlcnQgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdwJyk7CiAgICBteUFsZXJ0LnNldEF0dHJpYnV0ZSgncm9sZScsICdhbGVydCcpOwogICAgY29uc3QgbXlBbGVydFRleHQgPSBkb2N1bWVudC5jcmVhdGVUZXh0Tm9kZShtZXNzYWdlKTsKICAgIG15QWxlcnQuYXBwZW5kQ2hpbGQobXlBbGVydFRleHQpOwogICAgZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChteUFsZXJ0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgbWVzc2FnZSB9ID0gcHJvcHM7Cg==</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQobXlBbGVydCk7Cg==</text>
+        <text encoding="base64">Y29uc3QgUm9sZUFsZXJ0ID0gbWVzc2FnZSA9PiB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgUm9sZUFsZXJ0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiA8Um9sZUFsZXJ0IG1lc3NhZ2U9IllvdSBhcmUgbm93IGxvZ2dlZCBpbiIvPjsK</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2U6IFByb3BUeXBlcy5zdHJpbmcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiA8Um9sZUFsZXJ0IG1lc3NhZ2U9IllvdSBhcmUgbm93IGxvZ2dlZCBpbiIvPjsK</text>
+        <text encoding="base64">Um9sZUFsZXJ0LnByb3BUeXBlcyA9IHsK</text>
       </register>
       <register name=":" type="4">
         <text>100</text>

@@ -209,10 +209,10 @@
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/SeatingCheckout/SeatingCheckout.js" timestamp="1511819868199">
-        <mark key="[" line="160" column="86" />
-        <mark key="]" line="160" column="126" />
-        <mark key="." line="160" column="126" />
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/SeatingCheckout/SeatingCheckout.js" timestamp="1511821862961">
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
         <mark key="^" line="160" column="126" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/UI/TabBar.js" timestamp="1511195443756">
@@ -586,7 +586,7 @@
         <mark key="." line="61" column="41" />
         <mark key="^" line="61" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511819324134">
+      <file name="/Dummy.txt" timestamp="1511821514351">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/modals/components/NewAccountForm.js" timestamp="1509747016188">
@@ -1132,11 +1132,11 @@
         <mark key="." line="26" column="59" />
         <mark key="^" line="26" column="70" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/SeatingCheckout/Seat.js" timestamp="1511818673687">
-        <mark key="[" line="131" column="21" />
-        <mark key="]" line="131" column="29" />
-        <mark key="^" line="131" column="29" />
-        <mark key="." line="131" column="29" />
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/SeatingCheckout/Seat.js" timestamp="1511821347365">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="^" line="117" column="31" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/Showtimes/ShowtimesFormat.js" timestamp="1508876346876">
         <mark key="[" line="47" column="28" />
@@ -1441,23 +1441,23 @@
       <jump line="25" column="10" filename="$USER_HOME$/Sites/amc/content/src/presentation/components/UI/MovieRuntimeToolTip.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygnbGF5b3V0JywgdGhpcy5zdGF0ZS5sYXlvdXQpOwo=</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>!this.props.isChecked</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbGF5b3V0JywgdGhpcy5zdGF0ZS5sYXlvdXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzQ2hlY2tlZDogIXRoaXMucHJvcHMuaXNDaGVja2VkLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2VhdERhdGEnLCB0aGlzLnN0YXRlLnBlbmRpbmdTZWF0RGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygnbGF5b3V0JywgdGhpcy5zdGF0ZS5sYXlvdXQpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1469,28 +1469,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2VhdERhdGEnLCB0aGlzLnN0YXRlLnBlbmRpbmdTZWF0RGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc29sZS5sb2coJ3NlYXQnLCBzZWF0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByZW1haW5pbmdNcyA9IDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdkb2VzIGl0IGdldCBoZXJlJywgbGF5b3V0LnNlYXRzW2ldLmNoZWNrZWQsICFzZWF0LmNoZWNrZWQsIGxheW91dC5zZWF0c1tpXS5jaGVja2VkID0gIXNlYXQuY2hlY2tlZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdGluZyB0aW1lJywgdGhpcy5zdGF0ZS50aW1lUmVtYWluaW5nLCB0aW1lTGVmdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2xhbmRvbicsIHRoaXMucHJvcHMub25DaGVja2VkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdGluZyAgMycsIHRoaXMuc3RhdGUudGltZVJlbWFpbmluZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzQ2hlY2tlZDogdHJ1ZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdGluZyAgMycsIHRoaXMuc3RhdGUudGltZVJlbWFpbmluZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2xhbmRvbicsIHRoaXMuaXNTZWF0UmVzZXJ2YWJsZSgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdGluZyB0aW1lIDInLCB0aGlzLnN0YXRlLnRpbWVSZW1haW5pbmcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb25LZXlQcmVzcycsIGlzRm9jdXNlZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdGluZyB0aW1lJywgdGhpcy5zdGF0ZS50aW1lUmVtYWluaW5nKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93TW9yZVRpbWVNb2RhbCAmJiAhc2hvd0V4cGlyZWRNb2RhbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2JvdW5kT25LZXlQcmVzcycsIGV2ZW50KTsK</text>
       </register>
       <register name=":" type="4">
         <text>234</text>

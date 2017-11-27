@@ -210,10 +210,10 @@
         <mark key="^" line="5" column="34" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/SeatingCheckout/SeatingCheckout.js" timestamp="1511821862961">
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
-        <mark key="^" line="160" column="126" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="159" column="126" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/UI/TabBar.js" timestamp="1511195443756">
         <mark key="[" line="15" column="0" />
@@ -239,7 +239,7 @@
         <mark key="^" line="95" column="103" />
         <mark key="." line="95" column="103" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1511805069189">
+      <file name="/GraphQL.result.json" timestamp="1511823293355">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/AttributeDisplay/components/AttributeDisplayList.js" timestamp="1507134837180">
@@ -1132,11 +1132,10 @@
         <mark key="." line="26" column="59" />
         <mark key="^" line="26" column="70" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/SeatingCheckout/Seat.js" timestamp="1511821347365">
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="^" line="117" column="31" />
-        <mark key="." line="124" column="0" />
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/SeatingCheckout/Seat.js" timestamp="1511825081146">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/Showtimes/ShowtimesFormat.js" timestamp="1508876346876">
         <mark key="[" line="47" column="28" />
@@ -1192,7 +1191,6 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/graph/package.json" timestamp="1511816468509" />
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/CheckoutHeader/checkout.header.scss" timestamp="1507815864258">
         <mark key="[" line="86" column="1" />
         <mark key="]" line="90" column="0" />
@@ -1442,7 +1440,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygnbGF5b3V0JywgdGhpcy5zdGF0ZS5sYXlvdXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXZlbnQubmF0aXZlRXZlbnQuc3RvcEltbWVkaWF0ZVByb3BhZ2F0aW9uKCk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
@@ -1457,7 +1455,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlzQ2hlY2tlZDogIXRoaXMucHJvcHMuaXNDaGVja2VkLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygnbGF5b3V0JywgdGhpcy5zdGF0ZS5sYXlvdXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXZlbnQubmF0aXZlRXZlbnQuc3RvcEltbWVkaWF0ZVByb3BhZ2F0aW9uKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1469,28 +1467,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc29sZS5sb2coJ3NlYXQnLCBzZWF0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXZlbnQuc3RvcFByb3BhZ2F0aW9uKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdkb2VzIGl0IGdldCBoZXJlJywgbGF5b3V0LnNlYXRzW2ldLmNoZWNrZWQsICFzZWF0LmNoZWNrZWQsIGxheW91dC5zZWF0c1tpXS5jaGVja2VkID0gIXNlYXQuY2hlY2tlZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXZlbnQubmF0aXZlRXZlbnQuc3RvcEltbWVkaWF0ZVByb3BhZ2F0aW9uKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2xhbmRvbicsIHRoaXMucHJvcHMub25DaGVja2VkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXZlbnQuc3RvcFByb3BhZ2F0aW9uKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzQ2hlY2tlZDogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygnbGF5b3V0JywgdGhpcy5zdGF0ZS5sYXlvdXQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2xhbmRvbicsIHRoaXMuaXNTZWF0UmVzZXJ2YWJsZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc29sZS5sb2coJ3NlYXQnLCBzZWF0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb25LZXlQcmVzcycsIGlzRm9jdXNlZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdkb2VzIGl0IGdldCBoZXJlJywgbGF5b3V0LnNlYXRzW2ldLmNoZWNrZWQsICFzZWF0LmNoZWNrZWQsIGxheW91dC5zZWF0c1tpXS5jaGVja2VkID0gIXNlYXQuY2hlY2tlZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2xhbmRvbicsIHRoaXMucHJvcHMub25DaGVja2VkKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2JvdW5kT25LZXlQcmVzcycsIGV2ZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzQ2hlY2tlZDogdHJ1ZSwK</text>
       </register>
       <register name=":" type="4">
         <text>234</text>

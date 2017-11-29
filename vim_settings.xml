@@ -84,11 +84,11 @@
         <mark key="." line="88" column="45" />
         <mark key="^" line="88" column="45" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/TheatreSearch/TheatreSearchField.js" timestamp="1511898114883">
-        <mark key="[" line="87" column="54" />
-        <mark key="]" line="87" column="54" />
-        <mark key="." line="87" column="54" />
-        <mark key="^" line="87" column="13" />
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/TheatreSearch/TheatreSearchField.js" timestamp="1511972383790">
+        <mark key="[" line="114" column="28" />
+        <mark key="]" line="114" column="28" />
+        <mark key="." line="114" column="28" />
+        <mark key="^" line="91" column="103" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/forms/renderFormField.js" timestamp="1507134702807">
         <mark key="[" line="0" column="26" />
@@ -245,7 +245,7 @@
         <mark key="^" line="95" column="103" />
         <mark key="." line="95" column="103" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1511872858338">
+      <file name="/GraphQL.result.json" timestamp="1511968726469">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/AttributeDisplay/components/AttributeDisplayList.js" timestamp="1507134837180">
@@ -278,10 +278,11 @@
         <mark key="^" line="5" column="112" />
         <mark key="." line="5" column="112" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/components/forms/fields/TheatreSearch.js" timestamp="1511897116406">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/Sites/amc/content/src/components/forms/fields/TheatreSearch.js" timestamp="1511971812811">
+        <mark key="[" line="62" column="46" />
+        <mark key="]" line="62" column="52" />
+        <mark key="." line="62" column="52" />
+        <mark key="^" line="62" column="52" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieMedia/components/EditVideo.js" timestamp="1507135469859">
         <mark key="[" line="0" column="41" />
@@ -537,7 +538,6 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/TheatreSearch/TheatreFinder.js" timestamp="1511898181568" />
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Header/_header.mobilenav.scss" timestamp="1510092151081">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
@@ -597,6 +597,9 @@
         <mark key="]" line="61" column="41" />
         <mark key="." line="61" column="41" />
         <mark key="^" line="61" column="41" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1511971870169">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Modals/FDPromoModal/FDPromoModal.js" timestamp="1511887240230">
         <mark key="[" line="48" column="71" />
@@ -1467,19 +1470,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Close</text>
+        <text>aria-label='Submit Search'</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>Close</text>
+        <text>aria-label='Submit Search'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2FyZFR5cGUnLCB0aGlzLnByb3BzLmNhcmRUeXBlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ1LXNjcmVlbnJlYWRlci1vbmx5Ij5TdWJtaXQgU2VhcmNoPC9zcGFuPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaWNvbicsIGljb24pOwo=</text>

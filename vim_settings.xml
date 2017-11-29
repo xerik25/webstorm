@@ -120,6 +120,7 @@
         <mark key="." line="13" column="14" />
         <mark key="^" line="13" column="14" />
       </file>
+      <file name="$USER_HOME$/Desktop/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/CardWithTabsAndContent.js" timestamp="1511980166366" />
       <file name="$USER_HOME$/Sites/amc/content/src/features/movies/components/MovieReviewsContainer.js" timestamp="1510003713947">
         <mark key="[" line="41" column="38" />
         <mark key="]" line="41" column="38" />
@@ -598,7 +599,7 @@
         <mark key="." line="61" column="41" />
         <mark key="^" line="61" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511976374388">
+      <file name="/Dummy.txt" timestamp="1511979962166">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Modals/FDPromoModal/FDPromoModal.js" timestamp="1511887240230">
@@ -852,11 +853,11 @@
         <mark key="." line="142" column="40" />
         <mark key="^" line="142" column="40" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/carousel/components/Carousel.js" timestamp="1511979395005">
-        <mark key="[" line="152" column="71" />
-        <mark key="]" line="152" column="73" />
-        <mark key="." line="152" column="73" />
-        <mark key="^" line="152" column="73" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/carousel/components/Carousel.js" timestamp="1511980205768">
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="^" line="16" column="31" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/ShowtimeButtons/ShowtimeButton.js" timestamp="1507916820847">
         <mark key="[" line="12" column="63" />
@@ -1475,14 +1476,14 @@
       <jump line="25" column="10" filename="$USER_HOME$/Sites/amc/content/src/presentation/components/UI/MovieRuntimeToolTip.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>HeroContent__mainLink</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygnY2hpbGRyZW4nLCB0aGlzLmNoaWxkcmVuKTsK</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>HeroContent__mainLink</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
@@ -1491,7 +1492,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ1LXNjcmVlbnJlYWRlci1vbmx5Ij5TdWJtaXQgU2VhcmNoPC9zcGFuPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRlc3QuZm9jdXMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygnY2hpbGRyZW4nLCB0aGlzLmNoaWxkcmVuKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1503,28 +1504,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCd5ZXMnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWJJbmRleD17MH0K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Lyp7Y29uc29sZS5sb2coJ3NsaWRlJywgc2xpZGUpfSovfQo=</text>
+        <text encoding="base64">ICAgIHNhdmVSZWZzKGl0ZW0sIGluZGV4KSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7c2xpZGUuZm9jdXMoKX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIHRlc3QuZm9jdXMoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge2NvbnNvbGUubG9nKCdzbGlkZScsIHNsaWRlKX0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLi5vZwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByb2xlQWxlcnQoYEdvaW5nIHRvIHNsaWRlICR7aW5kZXh9YCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRlc3QuZm9jdXMoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaWNvbicsIGljb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCd5ZXMnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>234</text>

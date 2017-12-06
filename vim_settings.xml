@@ -234,12 +234,6 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="149" column="126" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/payment/src/shared/components/Purchase/PurchaseFooter.js" timestamp="1512499993639">
-        <mark key="[" line="33" column="163" />
-        <mark key="]" line="33" column="193" />
-        <mark key="^" line="33" column="193" />
-        <mark key="." line="33" column="193" />
-      </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/UI/TabBar.js" timestamp="1511195443756">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -264,7 +258,7 @@
         <mark key="^" line="95" column="103" />
         <mark key="." line="95" column="103" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1512512808852">
+      <file name="/GraphQL.result.json" timestamp="1512580200000">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/ScrollArrows/ScrollArrows.js" timestamp="1511988927439">
@@ -626,7 +620,7 @@
         <mark key="." line="61" column="41" />
         <mark key="^" line="61" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512513782922">
+      <file name="/Dummy.txt" timestamp="1512580197706">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Modals/FDPromoModal/FDPromoModal.js" timestamp="1511887240230">
@@ -695,11 +689,11 @@
         <mark key="." line="4" column="64" />
         <mark key="^" line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/payment/src/shared/components/PaymentInfo/NewCreditCardForm.js" timestamp="1511804482046">
-        <mark key="[" line="76" column="73" />
-        <mark key="]" line="76" column="78" />
+      <file name="$USER_HOME$/Sites/amc/payment/src/shared/components/PaymentInfo/NewCreditCardForm.js" timestamp="1512580173105">
+        <mark key="[" line="134" column="45" />
+        <mark key="]" line="134" column="45" />
         <mark key="^" line="76" column="78" />
-        <mark key="." line="76" column="78" />
+        <mark key="." line="134" column="45" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/Router.js" timestamp="1507135830770">
         <mark key="[" line="0" column="12" />
@@ -1142,12 +1136,6 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/utils/geoLocation.js" timestamp="1512514031363">
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="24" column="37" />
-        <mark key="^" line="24" column="37" />
-        <mark key="." line="24" column="37" />
-      </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/Sidebar.js" timestamp="1507134427127">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
@@ -1231,11 +1219,11 @@
         <mark key="." line="9" column="5" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/payment/src/shared/components/ContactInfo/Unauthenticated.js" timestamp="1511283862533">
+      <file name="$USER_HOME$/Sites/amc/payment/src/shared/components/ContactInfo/Unauthenticated.js" timestamp="1512580077832">
         <mark key="[" line="25" column="41" />
-        <mark key="]" line="25" column="46" />
+        <mark key="]" line="25" column="41" />
         <mark key="^" line="25" column="46" />
-        <mark key="." line="25" column="46" />
+        <mark key="." line="25" column="41" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieMedia/components/EditImage.js" timestamp="1507135473723">
         <mark key="[" line="0" column="41" />
@@ -1290,12 +1278,6 @@
         <mark key="]" line="0" column="12" />
         <mark key="^" line="1" column="34" />
         <mark key="." line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/theatres/widgets/FindATheatre.js" timestamp="1512516065984">
-        <mark key="[" line="645" column="16" />
-        <mark key="]" line="646" column="40" />
-        <mark key="." line="646" column="40" />
-        <mark key="^" line="646" column="40" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieList/components/MovieListCreate.js" timestamp="1507135293912">
         <mark key="[" line="0" column="41" />
@@ -1536,13 +1518,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">KHNlYXJjaFJlc3VsdHMubGVuZ3RoIDw9IDA=</text>
+        <text>={true}</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KHNlYXJjaFJlc3VsdHMubGVuZ3RoIDw9IDA=</text>
+        <text>={true}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>

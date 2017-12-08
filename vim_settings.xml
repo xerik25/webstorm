@@ -507,11 +507,10 @@
         <mark key="^" line="15" column="59" />
         <mark key="." line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/role-alert/RoleAlert.js" timestamp="1512762845031">
-        <mark key="[" line="44" column="38" />
-        <mark key="]" line="44" column="52" />
-        <mark key="^" line="44" column="52" />
-        <mark key="." line="44" column="52" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/role-alert/RoleAlert.js" timestamp="1512764674489">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/ApiForm.js" timestamp="1507134300411">
         <mark key="[" line="0" column="25" />
@@ -620,11 +619,11 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/role-alert/actions.js" timestamp="1512754435246">
-        <mark key="[" line="5" column="3" />
-        <mark key="]" line="5" column="3" />
-        <mark key="." line="5" column="3" />
-        <mark key="^" line="5" column="3" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/role-alert/actions.js" timestamp="1512764349105">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="38" />
+        <mark key="." line="3" column="38" />
+        <mark key="^" line="3" column="38" />
       </file>
       <file name="$USER_HOME$/Sites/amc/graph/src/resolvers/queries/location/Location.js" timestamp="1505940158175">
         <mark key="[" line="28" column="12" />
@@ -644,7 +643,7 @@
         <mark key="." line="61" column="41" />
         <mark key="^" line="61" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512761542423">
+      <file name="/Dummy.txt" timestamp="1512763890515">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Modals/FDPromoModal/FDPromoModal.js" timestamp="1511887240230">
@@ -808,11 +807,11 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/role-alert/reducers.js" timestamp="1512760392032">
-        <mark key="[" line="14" column="3" />
-        <mark key="]" line="14" column="3" />
-        <mark key="^" line="14" column="3" />
-        <mark key="." line="14" column="3" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/role-alert/reducers.js" timestamp="1512764382673">
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="6" column="43" />
+        <mark key="^" line="6" column="43" />
+        <mark key="." line="6" column="43" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/Content/editors/movies/PosterCarouselByMovieList.js" timestamp="1507135206730">
         <mark key="[" line="0" column="41" />
@@ -962,6 +961,12 @@
         <mark key="]" line="24" column="58" />
         <mark key="." line="24" column="58" />
         <mark key="^" line="24" column="58" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/reducers/index.js" timestamp="1512763950586">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="14" column="13" />
+        <mark key="^" line="14" column="13" />
+        <mark key="." line="14" column="13" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/core/components/Header/MobileNav.js" timestamp="1511912138760">
         <mark key="[" line="15" column="102" />
@@ -1309,7 +1314,7 @@
         <mark key="^" line="128" column="3" />
         <mark key="." line="128" column="3" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/checkout-refunds/components/Refund.js" timestamp="1512762797269">
+      <file name="$USER_HOME$/Sites/amc/content/src/features/checkout-refunds/components/Refund.js" timestamp="1512764646481">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="26" />
         <mark key="^" line="202" column="100" />
@@ -1545,14 +1550,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Sites/amc/content/src/presentation/components/Counter/Counter.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGhpcy5zdGF0ZS5zaG93QWxlcnQnLCB0aGlzLnN0YXRlLnNob3dBbGVydCk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>({</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
@@ -1561,7 +1566,7 @@
         <text encoding="base64">ICAgIGNvbXBvbmVudFdpbGxNb3VudCgpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2hvd1JvbGVBbGVydCB9IGZyb20gIi4vYWN0aW9ucyI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGhpcy5zdGF0ZS5zaG93QWxlcnQnLCB0aGlzLnN0YXRlLnNob3dBbGVydCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1573,28 +1578,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvd0FsZXJ0Ogo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHR5cGU6IFNIT1dfUk9MRV9BTEVSVCwKICAgIG1lc3NhZ2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gPFJvbGVBbGVydC8+Owo=</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gPFJvbGVBbGVydC8+Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb25zLnNob3dSb2xlQWxlcnQoJ0h1bGsgU21hc2gnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>11</text>

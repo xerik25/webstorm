@@ -173,13 +173,6 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.js" timestamp="1512506867604">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="42" />
-        <mark key="]" line="5" column="42" />
-        <mark key="." line="5" column="42" />
-        <mark key="^" line="1" column="51" />
-      </file>
       <file name="$USER_HOME$/Sites/amc/graph/src/connectors/LocationsConnector.js" timestamp="1505933400703">
         <mark key="[" line="10" column="28" />
         <mark key="]" line="10" column="30" />
@@ -585,12 +578,6 @@
         <mark key="." line="2" column="34" />
         <mark key="^" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/CheckoutHeader.js" timestamp="1512750424819">
-        <mark key="[" line="173" column="24" />
-        <mark key="]" line="173" column="41" />
-        <mark key="^" line="173" column="41" />
-        <mark key="." line="173" column="41" />
-      </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/summary/GiftCardGroup.js" timestamp="1511993866492">
         <mark key="[" line="20" column="44" />
         <mark key="]" line="20" column="62" />
@@ -621,6 +608,12 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/features/role-alert/actions.js" timestamp="1512754435246">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/graph/src/resolvers/queries/location/Location.js" timestamp="1505940158175">
         <mark key="[" line="28" column="12" />
         <mark key="]" line="28" column="16" />
@@ -639,7 +632,7 @@
         <mark key="." line="61" column="41" />
         <mark key="^" line="61" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512689978318">
+      <file name="/Dummy.txt" timestamp="1512750559751">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Modals/FDPromoModal/FDPromoModal.js" timestamp="1511887240230">
@@ -1001,10 +994,10 @@
         <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/MyAMC/WalletCards/Card.js" timestamp="1512587785161">
-        <mark key="[" line="217" column="5" />
-        <mark key="]" line="217" column="5" />
-        <mark key="." line="217" column="5" />
-        <mark key="^" line="217" column="5" />
+        <mark key="[" line="207" column="5" />
+        <mark key="]" line="207" column="5" />
+        <mark key="." line="207" column="5" />
+        <mark key="^" line="207" column="5" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/UI/MessageWrapper.js" timestamp="1507219439864">
         <mark key="[" line="0" column="27" />
@@ -1044,10 +1037,6 @@
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Counter/Counter.js" timestamp="1512679563696">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="244" column="39" />
-        <mark key="]" line="244" column="37" />
-        <mark key="^" line="244" column="37" />
-        <mark key="." line="244" column="37" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/showtimes/components/SeatSelection.js" timestamp="1511218201901">
         <mark key="[" line="30" column="0" />
@@ -1060,6 +1049,7 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="0" column="25" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/features/checkout-refunds/actions.js" timestamp="1512754347679" />
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/AccountModal/_accountModal.scss" timestamp="1509382215378">
         <mark key="[" line="55" column="14" />
         <mark key="]" line="55" column="22" />
@@ -1161,6 +1151,9 @@
         <mark key="]" line="84" column="57" />
         <mark key="^" line="84" column="57" />
         <mark key="." line="84" column="57" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/payment/src/shared/components/Purchase.js" timestamp="1512078620041">
+        <mark key="'" line="533" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/LoadingIcon.js" timestamp="1507134365826">
         <mark key="[" line="0" column="12" />
@@ -1537,13 +1530,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>refundableItems</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>refundableItems</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
@@ -1588,7 +1581,7 @@
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>124</text>
+        <text>244</text>
       </register>
     </registers>
     <search>
@@ -1624,8 +1617,6 @@
         <entry encoding="base64">PGE=</entry>
       </history-search>
       <history-cmd>
-        <entry>122</entry>
-        <entry>65</entry>
         <entry>63</entry>
         <entry>72</entry>
         <entry>67</entry>
@@ -1644,6 +1635,8 @@
         <entry>115</entry>
         <entry>155</entry>
         <entry>124</entry>
+        <entry>43</entry>
+        <entry>244</entry>
       </history-cmd>
       <history-expr />
       <history-input />

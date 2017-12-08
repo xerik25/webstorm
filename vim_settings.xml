@@ -567,7 +567,7 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/TheatreSearch/TheatreFinder.js" timestamp="1512689877314">
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/TheatreSearch/TheatreFinder.js" timestamp="1512749813827">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="15" column="0" />
@@ -584,6 +584,12 @@
         <mark key="]" line="2" column="34" />
         <mark key="." line="2" column="34" />
         <mark key="^" line="2" column="34" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/CheckoutHeader.js" timestamp="1512750424819">
+        <mark key="[" line="173" column="24" />
+        <mark key="]" line="173" column="41" />
+        <mark key="^" line="173" column="41" />
+        <mark key="." line="173" column="41" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/summary/GiftCardGroup.js" timestamp="1511993866492">
         <mark key="[" line="20" column="44" />
@@ -633,7 +639,7 @@
         <mark key="." line="61" column="41" />
         <mark key="^" line="61" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512689608664">
+      <file name="/Dummy.txt" timestamp="1512689978318">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Modals/FDPromoModal/FDPromoModal.js" timestamp="1511887240230">
@@ -1531,13 +1537,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>testing</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>testing</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
@@ -1546,7 +1552,7 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpdGVtJywgaXRlbSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuPnRlc3Rpbmc8L3NwYW4+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1558,31 +1564,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuPnRlc3Rpbmc8L3NwYW4+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idS1zY3JlZW5yZWFkZXItb25seSI+dGVzdGluZzwvc3Bhbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY3JlZGl0Q2FyZCcsIGNyZWRpdENhcmQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idS1zY3JlZW5yZWFkZXItb25seSI+dGVzdGluZzwvc3Bhbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0JywgY3JlZGl0Q2FyZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY3JlZGl0Q2FyZCcsIGNyZWRpdENhcmQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0JywgY3JlZGl0Q2FyZCk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucHJvcHMub25TdWNjZXNzKG11dGF0aW9uLnJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>155</text>
+        <text>124</text>
       </register>
     </registers>
     <search>
@@ -1618,7 +1624,6 @@
         <entry encoding="base64">PGE=</entry>
       </history-search>
       <history-cmd>
-        <entry>180</entry>
         <entry>122</entry>
         <entry>65</entry>
         <entry>63</entry>
@@ -1638,6 +1643,7 @@
         <entry>92</entry>
         <entry>115</entry>
         <entry>155</entry>
+        <entry>124</entry>
       </history-cmd>
       <history-expr />
       <history-input />

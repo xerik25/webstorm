@@ -507,11 +507,11 @@
         <mark key="^" line="15" column="59" />
         <mark key="." line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/role-alert/RoleAlert.js" timestamp="1512773787539">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="3" column="36" />
-        <mark key="." line="3" column="36" />
+      <file name="$USER_HOME$/Sites/amc/content/src/features/role-alert/RoleAlert.js" timestamp="1513005323638">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
         <mark key="^" line="3" column="36" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/ApiForm.js" timestamp="1507134300411">
         <mark key="[" line="0" column="25" />
@@ -1545,8 +1545,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Sites/amc/content/src/presentation/components/Counter/Counter.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>message</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
@@ -1561,7 +1561,7 @@
         <text encoding="base64">ICAgICAgICBzaG93Um9sZUFsZXJ0OiAobWVzc2FnZSkgPT4gZGlzcGF0Y2goc2hvd1JvbGVBbGVydChtZXNzYWdlKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlOiAnJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1573,28 +1573,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ago=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXRoaXMuc3RhdGUuc2hvd0FsZXJ0KSByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlciBsb2dnZWQgaW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8Um9sZUFsZXJ0IG1lc3NhZ2U9ImFub3RoZXIgdGVzdCIvPjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNob3dBbGVydDogZmFsc2UsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRlc3RpbmcoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ3Rlc3RpbmcnKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgb25DbGljaz17dGhpcy50ZXN0aW5nfT50ZXN0aW5nIHN0dWZmPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaG93QWxlcnQ6IHRydWUsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcm9wcy51bm1vdW50TWUoKTsK</text>
+        <text encoding="base64">ICAgIHN0YXRlID0gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlOiAnJwo=</text>
       </register>
       <register name=":" type="4">
         <text>11</text>

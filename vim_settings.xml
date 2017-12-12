@@ -168,6 +168,13 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="0" column="25" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.js" timestamp="1512506867604">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="42" />
+        <mark key="]" line="5" column="42" />
+        <mark key="." line="5" column="42" />
+        <mark key="^" line="1" column="51" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/graph/src/connectors/LocationsConnector.js" timestamp="1505933400703">
         <mark key="[" line="10" column="28" />
         <mark key="]" line="10" column="30" />
@@ -555,11 +562,12 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/TheatreSearch/TheatreFinder.js" timestamp="1512749813827">
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/TheatreSearch/TheatreFinder.js" timestamp="1513108189832">
+        <mark key="'" line="496" column="0" />
         <mark key="[" line="14" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Header/_header.mobilenav.scss" timestamp="1510092151081">
         <mark key="[" line="80" column="0" />
@@ -628,8 +636,10 @@
         <mark key="." line="61" column="41" />
         <mark key="^" line="61" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513097800321">
+      <file name="/Dummy.txt" timestamp="1513108237429">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Modals/FDPromoModal/FDPromoModal.js" timestamp="1511887240230">
         <mark key="[" line="48" column="71" />
@@ -1345,11 +1355,10 @@
         <mark key="." line="38" column="87" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/components/forms/Login.js" timestamp="1513097623110">
-        <mark key="'" line="56" column="59" />
-        <mark key="[" line="133" column="1" />
-        <mark key="]" line="133" column="1" />
-        <mark key="." line="133" column="1" />
-        <mark key="^" line="133" column="1" />
+        <mark key="[" line="135" column="1" />
+        <mark key="]" line="135" column="1" />
+        <mark key="." line="135" column="1" />
+        <mark key="^" line="135" column="1" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/order-details/Item/ItemDescription.js" timestamp="1512681229555">
         <mark key="[" line="5" column="46" />
@@ -1408,8 +1417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/user/isFetching.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/sc-marketing-web/client/src/reducers/leadTierScoring/user/data.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/react-redux-boilerplate/src/styles/scss/base/mixins/_transition.scss" />
       <jump line="7" column="26" filename="$USER_HOME$/Projects/react-redux-boilerplate/.stylelintrc" />
       <jump line="49" column="0" filename="$USER_HOME$/Projects/react-redux-boilerplate/src/containers/App.js" />
@@ -1508,10 +1515,12 @@
       <jump line="130" column="34" filename="$USER_HOME$/Sites/amc/content/src/components/forms/Login.js" />
       <jump line="146" column="0" filename="$USER_HOME$/Sites/amc/content/src/components/forms/Login.js" />
       <jump line="55" column="59" filename="$USER_HOME$/Sites/amc/content/src/components/forms/Login.js" />
+      <jump line="211" column="19" filename="$USER_HOME$/Sites/amc/content/src/presentation/components/TheatreSearch/TheatreFinder.js" />
+      <jump line="496" column="0" filename="$USER_HOME$/Sites/amc/content/src/presentation/components/TheatreSearch/TheatreFinder.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">RmlyZSBhY3Rpb24gYW5kIHJlZHVjZXIgdG8gc2hvdyBSb2xlQWxlcnQgYW5kIHRoZW4gaGlkZSBpdAo=</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
@@ -1526,7 +1535,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcm9wcy5zaG93Um9sZUFsZXJ0KCdZb3UgaGF2ZSBzdWNjZXNzZnVsbHkgbG9nZ2VkIGluJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">RmlyZSBhY3Rpb24gYW5kIHJlZHVjZXIgdG8gc2hvdyBSb2xlQWxlcnQgYW5kIHRoZW4gaGlkZSBpdAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1538,7 +1547,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIH07Cg==</text>
@@ -1547,19 +1556,19 @@
         <text encoding="base64">ICAgIHJldHVybiB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcm9wcy5zaG93Um9sZUFsZXJ0KCcnKTsK</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4JzsK</text>
+        <text encoding="base64">ICAgIHJldHVybiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7LyogPFJvbGVBbGVydCBtZXNzYWdlPSJyZWFkIGFsZXJ0IHRvIHVzZXIiIC8+ICovfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcm9wcy5zaG93Um9sZUFsZXJ0KCcnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncm9sZUFsZXJ0JywgdGhpcy5wcm9wcyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4JzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgcm9sZT0iYWxlcnQiPntyb2xlQWxlcnR9PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7LyogPFJvbGVBbGVydCBtZXNzYWdlPSJyZWFkIGFsZXJ0IHRvIHVzZXIiIC8+ICovfQo=</text>
       </register>
       <register name=":" type="4">
         <text>11</text>

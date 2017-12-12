@@ -226,11 +226,11 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/MoviePosters/index.js" timestamp="1513036966090">
-        <mark key="[" line="97" column="52" />
-        <mark key="]" line="98" column="44" />
-        <mark key="^" line="98" column="44" />
-        <mark key="." line="98" column="44" />
+      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/MoviePosters/index.js" timestamp="1513038859223">
+        <mark key="[" line="175" column="59" />
+        <mark key="]" line="175" column="59" />
+        <mark key="^" line="103" column="46" />
+        <mark key="." line="175" column="59" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/forms/AutoCompleteField.js" timestamp="1507134713352">
         <mark key="[" line="4" column="26" />
@@ -508,12 +508,12 @@
         <mark key="^" line="15" column="59" />
         <mark key="." line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/features/role-alert/RoleAlert.js" timestamp="1513036441106">
+      <file name="$USER_HOME$/Sites/amc/content/src/features/role-alert/RoleAlert.js" timestamp="1513039213989">
         <mark key="'" line="42" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="26" />
-        <mark key="^" line="9" column="12" />
-        <mark key="." line="9" column="12" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="20" column="65" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/ApiForm.js" timestamp="1507134300411">
         <mark key="[" line="0" column="25" />
@@ -1546,23 +1546,23 @@
       <jump line="42" column="0" filename="$USER_HOME$/Sites/amc/content/src/features/role-alert/RoleAlert.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aSA+IDAgPyBpIC0gMSA6IHNsaWRlcyAtIDE=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncm9sZUFsZXJ0JywgdGhpcy5wcm9wcyk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aSA+IDAgPyBpIC0gMSA6IHNsaWRlcyAtIDE=</text>
+        <text encoding="base64">bWVzc2FnZT0idGhlIGZpcnN0IHRlc3QiIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7IHNsaWRlSW5kZXg6IGkgPiAwID8gaSAtIDEgOiBzbGlkZXMgLSAxIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgICAgICAgdGhpcy5wcm9wcy5zaG93Um9sZUFsZXJ0KCd0aGUgc2Vjb25kIHRlc3QnKTsKICAgICAgICB9LCA4MDAwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncm9sZUFsZXJ0JywgdGhpcy5wcm9wcyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1574,28 +1574,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLnNob3dSb2xlQWxlcnQoJ2EgbmV3IGtpbmRhIHRlc3QnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgcm9sZT0iYWxlcnQiPntyb2xlQWxlcnR9PC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiByb2xlPSJhbGVydCI+e3JvbGVBbGVydH08L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gbWFwRGlzcGF0Y2hUb1Byb3BzKGRpc3BhdGNoKSB7CiAgICByZXR1cm4gewogICAgICAgIHNob3dSb2xlQWxlcnQ6IChtZXNzYWdlKSA9PiBkaXNwYXRjaChzaG93Um9sZUFsZXJ0KG1lc3NhZ2UpKSwKICAgIH07Cn0KCmNvbnN0IHRlc3RpbmcgPSBjb25uZWN0KHt9LCBtYXBEaXNwYXRjaFRvUHJvcHMpKE1vdmllUG9zdGVycyk7CgpleHBvcnQgZGVmYXVsdCB0ZXN0aW5nOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocm9sZUFsZXJ0KSByZXR1cm47Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy5wcm9wcy5zaG93Um9sZUFsZXJ0KCd0aGUgZmlyc3QgdGVzdCcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3N0YXRlJywgdGhpcy5zdGF0ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBoaWRlUm9sZUFsZXJ0OiAoKSA9PiBkaXNwYXRjaChoaWRlUm9sZUFsZXJ0KCkpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3N0YXRlJywgdGhpcy5zdGF0ZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7IHRlc3Q6ICdtYXliZSBhIHRlc3QnIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncm9sZUFsZXJ0JywgdGhpcy5wcm9wcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>11</text>

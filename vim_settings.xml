@@ -259,9 +259,6 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="149" column="126" />
       </file>
-      <file name="content.graphqls" timestamp="1512592627511">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/UI/TabBar.js" timestamp="1511195443756">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -285,12 +282,6 @@
         <mark key="]" line="95" column="103" />
         <mark key="^" line="95" column="103" />
         <mark key="." line="95" column="103" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1512765002143">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/ScrollArrows/ScrollArrows.js" timestamp="1511988927439">
-        <mark key="[" line="26" column="57" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/AttributeDisplay/components/AttributeDisplayList.js" timestamp="1507134837180">
         <mark key="[" line="1" column="29" />
@@ -363,9 +354,6 @@
         <mark key="]" line="0" column="29" />
         <mark key="^" line="1" column="34" />
         <mark key="." line="0" column="29" />
-      </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/UI/Form/YearSelect.js" timestamp="1511293131447">
-        <mark key="[" line="6" column="34" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/ConfirmNavigation.js" timestamp="1509984784318">
         <mark key="[" line="113" column="51" />
@@ -668,8 +656,11 @@
         <mark key="." line="61" column="41" />
         <mark key="^" line="61" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513182162188">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1513196690988">
+        <mark key="'" line="0" column="30" />
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Modals/FDPromoModal/FDPromoModal.js" timestamp="1511887240230">
         <mark key="[" line="48" column="71" />
@@ -1507,7 +1498,6 @@
       <jump line="151" column="22" filename="$USER_HOME$/Sites/amc/graph/src/connectors/AssetsConnector.js" />
       <jump line="37" column="0" filename="$USER_HOME$/Sites/amc/graph/.gitignore" />
       <jump line="82" column="30" filename="$USER_HOME$/Sites/amc/graph/src/resolvers/queries/showtime/Showtime.js" />
-      <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="99" column="26" filename="$USER_HOME$/Sites/amc/graph/src/connectors/ShowtimesConnector.js" />
       <jump line="367" column="0" filename="$USER_HOME$/Sites/amc/graph/src/connectors/ShowtimesConnector.js" />
       <jump line="18" column="21" filename="$USER_HOME$/Sites/amc/content/src/presentation/components/AddToCalendar/AddToCalendar.js" />
@@ -1582,16 +1572,17 @@
       <jump line="496" column="0" filename="$USER_HOME$/Sites/amc/content/src/presentation/components/TheatreSearch/TheatreFinder.js" />
       <jump line="128" column="1" filename="$USER_HOME$/Sites/amc/content/src/components/forms/Login.js" />
       <jump line="149" column="0" filename="$USER_HOME$/Sites/amc/content/src/components/forms/Login.js" />
+      <jump line="0" column="30" filename="/Dummy.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>role-alert/RoleAlert</text>
+        <text encoding="base64">LCB1cGRhZWQgZXhwb3J0IGFuZCA=</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>role-alert/RoleAlert</text>
+        <text encoding="base64">LCB1cGRhZWQgZXhwb3J0IGFuZCA=</text>
       </register>
       <register name="/" type="4">
         <text>PropTypes</text>

@@ -191,10 +191,10 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/website/src/server/server.js" timestamp="1513208664687">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/Sites/amc/website/src/server/server.js" timestamp="1513265531211">
+        <mark key="[" line="48" column="35" />
+        <mark key="]" line="48" column="35" />
+        <mark key="." line="48" column="35" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/Content/components/InsertImageWizard.js" timestamp="1507134953345">
         <mark key="[" line="0" column="41" />
@@ -263,6 +263,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="17" column="57" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/website/package.json" timestamp="1513265516498" />
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/Media/components/Media.js" timestamp="1507135252706">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="34" />
@@ -647,7 +648,7 @@
         <mark key="." line="61" column="41" />
         <mark key="^" line="61" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513201012622">
+      <file name="/Dummy.txt" timestamp="1513208760478">
         <mark key="'" line="0" column="30" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
@@ -1571,14 +1572,14 @@
       <jump line="0" column="30" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlcS5vcmlnaW5hbFVybCA9IHJlcS5zYW5pdGl6ZShyZXEub3JpZ2luYWxVcmwpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>landoncline</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>PropTypes</text>

@@ -283,7 +283,7 @@
         <mark key="^" line="95" column="103" />
         <mark key="." line="95" column="103" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1513355768619">
+      <file name="/GraphQL.result.json" timestamp="1513373100807">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/AttributeDisplay/components/AttributeDisplayList.js" timestamp="1507134837180">
@@ -357,11 +357,11 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/website/src/server/render.js" timestamp="1513371934273">
-        <mark key="[" line="122" column="46" />
-        <mark key="]" line="121" column="57" />
-        <mark key="." line="122" column="56" />
-        <mark key="^" line="121" column="57" />
+      <file name="$USER_HOME$/Sites/amc/website/src/server/render.js" timestamp="1513372949347">
+        <mark key="[" line="122" column="59" />
+        <mark key="]" line="121" column="59" />
+        <mark key="." line="122" column="59" />
+        <mark key="^" line="121" column="59" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/ConfirmNavigation.js" timestamp="1509984784318">
         <mark key="[" line="113" column="51" />
@@ -1597,14 +1597,14 @@
       <jump line="0" column="30" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvcHRpb25zLmRhdGEyJywgZGF0YVsyXS5xdWVyeSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>.query.children[1]</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>PropTypes</text>

@@ -84,6 +84,12 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/utils/sanitizeQuery.js" timestamp="1513616978667">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="4" column="30" />
+        <mark key="." line="1" column="12" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/FileExplorer/FileExplorer.js" timestamp="1507134586468">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="1" column="12" />
@@ -525,10 +531,11 @@
         <mark key="^" line="41" column="13" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/routes/useQuery.js" timestamp="1513615187333">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Sites/amc/content/src/routes/useQuery.js" timestamp="1513617931120">
+        <mark key="[" line="21" column="54" />
+        <mark key="]" line="21" column="54" />
+        <mark key="." line="21" column="59" />
+        <mark key="^" line="0" column="56" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/ApiForm.js" timestamp="1507134300411">
         <mark key="[" line="0" column="25" />
@@ -821,6 +828,13 @@
         <mark key="]" line="212" column="56" />
         <mark key="^" line="212" column="56" />
         <mark key="." line="212" column="56" />
+      </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/routes/createRoutes.js" timestamp="1513617900968">
+        <mark key="'" line="166" column="0" />
+        <mark key="[" line="66" column="106" />
+        <mark key="]" line="66" column="106" />
+        <mark key="^" line="66" column="104" />
+        <mark key="." line="66" column="106" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/AddToCalendar/AddToCalendarList.js" timestamp="1509557790819">
         <mark key="[" line="7" column="43" />
@@ -1166,6 +1180,12 @@
         <mark key="." line="3" column="44" />
         <mark key="^" line="3" column="44" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/content/src/utils/sanitizeQueryRules.js" timestamp="1513617855408">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="0" column="22" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content/test/unit/components/ModalContainer.spec.js" timestamp="1513113948683">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -1499,8 +1519,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/Projects/react-redux-boilerplate/src/containers/App.js" />
-      <jump line="35" column="54" filename="$USER_HOME$/Projects/sc-sales-web/client/src/components/Testing.js" />
       <jump line="129" column="61" filename="$USER_HOME$/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/CardWithTabsAndContent.js" />
       <jump line="182" column="0" filename="$USER_HOME$/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/CardWithTabsAndContent.js" />
       <jump line="40" column="28" filename="$USER_HOME$/Projects/sc-web/client/webpack.config.prod.js" />
@@ -1599,25 +1617,27 @@
       <jump line="128" column="1" filename="$USER_HOME$/Sites/amc/content/src/components/forms/Login.js" />
       <jump line="149" column="0" filename="$USER_HOME$/Sites/amc/content/src/components/forms/Login.js" />
       <jump line="0" column="30" filename="/Dummy.txt" />
+      <jump line="65" column="90" filename="$USER_HOME$/Sites/amc/content/src/routes/createRoutes.js" />
+      <jump line="165" column="0" filename="$USER_HOME$/Sites/amc/content/src/routes/createRoutes.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ies</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>parm</text>
+        <text>ies</text>
       </register>
       <register name="/" type="4">
         <text>PropTypes</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvcHRpb25zLmRhdGExJywgZGF0YVsxXS5xdWVyeSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFyYW1zW2tleV0gPSBzYW5pdGl6ZVF1ZXJ5KHZhbHVlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgc2FuaXRpemVRdWVyaWVzOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1629,28 +1649,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXJhbXNba2V5XSA9IHZhbHVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdrZXlzJywga2V5LCBvdGhlcktleSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGtleSA9PT0gb3RoZXJLZXkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdrZXlzJywga2V5LCBvdGhlcktleSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYW5pdGl6ZVF1ZXJ5KHZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZygndGVzdCcsIE9iamVjdC5rZXlzKHNhbml0aXplUXVlcmllcykpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVuY29kZVVSSSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoa2V5ID09PSAncScpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcGFyYW1zW2tleV0gPSBzYW5pdGl6ZVF1ZXJpZXMucSh2YWx1ZSk7CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgcGFyYW1zW2tleV0gPSB2YWx1ZTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CmNvbnN0IHNhbml0aXplUXVlcnkgPSBwYXJtID0+IHsKICAgIGNvbnNvbGUubG9nKCdwYXJtJywgZW5jb2RlVVJJKHBhcm0pKTsKICAgIHJldHVybiBlbmNvZGVVUkkocGFybSk7Cn07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gcGFyYW1zW2tleV0gPSBzYW5pdGl6ZVF1ZXJ5KHZhbHVlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCd0ZXN0JywgY2hpbGRyZW5bMF0uY2hpbGRyZW5bMV0uY2FsbHNbMF0udmFsdWUuY2FsbFZhbHVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>92</text>

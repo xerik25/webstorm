@@ -524,11 +524,12 @@
         <mark key="^" line="41" column="13" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/routes/useQuery.js" timestamp="1513784391509">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="17" column="51" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Sites/amc/content/src/routes/useQuery.js" timestamp="1513896681705">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="20" column="34" />
+        <mark key="]" line="20" column="43" />
+        <mark key="^" line="20" column="43" />
+        <mark key="." line="20" column="43" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/ApiForm.js" timestamp="1507134300411">
         <mark key="[" line="0" column="25" />
@@ -655,10 +656,9 @@
         <mark key="." line="61" column="41" />
         <mark key="^" line="61" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513893520033">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="/Dummy.txt" timestamp="1513893853922">
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Modals/FDPromoModal/FDPromoModal.js" timestamp="1511887240230">
         <mark key="[" line="48" column="71" />
@@ -1505,8 +1505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="61" filename="$USER_HOME$/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/CardWithTabsAndContent.js" />
-      <jump line="182" column="0" filename="$USER_HOME$/Projects/sc-web/client/src/components/common/cardWithTabsAndContent/CardWithTabsAndContent.js" />
       <jump line="40" column="28" filename="$USER_HOME$/Projects/sc-web/client/webpack.config.prod.js" />
       <jump line="58" column="0" filename="$USER_HOME$/Projects/sc-web/client/webpack.config.prod.js" />
       <jump line="37" column="0" filename="$USER_HOME$/Projects/sc-web/client/src/domains/sales-web/src/containers/WorkFlow.js" />
@@ -1605,22 +1603,24 @@
       <jump line="0" column="30" filename="/Dummy.txt" />
       <jump line="65" column="90" filename="$USER_HOME$/Sites/amc/content/src/routes/createRoutes.js" />
       <jump line="165" column="0" filename="$USER_HOME$/Sites/amc/content/src/routes/createRoutes.js" />
+      <jump line="18" column="50" filename="$USER_HOME$/Sites/amc/content/src/routes/useQuery.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/Sites/amc/content/src/routes/useQuery.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aHR0cHM6Ly9iaXRidWNrZXQub3JnL2FtY3RoZWF0cmVzL2NvbnRlbnQvcHVsbC1yZXF1ZXN0cy8zMDQvYWRkZWQtYS1ydWxlLWNoZWNrLXRvLXVzZXF1ZXJ5LXRoYXQtd2lsbC9kaWZmI2NvbW1lbnQtNTIyOTg5MDUK</text>
+      <register name="&quot;" type="4">
+        <text>encodeURI</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFyaWEtaGlkZGVuPSJ0cnVlIg==</text>
+        <text>encodeURI</text>
       </register>
       <register name="/" type="4">
         <text>PropTypes</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InUtaGlkZS1tb2JpbGUiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAge29yZGVyVG90YWx9CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXJhbXNba2V5XSA9IGVuY29kZVVSSSh2YWx1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aHR0cHM6Ly9iaXRidWNrZXQub3JnL2FtY3RoZWF0cmVzL2NvbnRlbnQvcHVsbC1yZXF1ZXN0cy8zMDQvYWRkZWQtYS1ydWxlLWNoZWNrLXRvLXVzZXF1ZXJ5LXRoYXQtd2lsbC9kaWZmI2NvbW1lbnQtNTIyOTg5MDUK</text>

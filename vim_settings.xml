@@ -150,6 +150,12 @@
         <mark key="^" line="41" column="38" />
         <mark key="." line="41" column="38" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/website/configs/webpack/webpack.server.config.js" timestamp="1514928567770">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="37" column="70" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/ContactInfo/ContactInfo.js" timestamp="1511283272780">
         <mark key="[" line="37" column="103" />
         <mark key="]" line="37" column="117" />
@@ -524,12 +530,12 @@
         <mark key="^" line="41" column="13" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/routes/useQuery.js" timestamp="1514926309909">
+      <file name="$USER_HOME$/Sites/amc/content/src/routes/useQuery.js" timestamp="1514928507284">
         <mark key="'" line="28" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="1" column="24" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="33" column="22" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/ApiForm.js" timestamp="1507134300411">
         <mark key="[" line="0" column="25" />
@@ -655,11 +661,6 @@
         <mark key="]" line="61" column="41" />
         <mark key="." line="61" column="41" />
         <mark key="^" line="61" column="41" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1514921297550">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Modals/FDPromoModal/FDPromoModal.js" timestamp="1511887240230">
         <mark key="[" line="48" column="71" />
@@ -1395,6 +1396,12 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
+      <file name="$USER_HOME$/Sites/amc/website/configs/webpack/webpack.config.js" timestamp="1514928046876">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="37" column="54" />
+        <mark key="]" line="37" column="54" />
+        <mark key="." line="37" column="54" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/Pagination/PageNavigation.js" timestamp="1507134744200">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="25" />
@@ -1512,8 +1519,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="28" filename="$USER_HOME$/Projects/sc-web/client/webpack.config.prod.js" />
-      <jump line="58" column="0" filename="$USER_HOME$/Projects/sc-web/client/webpack.config.prod.js" />
       <jump line="37" column="0" filename="$USER_HOME$/Projects/sc-web/client/src/domains/sales-web/src/containers/WorkFlow.js" />
       <jump line="40" column="0" filename="$USER_HOME$/Projects/sc-web/client/src/domains/sales-web/src/containers/WorkFlow.js" />
       <jump line="26" column="0" filename="$USER_HOME$/Projects/sc-web/client/src/domains/sales-web/src/containers/WorkFlow.js" />
@@ -1612,25 +1617,27 @@
       <jump line="165" column="0" filename="$USER_HOME$/Sites/amc/content/src/routes/createRoutes.js" />
       <jump line="18" column="50" filename="$USER_HOME$/Sites/amc/content/src/routes/useQuery.js" />
       <jump line="26" column="0" filename="$USER_HOME$/Sites/amc/content/src/routes/useQuery.js" />
+      <jump line="86" column="57" filename="$USER_HOME$/Sites/amc/website/configs/webpack/webpack.config.js" />
+      <jump line="88" column="0" filename="$USER_HOME$/Sites/amc/website/configs/webpack/webpack.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gJ0BhbWN0aGVhdHJlcy9jb250ZW50L25vZGVfbW9kdWxlcyc6IHBhdGguam9pbihyb290LCAnLi4vY29udGVudC9ub2RlX21vZHVsZXMnKQo=</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIGVzbGludC1kaXNhYmxlLWxpbmU=</text>
+        <text>server</text>
       </register>
       <register name="/" type="4">
         <text>PropTypes</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBlbGVtZW50ID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgncCcpOwogICAgICAgIGVsZW1lbnQudGV4dENvbnRlbnQgPSBpbnB1dDsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2VydmVyJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gJ0BhbWN0aGVhdHJlcy9jb250ZW50L25vZGVfbW9kdWxlcyc6IHBhdGguam9pbihyb290LCAnLi4vY29udGVudC9ub2RlX21vZHVsZXMnKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1642,28 +1649,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IGVuY29kZSBmcm9tICdlbnQnOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjbGllbnQnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgZW5jb2RlID0gcmVxdWlyZSgnZW50L2VuY29kZScpOyAvLyBlc2xpbnQtZGlzYWJsZS1saW5lCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2VydmVyJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gJ0BhbWN0aGVhdHJlcy9jb250ZW50L25vZGVfbW9kdWxlcyc6IHBhdGguam9pbihyb290LCAnLi4vY29udGVudC9ub2RlX21vZHVsZXMnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGVuY29kZSA9IHJlcXVpcmUoJ2VudC9lbmNvZGUnKTsgLy8gZXNsaW50LWRpc2FibGUtbGluZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gJ0BhbWN0aGVhdHJlcy9jb250ZW50L25vZGVfbW9kdWxlcyc6IHBhdGguam9pbihyb290LCAnLi4vY29udGVudC9ub2RlX21vZHVsZXMnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBlbmNvZGUgPSByZXF1aXJlKCdlbnQvZW5jb2RlJyk7IC8vIGVzbGludC1kaXNhYmxlLWxpbmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Ly8gaW1wb3J0IGVuY29kZSBmcm9tICdlbnQnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Y29uc3QgZW5jb2RlID0gcmVxdWlyZSgnZW50L2VuY29kZScpOyAvLyBlc2xpbnQtZGlzYWJsZS1saW5lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>92</text>

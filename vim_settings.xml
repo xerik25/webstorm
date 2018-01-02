@@ -524,12 +524,12 @@
         <mark key="^" line="41" column="13" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/routes/useQuery.js" timestamp="1514914394617">
+      <file name="$USER_HOME$/Sites/amc/content/src/routes/useQuery.js" timestamp="1514915196751">
         <mark key="'" line="28" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="22" column="39" />
-        <mark key="." line="1" column="0" />
+        <mark key="[" line="30" column="13" />
+        <mark key="]" line="30" column="18" />
+        <mark key="^" line="30" column="18" />
+        <mark key="." line="30" column="18" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/ApiForm.js" timestamp="1507134300411">
         <mark key="[" line="0" column="25" />
@@ -1614,20 +1614,20 @@
       <jump line="26" column="0" filename="$USER_HOME$/Sites/amc/content/src/routes/useQuery.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJqcy1odG1sZW5jb2RlIjogIl4wLjMuMCIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>Decode</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>Decode</text>
       </register>
       <register name="/" type="4">
         <text>PropTypes</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXJhbXNba2V5XSA9IGVuY29kZVVSSSh2YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXJhbXNba2V5XSA9IGh0bWxFbmNvZGUodmFsdWUpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJqcy1odG1sZW5jb2RlIjogIl4wLjMuMCIsCg==</text>

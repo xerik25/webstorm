@@ -162,11 +162,6 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/Showtimes/_showtimes.scss" timestamp="1517327235549">
-        <mark key="]" line="167" column="16" />
-        <mark key="." line="167" column="16" />
-        <mark key="^" line="167" column="16" />
-      </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/Pager.js" timestamp="1507134392042">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="25" />
@@ -831,6 +826,7 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
+      <file name="$USER_HOME$/code/react-express-docker-boilerplate/src/server/app.js" timestamp="1531260406286" />
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieList/components/MovieListSelector.js" timestamp="1507135283720">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="34" />
@@ -1175,6 +1171,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/deploymenttool-backend/index.js" timestamp="1531261463107">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="32" />
+        <mark key="." line="8" column="32" />
+        <mark key="^" line="8" column="32" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/UI/MovieRuntimeToolTip.js" timestamp="1511282368327">
         <mark key="[" line="67" column="49" />
@@ -1531,14 +1533,14 @@
       <jump line="9" column="1" filename="$USER_HOME$/code/react-express-docker-boilerplate/src/client/redux/store.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPHA+dGVzdGluZzwvcD4K</text>
+      <register name="&quot;" type="4">
+        <text>public</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>path</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
@@ -1547,7 +1549,7 @@
         <text encoding="base64">ICAgICAgPHA+dGVzdGluZzwvcD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPHA+dGVzdGluZzwvcD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1559,28 +1561,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwcC51c2UoJy4vaW5kZXguaHRtbCcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPHA+dGVzdGluZzwvcD4K</text>
+        <text encoding="base64">ICAgIGFwcC51c2UoJy4vaW5kZXguaHRtbCcpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgPHA+dGVzdGluZzwvcD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPHA+dGVzdGluZzwvcD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgPHA+dGVzdGluZzwvcD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnRlbnRCYXNlOiAnJwo=</text>
+        <text encoding="base64">ICAgICAgPHA+dGVzdGluZzwvcD4K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgPHA+dGVzdGluZzwvcD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPHA+dGVzdGluZzwvcD4K</text>
       </register>
       <register name=":" type="4">
         <text>92</text>

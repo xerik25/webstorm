@@ -1059,6 +1059,7 @@
         <mark key="^" line="37" column="117" />
         <mark key="." line="37" column="117" />
       </file>
+      <file name="$USER_HOME$/code/react-express-docker-boilerplate/package.json" timestamp="1531241401063" />
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/ModuleContainer.js" timestamp="1507134383105">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="25" />
@@ -1094,6 +1095,11 @@
         <mark key="]" line="6" column="34" />
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/react-express-docker-boilerplate/src/client/components/helloWorld.js" timestamp="1531244925847">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/Content/editors/carousel/Hero.js" timestamp="1507135102452">
         <mark key="[" line="0" column="41" />
@@ -1226,6 +1232,13 @@
         <mark key="]" line="29" column="22" />
         <mark key="^" line="29" column="22" />
         <mark key="." line="29" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/react-express-docker-boilerplate/src/client/redux/store.js" timestamp="1531246162247">
+        <mark key="'" line="9" column="1" />
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="0" column="37" />
+        <mark key="^" line="11" column="37" />
+        <mark key="." line="0" column="37" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/ConfirmNavigation.js" timestamp="1509984784318">
         <mark key="[" line="113" column="51" />
@@ -1409,7 +1422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/Projects/sc-web/client/src/domains/sales-web/src/containers/WorkFlow.js" />
       <jump line="26" column="0" filename="$USER_HOME$/Projects/sc-web/client/src/domains/sales-web/src/containers/WorkFlow.js" />
       <jump line="80" column="8" filename="$USER_HOME$/Projects/sc-web/client/src/components/common/tabsAndContent/TabsAndContent.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/amc/graph/package.json" />
@@ -1509,25 +1521,26 @@
       <jump line="86" column="57" filename="$USER_HOME$/Sites/amc/website/configs/webpack/webpack.config.js" />
       <jump line="88" column="0" filename="$USER_HOME$/Sites/amc/website/configs/webpack/webpack.config.js" />
       <jump line="118" column="26" filename="$USER_HOME$/Sites/amc/content/package.json" />
+      <jump line="9" column="1" filename="$USER_HOME$/code/react-express-docker-boilerplate/src/client/redux/store.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Sup Clifford!</text>
+        <text>, applyMiddleware</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>Sup Clifford!</text>
+        <text>, applyMiddleware</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8cD5TdXAgQ2xpZmZvcmQhPC9wPgo=</text>
+        <text encoding="base64">ICAgICAgPGJ1dHRvbiBvbkNsaWNrPXtwcm9wcy5jaGFuZ2VNZXNzYWdlKCduZXcgbWVzc2FnZScpfT5VcGRhdGUgTWVzc2FnZTwvYnV0dG9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGRldlRvb2xzRW5oYW5jZXIgZnJvbSAncmVtb3RlLXJlZHV4LWRldnRvb2xzJzsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1539,28 +1552,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">TWF0Y2hpbmcgc3BhY2luZyBmb3Igb3JkZXIgdG90YWwgaW4gZm9vdGVyIHNpbmNlIG1hcmt1cCB3YXMgdXBkYXRlZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGhlCg==</text>
+        <text encoding="base64">ICAgICAgPGJ1dHRvbiBvbkNsaWNrPXtwcm9wcy5jaGFuZ2VNZXNzYWdlKCdjbGljayBtZXNzYWdlJyl9PlVwZGF0ZSBNZXNzYWdlPC9idXR0b24+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TWF0Y2hpbmcgc3BhY2luZyBmb3Igb3JkZXIgdG90YWwgaW4gZm9vdGVyIHNpbmNlIG1hcmt1cCB3YXMgdXBkYXRlZAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IG9uU2Nyb2xsPXsoZXZlbnQpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzY3Jvb2xseSB0ZXN0JywgdGhpcy5yZWZzLm1vdmllc0NvbnRhaW5lcik7CiAgICAgICAgICAgICAgICAgICAgICAgIH19</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGhlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgey8qPGRpdiBzdHlsZT17eyBoZWlnaHQ6ICc1MHZoJyB9fT48L2Rpdj4qL30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2xhbmRvblNjcm9sbCcpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IG9uU2Nyb2xsPXsoZXZlbnQpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzY3Jvb2xseSB0ZXN0JywgdGhpcy5yZWZzLm1vdmllc0NvbnRhaW5lcik7CiAgICAgICAgICAgICAgICAgICAgICAgIH19</text>
       </register>
       <register name=":" type="4">
         <text>92</text>

@@ -354,9 +354,9 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/build/index.html" timestamp="1531293260024">
-        <mark key="[" line="36" column="29" />
-        <mark key="]" line="36" column="29" />
+      <file name="$USER_HOME$/code/deploymenttool-backend/build/index.html" timestamp="1531332414349">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="32" />
         <mark key="^" line="36" column="29" />
         <mark key="." line="36" column="29" />
       </file>
@@ -678,7 +678,7 @@
         <mark key="^" line="45" column="61" />
         <mark key="." line="45" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519945631508">
+      <file name="/Dummy.txt" timestamp="1531331545022">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/TheatreMedia/components/dialogs/ImageViewDialog.js" timestamp="1507135660582">
@@ -825,7 +825,6 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/code/react-express-docker-boilerplate/src/server/app.js" timestamp="1531260406286" />
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieList/components/MovieListSelector.js" timestamp="1507135283720">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="34" />
@@ -1171,11 +1170,11 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/index.js" timestamp="1531291282218">
-        <mark key="[" line="33" column="13" />
-        <mark key="]" line="33" column="23" />
-        <mark key="^" line="33" column="23" />
-        <mark key="." line="33" column="23" />
+      <file name="$USER_HOME$/code/deploymenttool-backend/index.js" timestamp="1531332552508">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="24" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="43" column="6" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/UI/MovieRuntimeToolTip.js" timestamp="1511282368327">
         <mark key="[" line="67" column="49" />
@@ -1533,22 +1532,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3Muc2VuZCgnbWVzc2FnZSBmcm9tIGNsaWVudCBhdDogJyArIG5ldyBEYXRlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjbGVhclRpbWVvdXQodCk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>destroy</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3Mub25jbG9zZSA9IGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzb2NrZXQgY2xvc2UnKTsKICAgICAgICAgICAgICAgIHNldFRpbWVvdXQoY29ubmVjdCwgcmVjb25uZWN0SW50ZXJ2YWwpOwogICAgICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICBjbGVhclRpbWVvdXQodCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3Muc2VuZCgnbWVzc2FnZSBmcm9tIGNsaWVudCBhdDogJyArIG5ldyBEYXRlKCkpOwo=</text>
+        <text encoding="base64">d3NzLm9uKCdlcnJvcicsIGZ1bmN0aW9uIGVycm9yKGV2ZW50KSB7CiAgICBjb25zb2xlLmxvZygnZXJyb3InKTsKfSk7Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1560,28 +1559,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3cy5vbmNsb3NlID0gZnVuY3Rpb24gKCkgewogICAgICAgICAgICBjbGVhclRpbWVvdXQoKTsKICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZyhldmVudC5lcnIgKyAnICBzdGF0ZTogJyArIHdzLnJlYWR5U3RhdGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0VGltZW91dChjb25uZWN0LCByZWNvbm5lY3RJbnRlcnZhbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd3Muc2VuZCgnbWVzc2FnZSBmcm9tIGNsaWVudCBhdDogJyArIG5ldyBEYXRlKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NvY2tldCBjbG9zZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICB3cy5vbmNsb3NlID0gZnVuY3Rpb24gKCkgewogICAgICAgICAgICBjbGVhclRpbWVvdXQoKTsKICAgICAgICB9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdzLnRlcm1pbmF0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0VGltZW91dChjb25uZWN0LCByZWNvbm5lY3RJbnRlcnZhbCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3MgPSBuZXcgV2ViU29ja2V0KCd3czovL2xvY2FsaG9zdCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NvY2tldCBjbG9zZScpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciByZWNvbm5lY3RJbnRlcnZhbCA9IDEwMDA7CiAgICB2YXIgd3MgPSBuZXcgV2ViU29ja2V0KCh3aW5kb3cubG9jYXRpb24ucHJvdG9jb2wgPT0gJ2h0dHBzOicgPyAnd3NzOi8vJyA6ICd3czovLycpCiAgICAgICAgKyB3aW5kb3cubG9jYXRpb24uaG9zdCk7CiAgICB2YXIgY29ubmVjdCA9IGZ1bmN0aW9uKCl7CiAgICAgICAgd3MgPSBuZXcgV2ViU29ja2V0KCd3czovL2xvY2FsaG9zdCcpOwogICAgICAgIHdzLm9ub3BlbiA9IGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgd3Muc2VuZCgidGVzdCBoZWxsbyEiKTsKICAgICAgICAgICAgdGVzdCh3cyk7CiAgICAgICAgfTsKCiAgICAgICAgd3Mub25tZXNzYWdlID0gZnVuY3Rpb24gKG1lc3NhZ2UpIHsKICAgICAgICAgICAgY29uc29sZS5sb2coIm1lc3NhZ2UgcmVjZWl2ZWQ6ICIgKyBtZXNzYWdlLmRhdGEpOwogICAgICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnbWVzc2FnZUZyb21TZXJ2ZXInKS5pbm5lckhUTUwgPSBtZXNzYWdlLmRhdGE7CiAgICAgICAgfTsKICAgICAgICB3cy5vbmNsb3NlID0gZnVuY3Rpb24gKCkgewogICAgICAgICAgICBjb25zb2xlLmxvZygnc29ja2V0IGNsb3NlJyk7CiAgICAgICAgICAgIHNldFRpbWVvdXQoY29ubmVjdCwgcmVjb25uZWN0SW50ZXJ2YWwpOwogICAgICAgIH07CiAgICB9OwogICAgY29ubmVjdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdzLnRlcm1pbmF0ZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd3MgPSBuZXcgV2ViU29ja2V0KCd3czovL2xvY2FsaG9zdCcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ21lc3NhZ2VGcm9tU2VydmVyJykuaW5uZXJIVE1MID0gbWVzc2FnZS5kYXRhOwo=</text>
+        <text encoding="base64">ICAgIHZhciByZWNvbm5lY3RJbnRlcnZhbCA9IDEwMDA7CiAgICB2YXIgd3MgPSBuZXcgV2ViU29ja2V0KCh3aW5kb3cubG9jYXRpb24ucHJvdG9jb2wgPT0gJ2h0dHBzOicgPyAnd3NzOi8vJyA6ICd3czovLycpCiAgICAgICAgKyB3aW5kb3cubG9jYXRpb24uaG9zdCk7CiAgICB2YXIgY29ubmVjdCA9IGZ1bmN0aW9uKCl7CiAgICAgICAgd3MgPSBuZXcgV2ViU29ja2V0KCd3czovL2xvY2FsaG9zdCcpOwogICAgICAgIHdzLm9ub3BlbiA9IGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgd3Muc2VuZCgidGVzdCBoZWxsbyEiKTsKICAgICAgICAgICAgdGVzdCh3cyk7CiAgICAgICAgfTsKCiAgICAgICAgd3Mub25tZXNzYWdlID0gZnVuY3Rpb24gKG1lc3NhZ2UpIHsKICAgICAgICAgICAgY29uc29sZS5sb2coIm1lc3NhZ2UgcmVjZWl2ZWQ6ICIgKyBtZXNzYWdlLmRhdGEpOwogICAgICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnbWVzc2FnZUZyb21TZXJ2ZXInKS5pbm5lckhUTUwgPSBtZXNzYWdlLmRhdGE7CiAgICAgICAgfTsKICAgICAgICB3cy5vbmNsb3NlID0gZnVuY3Rpb24gKCkgewogICAgICAgICAgICBjb25zb2xlLmxvZygnc29ja2V0IGNsb3NlJyk7CiAgICAgICAgICAgIHNldFRpbWVvdXQoY29ubmVjdCwgcmVjb25uZWN0SW50ZXJ2YWwpOwogICAgICAgIH07CiAgICB9OwogICAgY29ubmVjdCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>92</text>

@@ -138,11 +138,11 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/package.json" timestamp="1532049488538">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="34" />
-        <mark key="^" line="27" column="49" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/code/deploymenttool-client/package.json" timestamp="1532053356539">
+        <mark key="[" line="28" column="14" />
+        <mark key="]" line="28" column="64" />
+        <mark key="^" line="28" column="64" />
+        <mark key="." line="28" column="64" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/ConfirmClose.js" timestamp="1509137786716">
         <mark key="[" line="25" column="52" />
@@ -792,7 +792,7 @@
         <mark key="^" line="45" column="61" />
         <mark key="." line="45" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532049726675">
+      <file name="/Dummy.txt" timestamp="1532051817809">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/TheatreMedia/components/dialogs/ImageViewDialog.js" timestamp="1507135660582">
@@ -1789,13 +1789,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>S</text>
+        <text>./node_modules/.bin/jsdoc **/**/.js</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>./node_modules/.bin/jsdoc **/**/.js</text>
       </register>
       <register name="/" type="4">
         <text>form</text>

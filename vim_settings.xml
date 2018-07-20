@@ -777,12 +777,12 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/src/sockets/index.js" timestamp="1532103871414">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="5" column="32" />
-        <mark key="." line="5" column="32" />
-        <mark key="^" line="5" column="32" />
+      <file name="$USER_HOME$/code/deploymenttool-backend/src/sockets/index.js" timestamp="1532105281472">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="4" column="32" />
       </file>
       <file name="$USER_HOME$/Sites/amc/website/src/client/client.js" timestamp="1513366292393">
         <mark key="[" line="45" column="61" />
@@ -906,6 +906,12 @@
         <mark key="]" line="25" column="41" />
         <mark key="^" line="25" column="46" />
         <mark key="." line="25" column="41" />
+      </file>
+      <file name="$USER_HOME$/code/deploymenttool-backend/src/apis/index.js" timestamp="1532105322648">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+        <mark key="^" line="5" column="43" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/oauth/components/FacebookLoginButton.js" timestamp="1508786180796">
         <mark key="[" line="0" column="96" />
@@ -1785,23 +1791,23 @@
       <jump line="47" column="0" filename="$USER_HOME$/code/deploymenttool-client/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3Qgcm91dGVzID0gcmVxdWlyZSgnZXhwcmVzcycpLlJvdXRlcigpCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>old</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YGBgYmFzaAp5YXJuIHJ1biBidWlsZApgYGAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3Qgcm91dGVzID0gcmVxdWlyZSgnZXhwcmVzcycpLlJvdXRlcigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1813,28 +1819,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgcmVxdWVzdCA9IHJlcXVpcmUoJ3JlcXVlc3QnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJqc2RvYyI6ICIuL25vZGVfbW9kdWxlcy9qc2RvYy9qc2RvYy5qcyAtYyAuLy5qc2RvYy5jb25mLmpzb24gJiYgaHR0cC1zZXJ2ZXIgLW8gLWQiLAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImh0dHAtc2VydmVyIC1vZCIsCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG1lc3NhZ2VUeXBlcyBmcm9tICcuL21lc3NhZ2VUeXBlcycK</text>
+        <text encoding="base64">ICAgICAgc29ja2V0LmVtaXQoZW1pdHRlclR5cGVzLnNlcnZlcl91c2VycywgSlNPTi5wYXJzZShyZXNwb25zZS5ib2R5KS51c2VycykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgeyBtZXNzYWdlVHlwZXMgfSA9IGNvbmZpZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>92</text>

@@ -794,7 +794,7 @@
         <mark key="^" line="45" column="61" />
         <mark key="." line="45" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532381931281">
+      <file name="/Dummy.txt" timestamp="1532386950328">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/TheatreMedia/components/dialogs/ImageViewDialog.js" timestamp="1507135660582">
@@ -898,6 +898,12 @@
         <mark key="]" line="0" column="87" />
         <mark key="^" line="0" column="87" />
         <mark key="." line="0" column="87" />
+      </file>
+      <file name="$USER_HOME$/code/deploymenttool-backend/Dockerfile" timestamp="1532386984990">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="12" column="10" />
+        <mark key="." line="12" column="10" />
+        <mark key="^" line="12" column="10" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Infrastructure/Services/Impl/CloudinaryMediaRepository.cs" timestamp="1519829267223">
         <mark key="[" line="24" column="45" />
@@ -1804,14 +1810,14 @@
       <jump line="1" column="0" filename="$USER_HOME$/code/deploymenttool-backend/src/apis/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtIGdpdCBmdHAgJEZUUF90eXBlIC0tdXNlciAkUUFfdXNlcm5hbWUgLS1wYXNzd2QgJFFBX3Bhc3N3b3JkIC0tc3luY3Jvb3QgIndwLWNvbnRlbnQvdGhlbWVzL3NpZ25ldCIgLXYgc2Z0cDovLyRRQV9ob3N0bmFtZUFuZFBhdGgK</text>
+      <register name="&quot;" type="4">
+        <text>3000</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYmIA==</text>
+        <text>3000</text>
       </register>
       <register name="/" type="4">
         <text>form</text>

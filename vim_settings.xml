@@ -791,7 +791,7 @@
         <mark key="^" line="45" column="61" />
         <mark key="." line="45" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532453597923">
+      <file name="/Dummy.txt" timestamp="1532454214968">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/TheatreMedia/components/dialogs/ImageViewDialog.js" timestamp="1507135660582">
@@ -1573,11 +1573,11 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/bitbucket-pipelines.yml" timestamp="1532454206871">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="10" />
-        <mark key="." line="16" column="10" />
-        <mark key="^" line="17" column="0" />
+      <file name="$USER_HOME$/code/deploymenttool-backend/bitbucket-pipelines.yml" timestamp="1532454863402">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="14" />
+        <mark key="." line="16" column="14" />
+        <mark key="^" line="16" column="14" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/TheatreMedia/components/TheatreMedia.js" timestamp="1515514848336">
         <mark key="[" line="0" column="41" />
@@ -1767,14 +1767,14 @@
       <jump line="1" column="0" filename="$USER_HOME$/code/deploymenttool-backend/src/apis/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>yarn</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICMgZW5hYmxlIERvY2tlciBmb3IgeW91ciByZXBvc2l0b3J5</text>
+        <text>yarn</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
@@ -1783,7 +1783,7 @@
         <text encoding="base64">ICAgICJkZXYiOiAibm9kZW1vbiAtLXdhdGNoIHNyYyBpbmRleC5qcyIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gbnBtIGluc3RhbGwgLWcgeWFybgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1795,28 +1795,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgc2V0IERPQ0tFUl9IVUJfVVNFUk5BTUUgYW5kIERPQ0tFUl9IVUJfUEFTU1dPUkQgYXMgZW52aXJvbm1lbnQgdmFyaWFibGVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgRG9ja2VyIHZhcmlhYmxlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICMgc2V0IERPQ0tFUl9IVUJfVVNFUk5BTUUgYW5kIERPQ0tFUl9IVUJfUEFTU1dPUkQgYXMgZW52aXJvbm1lbnQgdmFyaWFibGVzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICMgRG9ja2VyIHZhcmlhYmxlcwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBlbmFibGUgRG9ja2VyIGZvciB5b3VyIHJlcG9zaXRvcnkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICJwcm9kIjogInlhcm4gcnVuIGJ1aWxkOmNsaWVudC1wcm9kICYmIG5vZGUgaW5kZXguanMiLAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBlbmFibGUgRG9ja2VyIGZvciB5b3VyIHJlcG9zaXRvcnkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJwcm9kIjogInlhcm4gcnVuIGJ1aWxkOmNsaWVudC1wcm9kICYmIG5vZGUgaW5kZXguanMiLAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>92</text>

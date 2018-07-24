@@ -144,7 +144,12 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/package.json" timestamp="1532456629865" />
+      <file name="$USER_HOME$/code/deploymenttool-client/package.json" timestamp="1532470471849">
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="26" column="17" />
+        <mark key="." line="26" column="17" />
+        <mark key="^" line="26" column="17" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/ConfirmClose.js" timestamp="1509137786716">
         <mark key="[" line="25" column="52" />
         <mark key="]" line="25" column="52" />
@@ -169,11 +174,11 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/bitbucket-pipelines.yml" timestamp="1532468718352">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="6" column="23" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/code/deploymenttool-client/bitbucket-pipelines.yml" timestamp="1532470435949">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="7" column="27" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/App/Container.js" timestamp="1507134799605">
         <mark key="[" line="0" column="25" />
@@ -291,11 +296,11 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/header/header.test.js" timestamp="1531533342939">
-        <mark key="[" line="7" column="7" />
-        <mark key="]" line="7" column="12" />
-        <mark key="." line="7" column="12" />
-        <mark key="^" line="7" column="12" />
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/header/header.test.js" timestamp="1532470933473">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="7" />
       </file>
       <file name="$USER_HOME$/code/deploymenttool-client/src/config.js" timestamp="1531906456865">
         <mark key="[" line="5" column="5" />
@@ -500,6 +505,13 @@
         <mark key="]" line="49" column="30" />
         <mark key="." line="49" column="30" />
         <mark key="^" line="49" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/deploymenttool-client/README.md" timestamp="1532470806142">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="3" />
+        <mark key="." line="83" column="3" />
+        <mark key="^" line="83" column="3" />
       </file>
       <file name="$USER_HOME$/code/deploymenttool-client/src/pages/about/About.js" timestamp="1531530976776">
         <mark key="[" line="4" column="20" />
@@ -789,7 +801,7 @@
         <mark key="^" line="45" column="61" />
         <mark key="." line="45" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532467228924">
+      <file name="/Dummy.txt" timestamp="1532470518948">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1005,11 +1017,10 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/.gitignore" timestamp="1532390841526">
+      <file name="$USER_HOME$/code/deploymenttool-backend/.gitignore" timestamp="1532469483319">
         <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="1" />
-        <mark key="^" line="177" column="1" />
-        <mark key="." line="177" column="1" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1531378156923">
         <mark key="[" line="70" column="0" />
@@ -1576,7 +1587,7 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/bitbucket-pipelines.yml" timestamp="1532468671001">
+      <file name="$USER_HOME$/code/deploymenttool-backend/bitbucket-pipelines.yml" timestamp="1532469349246">
         <mark key="[" line="17" column="14" />
         <mark key="]" line="17" column="16" />
         <mark key="." line="17" column="16" />
@@ -1771,13 +1782,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gZG9ja2VyIHB1c2ggJElNQUdFX05BTUUK</text>
+        <text encoding="base64">aW1wb3J0IHsgTWVtb3J5Um91dGVyIH0gZnJvbSAncmVhY3Qtcm91dGVyLWRvbScK</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>install</text>
+        <text>npm</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
@@ -1786,7 +1797,7 @@
         <text encoding="base64">ICAgICAgICAgIC0gbnBtIGluc3RhbGwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gZG9ja2VyIHB1c2ggJElNQUdFX05BTUUK</text>
+        <text encoding="base64">aW1wb3J0IHsgTWVtb3J5Um91dGVyIH0gZnJvbSAncmVhY3Qtcm91dGVyLWRvbScK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1798,28 +1809,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgcHVzaCB0aGUgbmV3IERvY2tlciBpbWFnZSB0byB0aGUgRG9ja2VyIHJlZ2lzdHJ5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gZG9ja2VyIGxvZ2luIC0tdXNlcm5hbWUgJERPQ0tFUl9IVUJfVVNFUk5BTUUgLS1wYXNzd29yZCAkRE9DS0VSX0hVQl9QQVNTV09SRAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgYXV0aGVudGljYXRlIHdpdGggdGhlIERvY2tlciBIdWIgcmVnaXN0cnkK</text>
+        <text encoding="base64">ICAgICJ0ZXN0IjogInJlYWN0LXNjcmlwdHMgdGVzdCAtLWVudj1qc2RvbSAtLWNvdmVyYWdlIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gZG9ja2VyIGJ1aWxkIC10ICRJTUFHRV9OQU1FIC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgYnVpbGQgdGhlIERvY2tlciBpbWFnZSAodGhpcyB3aWxsIHVzZSB0aGUgRG9ja2VyZmlsZSBpbiB0aGUgcm9vdCBvZiB0aGUgcmVwbykK</text>
+        <text encoding="base64">aW1wb3J0IHsgU3RhdGljUm91dGVyIH0gZnJvbSAncmVhY3Qtcm91dGVyJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgYnVpbGQgYW5kIHRlc3QgdGhlIE5vZGUgYXBwCg==</text>
+        <text encoding="base64">IyBkZXBsb3ltZW50dG9vbC1jbGllbnQvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gZXhwb3J0IElNQUdFX05BTUU9IiR7RE9DS0VSX0hVQl9VU0VSTkFNRX0vJHtCSVRCVUNLRVRfUkVQT19TTFVHfToke0JJVEJVQ0tFVF9CVUlMRF9OVU1CRVJ9Igo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0gZG9ja2VyIHB1c2ggJElNQUdFX05BTUUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgRG9ja2VyIHZhcmlhYmxlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICMgcHVzaCB0aGUgbmV3IERvY2tlciBpbWFnZSB0byB0aGUgRG9ja2VyIHJlZ2lzdHJ5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>92</text>

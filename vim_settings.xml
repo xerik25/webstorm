@@ -500,13 +500,6 @@
         <mark key="." line="49" column="30" />
         <mark key="^" line="49" column="30" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/README.md" timestamp="1532050170104">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="88" column="0" />
-      </file>
       <file name="$USER_HOME$/code/deploymenttool-client/src/pages/about/About.js" timestamp="1531530976776">
         <mark key="[" line="4" column="20" />
         <mark key="]" line="3" column="23" />
@@ -795,8 +788,8 @@
         <mark key="^" line="45" column="61" />
         <mark key="." line="45" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532391455636">
-        <mark key="[" line="0" column="40" />
+      <file name="/Dummy.txt" timestamp="1532392269216">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="41" />
       </file>
@@ -920,13 +913,6 @@
         <mark key="^" line="25" column="46" />
         <mark key="." line="25" column="41" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/src/apis/index.js" timestamp="1532323324929">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="17" column="22" />
-        <mark key="]" line="17" column="22" />
-        <mark key="." line="17" column="31" />
-        <mark key="^" line="21" column="42" />
-      </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/oauth/components/FacebookLoginButton.js" timestamp="1508786180796">
         <mark key="[" line="0" column="96" />
         <mark key="]" line="0" column="129" />
@@ -987,6 +973,7 @@
         <mark key="." line="4" column="51" />
         <mark key="^" line="10" column="56" />
       </file>
+      <file name="/.gitmodules" timestamp="1532392275912" />
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/Content/components/InsertImageWizard.js" timestamp="1507134953345">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="34" />
@@ -1215,11 +1202,11 @@
         <mark key="^" line="39" column="46" />
         <mark key="." line="39" column="46" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/.gitmodules" timestamp="1532379903459">
-        <mark key="[" line="2" column="74" />
-        <mark key="]" line="3" column="17" />
-        <mark key="^" line="3" column="17" />
-        <mark key="." line="3" column="17" />
+      <file name="$USER_HOME$/code/deploymenttool-backend/.gitmodules" timestamp="1532392333558">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="21" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/CheckoutOrderDetails/CheckoutOrderDetails.js" timestamp="1513117010755">
         <mark key="[" line="312" column="0" />
@@ -1788,14 +1775,14 @@
       <jump line="1" column="0" filename="$USER_HOME$/code/deploymenttool-backend/src/apis/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJwcmVidWlsZDpjbGllbnQtcHJvZCI6ICJnaXQgc3VibW9kdWxlIHVwZGF0ZSAtLXJlbW90ZSIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>https://lcline@bitbucket.org</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>3000</text>
+        <text>https://lcline@bitbucket.org</text>
       </register>
       <register name="/" type="4">
         <text>form</text>

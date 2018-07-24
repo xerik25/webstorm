@@ -169,6 +169,12 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
+      <file name="$USER_HOME$/code/deploymenttool-client/bitbucket-pipelines.yml" timestamp="1532468718352">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="6" column="23" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/App/Container.js" timestamp="1507134799605">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="25" />
@@ -783,7 +789,7 @@
         <mark key="^" line="45" column="61" />
         <mark key="." line="45" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532467016947">
+      <file name="/Dummy.txt" timestamp="1532467228924">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1570,7 +1576,7 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/bitbucket-pipelines.yml" timestamp="1532458478256">
+      <file name="$USER_HOME$/code/deploymenttool-backend/bitbucket-pipelines.yml" timestamp="1532468671001">
         <mark key="[" line="17" column="14" />
         <mark key="]" line="17" column="16" />
         <mark key="." line="17" column="16" />
@@ -1764,14 +1770,14 @@
       <jump line="1" column="0" filename="$USER_HOME$/code/deploymenttool-backend/src/apis/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIC0gZG9ja2VyIHB1c2ggJElNQUdFX05BTUUK</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>install</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
@@ -1780,7 +1786,7 @@
         <text encoding="base64">ICAgICAgICAgIC0gbnBtIGluc3RhbGwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogRW1pdHRlciB0eXBlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0gZG9ja2VyIHB1c2ggJElNQUdFX05BTUUK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1792,28 +1798,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gYXB0LWdldCB1cGRhdGUKICAgICAgICAgIC0gYXB0LWdldCAtcXEgaW5zdGFsbCBnaXQtZnRwCiAgICAgICAgICAtIGdpdCBmdHAgJEZUUF90eXBlIC0tdXNlciAkUUFfdXNlcm5hbWUgLS1wYXNzd2QgJFFBX3Bhc3N3b3JkIC12IHNmdHA6Ly8kUUFfaG9zdG5hbWVBbmRQYXRoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICMgcHVzaCB0aGUgbmV3IERvY2tlciBpbWFnZSB0byB0aGUgRG9ja2VyIHJlZ2lzdHJ5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gYXB0LWdldCB1cGRhdGUKICAgICAgICAgIC0gYXB0LWdldCAtcXEgaW5zdGFsbCBnaXQtZnRwCiAgICAgICAgICAtIGdpdCBmdHAgJEZUUF90eXBlIC0tdXNlciAkREVWX3VzZXJuYW1lIC0tcGFzc3dkICRERVZfcGFzc3dvcmQgLXYgc2Z0cDovLyRERVZfaG9zdG5hbWVBbmRQYXRoCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gZG9ja2VyIGxvZ2luIC0tdXNlcm5hbWUgJERPQ0tFUl9IVUJfVVNFUk5BTUUgLS1wYXNzd29yZCAkRE9DS0VSX0hVQl9QQVNTV09SRAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gYXB0LWdldCB1cGRhdGUKICAgICAgICAgIC0gYXB0LWdldCAtcXEgaW5zdGFsbCBnaXQtZnRwCiAgICAgICAgICAtIGdpdCBmdHAgJEZUUF90eXBlIC0tdXNlciAkU1RBR0VfdXNlcm5hbWUgLS1wYXNzd2QgJFNUQUdFX3Bhc3N3b3JkIC12IHNmdHA6Ly8kU1RBR0VfaG9zdG5hbWVBbmRQYXRoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICMgYXV0aGVudGljYXRlIHdpdGggdGhlIERvY2tlciBIdWIgcmVnaXN0cnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lOiBQdXNoIHRoZW1lIHVwZGF0ZXMgdG8gcWEK</text>
+        <text encoding="base64">ICAgICAgICAgIC0gZG9ja2VyIGJ1aWxkIC10ICRJTUFHRV9OQU1FIC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lOiBQdXNoIHRoZW1lIHVwZGF0ZXMgdG8gc3RhZ2UK</text>
+        <text encoding="base64">ICAgICAgICAgICMgYnVpbGQgdGhlIERvY2tlciBpbWFnZSAodGhpcyB3aWxsIHVzZSB0aGUgRG9ja2VyZmlsZSBpbiB0aGUgcm9vdCBvZiB0aGUgcmVwbykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lOiBQdXNoIHRoZW1lIHVwZGF0ZXMgdG8gc3RhZ2UK</text>
+        <text encoding="base64">ICAgICAgICAgICMgYnVpbGQgYW5kIHRlc3QgdGhlIE5vZGUgYXBwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0gZXhwb3J0IElNQUdFX05BTUU9IiR7RE9DS0VSX0hVQl9VU0VSTkFNRX0vJHtCSVRCVUNLRVRfUkVQT19TTFVHfToke0JJVEJVQ0tFVF9CVUlMRF9OVU1CRVJ9Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICMgRG9ja2VyIHZhcmlhYmxlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>92</text>

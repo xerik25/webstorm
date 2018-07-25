@@ -258,11 +258,11 @@
         <mark key="." line="14" column="20" />
         <mark key="^" line="14" column="20" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/package.json" timestamp="1532552694460">
-        <mark key="[" line="13" column="33" />
-        <mark key="]" line="13" column="33" />
-        <mark key="." line="13" column="36" />
-        <mark key="^" line="12" column="22" />
+      <file name="$USER_HOME$/code/deploymenttool-backend/package.json" timestamp="1532556642714">
+        <mark key="[" line="13" column="36" />
+        <mark key="]" line="13" column="41" />
+        <mark key="." line="13" column="41" />
+        <mark key="^" line="13" column="41" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/concessions/UpsellPromo.js" timestamp="1509393795859">
         <mark key="[" line="130" column="25" />
@@ -432,7 +432,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/src/routes/index.js" timestamp="1532542361228">
+      <file name="$USER_HOME$/code/deploymenttool-backend/src/routes/index.js" timestamp="1532555398371">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -514,13 +514,6 @@
         <mark key="]" line="49" column="30" />
         <mark key="." line="49" column="30" />
         <mark key="^" line="49" column="30" />
-      </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/README.md" timestamp="1532470806142">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="3" />
-        <mark key="." line="83" column="3" />
-        <mark key="^" line="83" column="3" />
       </file>
       <file name="$USER_HOME$/code/deploymenttool-client/src/pages/about/About.js" timestamp="1531530976776">
         <mark key="[" line="4" column="20" />
@@ -884,6 +877,9 @@
         <mark key="^" line="4" column="30" />
         <mark key="." line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/code/deploymenttool-backend/app/tests/getUsers.test.js" timestamp="1532556562893">
+        <mark key="[" line="38" column="4" />
+      </file>
       <file name="$USER_HOME$/code/deploymenttool-client/src/components/header/Header.js" timestamp="1532544169701">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="6" />
@@ -919,7 +915,7 @@
         <mark key="^" line="0" column="87" />
         <mark key="." line="0" column="87" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/Dockerfile" timestamp="1532551017251">
+      <file name="$USER_HOME$/code/deploymenttool-backend/Dockerfile" timestamp="1532556866842">
         <mark key="[" line="4" column="9" />
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
@@ -1028,10 +1024,10 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="42" column="15" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/app/tests/missingPageTest.js" timestamp="1532550388167">
+      <file name="$USER_HOME$/code/deploymenttool-backend/app/tests/missingPageTest.js" timestamp="1532556400459">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
-        <mark key="^" line="5" column="23" />
+        <mark key="^" line="4" column="23" />
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieList/components/MovieListSelector.js" timestamp="1507135283720">
@@ -1147,6 +1143,7 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1532554516472" />
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieList/components/MovieLists.js" timestamp="1507135289048">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="34" />
@@ -1435,11 +1432,11 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/index.js" timestamp="1532552742558">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="2" column="31" />
-        <mark key="^" line="1" column="28" />
-        <mark key="." line="2" column="33" />
+      <file name="$USER_HOME$/code/deploymenttool-backend/index.js" timestamp="1532555482253">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="35" column="14" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/UI/MovieRuntimeToolTip.js" timestamp="1511282368327">
         <mark key="[" line="67" column="49" />
@@ -1519,6 +1516,12 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="21" column="53" />
       </file>
+      <file name="$USER_HOME$/code/deploymenttool-backend/tests/getUsers.test.js" timestamp="1532555560341">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="17" />
+        <mark key="^" line="12" column="22" />
+        <mark key="." line="14" column="17" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/graph/src/connectors/LocationsConnector.js" timestamp="1505933400703">
         <mark key="[" line="10" column="28" />
         <mark key="]" line="10" column="30" />
@@ -1573,11 +1576,10 @@
         <mark key="^" line="38" column="87" />
         <mark key="." line="38" column="87" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/app/tests/getUsersTest.js" timestamp="1532551692870">
-        <mark key="[" line="13" column="12" />
-        <mark key="]" line="13" column="14" />
-        <mark key="^" line="13" column="14" />
-        <mark key="." line="13" column="14" />
+      <file name="$USER_HOME$/code/deploymenttool-backend/app/tests/getUsersTest.js" timestamp="1532556302462">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="26" />
+        <mark key="." line="18" column="26" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/ConfirmationFooter.js" timestamp="1509553436591">
         <mark key="[" line="24" column="0" />
@@ -1711,7 +1713,7 @@
         <mark key="^" line="76" column="78" />
         <mark key="." line="134" column="45" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/app/server.js" timestamp="1532550523805">
+      <file name="$USER_HOME$/code/deploymenttool-backend/app/server.js" timestamp="1532556792647">
         <mark key="[" line="13" column="24" />
         <mark key="]" line="13" column="27" />
         <mark key="^" line="13" column="27" />
@@ -1822,13 +1824,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>app</text>
+        <text>src</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>app</text>
+        <text>src</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
@@ -1864,7 +1866,7 @@
         <text encoding="base64">ICBpdCgncmVzcG9uZCB3aXRoIGpzb24gY29udGFpbmluZyBhbiBhcnJheSBvZiA2IHVzZXJzJywgZG9uZSA9PiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhcHAnLCBhcHApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Y29uc3QgZXhwZWN0ID0gcmVxdWlyZSgnY2hhaScpLmV4cGVjdAo=</text>

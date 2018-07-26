@@ -180,7 +180,7 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/bitbucket-pipelines.yml" timestamp="1532470435949">
+      <file name="$USER_HOME$/code/deploymenttool-client/bitbucket-pipelines.yml" timestamp="1532563750427">
         <mark key="[" line="7" column="20" />
         <mark key="]" line="7" column="27" />
         <mark key="^" line="7" column="27" />
@@ -258,10 +258,10 @@
         <mark key="." line="14" column="20" />
         <mark key="^" line="14" column="20" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/package.json" timestamp="1532559561048">
-        <mark key="[" line="12" column="41" />
-        <mark key="]" line="12" column="44" />
-        <mark key="." line="12" column="44" />
+      <file name="$USER_HOME$/code/deploymenttool-backend/package.json" timestamp="1532564042623">
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="14" column="10" />
+        <mark key="." line="14" column="10" />
         <mark key="^" line="12" column="44" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/concessions/UpsellPromo.js" timestamp="1509393795859">
@@ -809,7 +809,7 @@
         <mark key="^" line="45" column="61" />
         <mark key="." line="45" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532559134067">
+      <file name="/Dummy.txt" timestamp="1532563774256">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1619,11 +1619,11 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/bitbucket-pipelines.yml" timestamp="1532559541931">
-        <mark key="[" line="16" column="16" />
-        <mark key="]" line="16" column="16" />
-        <mark key="." line="16" column="16" />
-        <mark key="^" line="16" column="19" />
+      <file name="$USER_HOME$/code/deploymenttool-backend/bitbucket-pipelines.yml" timestamp="1532563761418">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="2" column="17" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/TheatreMedia/components/TheatreMedia.js" timestamp="1515514848336">
         <mark key="[" line="0" column="41" />
@@ -1819,8 +1819,8 @@
       <jump line="17" column="73" filename="$USER_HOME$/code/deploymenttool-backend/src/tests/apiTest.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>watch</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
@@ -1835,7 +1835,7 @@
         <text encoding="base64">ICAgICJ0ZXN0IjogIm1vY2hhICdhcHAvdGVzdHMvKiovKi5qcycgLS13YXRjaCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBUT0RPOiBBZGQgdGVzdGluZyBvbmNlIHdlIGhhdmUgaXQgc2V0dXAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1847,28 +1847,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QWRkaW5nIC5lZGl0b3Jjb25maWcK</text>
+        <text encoding="base64">IyBUT0RPOiBBZGQgdGVzdGluZyBvbmNlIHdlIGhhdmUgaXQgc2V0dXAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">QWRkaW5nIC5lZGl0b3Jjb25maWcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLmVuZChkb25lKQo=</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLmV4cGVjdCg0MDQpCg==</text>
+        <text encoding="base64">ICAgICAgLmVuZChkb25lKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLmdldCgnL2FwaS9pbnZhbGlkRW5kcG9pbnQnKQo=</text>
+        <text encoding="base64">ICAgICAgLmV4cGVjdCg0MDQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN1cGVydGVzdChhcHApCg==</text>
+        <text encoding="base64">ICAgICAgLmdldCgnL2FwaS9pbnZhbGlkRW5kcG9pbnQnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpdCgncmVzcG9uZCB3aXRoIGpzb24gY29udGFpbmluZyBhbiBhcnJheSBvZiA2IHVzZXJzJywgZG9uZSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgIHN1cGVydGVzdChhcHApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpdCgncmVzcG9uZCB3aXRoIGpzb24gY29udGFpbmluZyBhbiBhcnJheSBvZiA2IHVzZXJzJywgZG9uZSA9PiB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>92</text>

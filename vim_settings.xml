@@ -342,11 +342,11 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/app/sockets/emitterTypes.js" timestamp="1532580354260">
-        <mark key="[" line="9" column="48" />
-        <mark key="]" line="9" column="48" />
-        <mark key="^" line="9" column="48" />
-        <mark key="." line="9" column="48" />
+      <file name="$USER_HOME$/code/deploymenttool-backend/app/sockets/emitterTypes.js" timestamp="1532621157749">
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="10" column="13" />
+        <mark key="^" line="10" column="13" />
+        <mark key="." line="10" column="13" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/PaymentInfo/PaymentInfo.js" timestamp="1511803720974">
         <mark key="[" line="128" column="82" />
@@ -946,11 +946,11 @@
         <mark key="^" line="0" column="129" />
         <mark key="." line="0" column="129" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/app/sockets/index.js" timestamp="1532582614855">
-        <mark key="[" line="37" column="26" />
-        <mark key="]" line="37" column="33" />
-        <mark key="." line="37" column="33" />
-        <mark key="^" line="37" column="33" />
+      <file name="$USER_HOME$/code/deploymenttool-backend/app/sockets/index.js" timestamp="1532621167929">
+        <mark key="[" line="38" column="31" />
+        <mark key="]" line="38" column="42" />
+        <mark key="." line="38" column="42" />
+        <mark key="^" line="38" column="42" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieSearch/index.js" timestamp="1507135510491">
         <mark key="[" line="0" column="41" />
@@ -1193,11 +1193,11 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/app/sockets/listenerTypes.js" timestamp="1532580162909">
-        <mark key="[" line="9" column="23" />
-        <mark key="]" line="9" column="23" />
-        <mark key="^" line="9" column="21" />
-        <mark key="." line="9" column="23" />
+      <file name="$USER_HOME$/code/deploymenttool-backend/app/sockets/listenerTypes.js" timestamp="1532621061379">
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="9" column="13" />
+        <mark key="." line="9" column="13" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/movies/components/MovieReviewItem.js" timestamp="1511198564342">
         <mark key="[" line="10" column="49" />
@@ -1847,14 +1847,14 @@
       <jump line="18" column="0" filename="$USER_HOME$/code/deploymenttool-client/src/actions/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCBhcGlUb2tlbiA9ICcwNjNEMTEyRjk5MkIyQThDOTVDODdFQTNCNjkyNzQwNkNBQzUwNTQ0QUQ1NDVCNDQwMzgwNkRCMDNFNTM1NzVBQjBFNEE0QTgnCg==</text>
+      <register name="&quot;" type="4">
+        <text>server_login</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>server_login</text>
       </register>
       <register name="/" type="4">
         <text>form</text>

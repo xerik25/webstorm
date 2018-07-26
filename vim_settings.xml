@@ -946,11 +946,11 @@
         <mark key="^" line="0" column="129" />
         <mark key="." line="0" column="129" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/app/sockets/index.js" timestamp="1532580606512">
-        <mark key="[" line="37" column="45" />
-        <mark key="]" line="37" column="50" />
-        <mark key="." line="37" column="50" />
-        <mark key="^" line="37" column="50" />
+      <file name="$USER_HOME$/code/deploymenttool-backend/app/sockets/index.js" timestamp="1532582614855">
+        <mark key="[" line="37" column="26" />
+        <mark key="]" line="37" column="33" />
+        <mark key="." line="37" column="33" />
+        <mark key="^" line="37" column="33" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieSearch/index.js" timestamp="1507135510491">
         <mark key="[" line="0" column="41" />
@@ -1289,11 +1289,11 @@
         <mark key="." line="655" column="0" />
         <mark key="^" line="652" column="57" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/app/apis/index.js" timestamp="1532581405267">
-        <mark key="[" line="37" column="24" />
-        <mark key="]" line="37" column="59" />
-        <mark key="^" line="37" column="59" />
-        <mark key="." line="37" column="59" />
+      <file name="$USER_HOME$/code/deploymenttool-backend/app/apis/index.js" timestamp="1532582659861">
+        <mark key="[" line="39" column="61" />
+        <mark key="]" line="39" column="61" />
+        <mark key="^" line="39" column="61" />
+        <mark key="." line="39" column="61" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.js" timestamp="1513368690776">
         <mark key="[" line="0" column="4" />
@@ -1847,23 +1847,23 @@
       <jump line="18" column="0" filename="$USER_HOME$/code/deploymenttool-client/src/actions/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>application</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zdCBhcGlUb2tlbiA9ICcwNjNEMTEyRjk5MkIyQThDOTVDODdFQTNCNjkyNzQwNkNBQzUwNTQ0QUQ1NDVCNDQwMzgwNkRCMDNFNTM1NzVBQjBFNEE0QTgnCg==</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>application</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnM6IHsKICAgICAgJ2FwaVRva2VuJzogYXBpVG9rZW4KICAgIH0sCg==</text>
+        <text encoding="base64">ICBjb25zdCBhcGlUb2tlbiA9ICcwNjNEMTEyRjk5MkIyQThDOTVDODdFQTNCNjkyNzQwNkNBQzUwNTQ0QUQ1NDVCNDQwMzgwNkRCMDNFNTM1NzVBQjBFNEE0QTgnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2xhbmRvbicpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1875,28 +1875,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2xhbmRvbicpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJ1Bvc3RtYW4tVG9rZW4nOiAnY2JmY2I5YWUtNzQ4YS00MjE3LWIxMWYtZmMxNmIwYTQ5M2E5Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGpzb246IHRydWUK</text>
+        <text encoding="base64">ICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJ2FwaVRva2VuJzogYXBpVG9rZW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnM6IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBhcGlUb2tlbiA9ICcwNjNEMTEyRjk5MkIyQThDOTVDODdFQTNCNjkyNzQwNkNBQzUwNTQ0QUQ1NDVCNDQwMzgwNkRCMDNFNTM1NzVBQjBFNEE0QTgnCg==</text>
+        <text encoding="base64">ICAgIGpzb246IHRydWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>92</text>

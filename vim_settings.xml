@@ -348,11 +348,11 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/app/sockets/emitterTypes.js" timestamp="1532707733614">
-        <mark key="[" line="11" column="42" />
-        <mark key="]" line="11" column="42" />
-        <mark key="." line="11" column="42" />
-        <mark key="^" line="11" column="42" />
+      <file name="$USER_HOME$/code/deploymenttool-backend/app/sockets/emitterTypes.js" timestamp="1532984685344">
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="12" column="46" />
+        <mark key="." line="12" column="46" />
+        <mark key="^" line="12" column="46" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Checkout/PaymentInfo/PaymentInfo.js" timestamp="1511803720974">
         <mark key="[" line="128" column="82" />
@@ -975,11 +975,12 @@
         <mark key="^" line="0" column="129" />
         <mark key="." line="0" column="129" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/app/sockets/index.js" timestamp="1532707988126">
-        <mark key="[" line="61" column="52" />
-        <mark key="]" line="62" column="49" />
-        <mark key="^" line="62" column="49" />
-        <mark key="." line="62" column="49" />
+      <file name="$USER_HOME$/code/deploymenttool-backend/app/sockets/index.js" timestamp="1532984694827">
+        <mark key="'" line="5" column="17" />
+        <mark key="[" line="62" column="38" />
+        <mark key="]" line="62" column="51" />
+        <mark key="." line="62" column="51" />
+        <mark key="^" line="62" column="51" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieSearch/index.js" timestamp="1507135510491">
         <mark key="[" line="0" column="41" />
@@ -1052,6 +1053,13 @@
         <mark key="]" line="9" column="23" />
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/deploymenttool-backend/src/tests/apiTest.js" timestamp="1532542671803">
+        <mark key="'" line="17" column="73" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="42" column="15" />
       </file>
       <file name="$USER_HOME$/code/deploymenttool-backend/app/tests/missingPageTest.js" timestamp="1532556400459">
         <mark key="[" line="1" column="0" />
@@ -1215,11 +1223,11 @@
         <mark key="." line="3" column="44" />
         <mark key="^" line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/app/sockets/listenerTypes.js" timestamp="1532707673911">
-        <mark key="[" line="10" column="41" />
-        <mark key="]" line="10" column="51" />
-        <mark key="." line="10" column="51" />
-        <mark key="^" line="10" column="51" />
+      <file name="$USER_HOME$/code/deploymenttool-backend/app/sockets/listenerTypes.js" timestamp="1532984334192">
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="10" column="55" />
+        <mark key="." line="10" column="55" />
+        <mark key="^" line="10" column="55" />
       </file>
       <file name="$USER_HOME$/code/deploymenttool-client/src/websockets/listenerTypes.js" timestamp="1532648404749">
         <mark key="[" line="6" column="14" />
@@ -1317,11 +1325,12 @@
         <mark key="." line="655" column="0" />
         <mark key="^" line="652" column="57" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/app/apis/index.js" timestamp="1532708129411">
-        <mark key="[" line="41" column="10" />
-        <mark key="]" line="41" column="14" />
-        <mark key="^" line="41" column="14" />
-        <mark key="." line="41" column="14" />
+      <file name="$USER_HOME$/code/deploymenttool-backend/app/apis/index.js" timestamp="1532984568449">
+        <mark key="'" line="30" column="13" />
+        <mark key="[" line="74" column="17" />
+        <mark key="]" line="75" column="17" />
+        <mark key="^" line="75" column="17" />
+        <mark key="." line="75" column="17" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.js" timestamp="1513368690776">
         <mark key="[" line="0" column="4" />
@@ -1798,9 +1807,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="41" filename="$USER_HOME$/Sites/amc/graph/src/resolvers/queries/account/AccountEvent.js" />
-      <jump line="122" column="49" filename="$USER_HOME$/Sites/amc/graph/src/connectors/ShowtimesConnector.js" />
-      <jump line="13" column="16" filename="$USER_HOME$/Sites/amc/content/test/unit/features/addToCalendar/AddToCalendar.spec.js" />
       <jump line="58" column="12" filename="$USER_HOME$/Sites/amc/content/test/unit/features/addToCalendar/AddToCalendar.spec.js" />
       <jump line="76" column="0" filename="$USER_HOME$/Sites/amc/content/test/unit/features/addToCalendar/AddToCalendar.spec.js" />
       <jump line="6" column="8" filename="$USER_HOME$/Sites/amc/content/test/unit/features/addToCalendar/AddToCalendar.spec.js" />
@@ -1898,16 +1904,19 @@
       <jump line="58" column="0" filename="$USER_HOME$/code/deploymenttool-client/src/pages/messageFields/MessageFields.js" />
       <jump line="16" column="10" filename="$USER_HOME$/code/deploymenttool-client/src/actions/index.js" />
       <jump line="18" column="0" filename="$USER_HOME$/code/deploymenttool-client/src/actions/index.js" />
+      <jump line="25" column="3" filename="$USER_HOME$/code/deploymenttool-backend/app/sockets/index.js" />
+      <jump line="30" column="13" filename="$USER_HOME$/code/deploymenttool-backend/app/apis/index.js" />
+      <jump line="5" column="17" filename="$USER_HOME$/code/deploymenttool-backend/app/sockets/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data</text>
+        <text>MESSAGE_FIELDS</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>MESSAGE_FIELDS</text>
       </register>
       <register name="/" type="4">
         <text>form</text>

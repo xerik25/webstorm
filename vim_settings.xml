@@ -966,12 +966,12 @@
         <mark key="^" line="0" column="129" />
         <mark key="." line="0" column="129" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-backend/app/sockets/index.js" timestamp="1533071140088">
+      <file name="$USER_HOME$/code/deploymenttool-backend/app/sockets/index.js" timestamp="1533081272516">
         <mark key="'" line="6" column="17" />
-        <mark key="[" line="63" column="17" />
-        <mark key="]" line="63" column="20" />
-        <mark key="." line="63" column="20" />
-        <mark key="^" line="63" column="20" />
+        <mark key="[" line="36" column="38" />
+        <mark key="]" line="36" column="38" />
+        <mark key="." line="36" column="38" />
+        <mark key="^" line="40" column="53" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/MovieSearch/index.js" timestamp="1507135510491">
         <mark key="[" line="0" column="41" />
@@ -1902,13 +1902,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>errorCode</text>
+        <text>USERS_</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>errorCode</text>
+        <text>USERS_</text>
       </register>
       <register name="/" type="4">
         <text>form</text>

@@ -192,11 +192,11 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/welcomeDisplay/WelcomeDisplaySetup.js" timestamp="1533151369491">
-        <mark key="[" line="19" column="17" />
-        <mark key="]" line="19" column="23" />
-        <mark key="^" line="19" column="23" />
-        <mark key="." line="19" column="23" />
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/welcomeDisplay/WelcomeDisplaySetup.js" timestamp="1533156975707">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="8" />
+        <mark key="^" line="25" column="21" />
+        <mark key="." line="24" column="8" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/App/Container.js" timestamp="1507134799605">
         <mark key="[" line="0" column="25" />
@@ -810,6 +810,12 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/welcomeDisplay/WelcomeDislpaySetup.test.js" timestamp="1533157002492">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="22" />
+        <mark key="^" line="18" column="22" />
+        <mark key="." line="18" column="22" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/modals/components/PaymentModal.js" timestamp="1511804944417">
         <mark key="[" line="14" column="64" />
         <mark key="]" line="14" column="68" />
@@ -851,7 +857,7 @@
         <mark key="^" line="45" column="61" />
         <mark key="." line="45" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533153198315">
+      <file name="/Dummy.txt" timestamp="1533154818516">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/TheatreMedia/components/dialogs/ImageViewDialog.js" timestamp="1507135660582">
@@ -1398,6 +1404,13 @@
         <mark key="^" line="8" column="42" />
         <mark key="." line="8" column="42" />
       </file>
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/Errors/ErrorBoundary.js" timestamp="1533156077405">
+        <mark key="'" line="4" column="16" />
+        <mark key="[" line="24" column="28" />
+        <mark key="]" line="24" column="28" />
+        <mark key="." line="24" column="28" />
+        <mark key="^" line="24" column="28" />
+      </file>
       <file name="$USER_HOME$/code/deploymenttool-client/src/actions/getUsers.js" timestamp="1532649938812">
         <mark key="[" line="7" column="42" />
         <mark key="]" line="7" column="50" />
@@ -1649,6 +1662,12 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/errors/ErrorBoundary.js" timestamp="1533156538508">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="57" />
+        <mark key="." line="8" column="57" />
+        <mark key="^" line="8" column="57" />
+      </file>
       <file name="$USER_HOME$/code/deploymenttool-client/src/actions/getMessageFields.js" timestamp="1532649888445">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="43" />
@@ -1797,6 +1816,12 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/welcomeDisplay/WelcomeDislpay.test.js" timestamp="1533155804884">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="5" column="24" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/movies/components/TitleHeader/Title.js" timestamp="1513119021570">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="18" />
@@ -1847,7 +1872,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="52" filename="$USER_HOME$/Sites/amc/content/test/unit/features/addToCalendar/AddToCalendar.spec.js" />
       <jump line="60" column="0" filename="$USER_HOME$/Sites/amc/content/test/unit/features/addToCalendar/AddToCalendar.spec.js" />
       <jump line="31" column="0" filename="$USER_HOME$/Sites/amc/content/test/unit/features/addToCalendar/AddToCalendar.spec.js" />
       <jump line="57" column="12" filename="$USER_HOME$/Sites/amc/content/test/unit/features/addToCalendar/AddToCalendar.spec.js" />
@@ -1947,16 +1971,17 @@
       <jump line="23" column="0" filename="$USER_HOME$/code/deploymenttool-client/src/components/welcomeDisplay/index.js" />
       <jump line="14" column="6" filename="$USER_HOME$/code/deploymenttool-client/src/components/welcomeDisplay/WelcomeDisplayStyle.js" />
       <jump line="29" column="0" filename="$USER_HOME$/code/deploymenttool-client/src/components/wrappedFormFields/reduxFormPropTypes.js" />
+      <jump line="2" column="16" filename="$USER_HOME$/code/deploymenttool-client/src/components/Errors/ErrorBoundary.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>secondary</text>
+        <text>YourReduxFormComponent</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>secondary</text>
+        <text>YourReduxFormComponent</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
@@ -1965,7 +1990,7 @@
         <text encoding="base64">ICAgICAgICAgIDxCdXR0b24gY29sb3I9J2luaGVyaXQnPgogICAgICAgICAgICA8TGluayB0bz0nL2V4YW1wbGVzJyBzdHlsZT17eyBjb2xvcjogJ3doaXRlJyB9fT5XZWJTb2NrZXQgRXhhbXBsZXM8L0xpbms+CiAgICAgICAgICA8L0J1dHRvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb2xvcj17Y29sb3J9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1977,42 +2002,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZmllbGRJbnB1dFByb3BUeXBlIH0gZnJvbSAnLi9yZWR1eEZvcm1Qcm9wVHlwZXMnCg==</text>
+        <text encoding="base64">Ly9NYWtlIHlvdXIgb3duIHRlc3RzIGxpa2UgYWJvdmUgdG8gdGVzdCB0aGUgdmFsdWVzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IFN3aXRjaCBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9Td2l0Y2gnCg==</text>
+        <text encoding="base64">aW1wb3J0IFlvdXJSZWR1eEZvcm1Db21wb25lbnQgZnJvbSAncGF0aCB3aGVyZSBpdCBzaXR0aW5nIGluIHlvdXIgcHJvamVjdCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IEZvcm1Db250cm9sTGFiZWwgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvRm9ybUNvbnRyb2xMYWJlbCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JwppbXBvcnQgcmVuZGVyZXIgZnJvbSAncmVhY3QtdGVzdC1yZW5kZXJlcicKCgp0ZXN0KCdSZW5kZXJzIHRoZSBXZWxjb21lRGlzcGxheVNldHVwIGNvbXBvbmVudCcsICgpID0+IHsKICBjb25zdCBjb21wb25lbnQgPSByZW5kZXJlci5jcmVhdGUoCiAgICA8V2VsY29tZURpc3BsYXlTZXR1cCAvPgogICkKICBsZXQgdHJlZSA9IGNvbXBvbmVudC50b0pTT04oKQogIGV4cGVjdCh0cmVlKS50b01hdGNoU25hcHNob3QoKQp9KQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dj4K</text>
+        <text encoding="base64">aW1wb3J0IFdlbGNvbWVEaXNwbGF5U2V0dXAgZnJvbSAnLi9XZWxjb21lRGlzcGxheVNldHVwJwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>import React, { Component } from 'react'
-import PropTypes from 'prop-types'
-
-class Testing extends Component {
-  constructor (props) {
-    super(props)
-  }
-
-  state = {}
-
-  static propTypes = {}
-
-  render () {
-    return (
-      i</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdMYW5kb24nLCBlcnJvciwgaW5mbykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8vIFlvdSBjYW4gYWxzbyBsb2cgdGhlIGVycm9yIHRvIGFuIGVycm9yIHJlcG9ydGluZyBzZXJ2aWNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgTWVtb3J5Um91dGVyIH0gZnJvbSAncmVhY3Qtcm91dGVyLWRvbScK</text>
       </register>
       <register name=":" type="4">
         <text>92</text>

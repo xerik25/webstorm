@@ -192,6 +192,12 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/welcomeDisplay/WelcomeDisplaySetup.js" timestamp="1533147547654">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="6" column="36" />
+        <mark key="^" line="6" column="36" />
+        <mark key="." line="6" column="36" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/App/Container.js" timestamp="1507134799605">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="25" />
@@ -227,6 +233,12 @@
         <mark key="]" line="64" column="0" />
         <mark key="^" line="71" column="17" />
         <mark key="." line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/welcomeDisplay/FormSwitch.js" timestamp="1533147872000">
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="25" column="24" />
+        <mark key="^" line="25" column="24" />
+        <mark key="." line="25" column="24" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/my-amc/components/Wallet/AddDisneyRewardsCard.js" timestamp="1507231625961">
         <mark key="[" line="44" column="48" />
@@ -780,7 +792,7 @@
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/wrappedFormFields/TextField.js" timestamp="1533079204333">
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/wrappedFormFields/TextField.js" timestamp="1533147861279">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="3" column="12" />
         <mark key="^" line="3" column="12" />
@@ -1713,12 +1725,12 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/welcomeDisplay/index.js" timestamp="1533145862376">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="0" column="34" />
-        <mark key="]" line="1" column="36" />
-        <mark key="^" line="1" column="36" />
-        <mark key="." line="1" column="36" />
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/welcomeDisplay/index.js" timestamp="1533146599742">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+        <mark key="^" line="13" column="26" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/order-details/Item/ItemDescription.js" timestamp="1512681229555">
         <mark key="[" line="5" column="46" />
@@ -1915,13 +1927,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ux</text>
+        <text>,</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>ux</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
@@ -1942,28 +1954,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cgo=</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc2RmCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">TXlDb21wb25lbnQucHJvcFR5cGVzID0ge30K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICByZXR1cm4gKAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc3QgRm9ybVN3aXRjaCA9ICgpID0+IHsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZWRpdFRlbXBsYXRlQnlJZCcsIHJlcXVlc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxhYmVsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZXJyb3JSZXNwb25zZSA9IGJ1aWxkRXJyb3JSZXNwb25zZShsaXN0ZW5lclR5cGVzLkNMSUVOVF9HRVRfVEVNUExBVEVfQllfSUQsIHJlc3BvbnNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>92</text>

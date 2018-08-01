@@ -552,11 +552,11 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/App.js" timestamp="1532644449857">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="7" column="35" />
+      <file name="$USER_HOME$/code/deploymenttool-client/src/App.js" timestamp="1533143872914">
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="11" column="36" />
         <mark key="^" line="7" column="33" />
-        <mark key="." line="7" column="35" />
+        <mark key="." line="11" column="36" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/movies/components/MoviePromotions.js" timestamp="1510002800268">
         <mark key="[" line="10" column="0" />
@@ -1901,14 +1901,14 @@
       <jump line="5" column="17" filename="$USER_HOME$/code/deploymenttool-backend/app/sockets/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZWRpdFRlbXBsYXRlQnlJZCcsIHJlcXVlc3QpCg==</text>
+      <register name="&quot;" type="4">
+        <text>/Home</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>, errorResponse</text>
+        <text>/Home</text>
       </register>
       <register name="/" type="4">
         <text>form</text>

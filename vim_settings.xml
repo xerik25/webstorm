@@ -24,11 +24,11 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/websockets/init.js" timestamp="1533136339656">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="22" />
-        <mark key="." line="6" column="22" />
-        <mark key="^" line="6" column="22" />
+      <file name="$USER_HOME$/code/deploymenttool-client/src/websockets/init.js" timestamp="1533229031305">
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/summary/DateSummaryContainer.js" timestamp="1511369084351">
         <mark key="[" line="90" column="20" />
@@ -2009,7 +2009,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFR5cG9ncmFwaHkgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvVHlwb2dyYXBoeScK</text>
+        <text encoding="base64">Y29uc3Qgc29ja2V0ID0gaW8odXJpKQo=</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
@@ -2024,7 +2024,7 @@
         <text encoding="base64">aW1wb3J0IFR5cG9ncmFwaHkgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvVHlwb2dyYXBoeScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPFR5cG9ncmFwaHkgdmFyaWFudD0nZGlzcGxheTEnIGNvbXBvbmVudD0naDEnIGd1dHRlckJvdHRvbT4KICAgICAgICBXZWxjb21lRGlzcGxheQogICAgICA8L1R5cG9ncmFwaHk+Cg==</text>
+        <text encoding="base64">Y29uc3Qgc29ja2V0ID0gaW8odXJpKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2036,28 +2036,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPFR5cG9ncmFwaHkgdmFyaWFudD0naGVhZGxpbmUnIGNvbXBvbmVudD0naDInIGd1dHRlckJvdHRvbT4KICAgICAgICBTZXR1cAogICAgICA8L1R5cG9ncmFwaHk+Cg==</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPFR5cG9ncmFwaHkgdmFyaWFudD0nZGlzcGxheTEnIGNvbXBvbmVudD0naDEnIGd1dHRlckJvdHRvbT4KICAgICAgICBXZWxjb21lRGlzcGxheQogICAgICA8L1R5cG9ncmFwaHk+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgc3R5bGVzID0gdGhlbWUgPT4gKHsKfSkKCg==</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBidXR0b246IHsKICAgIG1hcmdpbjogdGhlbWUuc3BhY2luZy51bml0CiAgfSwKICBmaWVsZENvbnRhaW5lcjogewogICAgZGlzcGxheTogJ2ZsZXgnLAogICAganVzdGlmeUNvbnRlbnQ6ICdzcGFjZS1iZXR3ZWVuJwogIH0sCiAgZmllbGQ6IHsKICAgIG1hcmdpbjogdGhlbWUuc3BhY2luZy51bml0CiAgfSwKICByaWdodEljb246IHsKICAgIG1hcmdpbkxlZnQ6IHRoZW1lLnNwYWNpbmcudW5pdAogIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgPFR5cG9ncmFwaHkgdmFyaWFudD0naGVhZGxpbmUnIGNvbXBvbmVudD0naDInIGd1dHRlckJvdHRvbT4KICAgICAgICBTZXR1cAogICAgICA8L1R5cG9ncmFwaHk+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgID0gcHJvcHMgPT4gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>92</text>

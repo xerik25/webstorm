@@ -66,7 +66,7 @@
         <mark key="." line="9" column="5" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/ProductDeployments.js" timestamp="1533240013943">
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/ProductDeployments.js" timestamp="1533242081089">
         <mark key="[" line="5" column="16" />
         <mark key="]" line="5" column="16" />
         <mark key="." line="5" column="16" />
@@ -1514,11 +1514,11 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="149" column="126" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/wrappedFormFields/Checkbox.js" timestamp="1533241178614">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="8" />
-        <mark key="^" line="18" column="37" />
-        <mark key="." line="28" column="8" />
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/wrappedFormFields/Checkbox.js" timestamp="1533243730100">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="23" />
+        <mark key="." line="29" column="23" />
+        <mark key="^" line="29" column="23" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/showtimes/components/TicketSelection.js" timestamp="1508263370378">
         <mark key="[" line="110" column="21" />
@@ -2027,14 +2027,14 @@
       <jump line="61" column="0" filename="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/ContentManager.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVDaGFuZ2UoJ2NoZWNrZWQnKX0K</text>
+      <register name="&quot;" type="4">
+        <text>{input.value}</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>'Secondary'</text>
+        <text>{input.value}</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
@@ -2043,7 +2043,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVDaGFuZ2UoJ2NoZWNrZWQnKX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVDaGFuZ2UoJ2NoZWNrZWQnKX0K</text>
+        <text encoding="base64">ICAgICAgICAgIG9uQ2hhbmdlPXsoLi4uYXJncykgPT4geyBpbnB1dC5vbkNoYW5nZSguLi5hcmdzKTsgdGhpcy5oYW5kbGVDaGFuZ2UoJ2NoZWNrZWQnKSB9fQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2055,28 +2055,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZUNoYW5nZSgnY2hlY2tlZCcpfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0KICAgICAgICAgIGxhYmVsPXtsYWJlbH0K</text>
+        <text encoding="base64">ICAgICAgICAgIGNoZWNrZWQ9e3RoaXMuc3RhdGUuY2hlY2tlZH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8Rm9ybUNvbnRyb2xMYWJlbAogICAgICAgICAgY29udHJvbD17Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZUNoYW5nZSgnY2hlY2tlZCcpfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVDaGFuZ2UoJ2NoZWNrZWQnKX0K</text>
+        <text encoding="base64">ICAgICAgICAgIHsuLi5jdXN0b219Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8Q2hlY2tib3gKICAgICAgICAgIGNoZWNrZWQ9e3RoaXMuc3RhdGUuY2hlY2tlZH0KICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZUNoYW5nZSgnY2hlY2tlZCcpfQogICAgICAgICAgdmFsdWU9J2NoZWNrZWQnCiAgICAgICAgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgIHsuLi5pbnB1dH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZUNoYW5nZSgnY2hlY2tlZCcpfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YWx1ZT0iY2hlY2tlZEEiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVDaGFuZ2UoJ2NoZWNrZWQnKX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVDaGFuZ2UoJ2NoZWNrZWRBJyl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>92</text>

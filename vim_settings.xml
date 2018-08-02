@@ -66,11 +66,11 @@
         <mark key="." line="9" column="5" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/ProductDeployments.js" timestamp="1533236742524">
-        <mark key="[" line="23" column="51" />
-        <mark key="]" line="23" column="51" />
-        <mark key="^" line="23" column="51" />
-        <mark key="." line="23" column="51" />
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/ProductDeployments.js" timestamp="1533240013943">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+        <mark key="^" line="5" column="52" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/Loading.js" timestamp="1507134349337">
         <mark key="[" line="0" column="12" />
@@ -872,7 +872,7 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/wrappedFormFields/FormSwitch.js" timestamp="1533166605583">
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/wrappedFormFields/FormSwitch.js" timestamp="1533239103413">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
@@ -1514,6 +1514,12 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="149" column="126" />
       </file>
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/wrappedFormFields/Checkbox.js" timestamp="1533241178614">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="8" />
+        <mark key="^" line="18" column="37" />
+        <mark key="." line="28" column="8" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/showtimes/components/TicketSelection.js" timestamp="1508263370378">
         <mark key="[" line="110" column="21" />
         <mark key="]" line="110" column="25" />
@@ -1568,7 +1574,6 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/wrappedFormFields/__snapshots__/FormSwitch.test.js.snap" timestamp="1533168162073" />
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/Pagination/shapes.js" timestamp="1507134738704">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -2022,23 +2027,23 @@
       <jump line="61" column="0" filename="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/ContentManager.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s from</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVDaGFuZ2UoJ2NoZWNrZWQnKX0K</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>s from</text>
+        <text>'Secondary'</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPENvbnRlbnRNYW5hZ2VyIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVDaGFuZ2UoJ2NoZWNrZWQnKX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVDaGFuZ2UoJ2NoZWNrZWQnKX0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2050,28 +2055,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0KICAgICAgICAgIGxhYmVsPXtsYWJlbH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPENvbnRlbnQK</text>
+        <text encoding="base64">ICAgICAgICA8Rm9ybUNvbnRyb2xMYWJlbAogICAgICAgICAgY29udHJvbD17Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPENsaWVudEluZm9ybWF0aW9uIC8+CiAgICAgIDxDb250ZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVDaGFuZ2UoJ2NoZWNrZWQnKX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Q2hlY2tib3gKICAgICAgICAgIGNoZWNrZWQ9e3RoaXMuc3RhdGUuY2hlY2tlZH0KICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZUNoYW5nZSgnY2hlY2tlZCcpfQogICAgICAgICAgdmFsdWU9J2NoZWNrZWQnCiAgICAgICAgLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3Qgc29ja2V0ID0gaW8odXJpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2YWx1ZT0iY2hlY2tlZEEiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVDaGFuZ2UoJ2NoZWNrZWRBJyl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>92</text>

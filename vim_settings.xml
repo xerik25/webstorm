@@ -402,6 +402,9 @@
         <mark key="^" line="84" column="57" />
         <mark key="." line="67" column="0" />
       </file>
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/welcomeDisplay/WelcomeDisplayRooms.js" timestamp="1533174969307">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/core/components/Header/HeaderMeta.js" timestamp="1512679898932">
         <mark key="[" line="15" column="36" />
         <mark key="]" line="15" column="36" />
@@ -870,8 +873,10 @@
         <mark key="^" line="45" column="61" />
         <mark key="." line="45" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533166939654">
+      <file name="/Dummy.txt" timestamp="1533168515803">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/TheatreMedia/components/dialogs/ImageViewDialog.js" timestamp="1507135660582">
         <mark key="[" line="0" column="41" />
@@ -1972,13 +1977,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SelectField</text>
+        <text>div</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>SelectField</text>
+        <text>div</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
@@ -1987,7 +1992,7 @@
         <text encoding="base64">Y29uc3QgZm9ybUZpZWxkVmFsdWVzID0geyBzZWxlY3RNZW51SXRlbXMsIGlucHV0OiB7IG5hbWU6ICd0ZXN0JyB9IH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gY29uc3QgZm9ybUZpZWxkVmFsdWVzID0geyBzZWxlY3RNZW51SXRlbXMsIGlucHV0OiB7IG5hbWU6ICd0ZXN0JyB9IH0K</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvciAocHJvcHMpIHsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1999,28 +2004,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGFzcyBNeUNvbXBvbmVudCBleHRlbmRzIENvbXBvbmVudCB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3Qgc2VsZWN0TWVudUl0ZW1zID0gWwogIHsKICAgIHZhbHVlOiAxMCwKICAgIHRleHQ6ICdUZW4nCiAgfSwKICB7CiAgICB2YWx1ZTogMjAsCiAgICB0ZXh0OiAnVHdlbnR5JwogIH0sCiAgewogICAgdmFsdWU6IDMwLAogICAgdGV4dDogJ1RoaXJ0eScKICB9Cl0K</text>
+        <text encoding="base64">Q3JlYXRlZCByZWR1eC1mb3JtIHdyYXBwZWQgRm9ybVN3aXRjaC4K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Ly8gY29uc3QgZm9ybUZpZWxkVmFsdWVzID0geyBzZWxlY3RNZW51SXRlbXMsIGlucHV0OiB7IG5hbWU6ICd0ZXN0JyB9IH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdlcnJvckJvdW5kYXJ5JywgZXJyb3IsIGluZm8pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3RNZW51SXRlbXM9e3NlbGVjdE1lbnVJdGVtc30K</text>
+        <text encoding="base64">Y29uc3Qgc2VsZWN0TWVudUl0ZW1zID0gWwogIHsKICAgIHZhbHVlOiAxMCwKICAgIHRleHQ6ICdUZW4nCiAgfSwKICB7CiAgICB2YWx1ZTogMjAsCiAgICB0ZXh0OiAnVHdlbnR5JwogIH0sCiAgewogICAgdmFsdWU6IDMwLAogICAgdGV4dDogJ1RoaXJ0eScKICB9Cl0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdGb3JtU3dpdGNoJywgdGhpcy5wcm9wcykK</text>
+        <text encoding="base64">Ly8gY29uc3QgZm9ybUZpZWxkVmFsdWVzID0geyBzZWxlY3RNZW51SXRlbXMsIGlucHV0OiB7IG5hbWU6ICd0ZXN0JyB9IH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdTZWxlY3RGaWVsZFByb3BzJywgdGhpcy5wcm9wcykK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdlcnJvckJvdW5kYXJ5JywgZXJyb3IsIGluZm8pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPE1lbnVJdGVtIHZhbHVlPScnPgogICAgICAgICAgICAgIDxlbT5Ob25lPC9lbT4KICAgICAgICAgICAgPC9NZW51SXRlbT4K</text>
+        <text encoding="base64">ICAgICAgICBzZWxlY3RNZW51SXRlbXM9e3NlbGVjdE1lbnVJdGVtc30K</text>
       </register>
       <register name=":" type="4">
         <text>92</text>

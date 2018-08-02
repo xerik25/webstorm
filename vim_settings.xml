@@ -66,11 +66,11 @@
         <mark key="." line="9" column="5" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/ProductDeployments.js" timestamp="1533245503694">
-        <mark key="[" line="25" column="33" />
-        <mark key="]" line="26" column="21" />
-        <mark key="." line="26" column="21" />
-        <mark key="^" line="26" column="21" />
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/ProductDeployments.js" timestamp="1533246787429">
+        <mark key="[" line="40" column="17" />
+        <mark key="]" line="40" column="21" />
+        <mark key="." line="40" column="21" />
+        <mark key="^" line="40" column="21" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/Loading.js" timestamp="1507134349337">
         <mark key="[" line="0" column="12" />
@@ -2024,23 +2024,23 @@
       <jump line="61" column="0" filename="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/ContentManager.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnY3VzdG9tJywgcHJvcHMuY3VzdG9tKQo=</text>
+      <register name="&quot;" type="4">
+        <text>Welcome Display</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>, fieldMetaPropType</text>
+        <text>Welcome Display</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVDaGFuZ2UoJ2NoZWNrZWQnKX0K</text>
+        <text encoding="base64">ICAgICAgICA8RmllbGQKICAgICAgICAgIGNvbXBvbmVudD17Q2hlY2tib3h9CiAgICAgICAgICBuYW1lPSd3ZWxjb21lRGlzcGxheUNoZWNrYm94JwogICAgICAgICAgbGFiZWw9J1dlbGNvbWUgRGlzcGxheScKICAgICAgICAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnY3VzdG9tJywgcHJvcHMuY3VzdG9tKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRlc2V0PSdhc2RmJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2052,28 +2052,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjdXN0b20nLCB0aGlzLnByb3BzLmN1c3RvbSkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnY3VzdG9tJywgcHJvcHMuY3VzdG9tKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjdXN0b20nLCB0aGlzLnByb3BzLmN1c3RvbSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtZXRhOiBmaWVsZE1ldGFQcm9wVHlwZQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjdXN0b20nLCB0aGlzLnByb3BzLmN1c3RvbSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb2xvcjogUHJvcFR5cGVzLnN0cmluZywK</text>
+        <text encoding="base64">ICBtZXRhOiBmaWVsZE1ldGFQcm9wVHlwZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb2xvcjogUHJvcFR5cGVzLnN0cmluZywK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>92</text>

@@ -192,11 +192,6 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/footer/Footer.js" timestamp="1533183913768">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/Status/components/StatusIcon.js" timestamp="1507135581368">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="1" column="34" />
@@ -209,12 +204,11 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/welcomeDisplay/WelcomeDisplaySetup.js" timestamp="1533227425876">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="53" />
-        <mark key="^" line="17" column="10" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/welcomeDisplay/WelcomeDisplaySetup.js" timestamp="1533250374751">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/App/Container.js" timestamp="1507134799605">
         <mark key="[" line="0" column="25" />
@@ -419,7 +413,7 @@
         <mark key="^" line="84" column="57" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/welcomeDisplay/WelcomeDisplayRooms.js" timestamp="1533187399822">
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/welcomeDisplay/WelcomeDisplayRooms.js" timestamp="1533249700263">
         <mark key="'" line="13" column="24" />
         <mark key="[" line="18" column="14" />
         <mark key="]" line="18" column="15" />
@@ -739,6 +733,12 @@
         <mark key="." line="73" column="19" />
         <mark key="^" line="73" column="19" />
       </file>
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/SchedulingIntergration.js" timestamp="1533252109824">
+        <mark key="[" line="75" column="41" />
+        <mark key="]" line="75" column="49" />
+        <mark key="^" line="75" column="49" />
+        <mark key="." line="75" column="49" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/deprecated/MyAMC/WalletCards/Card.js" timestamp="1512687012289">
         <mark key="[" line="166" column="118" />
         <mark key="]" line="166" column="118" />
@@ -871,10 +871,12 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/wrappedFormFields/FormSwitch.js" timestamp="1533245873121">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/wrappedFormFields/FormSwitch.js" timestamp="1533248367161">
+        <mark key="'" line="2" column="16" />
+        <mark key="[" line="16" column="9" />
+        <mark key="]" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+        <mark key="^" line="16" column="13" />
       </file>
       <file name="$USER_HOME$/code/react-express-docker-boilerplate/.babelrc" timestamp="1531259035519">
         <mark key="[" line="1" column="29" />
@@ -900,7 +902,7 @@
         <mark key="^" line="45" column="61" />
         <mark key="." line="45" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533168515803">
+      <file name="/Dummy.txt" timestamp="1533247966234">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -965,12 +967,12 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/ContentManager.js" timestamp="1533236660740">
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/ContentManager.js" timestamp="1533252126746">
         <mark key="'" line="61" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="53" />
-        <mark key="." line="6" column="44" />
-        <mark key="^" line="6" column="44" />
+        <mark key="[" line="52" column="41" />
+        <mark key="]" line="52" column="49" />
+        <mark key="." line="52" column="49" />
+        <mark key="^" line="52" column="49" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/utils/sanitizeQuery.js" timestamp="1513616978667">
         <mark key="[" line="1" column="12" />
@@ -1013,6 +1015,12 @@
         <mark key="]" line="1" column="25" />
         <mark key="^" line="3" column="12" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/wrappedFormFields/Checkbox.test.js" timestamp="1533248782679">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="13" column="18" />
+        <mark key="." line="13" column="18" />
+        <mark key="^" line="7" column="14" />
       </file>
       <file name="$USER_HOME$/Sites/amc/payment/src/shared/components/CheckoutPromo/PremierePromo.js" timestamp="1511807636565">
         <mark key="[" line="0" column="66" />
@@ -1416,6 +1424,12 @@
         <mark key="." line="5" column="30" />
         <mark key="^" line="5" column="30" />
       </file>
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/wrappedFormFields/RadioButtons.js" timestamp="1533252067654">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="44" column="27" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/AttributeDisplay/routes/getAttributeDisplayList.js" timestamp="1507757916859">
         <mark key="[" line="4" column="62" />
         <mark key="]" line="4" column="64" />
@@ -1458,11 +1472,6 @@
         <mark key="]" line="1" column="34" />
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
-      </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/welcomeDisplay/WelcomeDisplayStyle.js" timestamp="1533150365924">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/Media/components/Media.js" timestamp="1507135252706">
         <mark key="[" line="0" column="41" />
@@ -1512,10 +1521,11 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="149" column="126" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/wrappedFormFields/Checkbox.js" timestamp="1533245882437">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/wrappedFormFields/Checkbox.js" timestamp="1533250838225">
+        <mark key="[" line="15" column="14" />
+        <mark key="]" line="15" column="12" />
+        <mark key="." line="15" column="12" />
+        <mark key="^" line="15" column="12" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/showtimes/components/TicketSelection.js" timestamp="1508263370378">
         <mark key="[" line="110" column="21" />
@@ -1738,11 +1748,11 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/index.js" timestamp="1533236728756">
-        <mark key="[" line="23" column="24" />
-        <mark key="]" line="23" column="24" />
-        <mark key="." line="23" column="24" />
-        <mark key="^" line="23" column="24" />
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/index.js" timestamp="1533252030803">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="15" />
+        <mark key="." line="29" column="15" />
+        <mark key="^" line="29" column="15" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/MyAMC/WalletCards/AddGiftCard.js" timestamp="1511804208777">
         <mark key="[" line="38" column="82" />
@@ -1922,7 +1932,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/amc/graph/test/utils/getTtl.spec.js" />
       <jump line="84" column="0" filename="$USER_HOME$/Sites/amc/graph/test/utils/getTtl.spec.js" />
       <jump line="18" column="0" filename="$USER_HOME$/Sites/amc/graph/test/utils/getTtl.spec.js" />
       <jump line="8" column="30" filename="$USER_HOME$/Sites/amc/content/src/features/wifi/components/LoginForm.js" />
@@ -2022,25 +2031,26 @@
       <jump line="6" column="44" filename="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/ContentManager.js" />
       <jump line="56" column="0" filename="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/ContentManager.js" />
       <jump line="61" column="0" filename="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/ContentManager.js" />
+      <jump line="2" column="16" filename="$USER_HOME$/code/deploymenttool-client/src/components/wrappedFormFields/FormSwitch.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Welcome Display</text>
+        <text>primary</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>Welcome Display</text>
+        <text>primary</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8RmllbGQKICAgICAgICAgIGNvbXBvbmVudD17Q2hlY2tib3h9CiAgICAgICAgICBuYW1lPSd3ZWxjb21lRGlzcGxheUNoZWNrYm94JwogICAgICAgICAgbGFiZWw9J1dlbGNvbWUgRGlzcGxheScKICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgICAgPERpdmlkZXIgc3R5bGU9e3sgbWFyZ2luOiAnMjBweCBhdXRvJyB9fSAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRlc2V0PSdhc2RmJwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZUNoYW5nZX0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2052,28 +2062,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnY3VzdG9tJywgcHJvcHMuY3VzdG9tKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIHZhbHVlPXt0aGlzLnN0YXRlLnZhbHVlfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjdXN0b20nLCB0aGlzLnByb3BzLmN1c3RvbSkK</text>
+        <text encoding="base64">ICAgICAgPC9UeXBvZ3JhcGh5Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjdXN0b20nLCB0aGlzLnByb3BzLmN1c3RvbSkK</text>
+        <text encoding="base64">ICAgICAgICBCcmllZmluZyBTeXN0ZW0gVG9vbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBtZXRhOiBmaWVsZE1ldGFQcm9wVHlwZQo=</text>
+        <text encoding="base64">ICAgICAgPFR5cG9ncmFwaHkgdmFyaWFudD0ndGl0bGUnIGNvbXBvbmVudD0naDMnPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb2xvcjogUHJvcFR5cGVzLnN0cmluZywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlPSdjaGVja2VkJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPFJhZGlvQnV0dG9ucwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxGb3JtQ29udHJvbExhYmVsIHZhbHVlPSdmZW1hbGUnIGNvbnRyb2w9ezxSYWRpbyAvPn0gbGFiZWw9J0ZlbWFsZScgLz4K</text>
       </register>
       <register name=":" type="4">
         <text>92</text>

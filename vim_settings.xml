@@ -66,12 +66,6 @@
         <mark key="." line="9" column="5" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/ProductDeployments.js" timestamp="1533246787429">
-        <mark key="[" line="40" column="17" />
-        <mark key="]" line="40" column="21" />
-        <mark key="." line="40" column="21" />
-        <mark key="^" line="40" column="21" />
-      </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/Loading.js" timestamp="1507134349337">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
@@ -258,7 +252,7 @@
         <mark key="^" line="92" column="1" />
         <mark key="." line="44" column="48" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/wrappedFormFields/SelectField.js" timestamp="1533245865888">
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/wrappedFormFields/SelectField.js" timestamp="1533253959208">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
@@ -733,11 +727,11 @@
         <mark key="." line="73" column="19" />
         <mark key="^" line="73" column="19" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/SchedulingIntergration.js" timestamp="1533252109824">
-        <mark key="[" line="75" column="41" />
-        <mark key="]" line="75" column="49" />
-        <mark key="^" line="75" column="49" />
-        <mark key="." line="75" column="49" />
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/SchedulingIntergration.js" timestamp="1533252195448">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/deprecated/MyAMC/WalletCards/Card.js" timestamp="1512687012289">
         <mark key="[" line="166" column="118" />
@@ -967,12 +961,8 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/ContentManager.js" timestamp="1533252126746">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="52" column="41" />
-        <mark key="]" line="52" column="49" />
-        <mark key="." line="52" column="49" />
-        <mark key="^" line="52" column="49" />
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/ContentManager.js" timestamp="1533252255692">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/utils/sanitizeQuery.js" timestamp="1513616978667">
         <mark key="[" line="1" column="12" />
@@ -1424,11 +1414,11 @@
         <mark key="." line="5" column="30" />
         <mark key="^" line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/wrappedFormFields/RadioButtons.js" timestamp="1533252067654">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="44" column="27" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/wrappedFormFields/RadioButtons.js" timestamp="1533253983868">
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="25" />
+        <mark key="^" line="24" column="25" />
+        <mark key="." line="24" column="25" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/AttributeDisplay/routes/getAttributeDisplayList.js" timestamp="1507757916859">
         <mark key="[" line="4" column="62" />
@@ -1761,11 +1751,9 @@
         <mark key="." line="38" column="87" />
       </file>
       <file name="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/ClientInformation.js" timestamp="1533236339702">
-        <mark key="'" line="51" column="0" />
+        <mark key="'" line="9" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
-        <mark key="^" line="41" column="20" />
-        <mark key="." line="42" column="27" />
       </file>
       <file name="$USER_HOME$/code/deploymenttool-client/src/containers/example.test.js" timestamp="1532639478453">
         <mark key="[" line="4" column="22" />
@@ -2035,13 +2023,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>primary</text>
+        <text>text</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>primary</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
         <text>form</text>

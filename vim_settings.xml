@@ -306,6 +306,12 @@
         <mark key="^" line="12" column="44" />
       </file>
       <file name="$USER_HOME$/code/deploymenttool-server/app/server.js" timestamp="1533314803444" />
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/header/NavDrawer.js" timestamp="1533340203745">
+        <mark key="[" line="27" column="21" />
+        <mark key="]" line="27" column="26" />
+        <mark key="." line="27" column="26" />
+        <mark key="^" line="27" column="26" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/concessions/UpsellPromo.js" timestamp="1509393795859">
         <mark key="[" line="130" column="25" />
         <mark key="]" line="130" column="30" />
@@ -601,11 +607,10 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/App.js" timestamp="1533327289643">
-        <mark key="[" line="44" column="59" />
-        <mark key="]" line="44" column="74" />
-        <mark key="." line="44" column="74" />
-        <mark key="^" line="44" column="74" />
+      <file name="$USER_HOME$/code/deploymenttool-client/src/App.js" timestamp="1533338135869">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/movies/components/MoviePromotions.js" timestamp="1510002800268">
         <mark key="[" line="10" column="0" />
@@ -983,11 +988,11 @@
         <mark key="^" line="4" column="30" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/header/Header.js" timestamp="1533327321159">
-        <mark key="[" line="33" column="68" />
-        <mark key="]" line="33" column="84" />
-        <mark key="." line="33" column="84" />
-        <mark key="^" line="33" column="84" />
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/header/Header.js" timestamp="1533338343548">
+        <mark key="[" line="51" column="26" />
+        <mark key="]" line="51" column="39" />
+        <mark key="." line="51" column="39" />
+        <mark key="^" line="51" column="39" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/LoginForm.js" timestamp="1515788477810">
         <mark key="[" line="0" column="25" />
@@ -1037,12 +1042,7 @@
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/globalScheduling/index.js" timestamp="1533333587422">
-        <mark key="[" line="3" column="53" />
-        <mark key="]" line="5" column="46" />
-        <mark key="." line="5" column="46" />
-        <mark key="^" line="5" column="46" />
-      </file>
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/globalScheduling/index.js" timestamp="1533333587422" />
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Infrastructure/Services/Impl/CloudinaryMediaRepository.cs" timestamp="1519829267223">
         <mark key="[" line="24" column="45" />
         <mark key="]" line="24" column="7" />
@@ -2044,22 +2044,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, { Fragment }</text>
+        <text>any</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>, { Fragment }</text>
+        <text>any</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGluZHVzdHJpZXNDaGVja2JveGVzQXJyYXkgZnJvbSAnLi9pbmR1c3RyaWVzQ2hlY2tib3hlc0FycmF5Jwo=</text>
+        <text encoding="base64">ICB7IHBhdGg6ICcvJywgdGV4dDogJ0hvbWUnIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjaGlsZHJlbjogUHJvcFR5cGVzLmFueQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvTGlzdEl0ZW0+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2071,28 +2071,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBEZWxldGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPExpc3RJdGVtVGV4dCBwcmltYXJ5PSdTcGFtJyAvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxMaXN0SXRlbSBidXR0b24gY29tcG9uZW50PSdhJyBocmVmPScvd2VsY29tZURpc3BsYXknPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGp1c3RpZnlDb250ZW50OiAnc3BhY2UtYmV0d2VlbicK</text>
+        <text encoding="base64">ICAgICAgICAgIDxOYXZMaW5rIHRvPScvJyBjbGFzc05hbWU9e2NsYXNzZXMubGlua30gYWN0aXZlQ2xhc3NOYW1lPSdhY3RpdmUnPgogICAgICAgICAgICA8TGlzdEl0ZW0gYnV0dG9uPgogICAgICAgICAgICAgIDxMaXN0SXRlbVRleHQgcHJpbWFyeT0nSG9tZScgLz4KICAgICAgICAgICAgPC9MaXN0SXRlbT4KICAgICAgICAgIDwvTmF2TGluaz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6ICdmbGV4JywK</text>
+        <text encoding="base64">ICAgICAgICA8TGlzdCBjb21wb25lbnQ9J25hdic+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmaWVsZENvbnRhaW5lcjogewo=</text>
+        <text encoding="base64">ICB7IHBhdGg6ICcvJywgdGV4dDogJ0hvbWUnIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3Qgc3R5bGVzID0gdGhlbWUgPT4gKHt9KQo=</text>
+        <text encoding="base64">IGNvbnN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjbGFzc05hbWU9e2NsYXNzZXMuYnV0dG9ufQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>92</text>

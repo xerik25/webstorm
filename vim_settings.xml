@@ -342,6 +342,12 @@
         <mark key="." line="5" column="60" />
         <mark key="^" line="5" column="60" />
       </file>
+      <file name="$USER_HOME$/code/deploymenttool-server/src/tests/missingPage.test.js" timestamp="1533582596110">
+        <mark key="[" line="10" column="62" />
+        <mark key="]" line="10" column="62" />
+        <mark key="^" line="10" column="62" />
+        <mark key="." line="10" column="62" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/middlewares/apiErrorsMiddleware.js" timestamp="1517424913294">
         <mark key="[" line="4" column="69" />
         <mark key="]" line="4" column="15" />
@@ -425,13 +431,6 @@
         <mark key="]" line="67" column="0" />
         <mark key="^" line="84" column="57" />
         <mark key="." line="67" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/welcomeDisplay/WelcomeDisplayRooms.js" timestamp="1533333374961">
-        <mark key="'" line="13" column="24" />
-        <mark key="[" line="18" column="14" />
-        <mark key="]" line="18" column="15" />
-        <mark key="." line="18" column="15" />
-        <mark key="^" line="17" column="41" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/core/components/Header/HeaderMeta.js" timestamp="1512679898932">
         <mark key="[" line="15" column="36" />
@@ -685,13 +684,6 @@
         <mark key="." line="0" column="34" />
         <mark key="^" line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/welcomeDisplay/RoomPlayer.js" timestamp="1533333110356">
-        <mark key="'" line="96" column="13" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="13" column="19" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/code/deploymenttool-backend/src/sockets/listenerTypes.js" timestamp="1532466901773">
         <mark key="[" line="3" column="16" />
         <mark key="]" line="3" column="16" />
@@ -883,13 +875,6 @@
         <mark key="]" line="1" column="34" />
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
-      </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/wrappedFormFields/FormSwitch.js" timestamp="1533248367161">
-        <mark key="'" line="2" column="16" />
-        <mark key="[" line="16" column="9" />
-        <mark key="]" line="16" column="13" />
-        <mark key="." line="16" column="13" />
-        <mark key="^" line="16" column="13" />
       </file>
       <file name="$USER_HOME$/code/react-express-docker-boilerplate/.babelrc" timestamp="1531259035519">
         <mark key="[" line="1" column="29" />
@@ -1334,18 +1319,17 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/code/deploymenttool-server/src/server.js" timestamp="1533582748617">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="16" column="27" />
+        <mark key="^" line="16" column="27" />
+        <mark key="." line="16" column="27" />
+      </file>
       <file name="$USER_HOME$/code/deploymenttool-client/src/actions/simpleAction.js" timestamp="1531806609783">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="21" />
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
-      </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/wrappedFormFields/reduxFormPropTypes.js" timestamp="1533151175333">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="16" column="20" />
-        <mark key="]" line="16" column="24" />
-        <mark key="^" line="16" column="24" />
-        <mark key="." line="16" column="24" />
       </file>
       <file name="$USER_HOME$/code/deploymenttool-client/src/reducers/example/usersReducer.js" timestamp="1532051701782">
         <mark key="[" line="0" column="35" />
@@ -1460,13 +1444,6 @@
         <mark key="]" line="8" column="42" />
         <mark key="^" line="8" column="42" />
         <mark key="." line="8" column="42" />
-      </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/Errors/ErrorBoundary.js" timestamp="1533156077405">
-        <mark key="'" line="4" column="16" />
-        <mark key="[" line="24" column="28" />
-        <mark key="]" line="24" column="28" />
-        <mark key="." line="24" column="28" />
-        <mark key="^" line="24" column="28" />
       </file>
       <file name="$USER_HOME$/code/deploymenttool-client/src/actions/getUsers.js" timestamp="1532649938812">
         <mark key="[" line="7" column="42" />
@@ -1673,6 +1650,12 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
+      <file name="$USER_HOME$/code/deploymenttool-server/src/tests/getUsers.test.js" timestamp="1533582686237">
+        <mark key="[" line="25" column="62" />
+        <mark key="]" line="25" column="62" />
+        <mark key="^" line="25" column="62" />
+        <mark key="." line="25" column="62" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/core/components/Header/Menus/AccountMenu.js" timestamp="1509742775920">
         <mark key="[" line="28" column="14" />
         <mark key="]" line="29" column="22" />
@@ -1845,13 +1828,6 @@
         <mark key="]" line="1" column="34" />
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
-      </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/welcomeDisplay/index.js" timestamp="1533327653444">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="38" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="14" column="26" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/order-details/Item/ItemDescription.js" timestamp="1512681229555">
         <mark key="[" line="5" column="46" />

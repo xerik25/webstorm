@@ -299,7 +299,7 @@
         <mark key="." line="14" column="10" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-server/app/server.js" timestamp="1533314803444" />
+      <file name="$USER_HOME$/code/deploymenttool-server/app/server.js" timestamp="1533581718905" />
       <file name="$USER_HOME$/code/deploymenttool-client/src/components/header/NavDrawer.js" timestamp="1533579497021">
         <mark key="[" line="53" column="45" />
         <mark key="]" line="53" column="45" />
@@ -365,6 +365,12 @@
         <mark key="]" line="64" column="33" />
         <mark key="^" line="64" column="33" />
         <mark key="." line="64" column="33" />
+      </file>
+      <file name="$USER_HOME$/code/deploymenttool-server/Dockerfile" timestamp="1533581768812">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="4" column="11" />
       </file>
       <file name="$USER_HOME$/code/deploymenttool-client/src/components/wrappedFormFields/FormSwitch.test.js" timestamp="1533168129699">
         <mark key="[" line="18" column="4" />
@@ -909,7 +915,7 @@
         <mark key="^" line="45" column="61" />
         <mark key="." line="45" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533247966234">
+      <file name="/Dummy.txt" timestamp="1533581720551">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -973,9 +979,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="10" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/ContentManager.js" timestamp="1533252255692">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/utils/sanitizeQuery.js" timestamp="1513616978667">
         <mark key="[" line="1" column="12" />
@@ -2050,14 +2053,14 @@
       <jump line="36" column="0" filename="$USER_HOME$/code/deploymenttool-client/src/components/globalScheduling/IndustriesCheckboxes.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IExvZ2luIGZyb20gJy4vY29tcG9uZW50cy9ob21lJwo=</text>
+      <register name="&quot;" type="4">
+        <text>app</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>red</text>
+        <text>app</text>
       </register>
       <register name="/" type="4">
         <text>form</text>

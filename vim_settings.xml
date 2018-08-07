@@ -6,6 +6,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/doorMonitor/DoorMonitorSetup.js" timestamp="1533662942541">
+        <mark key="[" line="54" column="24" />
+        <mark key="]" line="54" column="29" />
+        <mark key="." line="54" column="29" />
+        <mark key="^" line="54" column="29" />
+      </file>
       <file name="$USER_HOME$/code/deploymenttool-client/src/components/globalScheduling/industriesCheckboxesArray.js" timestamp="1533329866551">
         <mark key="[" line="19" column="35" />
         <mark key="]" line="19" column="35" />
@@ -521,9 +527,6 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/wrappedFormFields/FileUpload.js" timestamp="1533591345254">
-        <mark key="'" line="57" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/AddToCalendar/AddToCalendarList.js" timestamp="1509557790819">
         <mark key="[" line="7" column="43" />
         <mark key="]" line="7" column="53" />
@@ -649,6 +652,12 @@
         <mark key="]" line="47" column="28" />
         <mark key="." line="47" column="28" />
         <mark key="^" line="47" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/doorMonitor/index.js" timestamp="1533662842428">
+        <mark key="[" line="35" column="50" />
+        <mark key="]" line="36" column="27" />
+        <mark key="^" line="36" column="27" />
+        <mark key="." line="36" column="27" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/FileExplorer/Delete.js" timestamp="1507134538517">
         <mark key="[" line="2" column="25" />
@@ -1203,11 +1212,11 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/routes.js" timestamp="1533606449720">
-        <mark key="[" line="13" column="62" />
-        <mark key="]" line="13" column="73" />
-        <mark key="^" line="13" column="73" />
-        <mark key="." line="13" column="73" />
+      <file name="$USER_HOME$/code/deploymenttool-client/src/routes.js" timestamp="1533662795445">
+        <mark key="[" line="15" column="59" />
+        <mark key="]" line="15" column="69" />
+        <mark key="^" line="15" column="69" />
+        <mark key="." line="15" column="69" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/TheatreSearch/components/TheatresList.js" timestamp="1507135728381">
         <mark key="[" line="0" column="26" />
@@ -1269,11 +1278,11 @@
         <mark key="^" line="95" column="103" />
         <mark key="." line="95" column="103" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/playerDevices/index.js" timestamp="1533660939287">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="37" column="39" />
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/playerDevices/index.js" timestamp="1533663067095">
+        <mark key="[" line="61" column="44" />
+        <mark key="]" line="61" column="50" />
+        <mark key="." line="61" column="50" />
+        <mark key="^" line="61" column="50" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/FileExplorer/CreateFolderForm.js" timestamp="1507134529484">
         <mark key="[" line="0" column="25" />
@@ -2130,23 +2139,23 @@
       <jump line="73" column="42" filename="$USER_HOME$/code/deploymenttool-client/src/components/playerDevices/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZmllbGRzJywgZmllbGRzKQo=</text>
+      <register name="&quot;" type="4">
+        <text>Device</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>WelcomeDisplaySetup</text>
+        <text>Device</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9HcmlkPgo=</text>
+        <text encoding="base64">aW1wb3J0IEluUm9vbVdhcm1lciBmcm9tICcuL2NvbXBvbmVudHMvaW5Sb29tV2FybWVyJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZmllbGRzJywgZmllbGRzKQo=</text>
+        <text encoding="base64">ICAgICAgICAvPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2158,28 +2167,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHtpbmRleCArIDF9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZvb3RlckFjY2VudD17Zm9vdGVyQWNjZW50fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBtZXRhOiBQcm9wVHlwZXMub2JqZWN0LAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNob3dBZ2VuZGE9e3Nob3dBZ2VuZGF9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIHN1Ym1pdEZhaWxlZCAmJiBlcnJvciAmJgogICAgICAgICAgPHNwYW4+e2Vycm9yfTwvc3Bhbj4KICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICA8SW5Sb29tV2FybWVyU3R5bGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZXJyb3InLCBlcnJvcikK</text>
+        <text encoding="base64">ICAgICAgICA8SW5Sb29tV2FybWVyU2V0dXAgLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtZXRhOiB7IGVycm9yID0ge30sIHN1Ym1pdEZhaWxlZCB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNob3dNYXA9e3Nob3dNYXB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnZmllbGRzJywgZmllbGRzKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHtpbmRleCArIDF9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L0dyaWQ+Cg==</text>
+        <text encoding="base64">ICBtZXRhOiBQcm9wVHlwZXMub2JqZWN0LAo=</text>
       </register>
       <register name=":" type="4">
         <text>92</text>

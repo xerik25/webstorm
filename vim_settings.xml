@@ -1659,6 +1659,12 @@
         <mark key="^" line="5" column="23" />
         <mark key="." line="5" column="23" />
       </file>
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/finish/DisplayVariables.js" timestamp="1533845230869">
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="7" column="9" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/AddToCalendar/_addToCalendar.scss" timestamp="1509558034624">
         <mark key="[" line="20" column="22" />
         <mark key="]" line="21" column="14" />
@@ -2090,11 +2096,7 @@
         <mark key="^" line="1" column="34" />
       </file>
       <file name="$USER_HOME$/code/deploymenttool-client/src/components/welcomeDisplay/index.js" timestamp="1533775280192">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="49" column="35" />
-        <mark key="." line="51" column="0" />
+        <mark key="'" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/components/forms/fields/Password.js" timestamp="1511300608362">
         <mark key="[" line="15" column="0" />
@@ -2237,13 +2239,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>start</text>
+        <text>classes</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>classes</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
@@ -2252,7 +2254,7 @@
         <text encoding="base64">ICAgICAgICA8VHlwb2dyYXBoeSB2YXJpYW50PSdzdWJoZWFkaW5nJyBndXR0ZXJCb3R0b20+CiAgICAgICAgICBXZWxjb21lIERpc3BsYXkKICAgICAgICA8L1R5cG9ncmFwaHk+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogdGhlbWUuCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2264,7 +2266,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIFdlbGNvbWUgRGlzcGxheQo=</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogdGhlbWUuCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIFdlbGNvbWUgRGlzcGxheQo=</text>
@@ -2273,19 +2275,19 @@
         <text encoding="base64">ICAgICAgICAgIFdlbGNvbWUgRGlzcGxheQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFdlbGNvbWUgRGlzcGxheQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgc2VsZWN0b3IgPSBmb3JtVmFsdWVTZWxlY3Rvcihmb3JtTmFtZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmb290ZXJBY2NlbnQ6IHNlbGVjdG9yKHN0YXRlLCAnZm9vdGVyQWNjZW50JykK</text>
+        <text encoding="base64">Y29uc3Qgc2VsZWN0b3IgPSBmb3JtVmFsdWVTZWxlY3Rvcihmb3JtTmFtZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgd2l0aFN0eWxlcyhzdHlsZXMpKEZpbmlzaCkK</text>
+        <text encoding="base64">ICBmb290ZXJBY2NlbnQ6IHNlbGVjdG9yKHN0YXRlLCAnZm9vdGVyQWNjZW50JykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlPSdzdWJtaXQnCg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgd2l0aFN0eWxlcyhzdHlsZXMpKEZpbmlzaCkK</text>
       </register>
       <register name=":" type="4">
         <text>92</text>

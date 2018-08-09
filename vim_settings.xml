@@ -143,6 +143,13 @@
         <mark key="." line="64" column="71" />
         <mark key="^" line="64" column="71" />
       </file>
+      <file name="$USER_HOME$/code/deploymenttool-backend/app/sockets/index.js" timestamp="1533082603541">
+        <mark key="'" line="6" column="17" />
+        <mark key="[" line="80" column="43" />
+        <mark key="]" line="80" column="43" />
+        <mark key="." line="80" column="43" />
+        <mark key="^" line="87" column="56" />
+      </file>
       <file name="$USER_HOME$/code/deploymenttool-client/src/components/header/navDrawer.css" timestamp="1533579746353">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="2" column="16" />
@@ -224,12 +231,12 @@
         <mark key="^" line="0" column="44" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/doorMonitor/index.js" timestamp="1533789605989">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="23" column="58" />
-        <mark key="]" line="23" column="58" />
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/doorMonitor/index.js" timestamp="1533790965955">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="2" />
         <mark key="^" line="23" column="55" />
-        <mark key="." line="23" column="58" />
+        <mark key="." line="77" column="2" />
       </file>
       <file name="$USER_HOME$/code/deploymenttool-client/src/components/welcomeDisplay/RoomPlayer.js" timestamp="1533333110356">
         <mark key="'" line="96" column="13" />
@@ -250,6 +257,13 @@
         <mark key="]" line="36" column="0" />
         <mark key="^" line="35" column="13" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/deploymenttool-backend/src/tests/apiTest.js" timestamp="1532542671803">
+        <mark key="'" line="17" column="73" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="42" column="15" />
       </file>
       <file name="$USER_HOME$/code/deploymenttool-client/src/routes.js" timestamp="1533759177932">
         <mark key="[" line="13" column="0" />
@@ -275,6 +289,13 @@
         <mark key="]" line="16" column="24" />
         <mark key="^" line="16" column="24" />
         <mark key="." line="16" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/deploymenttool-backend/app/apis/index.js" timestamp="1533082612340">
+        <mark key="'" line="30" column="13" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="47" column="36" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/code/deploymenttool-client/src/components/Errors/ErrorBoundary.js" timestamp="1533156077405">
         <mark key="'" line="4" column="16" />
@@ -420,13 +441,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>{</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>form</text>

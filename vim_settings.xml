@@ -638,12 +638,11 @@
         <mark key="^" line="44" column="30" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/inRoomWarmer/index.js" timestamp="1533919685122">
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/inRoomWarmer/index.js" timestamp="1533929962160">
         <mark key="'" line="16" column="31" />
-        <mark key="[" line="32" column="44" />
-        <mark key="]" line="32" column="44" />
-        <mark key="." line="32" column="56" />
-        <mark key="^" line="31" column="22" />
+        <mark key="[" line="10" column="37" />
+        <mark key="]" line="10" column="37" />
+        <mark key="." line="10" column="37" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/oauth/components/FacebookLoginButton.js" timestamp="1508786180796">
         <mark key="[" line="0" column="96" />
@@ -766,6 +765,12 @@
         <mark key="]" line="70" column="76" />
         <mark key="^" line="70" column="76" />
         <mark key="." line="70" column="76" />
+      </file>
+      <file name="$USER_HOME$/code/deploymenttool-client/src/actions/submitInRoomWarmerForm.js" timestamp="1533929874441">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="6" column="40" />
+        <mark key="." line="6" column="40" />
+        <mark key="^" line="9" column="17" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/movies/components/MovieReviewItem.js" timestamp="1511198564342">
         <mark key="[" line="10" column="49" />
@@ -1404,6 +1409,12 @@
         <mark key="^" line="68" column="51" />
         <mark key="." line="69" column="16" />
       </file>
+      <file name="$USER_HOME$/code/deploymenttool-client/src/actions/login.js" timestamp="1533930276254">
+        <mark key="[" line="19" column="5" />
+        <mark key="]" line="19" column="10" />
+        <mark key="." line="19" column="10" />
+        <mark key="^" line="19" column="10" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/AddToCalendar/AddToCalendarList.js" timestamp="1509557790819">
         <mark key="[" line="7" column="43" />
         <mark key="]" line="7" column="53" />
@@ -1897,7 +1908,7 @@
         <mark key="." line="239" column="0" />
         <mark key="^" line="248" column="0" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/actions/keepAlive.js" timestamp="1533929003718">
+      <file name="$USER_HOME$/code/deploymenttool-client/src/actions/keepAlive.js" timestamp="1533929804673">
         <mark key="[" line="11" column="23" />
         <mark key="]" line="11" column="46" />
         <mark key="." line="11" column="46" />
@@ -2338,23 +2349,23 @@
       <jump line="1" column="0" filename="$USER_HOME$/code/deploymenttool-server/src/apis/getUsers.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJhc2VVcmw6ICdodHRwczovL2RldmNtMTA1LnNpZ25ldC50di9Db250ZW50TWFuYWdlci9hcGkvJywK</text>
+      <register name="&quot;" type="4">
+        <text>10000</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>.apiToken</text>
+        <text>10000</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICBlbWl0KGFjdGlvblR5cGVzLkNMSUVOVF9MT0dJTiwgcXVlcnkpCgogIGRpc3BhdGNoKHsKICAgIHR5cGU6IGFjdGlvblR5cGVzLkNMSUVOVF9MT0dJTgogIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJhc2VVcmw6ICdodHRwczovL2RldmNtMTA1LnNpZ25ldC50di9Db250ZW50TWFuYWdlci9hcGkvJywK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2366,28 +2377,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByZXF1ZXN0U2VydmljZSA9IHJlcXVpcmUoJy4vcmVxdWVzdFNlcnZpY2UnKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNtQ3JlZGludGlhbHMgPSBKU09OLnBhcnNlKHNlc3Npb25TdG9yYWdlLmdldEl0ZW0oZGVwbG95bWVudFNldHVwRm9ybSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgcmVxdWVzdFNlcnZpY2UgPSByZXF1aXJlKCcuL3JlcXVlc3RTZXJ2aWNlJykK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwaVRva2VuOiBkYXRhLmFwaVRva2VuLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCByZXF1ZXN0ID0gewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBkYXRhID0gZ2V0U3RhdGUoKS5sb2dpbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZ2V0VGVtcGxhdGVCeUlkIChyZXF1ZXN0KSB7CiAgcmV0dXJuIHJlcXVlc3RTZXJ2aWNlKCAnR0VUJywgewogICAgdXJpOiBgcmVzdC90ZW1wbGF0ZXMvJHtyZXF1ZXN0LnRlbXBsYXRlSWR9YCwKICAgIGJhc2VVcmw6ICdodHRwczovL2RldmNtMTA1LnNpZ25ldC50di9Db250ZW50TWFuYWdlci9hcGkvJywKICAgIGhlYWRlcnM6IHsKICAgICAgJ2FwaVRva2VuJzogcmVxdWVzdC5hcGlUb2tlbgogICAgfSwKICAgIGpzb246IHRydWUKICB9KQp9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnRlbnRNYW5hZ2VyVXJsOiBkYXRhLmNvbnRlbnRNYW5hZ2VyVXJsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZ2V0TWVzc2FnZUJ5SWQgKGFwaVRva2VuKSB7CiAgcmV0dXJuIHJlcXVlc3RTZXJ2aWNlKCAnR0VUJywgewogICAgdXJpOiAncmVzdC9tZXNzYWdlcy8zOTI3JywKICAgIGJhc2VVcmw6ICdodHRwczovL2RldmNtMTA1LnNpZ25ldC50di9Db250ZW50TWFuYWdlci9hcGkvJywKICAgIGhlYWRlcnM6IHsKICAgICAgJ2FwaVRva2VuJzogYXBpVG9rZW4KICAgIH0sCiAgICBqc29uOiB0cnVlCiAgfSkKfQoK</text>
+        <text encoding="base64">ICAgIGJhc2VVcmw6ICdodHRwczovL2RldmNtMTA1LnNpZ25ldC50di9Db250ZW50TWFuYWdlci9hcGkvJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByZXF1ZXN0U2VydmljZSA9IHJlcXVpcmUoJy4vcmVxdWVzdFNlcnZpY2UnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>92</text>

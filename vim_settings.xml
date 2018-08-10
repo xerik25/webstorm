@@ -587,12 +587,18 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/ContentManager.js" timestamp="1533865742359">
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/ContentManager.js" timestamp="1533918732134">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="21" column="32" />
         <mark key="]" line="21" column="32" />
         <mark key="." line="21" column="32" />
         <mark key="^" line="74" column="33" />
+      </file>
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/header/Header.js" timestamp="1533919888550">
+        <mark key="[" line="58" column="30" />
+        <mark key="]" line="58" column="45" />
+        <mark key="^" line="58" column="45" />
+        <mark key="." line="58" column="45" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/components/LoginForm.js" timestamp="1515788477810">
         <mark key="[" line="0" column="25" />
@@ -624,7 +630,7 @@
         <mark key="^" line="44" column="30" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/inRoomWarmer/index.js" timestamp="1533917743582">
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/inRoomWarmer/index.js" timestamp="1533919685122">
         <mark key="'" line="16" column="31" />
         <mark key="[" line="32" column="44" />
         <mark key="]" line="32" column="44" />
@@ -746,11 +752,10 @@
         <mark key="^" line="70" column="76" />
         <mark key="." line="70" column="76" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/actions/submitInRoomWarmerForm.js" timestamp="1533917995087">
-        <mark key="[" line="6" column="44" />
-        <mark key="]" line="6" column="45" />
-        <mark key="." line="6" column="45" />
-        <mark key="^" line="6" column="54" />
+      <file name="$USER_HOME$/code/deploymenttool-client/src/actions/submitInRoomWarmerForm.js" timestamp="1533918657693">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/movies/components/MovieReviewItem.js" timestamp="1511198564342">
         <mark key="[" line="10" column="49" />
@@ -1377,6 +1382,12 @@
         <mark key="]" line="69" column="16" />
         <mark key="^" line="68" column="51" />
         <mark key="." line="69" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/deploymenttool-client/src/actions/login.js" timestamp="1533920143484">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="13" column="19" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/AddToCalendar/AddToCalendarList.js" timestamp="1509557790819">
         <mark key="[" line="7" column="43" />
@@ -2092,7 +2103,7 @@
         <mark key="^" line="87" column="13" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/index.js" timestamp="1533866377763">
+      <file name="$USER_HOME$/code/deploymenttool-client/src/components/deploymentSetup/index.js" timestamp="1533918891675">
         <mark key="'" line="77" column="0" />
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="12" />
@@ -2168,8 +2179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="0" filename="$USER_HOME$/Sites/amc/content/src/components/forms/Login.js" />
-      <jump line="0" column="30" filename="/Dummy.txt" />
       <jump line="65" column="90" filename="$USER_HOME$/Sites/amc/content/src/routes/createRoutes.js" />
       <jump line="165" column="0" filename="$USER_HOME$/Sites/amc/content/src/routes/createRoutes.js" />
       <jump line="18" column="50" filename="$USER_HOME$/Sites/amc/content/src/routes/useQuery.js" />
@@ -2268,25 +2277,27 @@
       <jump line="56" column="0" filename="$USER_HOME$/code/deploymenttool-client/src/components/finish/index.js" />
       <jump line="16" column="2" filename="$USER_HOME$/code/deploymenttool-client/src/components/finish/index.js" />
       <jump line="16" column="31" filename="$USER_HOME$/code/deploymenttool-client/src/components/inRoomWarmer/index.js" />
+      <jump line="45" column="15" filename="$USER_HOME$/code/deploymenttool-client/src/components/header/Header.js" />
+      <jump line="51" column="0" filename="$USER_HOME$/code/deploymenttool-client/src/components/header/Header.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Credintials</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>Credintials</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNhdmVkRm9ybURhdGEgPSBKU09OLnBhcnNlKHNlc3Npb25TdG9yYWdlLmdldEl0ZW0oZm9ybU5hbWUpKQo=</text>
+        <text encoding="base64">ICBlbWl0KGFjdGlvblR5cGVzLkNMSUVOVF9MT0dJTiwgcXVlcnkpCgogIGRpc3BhdGNoKHsKICAgIHR5cGU6IGFjdGlvblR5cGVzLkNMSUVOVF9MT0dJTgogIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2298,28 +2309,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuZXR3b3JrOiByZXF1ZXN0LmNtTmV0d29yawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVzdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzd29yZDogcmVxdWVzdC5jbVBhc3N3b3JkLAo=</text>
+        <text encoding="base64">ICBzdWJtaXRJblJvb21XYXJtZXJGb3JtCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VybmFtZTogcmVxdWVzdC5jbVVzZXJuYW1lLAo=</text>
+        <text encoding="base64">ICBzaG93QWdlbmRhOiBzZWxlY3RvcihzdGF0ZSwgJ3Nob3dBZ2VuZGEnKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">ICBmb290ZXJBY2NlbnQ6IHNlbGVjdG9yKHN0YXRlLCAnZm9vdGVyQWNjZW50JyksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJhc2VVcmw6IGBodHRwczovLyR7cmVxdWVzdC5jb250ZW50TWFuYWdlclVybH0vQ29udGVudE1hbmFnZXIvYXBpL2AsCg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBTRVJWRVJfRURJVF9URU1QTEFURV9CWV9JRDogJ1NFUlZFUl9FRElUX1RFTVBMQVRFX0JZX0lEJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc3VibWl0SW5Sb29tV2FybWVyRm9ybQo=</text>
+        <text encoding="base64">ICByZXR1cm4gZnVuY3Rpb24gKHBhcm0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>92</text>

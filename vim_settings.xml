@@ -388,12 +388,12 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-server/src/sockets/index.js" timestamp="1533944916549">
+      <file name="$USER_HOME$/code/deploymenttool-server/src/sockets/index.js" timestamp="1533949003508">
         <mark key="'" line="11" column="16" />
-        <mark key="[" line="76" column="51" />
-        <mark key="]" line="76" column="51" />
-        <mark key="^" line="76" column="51" />
-        <mark key="." line="76" column="51" />
+        <mark key="[" line="90" column="53" />
+        <mark key="]" line="90" column="62" />
+        <mark key="^" line="90" column="62" />
+        <mark key="." line="90" column="62" />
       </file>
       <file name="$USER_HOME$/Sites/amc/payment/src/shared/components/PaymentInfo/MonthSelect.js" timestamp="1511293103581">
         <mark key="[" line="26" column="26" />
@@ -1025,7 +1025,7 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-server/src/apis/getAllTemplates.js" timestamp="1533943447711">
+      <file name="$USER_HOME$/code/deploymenttool-server/src/apis/getAllTemplates.js" timestamp="1533948889056">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="72" />
         <mark key="." line="3" column="39" />
@@ -1902,11 +1902,11 @@
         <mark key="^" line="19" column="45" />
         <mark key="." line="19" column="45" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-server/src/apis/addInRoomWarmerMessages.js" timestamp="1533940518976">
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="19" column="30" />
-        <mark key="^" line="19" column="30" />
-        <mark key="." line="19" column="30" />
+      <file name="$USER_HOME$/code/deploymenttool-server/src/apis/addInRoomWarmerMessages.js" timestamp="1533948955752">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="33" />
+        <mark key="^" line="16" column="33" />
+        <mark key="." line="16" column="33" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/components/LoadingIndicator.js" timestamp="1513192976894">
         <mark key="[" line="3" column="25" />
@@ -2374,23 +2374,23 @@
       <jump line="11" column="16" filename="$USER_HOME$/code/deploymenttool-server/src/sockets/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZUlkOiAxNTEsCg==</text>
+      <register name="&quot;" type="4">
+        <text>request</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>.templateFields</text>
+        <text>request</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZHVtbXlJbmZvID0gewogICAgICAgIGFwaVRva2VuOiByZXF1ZXN0LmFwaVRva2VuLAogICAgICAgIHRlbXBsYXRlSWQ6IDE1MSwKICAgICAgICBxdWVyeVBhcmFtZXRlcnM6ICdzZWFyY2g9TGFuZG9uVGVzdFRlbXBsYXRlMScsCiAgICAgICAgY29udGVudE1hbmFnZXJVcmw6IHJlcXVlc3QuY29udGVudE1hbmFnZXJVcmwKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGJhc2VVcmw6IGBodHRwczovLyR7cmVxdWVzdC5jb250ZW50TWFuYWdlclVybH0vQ29udGVudE1hbmFnZXIvYXBpL2AsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZUlkOiAxNTEsCg==</text>
+        <text encoding="base64">ICAgIGJhc2VVcmw6ICdodHRwczovL2RldmNtMTA1LnNpZ25ldC50di9Db250ZW50TWFuYWdlci9hcGkvJywK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2402,28 +2402,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS4K</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IHNlbmQgYmFzZVVybAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeVBhcmFtZXRlcnM6ICdzZWFyY2g9TGFuZG9uVGVzdFRlbXBsYXRlMScsCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZUlkOiAxNTEsCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS4K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJhc2VVcmw6ICdodHRwczovL2RldmNtMTA1LnNpZ25ldC50di9Db250ZW50TWFuYWdlci9hcGkvJywK</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeVBhcmFtZXRlcnM6ICdzZWFyY2g9TGFuZG9uVGVzdFRlbXBsYXRlMScsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJhc2VVcmw6ICdodHRwczovL2RldmNtMTA1LnNpZ25ldC50di9Db250ZW50TWFuYWdlci9hcGkvJywK</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZUlkOiAxNTEsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGpzb246IHRydWUK</text>
+        <text encoding="base64">ICAgIGJhc2VVcmw6ICdodHRwczovL2RldmNtMTA1LnNpZ25ldC50di9Db250ZW50TWFuYWdlci9hcGkvJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGJhc2VVcmw6ICdodHRwczovL2RldmNtMTA1LnNpZ25ldC50di9Db250ZW50TWFuYWdlci9hcGkvJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gewo=</text>
+        <text encoding="base64">ICAgIGpzb246IHRydWUK</text>
       </register>
       <register name=":" type="4">
         <text>92</text>

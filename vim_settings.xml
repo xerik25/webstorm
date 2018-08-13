@@ -126,11 +126,11 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-server/src/sockets/validateContentManager.js" timestamp="1534180345559">
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="69" />
-        <mark key="." line="16" column="69" />
-        <mark key="^" line="16" column="69" />
+      <file name="$USER_HOME$/code/deploymenttool-server/src/sockets/validateContentManager.js" timestamp="1534184558565">
+        <mark key="[" line="29" column="25" />
+        <mark key="]" line="29" column="25" />
+        <mark key="." line="29" column="26" />
+        <mark key="^" line="4" column="18" />
       </file>
       <file name="$USER_HOME$/code/deploymenttool-server/src/sockets/subscribeToTimer.js" timestamp="1533952303113">
         <mark key="[" line="11" column="17" />
@@ -1433,11 +1433,11 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/reducers/snackbarNotification.js" timestamp="1533934490939">
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="16" column="23" />
-        <mark key="." line="16" column="23" />
-        <mark key="^" line="16" column="23" />
+      <file name="$USER_HOME$/code/deploymenttool-client/src/reducers/snackbarNotification.js" timestamp="1534184696137">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="53" />
+        <mark key="." line="11" column="53" />
+        <mark key="^" line="11" column="53" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/components/Search/SearchField.js" timestamp="1513290076853">
         <mark key="[" line="67" column="0" />
@@ -1567,11 +1567,11 @@
         <mark key="^" line="13" column="19" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/reducers/login.js" timestamp="1533953566607">
-        <mark key="[" line="13" column="49" />
-        <mark key="]" line="14" column="29" />
-        <mark key="^" line="14" column="29" />
-        <mark key="." line="14" column="29" />
+      <file name="$USER_HOME$/code/deploymenttool-client/src/reducers/login.js" timestamp="1534184794112">
+        <mark key="[" line="17" column="43" />
+        <mark key="]" line="17" column="72" />
+        <mark key="^" line="17" column="72" />
+        <mark key="." line="17" column="72" />
       </file>
       <file name="$USER_HOME$/code/deploymenttool-server/src/apis/getTemplateById.js" timestamp="1533943451930">
         <mark key="'" line="1" column="0" />
@@ -1610,7 +1610,7 @@
         <mark key="." line="73" column="19" />
         <mark key="^" line="73" column="19" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-server/src/sockets/emitterTypes.js" timestamp="1534180319788">
+      <file name="$USER_HOME$/code/deploymenttool-server/src/sockets/emitterTypes.js" timestamp="1534184659478">
         <mark key="[" line="12" column="54" />
         <mark key="]" line="12" column="59" />
         <mark key="." line="12" column="59" />
@@ -1999,7 +1999,7 @@
         <mark key="." line="11" column="46" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/websockets/listenerTypes.js" timestamp="1533921536430">
+      <file name="$USER_HOME$/code/deploymenttool-client/src/websockets/listenerTypes.js" timestamp="1534184678618">
         <mark key="[" line="8" column="29" />
         <mark key="]" line="8" column="29" />
         <mark key="." line="8" column="38" />
@@ -2452,13 +2452,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>login</text>
+        <text>LOGIN_ERROR</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>login</text>
+        <text>LOGIN_ERROR</text>
       </register>
       <register name="/" type="4">
         <text>form</text>

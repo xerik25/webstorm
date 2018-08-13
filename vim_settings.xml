@@ -102,11 +102,6 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/footer/Footer.js" timestamp="1533183913768">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/Status/components/StatusIcon.js" timestamp="1507135581368">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="1" column="34" />
@@ -381,12 +376,12 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-server/src/sockets/submitInRoomWarmerForm.js" timestamp="1534178433927">
+      <file name="$USER_HOME$/code/deploymenttool-server/src/sockets/submitInRoomWarmerForm.js" timestamp="1534187511754">
         <mark key="'" line="41" column="0" />
-        <mark key="[" line="15" column="33" />
-        <mark key="]" line="15" column="44" />
-        <mark key="^" line="15" column="44" />
-        <mark key="." line="15" column="44" />
+        <mark key="[" line="27" column="32" />
+        <mark key="]" line="27" column="38" />
+        <mark key="^" line="27" column="38" />
+        <mark key="." line="27" column="38" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/checkout/components/order-details/Item/EditQuantity.js" timestamp="1512682031082">
         <mark key="[" line="43" column="0" />
@@ -405,11 +400,6 @@
         <mark key="]" line="6" column="15" />
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
-      </file>
-      <file name="$USER_HOME$/code/deploymenttool-server/src/sockets/index.js" timestamp="1533952497535">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="13" column="3" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/code/deploymenttool-server/src/utlilites/buildErrorResponse.js" timestamp="1533951547112">
         <mark key="[" line="6" column="35" />
@@ -459,12 +449,12 @@
         <mark key="." line="3" column="16" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-server/src/apis/index.js" timestamp="1534180477975">
+      <file name="$USER_HOME$/code/deploymenttool-server/src/apis/index.js" timestamp="1534187482768">
         <mark key="'" line="2" column="28" />
-        <mark key="[" line="14" column="2" />
-        <mark key="]" line="14" column="2" />
-        <mark key="^" line="1" column="27" />
-        <mark key="." line="14" column="23" />
+        <mark key="[" line="15" column="2" />
+        <mark key="]" line="15" column="2" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="15" column="11" />
       </file>
       <file name="$USER_HOME$/code/deploymenttool-server/package.json" timestamp="1533795157436">
         <mark key="[" line="6" column="74" />
@@ -2043,11 +2033,6 @@
         <mark key="." line="18" column="33" />
         <mark key="^" line="18" column="33" />
       </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/components/imageOrHex/index.js" timestamp="1533680836186">
-        <mark key="[" line="12" column="37" />
-        <mark key="]" line="12" column="37" />
-        <mark key="." line="12" column="37" />
-      </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/theatres/widgets/FindATheatre.js" timestamp="1512598367811">
         <mark key="[" line="655" column="0" />
         <mark key="]" line="655" column="0" />
@@ -2111,11 +2096,6 @@
         <mark key="]" line="32" column="33" />
         <mark key="." line="32" column="33" />
         <mark key="^" line="32" column="33" />
-      </file>
-      <file name="$USER_HOME$/code/deploymenttool-client/src/actions/validateContentManger.js" timestamp="1533863566738">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content-admin/src/Amc.Admin.Web/Scripts/containers/Content/components/ContentList.js" timestamp="1507134975769">
         <mark key="[" line="5" column="45" />
@@ -2452,13 +2432,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LOGIN_ERROR</text>
+        <text>InRoomWarmerMessages</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>LOGIN_ERROR</text>
+        <text>InRoomWarmerMessages</text>
       </register>
       <register name="/" type="4">
         <text>form</text>

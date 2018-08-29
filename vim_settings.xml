@@ -185,6 +185,12 @@
         <mark key="." line="3" column="16" />
         <mark key="^" line="2" column="60" />
       </file>
+      <file name="$USER_HOME$/code/weedMaps/src/components/footer/Footer.js" timestamp="1535558209708">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="21" />
+        <mark key="." line="12" column="21" />
+        <mark key="^" line="12" column="21" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/content/src/features/carousel/components/HeroComponent.js" timestamp="1508795218715">
         <mark key="[" line="15" column="120" />
         <mark key="]" line="15" column="125" />
@@ -1533,6 +1539,12 @@
         <mark key="." line="18" column="21" />
         <mark key="^" line="18" column="21" />
       </file>
+      <file name="$USER_HOME$/code/weedMaps/src/components/footer/BottomNavigation.js" timestamp="1535558255836">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="15" />
+        <mark key="." line="11" column="15" />
+        <mark key="^" line="11" column="15" />
+      </file>
       <file name="$USER_HOME$/Sites/amc/payment/src/shared/components/CheckoutHeader.js" timestamp="1509394898893">
         <mark key="[" line="18" column="32" />
         <mark key="]" line="19" column="22" />
@@ -2287,6 +2299,12 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
+      <file name="$USER_HOME$/code/weedMaps/src/App.js" timestamp="1535558458182">
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="29" />
+        <mark key="^" line="24" column="29" />
+        <mark key="." line="24" column="29" />
+      </file>
       <file name="$USER_HOME$/code/deploymenttool-client/src/components/login/login.js" timestamp="1532646179873">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -2489,13 +2507,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>div</text>
+        <text encoding="base64">IHN0eWxlPXt7IGRpc3BsYXk6ICdmbGV4JywgbWluSGVpZ2h0OiAnMTAwdmgnLCBmbGV4RGlyZWN0aW9uOiAnY29sdW1uJyB9fQ==</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>div</text>
+        <text encoding="base64">IHN0eWxlPXt7IGRpc3BsYXk6ICdmbGV4JywgbWluSGVpZ2h0OiAnMTAwdmgnLCBmbGV4RGlyZWN0aW9uOiAnY29sdW1uJyB9fQ==</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
@@ -2504,7 +2522,7 @@
         <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJyMwMzQzNDcnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDxoND5UaGlzIGlzIHRoZSBmb290ZXI8L2g0Pgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2516,28 +2534,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIDxociAvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0aW5nJykK</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAnIzQ0NDQ0NCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJhY2tyb3VuZENvbG9yCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0aW5nJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbG9yOiAnIzQ0NDQ0NCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQm90dG9tTmF2aWdhdGlvbiB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1tYXRlcmlhbC11aSc7Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tyb3VuZENvbG9yCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8Qm90dG9tTmF2aWdhdGlvbiBhY3RpdmU9e3RoaXMuc3RhdGUuYWN0aXZlfSBoaWRkZW49e2ZhbHNlfSA+CiAgICAgICAgICA8Qm90dG9tTmF2aWdhdGlvbi5BY3Rpb24KICAgICAgICAgICAga2V5PSJ0b2RheSIKICAgICAgICAgICAgaWNvbj0idG9kYXkiCiAgICAgICAgICAgIGxhYmVsPSJUb2RheSIKICAgICAgICAgICAgb25QcmVzcz17KCkgPT4gdGhpcy5zZXRTdGF0ZSh7IGFjdGl2ZTogJ3RvZGF5JyB9KX0KICAgICAgICAgIC8+CiAgICAgICAgICA8Qm90dG9tTmF2aWdhdGlvbi5BY3Rpb24KICAgICAgICAgICAga2V5PSJwZW9wbGUiCiAgICAgICAgICAgIGljb249InBlb3BsZSIKICAgICAgICAgICAgbGFiZWw9IlBlb3BsZSIKICAgICAgICAgICAgb25QcmVzcz17KCkgPT4gdGhpcy5zZXRTdGF0ZSh7IGFjdGl2ZTogJ3Blb3BsZScgfSl9CiAgICAgICAgICAvPgogICAgICAgICAgPEJvdHRvbU5hdmlnYXRpb24uQWN0aW9uCiAgICAgICAgICAgIGtleT0iYm9va21hcmstYm9yZGVyIgogICAgICAgICAgICBpY29uPSJib29rbWFyay1ib3JkZXIiCiAgICAgICAgICAgIGxhYmVsPSJCb29rbWFyayIKICAgICAgICAgICAgb25QcmVzcz17KCkgPT4gdGhpcy5zZXRTdGF0ZSh7IGFjdGl2ZTogJ2Jvb2ttYXJrLWJvcmRlcicgfSl9CiAgICAgICAgICAvPgogICAgICAgICAgPEJvdHRvbU5hdmlnYXRpb24uQWN0aW9uCiAgICAgICAgICAgIGtleT0ic2V0dGluZ3MiCiAgICAgICAgICAgIGljb249InNldHRpbmdzIgogICAgICAgICAgICBsYWJlbD0iU2V0dGluZ3MiCiAgICAgICAgICAgIG9uUHJlc3M9eygpID0+IHRoaXMuc2V0U3RhdGUoeyBhY3RpdmU6ICdzZXR0aW5ncycgfSl9CiAgICAgICAgICAvPgogICAgICAgIDwvQm90dG9tTmF2aWdhdGlvbj4K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>92</text>

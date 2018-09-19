@@ -363,11 +363,11 @@
         <mark key="^" line="503" column="70" />
         <mark key="." line="503" column="70" />
       </file>
-      <file name="$USER_HOME$/Sites/cloud9/client/src/components/footer/Footer.js" timestamp="1537323736025">
-        <mark key="[" line="20" column="22" />
-        <mark key="]" line="20" column="22" />
-        <mark key="." line="20" column="22" />
-        <mark key="^" line="20" column="22" />
+      <file name="$USER_HOME$/Sites/cloud9/client/src/components/footer/Footer.js" timestamp="1537329632110">
+        <mark key="[" line="47" column="39" />
+        <mark key="]" line="47" column="38" />
+        <mark key="^" line="47" column="38" />
+        <mark key="." line="47" column="38" />
       </file>
       <file name="$USER_HOME$/Sites/amc/content/src/presentation/styles/base/_modal.scss" timestamp="1508342345495">
         <mark key="[" line="131" column="32" />
@@ -493,7 +493,7 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533581720551">
+      <file name="/Dummy.txt" timestamp="1537324101417">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -547,6 +547,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="^" line="47" column="36" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/cloud9/client/src/components/footer/MoreMenu.js" timestamp="1537326172745">
+        <mark key="[" line="42" column="10" />
+        <mark key="]" line="42" column="10" />
+        <mark key="." line="42" column="10" />
+        <mark key="^" line="44" column="32" />
       </file>
       <file name="$USER_HOME$/code/reactapp/src/App.js" timestamp="1531239765958">
         <mark key="[" line="16" column="13" />
@@ -2538,23 +2544,23 @@
       <jump line="0" column="0" filename="$USER_HOME$/Sites/cloud9/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDEwCg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="c" type="4">
         <text>'}</text>
       </register>
       <register name="-" type="4">
-        <text>signal</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT17Y2xhc3Nlcy5ib3R0b21OYXZpZ2F0aW9ufQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0JywgdGhpcy5wcm9wcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDEwCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyb3V0ZScsIHJvdXRlKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2566,28 +2572,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbXBvbmVudD17TGlua30gdG89Jy8nCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0JywgdGhpcy5jb250ZXh0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L0xpbms+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwcm9wcycsIHRoaXMucHJvcHMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8TGluayB0bz0nL21hcHMnPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8L0xpbms+Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8TGluayB0bz0nLyc+Cg==</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8Qm90dG9tTmF2aWdhdGlvbkFjdGlvbiBsYWJlbD0nTWFwcycgaWNvbj17PE1hcEljb24gLz59IC8+Cg==</text>
+        <text encoding="base64">ICAgIHB1c2g6IFByb3BUeXBlcy5mdW5jLmlzUmVxdWlyZWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBoaXN0b3J5OiBQcm9wVHlwZXMuc2hhcGUoewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8Qm90dG9tTmF2aWdhdGlvbkFjdGlvbiBsYWJlbD0nSG9tZScgaWNvbj17PEhvbWVJY29uIC8+fSAvPgo=</text>
+        <text encoding="base64">Rm9vdGVyLmNvbnRleHRUeXBlcyA9IHsK</text>
       </register>
       <register name=":" type="4">
         <text>92</text>
